@@ -1,0 +1,35 @@
+{
+  "copias_identicas": [
+    {
+      "origem": "_fonte/operacao_root_20261027/cobertura-continuacao-DOU-ROOT/recibo.json",
+      "destino": "reguladores/_fonte/auditorias/publicacao_dou3059_20261028_001/cobertura-ROOT/recibo.json",
+      "sha256": "6fac3e1dd80af7c2b107c2c9e8ce64894d371fdef2d074da06bfdbba714dc24e",
+      "bytes": 1748
+    },
+    {
+      "origem": "_fonte/operacao_root_20261027/cobertura-continuacao-DOU-ROOT/federal-blobs.jsonl.gz",
+      "destino": "reguladores/_fonte/auditorias/publicacao_dou3059_20261028_001/cobertura-ROOT/federal-blobs.jsonl.gz",
+      "sha256": "c95e0e30f554a2ea67d8dd4b0a8184cfbb056ee3c3556d2f2fba8a853a28b66b",
+      "bytes": 21825041
+    },
+    {
+      "origem": "_fonte/operacao_root_20261027/cobertura-continuacao-DOU-ROOT/reguladores-blobs.jsonl.gz",
+      "destino": "reguladores/_fonte/auditorias/publicacao_dou3059_20261028_001/cobertura-ROOT/reguladores-blobs.jsonl.gz",
+      "sha256": "3b0744ac7041459c60f445cefe98fcac70a63a8a228c32834069580ba8812f79",
+      "bytes": 32117321
+    },
+    {
+      "origem": "_fonte/operacao_root_20261027/conferir-cobertura-continuacao-DOU.py",
+      "destino": "reguladores/_fonte/auditorias/publicacao_dou3059_20261028_001/cobertura-ROOT/conferir-cobertura-continuacao-DOU.py",
+      "sha256": "f76b472c0a65f1806d9d7477d7de0db812f06ca9006c48e3ec56d019a861e34a",
+      "bytes": 4765
+    },
+    {
+      "origem": "_fonte/operacao_root_20261027/cobertura-continuacao-DOU-root.log",
+      "destino": "reguladores/_fonte/auditorias/publicacao_dou3059_20261028_001/cobertura-ROOT/cobertura-continuacao-DOU-root.log",
+      "sha256": "2782f2fb22d51a68125b6cd2faba708dcfbd83927e0c8eff52cb269e7f71cf17",
+      "bytes": 2446
+    }
+  ],
+  "limite": "Prova de leitura e reconciliação de metadados/OID; não é auditoria substantiva universal nem certificação de vigência. Os caminhos lógicos originais permanecem nos recibos históricos. Cópias propostas para publicação, sem mudança dos originais."
+}

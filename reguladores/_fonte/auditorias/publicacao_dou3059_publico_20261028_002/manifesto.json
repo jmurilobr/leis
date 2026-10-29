@@ -1,0 +1,35 @@
+{
+  "envelope_original": "reguladores/_fonte/auditorias/publicacao_dou3059_20261028_001/envelope.json",
+  "sha256_envelope": "4c9190cad18ac7e2e907f4b1d5b8d23ff344f738dfee01010c12485d4ec9ac9e",
+  "arquivos": {
+    "reguladores/_fonte/auditorias/publicacao_dou3059_publico_20261028_002/LEIA.md": {
+      "sha256": "a51c71a3690e861c026e1139a2b941e89852cbf2a16113c84a67a7039b8eab37",
+      "bytes": 1789
+    },
+    "reguladores/_fonte/auditorias/publicacao_dou3059_publico_20261028_002/replay-sem-privados-v2.log": {
+      "sha256": "8464a11a971f6a34b99363be288a5af47f6a201d3d80cbd5f7a9ee96a9c51940",
+      "bytes": 835
+    },
+    "reguladores/_fonte/auditorias/publicacao_dou3059_publico_20261028_002/replay-sem-privados.log": {
+      "sha256": "24db817085380fba7ef74530d45660935682ef408a608ce590a1a58b51f2783d",
+      "bytes": 2822
+    },
+    "reguladores/_fonte/auditorias/publicacao_dou3059_publico_20261028_002/replay_sem_privados.py": {
+      "sha256": "b7145cd2bcd75e134e0bbc898fa69da8fff8423adf2ffa136bb7ca07c69b01d0",
+      "bytes": 1010
+    },
+    "reguladores/_fonte/auditorias/publicacao_dou3059_publico_20261028_002/test_bloqueio.py": {
+      "sha256": "7c70e0293b4553097cf925c02db23d60024cbc8dae374b096006d13a41469a0c",
+      "bytes": 899
+    },
+    "reguladores/_fonte/auditorias/publicacao_dou3059_publico_20261028_002/verificar_publico.py": {
+      "sha256": "c79784a2b33c98f83f9e9e0eb9fd3f606c351d0a1158c21903d54123813bf953",
+      "bytes": 2119
+    }
+  },
+  "testes": 5,
+  "replay3059": 3059,
+  "origens_privadas_lidas": 0,
+  "normas_municipais_lidas": 0,
+  "canônicos_alterados": 0
+}

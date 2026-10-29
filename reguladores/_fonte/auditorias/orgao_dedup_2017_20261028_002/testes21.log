@@ -1,0 +1,26 @@
+test_NBSP_nao_separa_tokens_HTML (test_epigrafe_tokens_html.Tokens.test_NBSP_nao_separa_tokens_HTML) ... ok
+test_ausencia_nao_usa_titulo (test_epigrafe_tokens_html.Tokens.test_ausencia_nao_usa_titulo) ... ok
+test_multiclasse_real (test_epigrafe_tokens_html.Tokens.test_multiclasse_real) ... ok
+test_multiplas_retidas (test_epigrafe_tokens_html.Tokens.test_multiplas_retidas) ... ok
+test_ordem_indiferente (test_epigrafe_tokens_html.Tokens.test_ordem_indiferente) ... ok
+test_p_aberto_retido (test_epigrafe_tokens_html.Tokens.test_p_aberto_retido) ... ok
+test_token_exato (test_epigrafe_tokens_html.Tokens.test_token_exato) ... ok
+test_whitespace_HTML (test_epigrafe_tokens_html.Tokens.test_whitespace_HTML) ... ok
+test_ausentes_divergentes (test_gate_orgao.Orgao.test_ausentes_divergentes) ... ok
+test_aviso_corpo_alerta_sem_remocao (test_gate_orgao.Orgao.test_aviso_corpo_alerta_sem_remocao) ... ok
+test_aviso_real (test_gate_orgao.Orgao.test_aviso_real) ... ok
+test_inserir_real (test_gate_orgao.Orgao.test_inserir_real) ... ok
+test_mencao_ICP_nao_basta (test_gate_orgao.Orgao.test_mencao_ICP_nao_basta) ... ok
+test_meta_real (test_gate_orgao.Orgao.test_meta_real) ... ok
+test_nivel_vazio (test_gate_orgao.Orgao.test_nivel_vazio) ... ok
+test_ordinal_militar (test_gate_orgao.Orgao.test_ordinal_militar) ... ok
+test_programa_institucional (test_gate_orgao.Orgao.test_programa_institucional) ... ok
+test_nao_colapsa_serie_com_barra (test_identidade_transversal.Identidade.test_nao_colapsa_serie_com_barra) ... ok
+test_sufixo_letra_preservado (test_identidade_transversal.Identidade.test_sufixo_letra_preservado) ... ok
+test_sufixo_reedicao_numerico (test_identidade_transversal.Identidade.test_sufixo_reedicao_numerico) ... ok
+test_tipo_e_data_nao_fundidos (test_identidade_transversal.Identidade.test_tipo_e_data_nao_fundidos) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 0.001s
+
+OK

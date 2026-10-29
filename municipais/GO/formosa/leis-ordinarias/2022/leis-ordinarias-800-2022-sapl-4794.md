@@ -1,0 +1,195 @@
+---
+titulo: "Lei Ordinária nº 800, de 05 de outubro de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "800"
+data: "2022-10-05"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/4794"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1967/text"
+sha256_fonte: "e962d633665f64551ca1f17bcd8d8e6299b15250e026d0cda44352bfd2f066aa"
+sha256_texto: "d6760b41f536b03c660129271c84f3168125dbf21a3d929ff882405efa9b900a"
+capturado_em_fonte: "2026-10-28T11:17:45.882746-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 800, de 05 de outubro de 2022
+
+Dispõe sobre “Programa Apoiar e Acolher: um olhar diferenciado às mães atípicas” no município de Formosa.
+
+
+Projeto de Lei Ordinária nº 63/22, de autoria do Vereador João Batista Cordeiro Mororo Junior, aprovado em 13 de setembro de 2022.
+
+O PREFEITO MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais, conferidas pela Constituição da República e Lei Municipal nº 01/90, de 05 de abril de 1.990 – Lei Orgânica Municipal - LOM, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído o “Programa Apoiar e Acolher: um olhar diferenciado às mães atípicas” no município de Formosa.
+
+
+Parágrafo único.
+
+Para efeito desta Lei considera-se mãe atípica, aquela que se denomina mãe de pessoa com alguma deficiência, transtorno global do desenvolvimento, síndrome rara e/ou doença crônica.
+
+
+Art. 2º.
+
+O Programa em epígrafe dispõe dos seguintes objetivos:
+
+
+I –
+
+promoção do protagonismo das mães atípicas;
+
+
+II –
+
+promoção de ações que visam oferecer apoio e acolhimento a estas mães;
+
+
+III –
+
+estimular políticas públicas em prol das mulheres que experimentam a maternidade atípica, sobretudo políticas em saúde mental;
+
+
+IV –
+
+fomentar encontros, seminários, conferências e fóruns de debates com temas de relevância social tendo como foco central a maternidade atípica;
+
+
+V –
+
+estimular a capacitação dos servidores públicos municipais da área de saúde e assistência social para o acolhimento, diagnóstico e tratamento de doenças emocionais que podem surgir decorrentes da maternidade atípica;
+
+
+VI –
+
+apoiar as atividades organizadas e desenvolvidas pela sociedade civil a favor das mulheres que experimentam a maternidade atípica; e
+
+
+VII –
+
+outras iniciativas que visem à promoção e valorização da mãe atípica na sociedade.
+
+
+Art. 3º.
+
+Para a execução desta Lei, o Poder Executivo Municipal poderá buscar parcerias com:
+
+
+I –
+
+empresas da iniciativa privada e/ou governamental;
+
+
+a)
+
+iniciativa pública: Procuradoria da Mulher, Secretarias Municipais do Desenvolvimento Social e Trabalho, da Educação e da Saúde;
+
+
+II –
+
+instituições de ensino e pesquisa; e
+
+
+III –
+
+entidades de apoio empresarial, comercial, jurídico e social.
+
+
+Art. 4º.
+
+As parcerias previstas no art. 3º poderão ofertar os seguintes benefícios ao público de que se trata esta Lei:
+
+
+I –
+
+criação de grupos de apoio compostos por mães atípicas, profissionais e estudantes de Ensino Superior das áreas da Psicologia, Serviço Social, Direito, Pedagogia, Enfermagem e outros afins. Com intuito de acolher as demandas trazidas pelas mães. A configuração deste grupo poderá ser feito através de:
+
+
+a)
+
+grupos de WhatsApp e/ou;
+
+
+b)
+
+encontros semanais ou quinzenais promovidos pelos órgãos descritos no art. 3º, inciso I , alínea ‘a’ desta Lei. Através de seminários, palestras, rodas de conversas e/ou grupos terapêuticos com equipes multidisciplinares. Mediante, intervenções que auxiliem e deem uma melhor qualidade de vida às mães atípicas;
+
+
+c)
+
+grupos de apoio e acolhimento promovidos pelas Instituições de Ensino Superior através dos cursos supracitados. Por meio de Clínicas-escolas, Núcleo Jurídico e afins;
+
+
+II –
+
+fomentos através das empresas privadas com intuito de promover o protagonismo ao público-alvo previsto nesta Lei, por intermédio de:
+
+
+a)
+
+incentivar a realização de concursos, oficinas temáticas, cursos e afins que promovam a mãe;
+
+
+b)
+
+ofertar cursos de capacitação aos servidores públicos municipais em sistema de parcerias, com o objetivo de prepará-los para apoio e acolhimento às mães atípicas;
+
+
+c)
+
+promoções em Institutos de Beleza;
+
+
+d)
+
+isenção em taxas de entregas de farmácias, supermercados, restaurantes e lojas de departamentos;
+
+
+e)
+
+descontos em cinemas e/ou algum evento; em Hospitais, Clínicas e Laboratórios; em Academias, tais como: pilates, dança, musculação, lutas e afins; em Instituições de Ensino privadas, destinados aos filhos típicos e/ou atípicos, bem como às mães que queiram estudar. Todos mediante comprovação de documentos ou cadastro prévio.
+
+
+Art. 5º.
+
+Os benefícios ofertados de que se trata o art. 4º dar-se-á através de parcerias ou com subsídios já existentes na iniciativa pública no que dispõe o art. 3º, sem, portanto, onerar o município.
+
+
+Art. 6º.
+
+O Executivo poderá incentivar as empresas privadas e instituições de ensino privadas interessadas em participar do “Programa Apoiar e Acolher: um olhar diferenciado às mães atípicas”, através de incentivos fiscais, sem, portanto, prejudicar a receita de ambas. Por meio da sistemática fixada pela autoridade competente, de acordo com a complexidade dos serviços prestados, tais como:
+
+
+a)
+
+a utilização de espaços físicos, ofertas de cursos de capacitação, promoções, descontos e isenção de taxas em serviços prestados pelas empresas.
+
+
+Art. 7º.
+
+Esta Lei entrará em vigor na data da sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 05 de outubro de 2022.
+
+Gustavo Marques de Oliveira  
+Prefeito Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra
+
+.......................................................................................................  
+Iany Macêdo Troncha  
+Superint. Executiva de Documentação e Legislação  
+Decreto nº 21, de 04 de janeiro de 2021.
+

@@ -1,0 +1,872 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Garça - SP</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Garça - SP",
+      "url" : "http://sapl.garca.sp.leg.br"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          28/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/logo_casa.png"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Garça - SP
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/1947?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/1869/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Lei nº 10, de 01 de dezembro de 1947
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Lei</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>10</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>1947</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>1 de Dezembro de 1947</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>Dispõe sobre a majoração dos vencimentos dos servidores municipais.</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/1869/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt54485" ><div class="dtxt" id="d54485" pks="" pk="54485"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt54490" ><a class="dpt-link" name="54490" title="54490"></a><div class="dtxt" id="d54490" pks="" pk="54490"><p style="text-align: center;"><strong>LEI N° 10</strong></p></div></div><div class="dn" id="dn54490" pk="54490"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt54491" ><a class="dpt-link" name="54491" title="54491"></a><div class="dtxt" id="d54491" pks="" pk="54491">DISPÕE SOBRE MAJORAÇÃO DE VENCIMENTOS E DÁ OUTRA PROVIDENCIAS.</div></div><div class="dn" id="dn54491" pk="54491"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt54486" ><div class="dtxt" id="d54486" pks="" pk="54486"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt54492" ><a class="dpt-link" name="54492" title="54492"></a><div class="dtxt" id="d54492" pks="" pk="54492">O PREFEITO MUNICIPAL DE GARÇA, NOS TERMOS DO INCISO II, DO ART. 3°, DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS, DA CONSTITUIÇÃO ESTADUAL, PROMULGA A SEGUINTE LEI:</div></div><div class="dn" id="dn54492" pk="54492"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt54487" ><div class="dtxt" id="d54487" pks="" pk="54487"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt54493" ><div class="dtxt" id="d54493" pks="" pk="54493"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt54494" ><a class="dpt-link" name="54494">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d54494" pks="" pk="54494">A escala de padrões de vencimentos dos funcionários públicos municipais, de que trata o decréto-leo n. 234, de 6 de dezembro de 1 946, passa a ser a seguinte, a partir de 1°. de agosto de 1 947:</div></div><div class="dn" id="dn54494" pk="54494"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt54504" ><a class="dpt-link" name="54504" title="54504"></a><div class="dtxt" id="d54504" pks="" pk="54504"><table style="border-collapse: collapse; width: 100%; height: 428.64px; border-width: 0px; margin-left: auto; margin-right: auto;" border="1"><colgroup><col style="width: 50%;"><col style="width: 50%;"></colgroup><tbody><tr style="height: 92.7812px;"><td style="height: 92.7812px; border-width: 0px;"><p style="text-align: center;">Padrão</p></td><td style="height: 92.7812px; text-align: center; border-width: 0px;"><p>Vencimentos Anuais</p><p>Cr$</p></td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">A</td><td style="height: 22.3906px; border-width: 0px;">4 800,00</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">B</td><td style="height: 22.3906px; border-width: 0px;">6 300,00</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">C</td><td style="height: 22.3906px; border-width: 0px;">6 600,00</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">D</td><td style="height: 22.3906px; border-width: 0px;">7 500,00</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">E</td><td style="height: 22.3906px; border-width: 0px;">8 400,00</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">F</td><td style="height: 22.3906px; border-width: 0px;">9 000,00</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">G</td><td style="height: 22.3906px; border-width: 0px;">10 800,00</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">H</td><td style="height: 22.3906px; border-width: 0px;">13 500,00</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">I</td><td style="height: 22.3906px; border-width: 0px;">14 400,00</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">J</td><td style="height: 22.3906px; border-width: 0px;">25 200,00</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">L</td><td style="height: 22.3906px; border-width: 0px;">27 000,00</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">M</td><td style="height: 22.3906px; border-width: 0px;">30 000,00</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">V</td><td style="height: 22.3906px; border-width: 0px;">33 000,00</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">O</td><td style="height: 22.3906px; border-width: 0px;">36 000,00</td></tr></tbody></table><p style="text-align: center;">&nbsp;</p></div></div><div class="dn" id="dn54504" pk="54504"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt54495" ><div class="dtxt" id="d54495" pks="" pk="54495"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt54496" ><a class="dpt-link" name="54496">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d54496" pks="" pk="54496">Os cargos de professor, padrão B, almonários a que se refere o decréto-lei n. 234, de 6 de dezembro de 1 946, ficam classificados, respectivamente, nos padrões D, G e 0 da escala de que trata o artigo anterior</div></div><div class="dn" id="dn54496" pk="54496"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt54497" ><div class="dtxt" id="d54497" pks="" pk="54497"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt54498" ><a class="dpt-link" name="54498">Art. 3º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d54498" pks="" pk="54498">Ficam extintos, no quadro de funcionários do Municipio, os seguintes cargos:</div></div><div class="dn" id="dn54498" pk="54498"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt54505" ><a class="dpt-link" name="54505" title="54505"></a><div class="dtxt" id="d54505" pks="" pk="54505"><table style="border-collapse: collapse; width: 100%; height: 246.265px; border-width: 0px; border-style: outset; margin-left: auto; margin-right: auto;" border="1"><colgroup><col style="width: 33.3649%;"><col style="width: 33.3649%;"><col style="width: 33.2701%;"></colgroup><tbody><tr style="height: 22.3906px;"><td style="height: 22.3906px; border-width: 0px;">&nbsp;</td><td style="height: 22.3906px; border-width: 0px;">&nbsp;</td><td style="height: 22.3906px; text-align: center; border-width: 0px;">Padrão</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">1</td><td style="height: 22.3906px; border-width: 0px;">Auxiliar de Servente</td><td style="height: 22.3906px; border-width: 0px;">A</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">2</td><td style="height: 22.3906px; border-width: 0px;">Escriturário</td><td style="height: 22.3906px; border-width: 0px;">C</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">1</td><td style="height: 22.3906px; border-width: 0px;">Datilógrafo</td><td style="height: 22.3906px; border-width: 0px;">C</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">1</td><td style="height: 22.3906px; border-width: 0px;">Continuo</td><td style="height: 22.3906px; border-width: 0px;">C</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">1</td><td style="height: 22.3906px; border-width: 0px;">Mecanico-Chefe</td><td style="height: 22.3906px; border-width: 0px;">E</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">1</td><td style="height: 22.3906px; border-width: 0px;">Jardineiro-Chefe</td><td style="height: 22.3906px; border-width: 0px;">E</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">1</td><td style="height: 22.3906px; border-width: 0px;">Fiscal Rural</td><td style="height: 22.3906px; border-width: 0px;">F</td></tr><tr style="height: 44.75px; text-align: center;"><td style="height: 44.75px; border-width: 0px;">1</td><td style="height: 44.75px; border-width: 0px;">Agente de Estatistica Municipal</td><td style="height: 44.75px; border-width: 0px;">I</td></tr><tr style="height: 22.3906px; text-align: center;"><td style="height: 22.3906px; border-width: 0px;">1</td><td style="height: 22.3906px; border-width: 0px;">Diretor de Administração</td><td style="height: 22.3906px; border-width: 0px;">L</td></tr></tbody></table></div></div><div class="dn" id="dn54505" pk="54505"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt54499" ><div class="dtxt" id="d54499" pks="" pk="54499"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt54500" ><a class="dpt-link" name="54500">Art. 4º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d54500" pks="" pk="54500">Fica aberto, na Contadoria Municipal, um crédito de Cr$ 66 250,00 (sessemta e seis mil, duzentos e cincoenta cruzeiros), suplementar as seguintes verbas do orçamento:</div></div><div class="dn" id="dn54500" pk="54500"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt54506" ><a class="dpt-link" name="54506" title="54506"></a><div class="dtxt" id="d54506" pks="" pk="54506"><p>&nbsp;</p><table style="border-collapse: collapse; width: 100%; height: 324.453px; border-width: 0px;" border="1"><colgroup><col style="width: 17.5312%;"><col style="width: 57.4688%;"><col style="width: 25%;"></colgroup><tbody><tr style="height: 33.375px;"><td style="height: 33.375px; border-width: 0px;">&nbsp;</td><td style="text-align: right; height: 33.375px; border-width: 0px;">&nbsp;</td><td style="height: 33.375px; border-width: 0px; text-align: right;">Cr$</td></tr><tr style="height: 22.3906px;"><td style="height: 22.3906px; border-width: 0px;">121/8.07.0 -</td><td style="height: 22.3906px; border-width: 0px;">Pessoal Fixo</td><td style="height: 22.3906px; border-width: 0px; text-align: right;">5 625,00</td></tr><tr style="height: 22.3906px;"><td style="height: 22.3906px; border-width: 0px;">121/8.09.0 -&nbsp;</td><td style="height: 22.3906px; border-width: 0px;">Pessoal Fixo</td><td style="height: 22.3906px; border-width: 0px; text-align: right;">17 125,00</td></tr><tr style="height: 22.3906px;"><td style="height: 22.3906px; border-width: 0px;">121/8.13.0 -</td><td style="height: 22.3906px; border-width: 0px;">Pessoal Fixo</td><td style="height: 22.3906px; border-width: 0px; text-align: right;">8 000,00</td></tr><tr style="height: 22.3906px;"><td style="height: 22.3906px; border-width: 0px;">122/8.09.0 -</td><td style="height: 22.3906px; border-width: 0px;">Pessoal Fixo</td><td style="height: 22.3906px; border-width: 0px; text-align: right;">750,00</td></tr><tr style="height: 22.3906px;"><td style="height: 22.3906px; border-width: 0px;">123/8.09.0 -</td><td style="height: 22.3906px; border-width: 0px;">Pessoal Fixo</td><td style="height: 22.3906px; border-width: 0px; text-align: right;">750,00</td></tr><tr style="height: 22.3906px;"><td style="height: 22.3906px; border-width: 0px;">211/8.89.0 -</td><td style="height: 22.3906px; border-width: 0px;">Pessoal Fixo</td><td style="height: 22.3906px; border-width: 0px; text-align: right;">1 000,00</td></tr><tr style="height: 22.3906px;"><td style="height: 22.3906px; border-width: 0px;">231/8.89.0 -</td><td style="height: 22.3906px; border-width: 0px;">Pessoal Fixo</td><td style="height: 22.3906px; border-width: 0px; text-align: right;">1 000,00</td></tr><tr style="height: 22.3906px;"><td style="height: 22.3906px; border-width: 0px;">301/8.80.0 -</td><td style="height: 22.3906px; border-width: 0px;">Pessoal Fixo</td><td style="height: 22.3906px; border-width: 0px; text-align: right;">1 000,00</td></tr><tr style="height: 22.3906px;"><td style="height: 22.3906px; border-width: 0px;">431/8.33.0 -</td><td style="height: 22.3906px; border-width: 0px;">Pessoal Fixo</td><td style="height: 22.3906px; border-width: 0px; text-align: right;">20 875,00</td></tr><tr style="height: 22.3906px;"><td style="height: 22.3906px; border-width: 0px;">432/8.33.0 -</td><td style="height: 22.3906px; border-width: 0px;">Pessoal Fixo</td><td style="height: 22.3906px; border-width: 0px; text-align: right;">6 875,00</td></tr><tr style="height: 22.3906px;"><td style="height: 22.3906px; border-width: 0px;">433/8.33.0 -</td><td style="height: 22.3906px; border-width: 0px;">Pessoal Fixo</td><td style="height: 22.3906px; border-width: 0px; text-align: right;">1 375,00</td></tr><tr style="height: 22.3906px;"><td style="height: 22.3906px; border-width: 0px;">811/8.13.0 -</td><td style="height: 22.3906px; border-width: 0px;">Pessoal Fixo</td><td style="height: 22.3906px; border-width: 0px; text-align: right;">1 875,00</td></tr></tbody></table><p>&nbsp;</p></div></div><div class="dn" id="dn54506" pk="54506"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt54501" ><a class="dpt-link" name="54501" title="54501">Parágrafo único </a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d54501" pks="" pk="54501">O valor do presente crédito será coberto com os recursos provenientes do saldo financeiro transferido para êste exercicio.</div></div><div class="dn" id="dn54501" pk="54501"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt54502" ><div class="dtxt" id="d54502" pks="" pk="54502"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt54503" ><a class="dpt-link" name="54503">Art. 5º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d54503" pks="" pk="54503">Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.</div></div><div class="dn" id="dn54503" pk="54503"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt54488" ><div class="dtxt" id="d54488" pks="" pk="54488"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt54489" ><a class="dpt-link" name="54489" title="54489"></a><div class="dtxt" id="d54489" pks="" pk="54489"><p style="text-align: center;">Garça, 1 de Dezembro de 1947</p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;"><strong>Joaquim Ribeiro do Val</strong></p><p style="text-align: center;"><strong>Prefeito Municipal</strong></p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;">Registrada e Publicada nesta Secretaria na data supra.</p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;"><strong>Francisco Pereira de Mello Jr.</strong></p><p style="text-align: center;"><strong>Secretario da Prefeitura</strong></p></div></div><div class="dn" id="dn54489" pk="54489"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+
+
+  </div></div>
+
+
+</div>
+
+  <div class="dont-break-out"><div style="text-align: center;">Rua Bar&atilde;o do Rio Branco, 127/131, Centro, Gar&ccedil;a/SP, CEP 17.400-082<br />Telefone/Fax: (14) 3471-0950 / (14) 3471-1308 / (14) 3471-0033 / (14) 3471-3479 &ndash; CNPJ 49.887.532/0001-81<br />Site: www.garca.sp.leg.br / e-mail: camara@cmgarca.sp.gov.br</div></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Garça - SP</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Rua Barão do Rio Branco, nº 127/131 - Centro</span>
+                  <br>
+                  CEP: <span class="postal-code">17400-082</span>
+                  |
+                  Telefone: <span>(14) 3471-0033</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="http://www.garca.sp.leg.br" class="url">Site</a> |
+                  <a href="mailto:camara@cmgarca.sp.gov.br" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+    
+
+    
+  </body>
+</html>

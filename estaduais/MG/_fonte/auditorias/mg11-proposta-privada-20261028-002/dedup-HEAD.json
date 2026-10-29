@@ -1,0 +1,63 @@
+{
+  "HEAD": "457a42434e94573b8e48a9a0155fdb1769690b31",
+  "sha256_tree": "ea0cfdfd095377d9d3181cbc41defdec72df153b3a451ebe671eda0573d97fac",
+  "paths_canonicos_tipos": 47972,
+  "documentos": [
+    {
+      "path": "estaduais/MG/decretos/1961/dec-6280-1961.md",
+      "tipo_numero_independente_ano": "dec-6280",
+      "aliases_HEAD": []
+    },
+    {
+      "path": "estaduais/MG/decretos/1961/dec-6311-1961.md",
+      "tipo_numero_independente_ano": "dec-6311",
+      "aliases_HEAD": []
+    },
+    {
+      "path": "estaduais/MG/decretos/1964/dec-7373-1964.md",
+      "tipo_numero_independente_ano": "dec-7373",
+      "aliases_HEAD": []
+    },
+    {
+      "path": "estaduais/MG/decretos/1997/dec-38757-1997.md",
+      "tipo_numero_independente_ano": "dec-38757",
+      "aliases_HEAD": []
+    },
+    {
+      "path": "estaduais/MG/decretos/1998/dec-39558-1998.md",
+      "tipo_numero_independente_ano": "dec-39558",
+      "aliases_HEAD": []
+    },
+    {
+      "path": "estaduais/MG/decretos/1998/dec-39739-1998.md",
+      "tipo_numero_independente_ano": "dec-39739",
+      "aliases_HEAD": []
+    },
+    {
+      "path": "estaduais/MG/decretos/1999/dec-40352-1999.md",
+      "tipo_numero_independente_ano": "dec-40352",
+      "aliases_HEAD": []
+    },
+    {
+      "path": "estaduais/MG/decretos/2000/dec-41127-2000.md",
+      "tipo_numero_independente_ano": "dec-41127",
+      "aliases_HEAD": []
+    },
+    {
+      "path": "estaduais/MG/decretos/2000/dec-41177-2000.md",
+      "tipo_numero_independente_ano": "dec-41177",
+      "aliases_HEAD": []
+    },
+    {
+      "path": "estaduais/MG/resolucoes/1978/ral-1956-1978.md",
+      "tipo_numero_independente_ano": "ral-1956",
+      "aliases_HEAD": []
+    },
+    {
+      "path": "estaduais/MG/resolucoes/1979/ral-2143-1979.md",
+      "tipo_numero_independente_ano": "ral-2143",
+      "aliases_HEAD": []
+    }
+  ],
+  "criterio": "Mesmo tipo/pasta e número completo independentemente do ano; endpoint oficial Tipo/Numero/Ano do CSV único. Zero colisões por path e por número completo entre anos."
+}

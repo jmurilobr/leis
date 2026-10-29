@@ -1,0 +1,149 @@
+---
+titulo: "Lei Ordinária nº 805, de 05 de outubro de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "805"
+data: "2022-10-05"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/4799"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1972/text"
+sha256_fonte: "0fb284d7559ee1cc697c67829bd7847d384a1d24db0641cc7b00680c08fb6350"
+sha256_texto: "a5ca87efac1580f19c7b1eddfbf981b1c9781c415872b05db32aaa2d691aa2bb"
+capturado_em_fonte: "2026-10-28T11:17:35.827788-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 805, de 05 de outubro de 2022
+
+Dispõe sobre o “Programa de Extensão Universitária: Formosa em Ação – Saúde nos Bairros” no Município de Formosa.
+
+
+Projeto de Lei Ordinária nº 74/22, de autoria do Vereador João Batista Cordeiro Mororo Junior, aprovado em 15 de setembro de 2022.
+
+O PREFEITO MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais, conferidas pela Constituição da República e Lei Municipal nº 01/90, de 05 de abril de 1.990 – Lei Orgânica Municipal - LOM, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído o “Programa de Extensão Universitária: Formosa em Ação - Saúde nos Bairros”, que tem como objetivo estabelecer parcerias entre o Poder Público Municipal e Instituições de Ensino Superior, públicas e/ou privadas, para implantação do programa de acolhimento e assistência em saúde à comunidade formosense.
+
+
+Parágrafo único.
+
+Para efeito desta Lei consideram-se:
+
+
+I –
+
+projetos de extensão universitária: aqueles que ampliam a atuação do campus universitário para além das salas de aula. Ou seja, a articulação prática do conhecimento científico do ensino e da pesquisa com as necessidades da comunidade onde a universidade se insere, interagindo e transformando a realidade social;
+
+
+II –
+
+parcerias: as Instituições de Ensino Superior que ofertam os cursos de graduação e/ou bacharelado em Medicina, Enfermagem, Biomedicina, Fisioterapia, Serviço Social, Psicologia, Nutrição e Farmácia.
+
+
+Art. 2º.
+
+As Secretarias Municipais de Saúde e do Desenvolvimento Social e Trabalho através das unidades integrantes à rede de atenção básica e especializada e dos Centros de Referências da Assistência Social, em parcerias com às Instituições de Ensino Superior, públicas e privadas que ofertam os cursos em conformidade ao previsto no caput, parágrafo único, inciso II, desta Lei, poderão através de convênios realizar serviços de acolhimento, assistência e atendimento aos moradores de bairro e distritos.
+
+
+Art. 3º.
+
+O Programa em epígrafe dispõe dos seguintes objetivos:
+
+
+I –
+
+promoção da saúde e bem-estar da comunidade;
+
+
+II –
+
+campanhas sobre a saúde da criança, da mulher, do homem, do idoso e das pessoas com deficiências, bem como ações eficazes e pontuais por parte da comunidade universitária e científica, tais como:
+
+
+a)
+
+palestras e cursos;
+
+
+b)
+
+atendimento psicológico individual ou em grupo, nas Unidades Básicas de Saúde, nos Centros de Referências da Assistência Social e/ou domiciliar de acordo com a demanda da pessoa, ou do grupo familiar;
+
+
+c)
+
+atendimento médico domiciliar. Havendo necessidade, esses atendimentos poderão ser feitos nas Unidades Básicas de Saúde ou nas Clínicas-escolas das Instituições de Ensino Superior;
+
+
+d)
+
+atendimento odontológico ambulatorial nas Unidades Básicas de Saúde ou nas Clínicas-escolas das Instituições de Ensino Superior;
+
+
+III –
+
+elaboração de um banco de dados para o levantamento do número de pessoas com doenças raras e deficiências intelectual e/ou física, existentes no município, com objetivo de promover:
+
+
+a)
+
+assistência médica, odontológica, psicológica e fisioterapêutica a esse público e aos seus familiares, responsáveis ou cuidadores;
+
+
+b)
+
+oficinas de leitura para pessoas com deficiência.
+
+
+Art. 4º.
+
+As campanhas, assistências e atendimentos de que se trata o art. 3º, desta Lei serão promovidos pelas Instituições de Ensino Superior, públicas e/ou privadas, através de equipes interdisciplinares ou multidisciplinares formadas por universitários, em regime de parceria com o Poder Público, sem, portanto, onerar o município na contratação de profissionais.
+
+
+§ 1º
+
+Todos os estagiários que prestarão serviços através de equipes interdisciplinares ou multidisciplinares deverão ser devidamente acompanhados por uma preceptoria.
+
+
+§ 2º
+
+A Secretaria Municipal de Saúde e a Superintendência da Guarda Municipal poderão disponibilizar do seu quadro, os Agentes Comunitários de Saúde e a Guarda Municipal, com o objetivo de apoiar e auxiliar as equipes de estagiários.
+
+
+§ 3º
+
+As intervenções realizadas pelas equipes, a priori serão feitas através de atendimento domiciliar, sendo fundamental o conhecimento da realidade da comunidade, tendo como meta a promoção, manutenção e restauração da saúde. Permitindo a pessoa ou o grupo familiar, participação ativa no processo de planejamento, organização, implantação e controle dos cuidados necessários.
+
+
+Art. 5º.
+
+A elaboração do programa de extensão universitária ficará a cargo das IES, e este, será executado de acordo com a aprovação prévia das Secretarias Municipais de Saúde e do Desenvolvimento Social.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 05 de outubro de 2022.
+
+Gustavo Marques de Oliveira  
+Prefeito Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra  
+......................................................................................................  
+Iany Macêdo Troncha  
+Superint. Executiva de Documentação e Legislação  
+Decreto nº 21, de 04 de janeiro de 2021.
+

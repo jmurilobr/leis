@@ -1,0 +1,64 @@
+---
+titulo: "DECRETO EXECUTIVO-PMEPF nº 246, de 13 de setembro de 2022"
+tipo: "Decreto"
+tipo_na_fonte: "DECRETO EXECUTIVO"
+numero: "246"
+data: "2022-09-13"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/1684"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/2325/text"
+sha256_fonte: "ac98488ba9e40383e6a72177cc6089b521a6dd3a7b8536f2dbf955fc026f9627"
+sha256_texto: "a8662d8be9dea85be96f1df0578ff2a383d087594861764fd7286265620e29bd"
+capturado_em_fonte: "2026-10-28T10:45:21.908498-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# DECRETO EXECUTIVO-PMEPF nº 246, de 13 de setembro de 2022
+
+O Prefeito Municipal de Engº Paulo de Frontin, no uso de suas atribuições legais, e com fulcro no disposto no artigo 4º da Lei Municipal nº 1.584 de 14 de dezembro de 2021, c/c o artigo 21 & 2º da Lei Federal nº 11.494 de 20 de junho de 2007.
+
+
+DECRETA:
+
+
+Art. 1º.
+
+Fica aberto um Crédito Adicional suplementar de R$ 311.203,24 (trezentos e onze mil, duzentos e três reais, e vinte e quatro centavos), para suprimento da dotação orçamentária, como segue:
+
+
+Org. Un Função Sub função Programa Proj/ Ativ Elemento de Despesa Fonte Valor R$  
+02 001 04 122 2001 2.201 3.3.90.39.00.00.00.0 1.704 17.000,00  
+02 003 04 122 2001 2.201 3.3.90.39.00.00.00.0 1.704 83.000,00  
+02 003 04 122 2001 2.201 3.3.90.36.00.00.00.0 1.704 8.000,00  
+02 003 04 122 2001 2.201 3.3.90.47.00.00.00.0 1.705 80.000,00  
+02 005 12 122 2001 2.201 3.3.90.36.00.00.00.0 1.704 12.385,24  
+02 007 04 122 2001 2.201 3.3.90.36.00.00.00.0 1.704 9.818,00  
+02 007 15 451 2002 2.204 4.4.90.51.00.00.00.0 1.704 50.000,00  
+02 013 20 122 2001 2.201 3.3.90.36.00.00.00.0 1.704 15.000,00  
+02 012 27 812 2001 2.201 3.3.90.39.00.00.00.0 1.704 36.000,00
+
+
+Art. 2º.
+
+O crédito de que trata o artigo anterior, será compensado com o Excesso de Arrecadação apurado no exercício de 2022, na forma do demonstrativo abaixo e consoante o art.43, & 3 º da Lei Federal 4.320 de 17/03/1964.
+
+
+Art. 3º.
+
+Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Engenheiro Paulo de Frontin, 13 de setembro de 2022.
+
+
+JOSE EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal
+

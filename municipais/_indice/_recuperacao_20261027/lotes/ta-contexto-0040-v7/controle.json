@@ -1,0 +1,2744 @@
+{
+  "criterio": "Detecta texto e mídia normativa fora dos dispositivos contabilizados do TA.\n\nControle adicional somente leitura. Qualquer conteúdo não contabilizado é\nretido, sem presumir que se trata de navegação ou decidir vigência por aparência.\n",
+  "aprovados": 135,
+  "retidos": 19,
+  "script_sha256": "f44151983d56fd8ff3380b5ad14ad8557215b895048d6405e7563b21b6a3b066",
+  "resultados": [
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1332-2005-sapl-2270.md",
+      "sha256": "043608fa40e17b7a44e5ae7b6338915246c9440d2860aaea076b9c03d9836d37",
+      "sha256_fonte": "ea2eaaf354010e8fa0c2d05628701a64de6a8945d8877e3eb81476215ddf29d1",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/cb9f7a06deec4fe3164cedadfd07e32f64004befab188ba7e42c6d84b43ee667.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/2011/emendas-lei-organica-3-2011-sapl-4823.md",
+      "sha256": "4c08395ab27b083253538369289d1467d742b7651667b71a68c8542693ef4d9e",
+      "sha256_fonte": "d2b0a62d236c1cc6c830c71c22a68873a06b5a2c243720656791c1e087b5e5f9",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/1e449cd79d09e932829b94c7922cc07878ef5d4c424c286616066e9f56ec5ea8.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1331-2005-sapl-2269.md",
+      "sha256": "a00fd18c2b27317e74d411eb7da80fd7edf6e9d51737966e0d396e451451c5ea",
+      "sha256_fonte": "b58685e146413a6ad493a19488ee846d121e2708b038ffd331cb9b8445f41198",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/3a82c023bc22a5fcfe4dfa571860b1bc8718cc30274fdeadb7d30e53b6637ae5.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/2011/emendas-lei-organica-2-2011-sapl-4822.md",
+      "sha256": "a58150a2c70458a1ef0e30303aa8b37dd709700f2218ee515ce0ee97bd52ffc5",
+      "sha256_fonte": "c45f2efc5ff0b05237eaa8dfd1531a9a47cbe3a9e5adad386242ccd102e42bb8",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/d4a210f44cd482cbe12b0c69cd28177a0af80ed8a33d4d5ea1b44587b8a9f593.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1330-2005-sapl-2268.md",
+      "sha256": "9e5734ae5436d9d6c70bbf8cd253412c9c6c418bfe2a85a1cebcf5365ac023bb",
+      "sha256_fonte": "df9e0922e30aa07cd446457f6176d816de80a48b9c33b5fb1e14ed3823cfe4d7",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/68c54fba8021a78c514d17a58ce8ae7d6e58ac3ed0f8d1c847da06eceb22520b.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/2011/emendas-lei-organica-1-2011-sapl-4821.md",
+      "sha256": "5bc99661f5bcceec416f6a6b83a949e8394c616f99d03924430ea2a346938d9a",
+      "sha256_fonte": "d0fa7536da6882625ff9e67a5093d89188e9e0e705f9bb4bf1274b2d3de373fe",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/9583b6ee2591b1068bae78738c00d68e9fd98b69441551c31c168de37ac2d928.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1329-2005-sapl-2267.md",
+      "sha256": "2cea004e00db6f5c7560ac1044346470a46b53ed97f3d483fcb89fccdf61f15c",
+      "sha256_fonte": "c68823966186ec85999d0b2eb18d4c7d04f0fb638a818f5579dbbde567a0734d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/6de8ade1076942573297954874321831033e7508c4b140560615ec86f2d6ac91.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/resolucoes/2010/resolucoes-7-2010-sapl-4696.md",
+      "sha256": "541a8d382a3a0085a60ccb4c9b898fe99b2fcdc515af441044b8ec2f0fd8e236",
+      "sha256_fonte": "11e71eaa7ef59c1e1d5652884e56a9e3cc3f7f391f55c1cc1e72707c9bdee203",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/dbb684cecab1e66afda339f15e5d23e4849813e641bc4033ffc846b57b00dc21.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1328-2005-sapl-2266.md",
+      "sha256": "3c02d67c22544821d940c76cdbc12490277bac60255756f13868d33535f416fe",
+      "sha256_fonte": "d9fd99bc670d3a78fa5b4236c7b3e8724fa917e5d4f3126a0070c62cc02e970b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/d33289fe186fd1c7fafbae7acd7e36e57c3ccb682ec3fc32c0f11122af82d255.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/2010/emendas-lei-organica-2-2010-sapl-4820.md",
+      "sha256": "7ce2b28043fee5ac5ed436fd5eb64bf1ab68dcca634536212acd323392dcb8fe",
+      "sha256_fonte": "07ac3aea1a694dd68ca0c5a060c42a72a624514846b3aaa6e4ade3b1d6e92638",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/1a96aa8e695585893694e90018d5e4af62b0f804ae7754735ce3b8419753771d.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1327-2005-sapl-2265.md",
+      "sha256": "c3a65105fb7ef1e75ccf3a3beebc650a322df5e405ea0de81a81f33010ab6c64",
+      "sha256_fonte": "4e627ce59b6e93c9e440e03c0318c0961be0423be1ada88cfdcfbdd17998c6ca",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/80ee0df18eba721a49af03ee20931095f7fa8eacfee26649ba39bcd19bd32172.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/2010/emendas-lei-organica-1-2010-sapl-4819.md",
+      "sha256": "8332ad2246bd591efb5d6ed59b5317a5cc6ce066d32863c8792cfaf6528b14ad",
+      "sha256_fonte": "a3c0bf319951feec5e7884cbebee356dcabbbbd53d570c3115037829c244a36f",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/65ff3e5da776bcd0a56a10923523319554ef2d9fb7f439039ef56c1975218d5d.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-complementares/2005/leis-complementares-2-2005-sapl-1957.md",
+      "sha256": "fd1c45bb8f5ae55cf51a68a64d5a397de4fcf2e2694ca9edb47916f3d1264988",
+      "sha256_fonte": "9863cbb06517f9cb5cb07c04da811d129175e4087043ddf88955b54f811360ec",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/1dadccb03f7586115041576cb65fb754db25322bd94c3095a88e0d75dd8041d4.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/2008/emendas-lei-organica-2-2008-sapl-4818.md",
+      "sha256": "00fbc56bbbcb5661b0758539b16c3b306172800c2a053487c5235e8427d2b209",
+      "sha256_fonte": "903860ebf83ab26c5605249b3b1f1a85d40dcb9c31a117f6bee4b6902bb69e5d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/8e159cdb027990619add6a58ddde5bacae1fffc2d02e3fdb43336c63a0c809e5.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/2008/emendas-lei-organica-1-2008-sapl-4817.md",
+      "sha256": "24cf5357a56c7fab547a55ea2cd51536ad8d78e90437f0aa2d0ce04ce1c09bea",
+      "sha256_fonte": "c2bc158fb00ecb38332b2e5f0c69f320836dcec816b2f4d0170f0302c077213e",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/e77d5a9cdac68ecff1a2f95fa7b9fa99237cca7f1ff6dddbeca2e39ecc78ce77.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1325-2005-sapl-2263.md",
+      "sha256": "f3fea614ec4f7f28624a642f993ac60e98fd2012898acf19f29841be1bdd8245",
+      "sha256_fonte": "106bdc875ef179bada4b70756d6e8b4961eafd6acdb4139bf3cf9c82bdc2e40b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/9152941ae7af3781474cc44b8e07e0783176f9b7fec69fb0f2534f84ee03bf6f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/resolucoes/2008/resolucoes-4-2008-sapl-4695.md",
+      "sha256": "f19f078d9702cccb068a2101034cd287db3939ee0f7e7616489a5f2a4be788c5",
+      "sha256_fonte": "a4af4d7453ddba441e33ce59750b3f1bb9ac0d3e90202f4b7f48ffd7af7486d8",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/19dfc26a1c8cc46ee1a4bf338ee3a0a770655347010eb05dff00dc86b2e7a3d0.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1324-2005-sapl-2262.md",
+      "sha256": "89cc80303bdb06f19ba25dadb9b0a263c689a9574dbda1c542b76d24c2a5b26c",
+      "sha256_fonte": "496506253291e285e7f7d674fac261d523c071fc27501cfa74246f2b3e9b0f9a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/e4a0c9ea02940278738fd3ae1fbad6c21bd6b11ac526e5e9da54046c95b2ceb7.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/2007/emendas-lei-organica-1-2007-sapl-4816.md",
+      "sha256": "ea61bf0a8f70066f4cc7cefb8f460f7e7fde306f909e35567d3542289e92a4ca",
+      "sha256_fonte": "3abd385e7da0c87a8a88807645b77598414d20b1f8d2ec77e0a61720098cd8f8",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/08efbfe6b64dacbe9b1d128b9b642e3121ad37a0d326112280d8ebd439e8aac7.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1323-2005-sapl-2261.md",
+      "sha256": "2821badca19cacb6676e941a7bfc90e53908cd75bd92948e3ede13aa6e711384",
+      "sha256_fonte": "2e1b42babfbe890e17e29357132fd0f6888132ab88fc298d815a1eb8c3129cd7",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/dfc3202a5ad810864cd535a96821be6cd2bb15e70cf1f4c0690cafa57eafa7fd.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/2006/emendas-lei-organica-1-2006-sapl-4815.md",
+      "sha256": "5ee04e9d3d0c74192d6c93fcb427e9a7a380e7a2437d2e5b668edfc40d4604cd",
+      "sha256_fonte": "057072a1bfb18b686c60db7c213c83049b604592a98a0b6031ea6f329f5e3d60",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/1a0ddd8a4cb9faf8afc3974a32b27d711decad7e201ccf5bb452ed7ce73c06e9.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1322-2005-sapl-2260.md",
+      "sha256": "139ca3f9e94ee1220e8397a6afdce73abf99e89e904b7957c4c921974dcc5477",
+      "sha256_fonte": "9987fc4045e9cf511c4e12a79586c89d077936299030360b4475b5792219e1af",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/f895ba0c3894ecffb3c6aabc17e2ce5928cdd349a97f958d094d2a15a5ebea4a.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/resolucoes/2005/resolucoes-8-2005-sapl-4694.md",
+      "sha256": "3219de180c82b08f599f4c041a9359ec59179adfd168a434694d906f5632c4a4",
+      "sha256_fonte": "bdc54b4f494884e323449d9c53614560db8aba2e8af19850920129fa294ee74d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/9430a580ac570f9999cde61873a94f8ad0109ed2d12264acd85783297a37194d.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1321-2005-sapl-2257.md",
+      "sha256": "d5795bde9ccab5948745b22965ae1b2730c471baca0208a2c5deca03a9c8c59b",
+      "sha256_fonte": "0d7b28cca3e28941173318acee7e5309ca53e5b358e109ebdae4ef7998871d0d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/c68eadb69228abd9fe2abbeacd6c7da2b0210b995b6f432bd8cd8b8cc5a99dee.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            476,
+            40
+          ]
+        },
+        {
+          "texto": "13 de Março de 2008",
+          "posicao": [
+            480,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            480,
+            63
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            486,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 1.540, de 13 de março de 2008",
+          "posicao": [
+            486,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SP/guariba/resolucoes/2005/resolucoes-3-2005-sapl-4693.md",
+      "sha256": "934d10e4993aca3f713062765251068241b9a89f1f65302769de7ec10cfadb83",
+      "sha256_fonte": "21400dd473a45a61ce353a341e0599a1520b084723ce2775d8e82fc1ee82a652",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/5c746b9d809d73105e236942dc6459138955cfa3aedce76533a7c6f181c293db.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1320-2005-sapl-2256.md",
+      "sha256": "67efabfc4af05ece0446bdca5dd93f4a29617ee16ef5590b19324756b94b9a66",
+      "sha256_fonte": "9460d267ee3a0538758e99501e205cf02110396c1b7f2c929c975819860ad939",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/d1fc0f1c045fba7dc76f82d4f1947464a33630b699db03700ffbdb78b06ece99.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/2005/emendas-lei-organica-1-2005-sapl-4324.md",
+      "sha256": "745d0ff4542312e0bd993b7e3e6a262cdd82cf81d721a05a5edebca2231ca9cf",
+      "sha256_fonte": "7a9179a3e3c0f1d23e6701fad5b16663d3d53acd92ccc825176900f155b7c2af",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/9f9face31abdd550447332ff6bc6a703ba840a261e2a206358a394582fdcbf8f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1319-2005-sapl-2255.md",
+      "sha256": "488c9409900ebfed35c61395c556587e309294210bdb6e93baf889d295b6b7f5",
+      "sha256_fonte": "f681ab6b6f799a2584d38d683d1dcc0b330c514f744bedbd36d61bf7491b53c1",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/f4dcd26f0b01cd8b7a721988b5f37d4ccf975aaf5a39eae569e8c68489b42b74.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/resolucoes/2004/resolucoes-7-2004-sapl-4692.md",
+      "sha256": "b375b71901f6ab33533ccd6c3fb1626aec828b35223c68093da1bc3325d8f36b",
+      "sha256_fonte": "749f3714977d3b7d01e2f351a08b32515464856cc4a4dc7fb80972725cea0a94",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/071d9842ee3c057d336480ed22b2eab1c5c52c7b67656437daf224698d1cc722.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1318-2005-sapl-2254.md",
+      "sha256": "0cfe336f27bada3bdee2d62a997a95b83e55bf0631104c9c765c4a14adeec8ae",
+      "sha256_fonte": "2888688b551bfba9a272c2fbb5daa603719f4d48b89fab98ea64554771d9400c",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/e36b3c4298b66ecd47226b3a19c8b9cf742aa7a822893527f08e1c9e81b79d54.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/2004/emendas-lei-organica-2-2004-sapl-4323.md",
+      "sha256": "961bcc9943f9b7f1d9e1dca72cc20a6873b5b115583c093a4a2ac3d5ef433ce7",
+      "sha256_fonte": "69e8a77250bebc771ca2f5642c41e86d171f1cad9e91b3f685a0213147fcdd45",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/0cfd2aed94a9840f6dd6b73f5c847e888a0fd3c91f4bce7eabbd2b647a75e36f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/resolucoes/2002/resolucoes-8-2002-sapl-4691.md",
+      "sha256": "ffc10cb25308d93e0927e5b06edceee65de5e876d7aa4d4f7d600c58a6e3b190",
+      "sha256_fonte": "a17a2f8d91ef2d4af8038e19008c517c0a90ddd9df8c8c0c30524cd80f12951b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/e75df1c3a7f7d83b836544db6952beeec5e8419aaf973c32585e7b9f2f82bf15.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/2002/emendas-lei-organica-5-2002-sapl-4321.md",
+      "sha256": "d4fcc43b698853d72c83b1dfde904ae46f7656af187ad3324c2e0f65609d67cc",
+      "sha256_fonte": "f778b541fff6645557e0a9880a9e03fa2ba57360a96ba6e48b691171c311dcf8",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/eb6c6e96a8f6150616f8eed3cfbed391073449d3b7dc1e396deb02e76424088d.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/resolucoes/2002/resolucoes-7-2002-sapl-4690.md",
+      "sha256": "c3e1903aca2b3562cf95cb67b43490c4bf65e9e98e7067802f863dceebdab4d2",
+      "sha256_fonte": "7f058e291426fb4a3a6e984b7f48bc8eedc7c694f0a0eda62eb005cfa36142d4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/f0e61ae3f65fdc560c111cd2f146067cf80647c4c97b5f2060200b49a97648fd.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/resolucoes/2002/resolucoes-6-2002-sapl-4680.md",
+      "sha256": "279cd7f51a363006affe3e1f62efa147fa022f7fb271f90929e0bac78bc7707e",
+      "sha256_fonte": "b312be76e7a021f8631ca153489dd197fcd035949831012a6f5e2eb2b998e7c4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/d6e96b06ed3855474be0d57a4d905a6fd60903be9824d46d2dee47e2c15dacca.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1313-2005-sapl-2137.md",
+      "sha256": "3e122dc1dbd4631d64232b7ffa293b269ee916033c4d2034d39a415200aca6cb",
+      "sha256_fonte": "dc2fd2fa826a4e8708afd9a97ac7d662e8bcf817b2de7de7336b681f491358ed",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/752e15d22ab5241c136288833dc068180f2835a35a4ce9838798b3e83ed19def.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            508,
+            40
+          ]
+        },
+        {
+          "texto": "18 de Junho de 2026",
+          "posicao": [
+            512,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            512,
+            63
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            518,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 2.478, de 18 de junho de 2026",
+          "posicao": [
+            518,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/2002/emendas-lei-organica-3-2002-sapl-4319.md",
+      "sha256": "f294290b1a3453b846b41b10f3099cd25318cc4ffc06620797ab33a2da45b83d",
+      "sha256_fonte": "39c5a633ffb6b4a37baf081d04dd28e43a15d3efe8a50c0ebec81ed795df78ee",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/cd3d9c8676fe3325b752d58db10e76e28cc7383761ba4f95ab5a862da1186236.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1312-2005-sapl-2249.md",
+      "sha256": "e7e3547fe9433dfa6c488076e88040d5c90bec64dce1ff5cccd831a2f6893ff8",
+      "sha256_fonte": "2906345fec5fbc9973bc12f501f14fb99a7e726f10f12867aa51b243a1bbc0cd",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/152ae860ca8849c8312bf2100618c95c94c38a6cfff184cb6f0be405d2b0c1f4.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/resolucoes/2002/resolucoes-4-2002-sapl-4679.md",
+      "sha256": "55323ca7404c851ee05521d1d0d1d29f9d8d58446300bfed3abcb4b9f0dd81d6",
+      "sha256_fonte": "99efa1b5e27c1f11ac901c2933d937c74995c416702952102649d1d5fe5f032b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/6f1431468e917a5d65decb593a7036cc6869cd834ad2396b88ae7b5c6f7b56e7.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1311-2005-sapl-2248.md",
+      "sha256": "60ffa62518e27b6a9bfd949298d555e7bf725aef68abec70995e2919687c5775",
+      "sha256_fonte": "7297c7a80d01d58816cd6ff9dd80e4c328fa93487e8cfaf63dade089236186b0",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/bd569b7d1e6833287e11d3ff04bcd9ffe2d098c65b7b8557bf288458cb884278.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/2001/emendas-lei-organica-5-2001-sapl-4317.md",
+      "sha256": "63eadd31f51a83b22bc8384957a19a4e773278cce32ff48251265c70631644fb",
+      "sha256_fonte": "311d94c4ad0c0189f956e2da5c2de52ffe255c00134cba07537f7b7f5589c8d2",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/0e8a095fff9003d21938d23c9ad3cede56066d9fc34b48528e42dca5e528d9a2.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1310-2005-sapl-2247.md",
+      "sha256": "9da22fe12fc61d7d1a3e4ae7637e845cc5a8af39540dff4c4bd2e29f62792371",
+      "sha256_fonte": "8bdc4a864b45f78cfcfcfcaf438259f54a3e2079329b46286a6deaeab15f0aa8",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/657efeb8893e9a390ac0f08a5f95aa87273ca27ad764256af25aac61e80ecef9.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/resolucoes/2001/resolucoes-9-2001-sapl-4677.md",
+      "sha256": "a40f7179441342a30c19691412ce4d062c083cc31965806bfe7539eb93a05e57",
+      "sha256_fonte": "3f03efae55e416760e634f06fd8464b5616ce0e54840b32c66a73c7e5512b656",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/5086cc984316313599b660cb509ea23fc6d245ab73f8bb6966112b000c8ae1bf.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1309-2005-sapl-2246.md",
+      "sha256": "7b23c5109f05ad62f8a9326bc8f7084cde54eb0a7cdfbebc1f4c8816db59c505",
+      "sha256_fonte": "49228b4c7695b06d43241f843933e7f47a9cb2c03d1c563a387d99e9083b7477",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/8ae8cafd5d308e381bd7734dba475228eea40db047c2cb09e3f3006b1adb7370.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/2001/emendas-lei-organica-4-2001-sapl-4316.md",
+      "sha256": "aef50278072661a554bde32b3ca51ee0cbc74415ae9227cc567d9f4f1ed51342",
+      "sha256_fonte": "8e4f6c2bc7e1acad3ac9b9cf0d1913418d61eacd3c4d152e9f5341187e369300",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/192c0d16983aa0d2f7500f4f6b3ee88748f6723db896166f4da16b70491e62c0.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1308-2005-sapl-2245.md",
+      "sha256": "406724a3550999cb8452d34342ced5b27820f45148881a50db6d1f54772ed851",
+      "sha256_fonte": "1aefda9f9aec2805dfe2130308c90f77a10cf8060d8b178020163808e4a47fbc",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/1d4091158a15601e46b9cf42b96a9c347b76e52dbfbd93886a6075e42449e527.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/resolucoes/2001/resolucoes-7-2001-sapl-4676.md",
+      "sha256": "caa27c4aa20608acdcc25e2801c50c31d292541011c918c3e0e7676d946bed66",
+      "sha256_fonte": "ee41bf10943b1653dc8461358e905bfde6d238ff740b46d0e4216d7905eb0540",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/3a58964d32f6e31211009ab7a9cb04d366297235641536e30a99d58fb2a30658.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1306-2005-sapl-2243.md",
+      "sha256": "b7b236f9446f874e65e05aa9b2940afd54deb762cede17321e402530cbb971bb",
+      "sha256_fonte": "eb8d1f407b6620b3c2d6dec49b9b133a609eecc48166a2767770dcb9c45428f1",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/55ad8207e9e071951efd2ea9a055459e4cc8d31fbe523d7e13050c5e8d1fb2a4.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/resolucoes/2001/resolucoes-6-2001-sapl-4675.md",
+      "sha256": "738e5194d23c2bf6b65d0ed60c15b3a39e45595db890a71cce3c731f2b16eb24",
+      "sha256_fonte": "5f192bd06cf44f9cd5083703fb15085412098ef2283d2933a8286397965e6a98",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/281af005569014b1d0b072ee2e497f1fb0d74f67d8cc7f7543a5f5cf48df6400.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1305-2005-sapl-2242.md",
+      "sha256": "32026ef60a780256b6da195fd3f48644c36a0d93eedf7cd29af296fb2c17c3d3",
+      "sha256_fonte": "974d5d975397b54061308c07fbd79a536201dd20ebaae4a4efb46603379c0e56",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/a18d183853c897d19975b98199e56eaa0f5096b5c34df4e9e5c55eb7a6373be7.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/resolucoes/2001/resolucoes-5-2001-sapl-4674.md",
+      "sha256": "1f5dbf0c92b0b2cd1e48a18da505fe788b2a923ecfbb642fc58dbd8d89e6a3f0",
+      "sha256_fonte": "3f6e251288ceb3bc1e7dd4cac3958e56dd84d4e51f73907e047b41454131ac9d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/0a9b6b73cf5e2d75f78bfc649b79e961c1e5e8d0d5b5620551575ffa55a7c55f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1304-2005-sapl-2241.md",
+      "sha256": "7f1a025859ee06c0bd5d78e0aecd64881490d9565bcc86f1a9d365ca7b5ef834",
+      "sha256_fonte": "664a0cd3277807260d45b927c080f1cd4b0397bf7bd21603efa81043e960b28b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/8342bbb0d0f4f66361f96a709db43dcf9aeb81a97ea81f7f9d0f819c8d61b613.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/resolucoes/2001/resolucoes-3-2001-sapl-4673.md",
+      "sha256": "b4f620eb8f40ed1b823440e47d39f6a7ced2abb2f00794dcc4958bd0fbde8e5b",
+      "sha256_fonte": "591b3df2951f91397b75a4671669c6688f80788a49025ee06e6478bd1eab02db",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/4d72bc728ba06a04990b99146e4d188b0866f589b2d6b2725f9b9f540d8c11c1.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1303-2005-sapl-1516.md",
+      "sha256": "6cdfda0138671af586f0c3d481825fffd036e7bbb2ae5cbf1b0c08ce946392e3",
+      "sha256_fonte": "1a45185d6d1630402278490b3520b2b7caba6ecf4c18d0cb1e83f47f5b6e038e",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/13cdcb5c4531e438f8c5cc8492085466cfff056704191918ea11d2df95d38e86.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "II",
+          "posicao": [
+            523,
+            134
+          ]
+        },
+        {
+          "texto": "– idade igual ou superior a 21 anos;",
+          "posicao": [
+            523,
+            140
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            532,
+            134
+          ]
+        },
+        {
+          "texto": "– Reconhecida experiência no trato com crianças e adolescentes, em entidades governamentais ou não governamentais, comprovando através de declaração de tempo de serviço de 01(um) ano consecutivo ou 02 (dois) anos alternados;",
+          "posicao": [
+            532,
+            140
+          ]
+        },
+        {
+          "texto": "V",
+          "posicao": [
+            541,
+            134
+          ]
+        },
+        {
+          "texto": "– Possuir Carteira Nacional de Habilitação;",
+          "posicao": [
+            541,
+            139
+          ]
+        },
+        {
+          "texto": "VI",
+          "posicao": [
+            550,
+            134
+          ]
+        },
+        {
+          "texto": "– Possuir conhecimento básico em informática;",
+          "posicao": [
+            550,
+            140
+          ]
+        },
+        {
+          "texto": "VII",
+          "posicao": [
+            559,
+            134
+          ]
+        },
+        {
+          "texto": "– Ter concluído o nível médio.",
+          "posicao": [
+            559,
+            141
+          ]
+        },
+        {
+          "texto": "Art. 22.",
+          "posicao": [
+            619,
+            126
+          ]
+        },
+        {
+          "texto": "Os Conselheiros Tutelares serão escolhidos através do voto popular com a participação de todos os eleitores aptos na Comarca de Guaíra.",
+          "posicao": [
+            619,
+            138
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            633,
+            137
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            633,
+            157
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            642,
+            137
+          ]
+        },
+        {
+          "texto": "A escolha se dará por voto secreto.",
+          "posicao": [
+            642,
+            145
+          ]
+        },
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            651,
+            137
+          ]
+        },
+        {
+          "texto": "O Conselho Municipal dos Direitos da Criança e do Adolescente estabelecerá, através de edital próprio, sobre:",
+          "posicao": [
+            651,
+            145
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            660,
+            134
+          ]
+        },
+        {
+          "texto": "– os critérios e requisitos dos concorrentes;",
+          "posicao": [
+            660,
+            139
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            669,
+            134
+          ]
+        },
+        {
+          "texto": "– a forma de registro da candidatura;",
+          "posicao": [
+            669,
+            140
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            678,
+            134
+          ]
+        },
+        {
+          "texto": "– a forma e o prazo para impugnações;",
+          "posicao": [
+            678,
+            141
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            687,
+            134
+          ]
+        },
+        {
+          "texto": "– o processo de escolha;",
+          "posicao": [
+            687,
+            140
+          ]
+        },
+        {
+          "texto": "V",
+          "posicao": [
+            696,
+            134
+          ]
+        },
+        {
+          "texto": "– a publicação dos escolhidos e a posse dos conselheiros.",
+          "posicao": [
+            696,
+            139
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/2001/emendas-lei-organica-2-2001-sapl-4314.md",
+      "sha256": "3a5cc861cb09e0660dc9b3ca6977401c0a178cb563d64b58cfe10ca035619ada",
+      "sha256_fonte": "35336f10808bc1c344387f641765980746a7add109ee6ecef5d26ef3fb7d75d1",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/27c09503d4fb26089ebc17fa88d6b097e7c33be39ceb8ba4be47a9ae89362354.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/2001/emendas-lei-organica-1-2001-sapl-4313.md",
+      "sha256": "e8127da956014bb34dd8a9a2895581525d459e9c749719d615e5fe23e93df0ec",
+      "sha256_fonte": "aa183370b13b5d12a38d852d33290b55c1c293f56d222a6afb91402ed3a508b6",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/991619f87be0f93cd3aaf35ca8b4a0a7538e05dd1aeb1ef8c7b845c1290f47f4.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1301-2005-sapl-2239.md",
+      "sha256": "1daf18fad24b89aa08d4326297f8f7b3823ddce41a8a78119d62422b0a0e9f99",
+      "sha256_fonte": "f025ffaa0f119611e8a26e953815d1307d1dd8494132caee0263ff1417f418a4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/4bfc9c610a79b7a4d6aad27bde706caef8c61a2d4a74b994c11c93382be6090c.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/2000/emendas-lei-organica-3-2000-sapl-4312.md",
+      "sha256": "1be04e377aa1990ba7ff66f726a246d5f044c0b32d5c58419f0b5d404dd278ee",
+      "sha256_fonte": "9a7b734ae208f17d51dd55a599c1e57aef7bf769286777830fdf8fe86d7b03ae",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/79b1c3c85480be2217f9b6eefefed0dd74155160a1d4b50df0b6f1255d8c4e55.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1300-2005-sapl-2238.md",
+      "sha256": "b6ba5da815b8c71df70bbdfb2c7f9c1efc52c60116f8166125bf5aa9541cde4f",
+      "sha256_fonte": "69f5c75f428db3afc997a2a535485b4e3f028dea25fcbe0a4ad49ed334ee845c",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/b9f825bdbe5144ec0b248b4ca3054af55ba35d166bc582d6e0d99862d09e0280.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/2000/emendas-lei-organica-2-2000-sapl-4311.md",
+      "sha256": "394c8c0ee66765ba987eef03b33f89fafa786f97993cd0a306becf97aa6f5a81",
+      "sha256_fonte": "c89f97e3765f89bb87aa663b637f3c50ed2fa78b4b41f424ef801df6a4b77e43",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/9574b0461b18b561f774ead8310cc46d49f7ab80ce087106261718f343f160d3.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1299-2005-sapl-2237.md",
+      "sha256": "5616b813621eebdaf69a8ab022702ffb92e343741e71c09e3641361f72d8d4db",
+      "sha256_fonte": "8eb6436ae98969e074296f1933d01d5d8977133ac8e3b44d1624146f3f259b2d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/ad814372b5e735a1cf3061cea7bafca54cc3325f65af89aa60abbd980c238dff.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/2000/emendas-lei-organica-1-2000-sapl-4310.md",
+      "sha256": "11284eeee26cfc1814423183b8ceed05d87bedd224cb2ca9bbbba9fcd2da6944",
+      "sha256_fonte": "6e414e19713c61f4e487c606d8086862f56fe86e65341a67a051d70150e70000",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/96a0b53d285771eecf463f54f65c3924326c5a30afd08ce743980b03b8d36a32.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1298-2005-sapl-2236.md",
+      "sha256": "76f8713a4296e8e8b2e2ef281cec7299e8550496b66bb14a7c93e0ebcc396f11",
+      "sha256_fonte": "44c873e2a045511e4efa14d369cda96b296e2da4edf73d1c6e5ab59cae2211fd",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/e80bc873d96fe637ab818f90d0efd55b567406816fe8f3ab329a17943e0706ac.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/1999/emendas-lei-organica-5-1999-sapl-4309.md",
+      "sha256": "85da545bfc288632e37a0b2d00a5d73f7a9cfed314c4b5652459e9b3d26b17e5",
+      "sha256_fonte": "58f2999d32cdb71b36c2ee74414636d4ccde1d335858711ecd354cce050580d6",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/3c3b01c6eed50c5df98b88d7376fa8452b968ba7eb76c5389d69ac77f289a5b8.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1297-2005-sapl-2234.md",
+      "sha256": "84d0a19d404dbfce72789ccdb87fc707c1b4cbc06b368dcd2bced37c41c97f85",
+      "sha256_fonte": "a2ff7379f074eae3c5dc305a6697197d06d05798291c0bc81e95eeeb065c2df8",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/2f65f15739eb1e3482eddc099654b33d83bf563fa52a307c7e165cd4a36e8ce4.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/1999/emendas-lei-organica-4-1999-sapl-4308.md",
+      "sha256": "c7e8a8a56281c2acf8e42fe14442f476d307ebf29e5b40eb41ce224953fe692a",
+      "sha256_fonte": "7309fe748dc4c24de3f5dd8cee5e0638df3bf99bab6dfb769e705ee412044a89",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/5c0e934be0d559540ad404fce320d32a987d9fb763a914da3a7b6ae1214eb1ee.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1296-2005-sapl-2233.md",
+      "sha256": "315db17861cab0316075d3d23525731516fb22411adf592596913a29ba819b04",
+      "sha256_fonte": "e2b8a3ec3132ee88d4e292c32bea7aa727c158dbac6cd01b3cc3392d6d896bf0",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/db1460f7c9c5420e57f20fdfae77cb8ad07fd0bcd93cdca28ec042c807d8124a.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/1999/emendas-lei-organica-3-1999-sapl-4307.md",
+      "sha256": "695a024900aa7148c665850a840168abdb558572649ab0f3444951b93245cd98",
+      "sha256_fonte": "b8a42c489da1377f92b1d33e7d926a0ac0e7de46428259071827cf0a1c9ed7d5",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/d0fa0957119f142520a9cd1a19005af4c9a43f14563c486ac3d19dab1d93c3b5.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1295-2005-sapl-2232.md",
+      "sha256": "ea8f6135aea2e97f73519a999af91ad5b74e7e63607b087d8dcb40c58c57de66",
+      "sha256_fonte": "dc2339bf9a710e14eb694b9610abc98219ae7878a4068a4a86b7c8924dc39942",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/3f87cded5983c7a8708db767dd474e3bdf7f5c81507e82fe36b971c5061ad2de.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/1999/emendas-lei-organica-1-1999-sapl-4305.md",
+      "sha256": "c2ff3a42cbd57899c14cfd2549fed1e5185695edd7cf7fdba305a3ba1156043c",
+      "sha256_fonte": "59ecf7deef402a3a80dfa378f6b70dd8675d0052a96dc5861ceb077acea5e34b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/fe4a7cdcb781eceb0c274ddec6bc02cf9d6b3814c308022fc0f859f124ecfb66.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1294-2005-sapl-2016.md",
+      "sha256": "78138229f8da23b638eb9248fd7fd543f656a0c5a4ee5ec737b441ddf9dc369e",
+      "sha256_fonte": "17ff284720e265dc075e6c30296f3203b49333a38fa6bd168715dfe384a1617d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/7f8ca9a975330466344a676ab2d9e787cc35c4fd8eddb81510e6dd8ac1af74f6.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/resolucoes/1999/resolucoes-9-1999-sapl-4672.md",
+      "sha256": "89f67845c8d5399faae1bb0c92e9d5ad063bb901f45c35dce1887c35f4d8b1e3",
+      "sha256_fonte": "dfe860ad0dfc5e71caeaf18d2dd1c2e29f1e1c36d0422f7b28acdead82cb02c7",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/570bf354b58abadb72d85afca7bec0c5365c6a1427213eeb677080ca5f3b0077.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1293-2005-sapl-2231.md",
+      "sha256": "00f652cd6261198f3a2c8324c9e8aed54be4e43ac991005d308f5f4cf9fedefa",
+      "sha256_fonte": "2ee43550c9a6186e680abf4b4325e885863fdf6a6bb801a6199c127566186e80",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/d6c536b3b331e9d399f2f767319a1d22b836c5ada9f8121db19801d45dc5ba52.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/1999/emendas-lei-organica-2-1999-sapl-4306.md",
+      "sha256": "a0eb0dd2e6b699f547522bf3c70688ef21543da7aa019478c7f39ec05947ea17",
+      "sha256_fonte": "76ce8bf2a704fed81ac2fc94d2c06f206ba3bab2b46bd57c7b098411f53baadf",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/c0a38d04cf6ea7d12520bc87419eed44c41e502d54718e5c35d3757d05cec3e2.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1292-2005-sapl-2230.md",
+      "sha256": "4b780db7a04f7d110408a301b57fc992fddfda057320a89403d1ad210ab5f491",
+      "sha256_fonte": "451eaae8262cb7a952c57c665cb1bfd71b92a54a994abfd243894e62314ff0ef",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/fb63287097e3e5aa3cd151682e1df4d6c1b953b5ad3f0c128e9a55d62ba42478.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/resolucoes/1998/resolucoes-8-1998-sapl-4671.md",
+      "sha256": "66330913acb452aaed0ea6e461e07840d3cc8c3ab55f0e96884effa4f7f8a591",
+      "sha256_fonte": "77d2aa932986f80fe31c9b459ce8aa9f3c48ac3c14d9de8962a7af33c0e91beb",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/7bf3347477ac845e1fc4153b9c35c8241bb01abfe60cbdce4225f96a17e08a0f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1291-2005-sapl-2229.md",
+      "sha256": "48df166a70bef6401bf67cf86ffaf94c248aa88ee4fb26e00df20b61708cd753",
+      "sha256_fonte": "4af69dcbfb82cb6bc050946e0284efeec4bdb1d4ec67abd597d9d0031f8bc947",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/4c4e3bcff62bb87b882fea2c72647bf11bbfe0f52f3e4682bd0b0f4ee2361d76.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/resolucoes/1998/resolucoes-3-1998-sapl-4669.md",
+      "sha256": "dda76e8f96184838dd698acca6545b4620bb8e768976e51ca85c8c3f0e6f40ff",
+      "sha256_fonte": "eb44b782f6e0c9abba6b031135978ccde530906cf43ec168aba207f96c3e659b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/3b0519de7078589e0550bf9a1d10df1217858375db10401f7793c0c1d710dd58.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1290-2005-sapl-2228.md",
+      "sha256": "433221fd1ba8c400fcef5dd61e349f1ae281e49bbc5d5cf94eeed9d45fe4792a",
+      "sha256_fonte": "558ae816b067e05f43584aab6291f25a208c11c423df66c332be081cc9d1d8fa",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/8750c9048f078cbc0e6f1a3dcdcd9f52b4dcebd81b8984ada68661f860e8ab8d.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/1997/emendas-lei-organica-2-1997-sapl-4302.md",
+      "sha256": "deaf0499231107f7d7009f6aa23d0a53a865f7860f994eab55a6737f0f5defa6",
+      "sha256_fonte": "ce7b603b758111bcf02654518cf320d226e1a2e1bfda7376715e756be9ae75a0",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/a1b3907ccdf7edbf960c8b5f35a5498507b1f5335133cf0364a0ce3a4a5c4671.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1289-2005-sapl-2227.md",
+      "sha256": "60c9160709a020c5205b8ccbd6b5284a44153d983a280fd9ab608bff6668c3b0",
+      "sha256_fonte": "e033a0c836a6842d2ba9c50702b008a4fb6555e8ae061821fd5c2c1d29698c2e",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/94e32144825dc682b3909fe7759b56468413792b6e8b489321c61889152044d1.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/1997/emendas-lei-organica-1-1997-sapl-4301.md",
+      "sha256": "94b4ceda1e4ac71e246579c7c765d8fcdda8fb8c40ae86f6843b5a172143ae1a",
+      "sha256_fonte": "152a4999aa5da19dfc8c0164a958deec636c96b0e0ccbaffdcc6f3077c51fd94",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/e78e84faf9fd6d4d17eeb3ac4cfdf58c0ce30cb65e4ad6f9120c0875ece62a89.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/decretos-legislativos/2026/decretos-legislativos-2-2026-sapl-3243.md",
+      "sha256": "48a820762948a8973e51b0057418c13ac5b96e2e2ef825f57d53e43804f51125",
+      "sha256_fonte": "100e51ef113d1fbbb547ce74fdadfb8be31df9c2a5c117a6ee5482613aa2c635",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/f276be859138c50f9b432253bb7c06d6918e477aa866d36917c518141a05ed09.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "https://diariomunicipal.sc.gov.br/arquivosbd/atos/2026/02/1772195620_decreto_legislativo_n._02.2026_aprova_contas_do_exprefeito_extrato.pdf",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1288-2005-sapl-2224.md",
+      "sha256": "5a9bc43dc1767d37d56d8dbe3db5cf8fdbaa2f13a396d47980c817075932f902",
+      "sha256_fonte": "62d5d4c010897c23018a7843fae8c2ab5d2120ec7d37ff60e1e3593f35edfd97",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/466353fa3dae24749aff9b21fe67b4fb8d408923685664c138df9f3fb86e3c9c.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            476,
+            40
+          ]
+        },
+        {
+          "texto": "12 de Junho de 2012",
+          "posicao": [
+            480,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            480,
+            63
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            486,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 1.775, de 12 de junho de 2012",
+          "posicao": [
+            486,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SP/guariba/resolucoes/1997/resolucoes-1-1997-sapl-4668.md",
+      "sha256": "7317814fa8378dfbf66565d0e197ba55d224e9cc0a78eb5d5ae3f14ccfaccec1",
+      "sha256_fonte": "bff655c99a737005fad935dd963d4910db3bf72111e11f75ce755becedd171f2",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/bf30e7d7400a2b27ba5e759069106ee4906c86d4b0d0ccd22ce47a8a33f8b76c.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 2,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1287-2005-sapl-2223.md",
+      "sha256": "a353945ecea203fe09ec3f3e0f222fa4f381b8cde88c0f644da5a89bc8d0ce5a",
+      "sha256_fonte": "dc08edc08a8944bc4ce6d85e516b9b9b0629a347f623f75d0ba1c09d4e3a9e37",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/1b5fce42ac2e2773badb37f3b8a9675da61f6ca0fb092308968e42234131f5e6.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/guariba/emendas-lei-organica/1992/emendas-lei-organica-1-1992-sapl-4300.md",
+      "sha256": "d316d92eb8f3bb1752e096afaf4c65df6812ceda92fed8d0122dedcb72dccd30",
+      "sha256_fonte": "dbf40bd124d40d3c96e4567fb916170ea0334f6fe23827e9ad640fa840986f44",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/c7e7f6a9544e7e37fa0c1e03b1a9e594427db41b2b7cfe3b6763de40a35236d0.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2026/leis-ordinarias-2.943-2026-sapl-3242.md",
+      "sha256": "9aa4b2df50e13fc78d63b9adbe7319f94fdd8f32e767aa6382a6bef0a7ea4bea",
+      "sha256_fonte": "bb6e7497bb1a24bfea8ca2902e03d2ad858fef8763417d0b4c621e0168867537",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/c4d42f927cd626a7d2ef1db426d60f2d54e930909528f4d303551ac33ad882ea.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "https://diariomunicipal.sc.gov.br/arquivosbd/atos/2026/02/1771502247_lei_2943_extrato.pdf",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1285-2005-sapl-2222.md",
+      "sha256": "1cdbfcfae735d34cc95ea45d7ff7882e533f263d2c82b361c61e30a8f746edc9",
+      "sha256_fonte": "0a5abf73279a9ab2f8af4591b04fae0d3724b15231bdf36ddcfa585a09fbfde3",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/a116dc905fe5b1ea0ba37790aa22d28bc7131c0977ed89dd095ebbb09a54c459.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1283-2005-sapl-2221.md",
+      "sha256": "673c33f5770be0be0d2a6adb349df66f7dd598bf0e9404ca140562f37834ea5b",
+      "sha256_fonte": "1f940f3d00158ba9cc1f2424758dd93142f24a46abe7f69961130d8d85c8ffaf",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/02f12d39cc9617485a9ca6498ea66eecd9e885970620427e25698ec9dc77fe65.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1282-2005-sapl-2220.md",
+      "sha256": "b1163272ee8d16a01e3f764765198f83714aac7837170d12cb2ab7a71ef3cd85",
+      "sha256_fonte": "3675fb3de3d2cd8d0d6b950c1f6618cb70ea398f1de37beb09e7a4aac5ba22b8",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/7bdcf6ad7312210042ae2c1f37dfd62a7969a19dbc6a22d00a615a148c6de269.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1281-2005-sapl-2219.md",
+      "sha256": "08d5038171f787d1dbdb1232079042c4e90fc6a0a6ea3180c4ed512d92f1356b",
+      "sha256_fonte": "9b4249e8aa98ed209efe693489f168c9ffef69ebaa5cb87ee4af32bd68be0eef",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/7533f28181ea882d36beae04f059a94debb80db4dad8625d1506ea0a9dc06559.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1278-2005-sapl-2218.md",
+      "sha256": "74f755be7d5dc12984a263b32b7014e45f0d83d27314b6c05f165d53e02039f4",
+      "sha256_fonte": "3d86843fdbc7b3e88294fa0bd52e3f4c0d10f15db69ecd4ac62727d4d31f67d7",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/fa992e8583f0e305dc3ed085c26cb4f86f40cb5b77e6ca1dace422f06eb80b33.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/decretos-legislativos/2025/decretos-legislativos-5-2025-sapl-3238.md",
+      "sha256": "aa16058238a23516186c87e12c17c5fa68cc607874f8208c5747410b8c2e8f64",
+      "sha256_fonte": "07b3363b404c878072039d07ed3813131dda1c9ee4192c252ec747a44c44bef7",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/077a92dba7ad55fe5a37a7346e2f482a37a374e482f3e2c8b42d57ef56eecf8a.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1277-2005-sapl-2217.md",
+      "sha256": "cfb6c16d2f764d24adb40d4ef25d000e0337531347d25d05391a18197ec54a84",
+      "sha256_fonte": "24228ca7d1f0852f877a5aef0ce8e5bb2077f21be0e6f6ccbb6362b587714eeb",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/0226ba251f31498f685c9bb99c3b94d48767b820bb8ecb2784a44a1f2b06abe7.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-complementares/2005/leis-complementares-1-2005-sapl-1956.md",
+      "sha256": "f46d8459e8b0710c3abd81ef878ac5efbe144dde03accf0011ca21014176d2be",
+      "sha256_fonte": "00a31f884ab54d40bc229f95a4bccc1cd7a4784eb94a915dc7300a8f7d2fad1b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/29c4b8f434d21be307fb1ce3ad18f3b50f663dad99d5422d826e43343a6b40d7.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1273-2005-sapl-2216.md",
+      "sha256": "bb77dd8f3d02ba0a167d5ed6983c298992dd74855b00984e82b6dbb43c6d1d14",
+      "sha256_fonte": "c4f1e322c1fb57f31a200e3e1c005c4c68c16c6234bfe441426d27c4a53a52d7",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/52d9019b3cc884ce7ea70752a7e0f41a217bb86d0aef16abb7d11c4f0903c157.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2025/leis-ordinarias-2.939-2025-sapl-3231.md",
+      "sha256": "598fe592f97854b75f8c4b90a391af2ceff8649d1c009171e11e4b8a77e20aac",
+      "sha256_fonte": "396c34ca9f42c150126cfdd0a661730b6ebcc447d01361462884ab62a14a1d97",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/c876ae3914ce1cf92648f99e0d308730dd774ac85e5e652173a6076d378448f0.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "https://diariomunicipal.sc.gov.br/arquivosbd/atos/2025/12/1766173085_lei_2.939__reajuste_anual_do_funcionalismo_extrato.pdf",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1272-2005-sapl-2215.md",
+      "sha256": "27d308387e8a9642b982507941ada621b447fc9d7906896d61ca07818240d6f5",
+      "sha256_fonte": "066a831c210cc0557a472e245d100bccb86dcd7e49f837d38730e3c680c21e38",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/1a9264035f2df6c5bd0e1ebcb24191cb6a95ca50cdced5d7fb5145fb8152738e.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2025/leis-ordinarias-2.938-2025-sapl-3230.md",
+      "sha256": "9851dd085886d183860143ab9d3123fa4d060c04898ec6aa21ebda63b93fde2e",
+      "sha256_fonte": "9284dae14e3471e4fd40d0ead8aca312d5ddc07d71e52400c83738b42f48418d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/198e5a33309d381bd5610a62ccbf90e6ac8c851577db7f841f7a66ed647ca6e2.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "https://diariomunicipal.sc.gov.br/arquivosbd/atos/2025/12/1766172363_pl_cria_bolsa_atleta_extrato.pdf",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1271-2005-sapl-2214.md",
+      "sha256": "34402d4d78ba6d20b6dbede7eb3936b9ee3c8ad087fd286af9392408e631671e",
+      "sha256_fonte": "3674dedcb3b46a8da9751edd8c30c8aed0d04b413142279d423f50d59da4037f",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/e381cf650d024e2cf9a16ea1a0b2cc07b13f114d5edb9ea45ad0df57408bc62e.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2025/leis-ordinarias-2.937-2025-sapl-3229.md",
+      "sha256": "5dec00fd1eca3b176e1661f3d372b8ad6e8c5ac330ae5a15f08fa21d69898e61",
+      "sha256_fonte": "f9b66da7fa669db8a8efafd251798656361f97923ff64407e26bf4df97b12962",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/bcd9fe469cd6b4da92c554c78444dca2c7bc2c6c4393a5e961e3d1a3be111057.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "https://diariomunicipal.sc.gov.br/arquivosbd/atos/2025/12/1766171717_lei_n2.883_hospital_extrato.pdf",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2005/leis-ordinarias-1270-2005-sapl-2213.md",
+      "sha256": "f65c29d1adb4938c79f7e9a7a80f9fb877fa79b8fbc401787ad343395d081b47",
+      "sha256_fonte": "588d225c34b1c91956353ddd5e91a626b06444053548e293b316b29314ed9d12",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/9ce13ce234f226e1d74975e57610d42883b32c4a6df391e771399cb0a8a5a4c5.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-complementares/2025/leis-complementares-119-2025-sapl-3228.md",
+      "sha256": "ba5b1fb0c61fdf7929214b5b6128e2a622e5e8c0cad2dcecfbd1c9d7a938f68b",
+      "sha256_fonte": "4a1ce4251aad1848c161143f1ba900e970f61e9efac1db295f9ce2e8be7dc96c",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/4788e15d1eaadfe3894ffb28d9464ede7d7c774a31f1c553ccb784299da66954.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            509,
+            137
+          ]
+        },
+        {
+          "texto": "O Auxílio Alimentação será concedido na forma de cartão magnético ou eletrônico do tipo vale alimentação e refeição, de caráter pessoal e intransferível, disponibilizado por empresa regularmente contratada ou cadastrada pelo Poder Executivo, possibilitando o pagamento inclusive por QRCODE/PIX via celular do servidor usuário.",
+          "posicao": [
+            509,
+            145
+          ]
+        },
+        {
+          "texto": "§ 3º",
+          "posicao": [
+            518,
+            137
+          ]
+        },
+        {
+          "texto": "A utilização do Auxílio Alimentação e Refeição respeitará o critério de gasto dos valores, preferencialmente, no comércio local, sendo destinado exclusivamente a estabelecimentos de venda de produtos alimentícios, restaurantes e lanchonetes, ficando expressamente proibida a sua utilização para aquisição de produtos não alimentícios, especialmente artigos de tabacaria e bebida alcoólica",
+          "posicao": [
+            518,
+            145
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "https://diariomunicipal.sc.gov.br/arquivosbd/atos/2025/12/1766174329_lei_119_altera_carto_vale_alimentao_2_extrato.pdf",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2004/leis-ordinarias-1269-2004-sapl-2171.md",
+      "sha256": "3278f842db0b9b3be1d12182c173ff2abf39380ab695413cf8fb6172f026056d",
+      "sha256_fonte": "21a218df78f0e83346406b70e8f042b47fca6cf37ca24d3e3528567dedc45bea",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/134d6e9da6c2bce3ccdf397365e47dea04618a19e790d0612c5551846f250405.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2025/leis-ordinarias-2.936-2025-sapl-3227.md",
+      "sha256": "05e06a736de2653c6b25c41cd1c24db19ab450ba13898a7263e455603fd2aa7a",
+      "sha256_fonte": "2e09a3f46874a79501c099ff1799348e5a7ee11e8f685847ad458d6245ff26b6",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/557c2f7979f9eecaa98c64f026abdc9dfdcfc7658f0d23748cbf95c6b4ff4165.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "https://diariomunicipal.sc.gov.br/arquivosbd/atos/2025/12/1766074271_lei_2936__indeniza_vale_alimentao_extrato.pdf",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2004/leis-ordinarias-1266-2004-sapl-2210.md",
+      "sha256": "8672084d1d50d2d93718647a1bb769d8524c4fee0a5237dcf86dace9ac37274f",
+      "sha256_fonte": "20c76b20987acc23373bdb751107341037022d0185b15d3c8ba09d679bb8099a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/45381fc6a939effde727128157b1691ecf2066540e005bd95286d0115ca1933b.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2004/leis-ordinarias-1265-2004-sapl-2170.md",
+      "sha256": "cfe027b8fd8caf14285faf224247092b21a7508c354cb5ef3556be87445e14cf",
+      "sha256_fonte": "db2d1cebc19123d13619ae0cbb4048b8877e9d69c6359e0211a53c008a7f08fe",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/5d2326b2c0aa0ead76de91746ca3ecfbaaa1e75fe132eb01e4d6a2b85e0922ef.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2004/leis-ordinarias-1264-2004-sapl-2209.md",
+      "sha256": "f31487b96557c48dada686eb061714654b799edb68179fd95dd202a372477abf",
+      "sha256_fonte": "3781940c8712fb3f311d71d9273eee071d4c1ed3785fb142ce3533e3a4e9a939",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/118f300e535764b2a00b62a5c8f851358fa2ac2f8daf25045ae574da1de6a593.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2004/leis-ordinarias-1263-2004-sapl-2208.md",
+      "sha256": "176fe41825d9d13b3b3a3b113e318791f1d8e020225f723796802d0d7484af5c",
+      "sha256_fonte": "fdd978d0d2e8ebd092369dcde2d793148cbd7cfe287d52c185accaa7c393770b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/de0ec983fb07b5972797ebb719e5ec566dc9cccbbf61802cc188dd4249d4069f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2004/leis-ordinarias-1261-2004-sapl-1515.md",
+      "sha256": "fce550eadad2f38c21ad5e8e496851d9c096b9cbb02b3cb52749d517d3fbe5ce",
+      "sha256_fonte": "f5064cef90faba91d8c842b5e8847ab4ca27f0658f3534b8fc72fb52c0723287",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/839741761c0edde9d8cdcc82af9ab9a2e4ac5a75a2c2ab66751a9e4740e2cab5.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "1",
+          "posicao": [
+            530,
+            132
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            530,
+            137
+          ]
+        },
+        {
+          "texto": "2",
+          "posicao": [
+            539,
+            132
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            539,
+            137
+          ]
+        },
+        {
+          "texto": "3",
+          "posicao": [
+            548,
+            132
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            548,
+            137
+          ]
+        },
+        {
+          "texto": "4",
+          "posicao": [
+            557,
+            132
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            557,
+            137
+          ]
+        },
+        {
+          "texto": "5",
+          "posicao": [
+            566,
+            132
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            566,
+            137
+          ]
+        },
+        {
+          "texto": "6",
+          "posicao": [
+            575,
+            132
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            575,
+            137
+          ]
+        },
+        {
+          "texto": "7",
+          "posicao": [
+            584,
+            132
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            584,
+            137
+          ]
+        },
+        {
+          "texto": "a)",
+          "posicao": [
+            593,
+            134
+          ]
+        },
+        {
+          "texto": "Secretaria de Ação Social;",
+          "posicao": [
+            593,
+            140
+          ]
+        },
+        {
+          "texto": "b)",
+          "posicao": [
+            602,
+            134
+          ]
+        },
+        {
+          "texto": "Secretaria de Educação e Cultura;",
+          "posicao": [
+            602,
+            140
+          ]
+        },
+        {
+          "texto": "c)",
+          "posicao": [
+            611,
+            134
+          ]
+        },
+        {
+          "texto": "Secretaria de Esporte e Lazer;",
+          "posicao": [
+            611,
+            140
+          ]
+        },
+        {
+          "texto": "d)",
+          "posicao": [
+            620,
+            134
+          ]
+        },
+        {
+          "texto": "Secretaria de Saúde;",
+          "posicao": [
+            620,
+            140
+          ]
+        },
+        {
+          "texto": "e)",
+          "posicao": [
+            629,
+            134
+          ]
+        },
+        {
+          "texto": "Departamento Jurídico;",
+          "posicao": [
+            629,
+            140
+          ]
+        },
+        {
+          "texto": "f)",
+          "posicao": [
+            638,
+            134
+          ]
+        },
+        {
+          "texto": "Secretaria de Planejamento e Coordenação Geral;",
+          "posicao": [
+            638,
+            140
+          ]
+        },
+        {
+          "texto": "g)",
+          "posicao": [
+            647,
+            134
+          ]
+        },
+        {
+          "texto": "Secretaria da Fazenda.",
+          "posicao": [
+            647,
+            140
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            656,
+            134
+          ]
+        },
+        {
+          "texto": "– sete (7) membros indicados pelas entidades sociais não governamentais com atuação na área da Criança e Adolescente no município, cadastradas junto ao Conselho Municipal de Assistência Social de Guaíra.",
+          "posicao": [
+            656,
+            140
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2004/leis-ordinarias-1260-2004-sapl-2206.md",
+      "sha256": "32253c9798564387fa552bb40a0448fece185cc2dea6260500fcaf38593ee919",
+      "sha256_fonte": "8c5fbbd7e1dc93070f741a40876e1ca8d2bb2b57ae548a245a94fdc97a946e7e",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/6060021a38f102f924c758716a71ec9b4b57f3b9dcc2b3126618de22339e3117.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2004/leis-ordinarias-1259-2004-sapl-2205.md",
+      "sha256": "de6a86a3873d7d30062f8e5e0a713072918025c52daba037277f504c00762452",
+      "sha256_fonte": "5e2fa4952dec4429d092d65cf310aadd1215b670bc8cf34695371489d6f16f05",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/ace305b87fe0fea4f2a4c38018d706b234e41a8f61f596e55ca682c14d9f1e71.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2004/leis-ordinarias-1258-2004-sapl-2204.md",
+      "sha256": "1ba77597513c93c9c13e1576b758454f6688a3dad1538fe65ae34bc28bf1be27",
+      "sha256_fonte": "4a8878b32d0654330295672a44106d2081b7a4ce76b7a81946955aff7c3eca51",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/8cc417f671ad9af32e3b1f8dee5924e45c7585a3bf7b0a525e6a849f5c5cddf6.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1256-2003-sapl-2202.md",
+      "sha256": "165259b876b107df74cee4d3374a33a97b73c9a010ec13f9a0363996c02028c9",
+      "sha256_fonte": "f039b32bbf8e809159aa79067390d898fbc77e9703f58f1ee2fd97fc453546d9",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/b4d76a540f53d2c9ce7082f9bb55310b6cb2ed85fd71cc234d242314864ed368.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1255-2003-sapl-2201.md",
+      "sha256": "bfa17841876e61114c5c353e64fbc9e5797d9bf88e5e1e936867d96c05dd2c2d",
+      "sha256_fonte": "802056e823d956e858459a6c027b7ec71df6ef583fde1f5a9f3479e492e8ccaa",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/193e84d288ca4cd92b126d439969284f3400cce41954f1d6da36ee4156b56229.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1253-2003-sapl-2200.md",
+      "sha256": "604fdf2c5f834aa2e153cc9026bc37caa626fa72dc1fbeef9ea4a65fb07faabb",
+      "sha256_fonte": "6aa034c3aa7d656c0056f870bd8c8059893d39c49358dd77111a57bb140f3bce",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/775c3d2cd04f29429a815ea59235fa07c735393c727ea9e400fc29ec48c0ae92.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1251-2003-sapl-2198.md",
+      "sha256": "fdd469412adb0634099f64a662816861aea371d1e22b529ac63c2cf1a6f480a8",
+      "sha256_fonte": "938d6a6b02b34a2ee128916f7ffb63053248c9795316e3ab087b122fca087bd2",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/3876c1be0302f3e5e80034300e3a43aadb7a00740881aa828bd6e16ed67c33b9.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1250-2003-sapl-2197.md",
+      "sha256": "010abbe08f55c73ca649df4a6d22894872b1ff0f4d6903b2bf673489af5af1d5",
+      "sha256_fonte": "dddab4a54f894f858c4f8e9a895a2b9acdf1e48d7fb04f7723767a65c20c42f5",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/c71003e93fc91a577ca349e9944148c47e640655c0af0866d58f95f9f9c4e301.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1249-2003-sapl-2196.md",
+      "sha256": "6c2722366e3c7754658a52f88d28531c0b4174a759139578166a1c8a7285c8dd",
+      "sha256_fonte": "30a105949a6d45993013308bd24e1c10df26b7da0a0efb028ff9e4a8ba8389cb",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/2dd841ed6308dba336ea3813f5b25bc3246e2e0d72703c5f31adbe602bcdeca0.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1248-2003-sapl-2195.md",
+      "sha256": "2159859d7f2a593aaabea2349628106596387a29865394050590b6226fa03084",
+      "sha256_fonte": "52c74d0b9f77a564d37faeb47dc2bf7d0e515519ec58ccc6229e4820d214dfae",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/00c0a1a0243eeeb81178d57151ef87aa1bf5e7c3a3c4290377dd04a9db381870.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1245-2003-sapl-2194.md",
+      "sha256": "c4b0af19cec2ad6ad18620d2284999de024c421085febcab984b40eaa505f807",
+      "sha256_fonte": "2e576204c4649533fe4aae80fd5e5b5ab3c715fe7e6b58e488c81f26427b373d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/1b76557a9384508bfd0e7defd22e9e68c77350b5c96cf1fa650e41aefe6e26bc.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1244-2003-sapl-2040.md",
+      "sha256": "c08918381a79ecbbe60da4a394355584ccdaa05917ff2f6f3d53f2489d8c8380",
+      "sha256_fonte": "f0a96902f326e432830056a33097011828f2fe0acbf5a261da273e6ad6261c9d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/8d533ecc72736f0c4f5a608d9ff585d74c29e58bbeef7a44db49747e65c87c83.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1243-2003-sapl-2193.md",
+      "sha256": "c400122064344411561e4ec32f2cd59c3bd42c48dddd29c5b3a109eb2364c586",
+      "sha256_fonte": "ae3ed5c9679b605c9f743ba4e7e151afe4150bcd5799694b16bdb64e3651c28c",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/0a1b24c120005ec5fda5e64eecefcfff96fdbbcd7233792166ab81bd25bc3589.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1242-2003-sapl-2192.md",
+      "sha256": "b641f95b0889e73a7346854af9f586e2af6abbdc52ac0767b774c77c19bba425",
+      "sha256_fonte": "20dcd24bc9cb5b3c0e09acb128679a893bceaa7b1f7a1eac872aca675f5c2ec3",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/8d613a750da907c91f7b5ca1373a2b120590463fed56050b017e70d8b8c8cd87.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1241-2003-sapl-2191.md",
+      "sha256": "95d50e35e8c4e22af02a13881136117525fe8f2a76a3d618a29b6636f91a5b6b",
+      "sha256_fonte": "a8a2f7ec6de7f6835142db5b275a57856f84c3d42fd7cc400bbe3220f3463150",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/f1743dc5c5050afddf43ad62a25f89796b92bea469fef6b74a1e2b8f05a5d60a.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            523,
+            126
+          ]
+        },
+        {
+          "texto": "Os recursos oriundos das operações de crédito autorizadas por esta Lei, serão aplicados na execução do Programa de investimentos Municipal que prevê a aquisição de um caminhão equipado com coletor de lixo urbano, a edificação da Câmara Municipal de Guaíra, a revitalização das três Praças Públicas (Gaspar Dutra, Castelo Branco e Duque de Caxias), a construção de um Centro de Múltiplo Uso, a revisão do Plano Diretor de Guaíra e a atualização da Base Cartográfica e Cadastro Técnico Imobiliário.",
+          "posicao": [
+            523,
+            138
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1240-2003-sapl-2189.md",
+      "sha256": "0e44d02a0bf1dfeaec29cecd7a2d3cf30ba393970ee16398e746eb0a70070f95",
+      "sha256_fonte": "730f1cb239e870ed5f76af461085a8516c754954fa7778b5f130037d16742839",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/dfb1a5b9a120b4b80e7b6c645babf183c094ad761a0a0f2c77523f511c3abc4f.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            446,
+            40
+          ]
+        },
+        {
+          "texto": "5 de Abril de 2006",
+          "posicao": [
+            450,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            450,
+            62
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            456,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 1.387, de 05 de abril de 2006",
+          "posicao": [
+            456,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1239-2003-sapl-2188.md",
+      "sha256": "d34c2a84a44ac8ba6d290c9b7c5297a918c12b056ca01737f58d2dde0b93394d",
+      "sha256_fonte": "7957f596abe991a60d93b1dc6a1d884c71b2ab528df2b8aefe92d0a46948f4b0",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/94221f41e08afc0d492cddf0991a8d69df7f7d994445095ef147a9ce9037080c.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1238-2003-sapl-2186.md",
+      "sha256": "9441d497c345334e4d8718aa7360a41c1a792bfd08283f17abbafeda097154f4",
+      "sha256_fonte": "1be951a9b4e5fb2ec482d7e89cb132f4c413d2706057c488781c7b9d4cd4051b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/f189c7e263bbad8e5e53e24f565e81a1c64f6c0e3056eefc814d73f1dba8a5a1.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            446,
+            40
+          ]
+        },
+        {
+          "texto": "26 de Maio de 2006",
+          "posicao": [
+            450,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            450,
+            62
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            456,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 1.402, de 26 de maio de 2006",
+          "posicao": [
+            456,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1237-2003-sapl-2185.md",
+      "sha256": "43f8dd314a646ce974acab7a64202c80612d835512073b0ffcdecca0c7e819db",
+      "sha256_fonte": "baf540594706c13f88d0abfbf55b5b43e2b4b99ae41e1d6cddf0a12f4e14dd5f",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/c43d96bfa2baf4f7be613407cc35e1b6b6d2c4cb622e88756210abb151f91fec.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1236-2003-sapl-2184.md",
+      "sha256": "0d72ee8886dcd73fc88803e3911c7d916e30239c1a1174a763ed4fb8463c029a",
+      "sha256_fonte": "789b5a42e05704b3353c2b1155931757db131f4b50f17847341ce396c1634a85",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/ad4a606a4ddd176a5cf2431b561a9333c712fcd353da44ca9a3c668914588602.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            446,
+            40
+          ]
+        },
+        {
+          "texto": "16 de Outubro de 2003",
+          "posicao": [
+            450,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            450,
+            65
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            456,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 1.241, de 16 de outubro de 2003",
+          "posicao": [
+            456,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1234-2003-sapl-2181.md",
+      "sha256": "4dc3d2d788c1e6dd8b706bea6acfdddb097b78d87c4f4844d12eb947b263d965",
+      "sha256_fonte": "db7219e33f4dbd3e3ae9ac99703c97bfd98586fd63aca6844e41683eb1452045",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/019b346923e1378298299bea82f9edf5c3bfb6a9d9bead5775f5214cd48e54df.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            446,
+            40
+          ]
+        },
+        {
+          "texto": "19 de Dezembro de 2005",
+          "posicao": [
+            450,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            450,
+            66
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            456,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 1.361, de 19 de dezembro de 2005",
+          "posicao": [
+            456,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1233-2003-sapl-2180.md",
+      "sha256": "969bbd723abf419256bb59d93da4979b9816cb44b970a6ee4777843dca5056cd",
+      "sha256_fonte": "76a6f737521e9f45bd4f4c544fafff880e4519daa9b747f8abf22e11d2ec8c90",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/5590ada942ada609fb83e735bca7fd65156b9ee966fff3be24c33a903873b4af.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1232-2003-sapl-2179.md",
+      "sha256": "0cd289a206d08b8931b2062b7c7f9baa359570efd51fb67efa7f3fe03bb482a5",
+      "sha256_fonte": "75d688f1c8bc6fe819ba34d875de3d150de55a099a79f81dce2ccacc763749a5",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/98af2e8d26685f0713511f6ab5cc6f1ace027ef1841d5f0a79547b42c8f425e1.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1231-2003-sapl-2178.md",
+      "sha256": "a145fb3af753ed979c385dbc4982aaba61e020d591e1f67b2cf1d64886087df7",
+      "sha256_fonte": "14dceca69f6e947db07cdf80a733efde83d23684f4b25ebd4e27f61211c6111d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/faf5e65c42ab804d2c85a5858c56e40f452047f26fccf7b4659d5b7e1daac6a9.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1230-2003-sapl-2177.md",
+      "sha256": "4903be5be194692dd61f4e7a4a641daea63d518b9b7fd915d6bf1fbe23465c5e",
+      "sha256_fonte": "76f4787d66396bf0711070706680594975f144d8fc47097d4f2922ab8410b791",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/1375e55ae0dac8fe1964d0bacd11d9e56f066b49c52abdab77ff27caee6c9f6a.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1228-2003-sapl-2175.md",
+      "sha256": "2f68a7762822429ad04d810bd09150c49e9463963b03e8e738e8b0f89623dbc1",
+      "sha256_fonte": "e3ae8de36130ecb46d784ee8a2082d6156f0c6068eb9914d8de14997891ce02a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/38fa4dba81e2706f2e1d44a3937798b85c41208130ae6b7e58e311b778831ac0.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1227-2003-sapl-1836.md",
+      "sha256": "cb69856312a8ab68e90b46a3737cb7ac2bd5930d64d96978171c5faf021d46ec",
+      "sha256_fonte": "b22bb1008ce028ae006ae422b78e982f32f583924800d6edfd9c5c17c6efd9d6",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/e3aa0801ef5bc9cc602e6089a73227008264687d62af809d8253a4f585165bac.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            523,
+            137
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            523,
+            145
+          ]
+        },
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            532,
+            137
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            532,
+            145
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1226-2003-sapl-2174.md",
+      "sha256": "4bb55fd0308fead7a62835bf2a3d081165186974334e67ea161625f84e0430f3",
+      "sha256_fonte": "a5ce2471aabe01bf8e108e4b14298bbb7aa95acddc25bad3b359f7933296a6de",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/12590fd0d6c414435129c5481e2934432a9aa9e61e750224c34af635617a11e6.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2003/leis-ordinarias-1225-2003-sapl-2173.md",
+      "sha256": "7e1e00b35a10cb843b14a6db2a37ba2d50776ef8bd58b30adc7b4d1f18e0e447",
+      "sha256_fonte": "d1867543e0b1c5978a2e366aec4871e880e595c3e9a61c495d04bec3ca3e8b95",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/ac6c84e8452834a7ddb90de2a7df8058af08b21139c1e2245de986bdf2253e00.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2002/leis-ordinarias-1223-2002-sapl-2168.md",
+      "sha256": "b3de58189841c8d3d52d4eabc22682743ed71de34bd48a4835ead2cbc4296a9c",
+      "sha256_fonte": "46078907e3c33324c331e70c15b2ab082b5ca03c2f1a5586fcf120c843b2ccd5",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/d59ade09b54cbedbce86ed8ec5f9d61daa1015c9923f5a7729f0e502ed279b27.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2002/leis-ordinarias-1221-2002-sapl-2166.md",
+      "sha256": "2dd883d1bd720d3a3068bd86c9ca205ff80aebb30efbaa61a31fdfe87878a711",
+      "sha256_fonte": "22c88b497c2412206d56ed8a51409053da61a1a811ec7fd7618b1a131a885899",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/19015d15536c8ecb1c84f838d34bd0fe539803e34fd171e82175f0419ba04d9d.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2002/leis-ordinarias-1220-2002-sapl-2140.md",
+      "sha256": "5ce5202656236dca6c6326853f8b637e1fe5c9306497aabd054f1d2849efcee7",
+      "sha256_fonte": "a1f3b48d1394a41ad2c3a4167a084925dc470a2d7a153074a24b3d0884431ce6",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/cf2c0e218cdc844a9d4662384646deae4eafdbe84164fd8d9623d122902fb232.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2002/leis-ordinarias-1218-2002-sapl-2164.md",
+      "sha256": "75cf5e2d42617c32075357ed5a9ee3e4b652d6b88690b68ebacc62fa9f27e8d8",
+      "sha256_fonte": "4ab4bd5c1231c3acc79889383949572739f3eb101b962496f61e3dd1317fce5f",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/c1f89a14362c343e6b7329d154d9d57e668aff7d0a1bbf7f51aeba880db601ac.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2002/leis-ordinarias-1217-2002-sapl-2163.md",
+      "sha256": "e14bdf119953266a7340d3e91de660c05036c40dc37f957d1532b912c1f55b7f",
+      "sha256_fonte": "55309675b9085e27a9abf35165197f1700cf6417aee41598be0849046d6994ea",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/a2e96fd847b7e7edcdf2d6f9507de48c0bb7a04f68bbb3811a210e002604d0df.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2002/leis-ordinarias-1216-2002-sapl-2162.md",
+      "sha256": "6919885cfa5c83fed91d9a1bf7e0237dd9f6c8a3a228b9cd345221e7581c7799",
+      "sha256_fonte": "aa04258b106c25e93613c322a2f33c9bf2d744a90cc94d0e34da13ab487dd0f7",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/39cdb4215a9805b6e30b8fb7916e23ee36547de3d8d9f9ffa80bdddbf811c851.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2002/leis-ordinarias-1215-2002-sapl-2161.md",
+      "sha256": "434ba1ae03e547b57f99688019302335bf8325a6bbcc61eda542a15b123ed15e",
+      "sha256_fonte": "a8e67de32688ae8461f96904afa1ab6adac5958415114c16a556b7481855d926",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/82d421390b3e010f6d0c245bd3eadb30fad0a27c2fed3caebe7a276592824e85.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2002/leis-ordinarias-1214-2002-sapl-2160.md",
+      "sha256": "7887f167462e86256b00778ebb164e306bcf6252f303570728e30d1f92d8d7ad",
+      "sha256_fonte": "a7e14431b8a5505b0e67814bbb913e831494c811e10c1178bae856a7abc69fd9",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/da2f6a6a3fe9df52b12c01309b877991a873f2368e756393a898a3ab156c4ba6.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2002/leis-ordinarias-1213-2002-sapl-2159.md",
+      "sha256": "8e6192d784f1e5da647b50cf69e2caa362795ec7cac148bb92744a292ec9a95f",
+      "sha256_fonte": "e2edd544a32173b86816ccb938e1a73c2e50230d163f2739e69bc4be6d5460cb",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/613fd7b1dd85bb1abf87da313c7cedf831ede87989fd5e1ef915c675d822972f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2002/leis-ordinarias-1212-2002-sapl-2158.md",
+      "sha256": "1bf76833b582a5b109f9d2a528dc141710a5194d3a40c764bddfb048d914f54e",
+      "sha256_fonte": "d6f98f1fe379c6e3008ea95dd9839e69b5b89d7c580749796371ad0ae2555f6e",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/df6ee76f98fdfa463cb5d064ed952d28a417bb3d66aecad354980ba666bd54de.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2002/leis-ordinarias-1211-2002-sapl-2157.md",
+      "sha256": "dcec82c2d89fad0a2efb29efb946086c85926cd1a24e8dc1cad65a2dd4af9d65",
+      "sha256_fonte": "14fa9689df76882eabbf72bd9e6b5a01f7b06075f982de1edc04b710ccb46650",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/785aca269bbc1f04d36207f8f14f670411343d5d88f86df00cfcc85db58955ef.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2002/leis-ordinarias-1210-2002-sapl-2156.md",
+      "sha256": "9bae8c43a522c62f058bfad52586c5d3029e11b10bda4ed93bf13561e25a4a5b",
+      "sha256_fonte": "006298844bae7d819f71e856888209bc24632488e04465a7f5717df500306de4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/cfad0ab1c2299e768a58e2e6094f7b521c23d2a7226f7c6795d4e8c972428556.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2002/leis-ordinarias-1209-2002-sapl-2155.md",
+      "sha256": "80fe088b792523800e7f21b30ed88e8ffd2d5b0668d7a2fe269808de81a36cff",
+      "sha256_fonte": "48f050101b6164883bdfc2b3d021bc53585715b0ceb3953ef8d6505267a36d3b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/f2f84acf34f7423dcd781e275a2fcadf141180627a35335b6e2e47b4cb404a9f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2002/leis-ordinarias-1208-2002-sapl-2154.md",
+      "sha256": "119b43cbae761359075cb9069f24cc27a04baa629dbeb02b408f3c910777fb41",
+      "sha256_fonte": "f4947f3b19d6973c0e5069a9280193e947f1cba9c92ccb43fd73e8619d8f91dc",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/30e8f24cccecc0615fd78349f79c9f4c6200a8b67264de8958aebc1979bbb875.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    }
+  ],
+  "limite": "Texto fora do bloco pode ser histórico, alterado ou duplicado; retenção é preventiva, sem afirmar omissão antes de revisão. Os controles de seleção de vigência e de tokens por dispositivo continuam necessários."
+}

@@ -1,0 +1,750 @@
+---
+titulo: "Lei Ordinária-GPREF nº 2.818, de 02 de agosto de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2.818"
+data: "2023-08-02"
+municipio: "Guarujá do Sul"
+uf: "SC"
+codigo_ibge: "4206603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guarujadosul.sc.leg.br/norma/3077"
+fonte_texto: "https://sapl.guarujadosul.sc.leg.br/ta/1694/text"
+sha256_fonte: "34d7a8713f0861dede3ab07412fadd0612b8b5760e61a0b065bd77f8268fe935"
+sha256_texto: "6642a04b82b8937b92f7bdccfac57501a619581924e43e716aacedf7003278df"
+capturado_em_fonte: "2026-10-28T13:35:50.868992-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-GPREF nº 2.818, de 02 de agosto de 2023
+
+Art. 1º.
+
+Esta Lei regulamenta a Gestão Democrática do Ensino Público Municipal de Guarujá do Sul-SC, em cumprimento à Meta 19 da Lei Municipal n. 2.436, de 18 de junho de 2015.
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 2º.
+
+A investidura no cargo de Diretor de Escola, previsto na Lei n. 1.887/2006 se dará pelo processo de critérios técnicos de mérito, desempenho e consulta pública à comunidade escolar, para mandato de 04 (quatro) anos, permitida apenas uma recondução.
+
+
+§ 1º
+
+A nomeação e posse dar-se-ão por ato do Chefe do Poder Executivo Municipal.
+
+
+§ 2º
+
+Ao término de uma recondução, o profissional da educação poderá novamente se candidatar após o interstício de 04 (quatro) anos.
+
+
+§ 3º
+
+O processo de escolha dos gestores pela comunidade escolar no Município de Guarujá do Sul, será realizado a cada 04 (quatro) anos, preferencialmente entre os meses de outubro a dezembro em todas as Unidades Escolares da Rede Municipal de Ensino de Guarujá do Sul, no mesmo dia, no período de 07 (sete) horas às 20 (vinte) horas, em cronograma a ser definido e publicado pela Comissão Central.
+
+
+§ 4º
+
+Nas Unidades Escolares que integram mais de uma escola, será eleito apenas um Diretor Escolar, que fará a gestão compartilhada.
+
+
+#### CAPÍTULO II — DA DEFINIÇÃO DAS ETAPAS DO PROCESSO
+
+
+Art. 3º.
+
+As etapas do processo de escolha de candidatos à função de Diretor Escolar das Unidades de Ensino da Rede Municipal de Guarujá do Sul compreendem:
+
+
+I –
+
+1ª Etapa - Processo Avaliativo - Apresentação do Plano de Gestão: consistindo na apresentação do Plano de Gestão, tendo como finalidade definir e dar ciência à comunidade dos instrumentos de gestão que o candidato pretende executar, que será avaliado com observância ao disposto no artigo 9º desta Lei;
+
+
+II –
+
+2ª Etapa - Processo Consultivo: de caráter eliminatório, consiste na Consulta Pública para a escolha dos candidatos à função de Diretor Escolar, pela comunidade escolar, e tem como diretriz o estímulo à participação da comunidade escolar, sendo realizado em todas as Unidades de Ensino Infantil e Fundamental.
+
+
+III –
+
+3ª Etapa - Processo Formativo: consiste na participação do Diretor Escolar eleito e empossado, em curso de formação continuada em gestão escolar, durante o exercício do mandato, com o objetivo de promover atualização, aprofundamento, complementação e ampliação de conhecimentos indispensáveis ao exercício da função, necessários ao desenvolvimento de novas competências em gestão, monitoramento e avaliação educacional.
+
+
+#### CAPÍTULO III — DO PROCESSO DE APRESENTAÇÃO DO PLANO DE GESTÃO
+
+
+Art. 4º.
+
+O processo de apresentação do Plano de Gestão resultará na Certificação de candidatos à função de Diretor de Escola das Unidades de Ensino da Rede Municipal do município de Guarujá do Sul, e dar-se-á em fase única, sem caráter classificatório ou eliminatório, consistindo na apresentação do Plano de Gestão, de acordo com os critérios a serem estabelecidos pela Secretaria Municipal de Educação e Comissão Central.
+
+
+Art. 5º.
+
+As inscrições para o processo serão realizadas exclusivamente na seguinte forma:
+
+
+I –
+
+o candidato, para a sua inscrição, deverá preencher, obrigatoriamente, o formulário físico ou eletrônico, e encaminhá-lo à Secretaria Municipal de Educação, somente através do Protocolo Geral da Prefeitura Municipal de Guarujá do Sul, com a documentação comprobatória respectiva.
+
+
+II –
+
+o candidato poderá requerer emissão de certidão junto ao Protocolo Geral da Prefeitura Municipal onde conste a listagem dos documentos anexados e o número de páginas integrantes do processo.
+
+
+III –
+
+a inscrição do candidato à função de Diretor Escolar implicará na tácita aceitação das normas e condições estabelecidas nesta Lei e demais regulamentos pertinentes, em relação às quais o candidato não poderá alegar desconhecimento, devendo acompanhar as publicações e divulgação de todos os atos, editais e comunicados referentes ao processo.
+
+
+IV –
+
+será cancelada a inscrição e anulados todos os atos dela decorrentes, em qualquer época, quando o candidato omitir dados, prestar declarações falsas ou inexatas no ato da inscrição, sem prejuízo das sanções administrativas e penais cabíveis.
+
+
+V –
+
+o candidato com deficiência estará sujeito a todos os critérios estabelecidos nesta Lei, asseguradas às condições diferenciadas para seu atendimento durante a realização das etapas, condicionada à solicitação prévia do candidato com deficiência, e à análise, pela Comissão Central da legalidade e da viabilidade do pedido.
+
+
+#### CAPÍTULO IV — DA AVALIAÇÃO DO PLANO DE GESTÃO
+
+
+Art. 6º.
+
+O Plano de Gestão representa o compromisso inicial do candidato para com a Unidade de Ensino e sua comunidade escolar, bem como para com a Secretaria Municipal de Educação.
+
+
+Art. 7º.
+
+O Plano de Gestão será aprovado sempre que cumprir todos os critérios estabelecidos na forma do Art. 9º desta Lei.
+
+
+Parágrafo único
+
+Em caso de rejeição do Plano, o candidato terá prazo, definido no Edital, para sua adequação, passando por nova avaliação até sua adequada conclusão.
+
+
+Art. 8º.
+
+Todos os interessados em participar do processo de escolha dos Gestores Escolares para a função de Diretor das Unidades Municipais de Ensino Infantil e Fundamental de Guarujá do Sul devidamente inscritos, deverão apresentar Plano de Gestão.
+
+
+Art. 9º.
+
+O Plano de Gestão deverá conter:
+
+
+I –
+
+o diagnóstico da Unidade Escolar, tanto das dimensões pedagógica, administrativa e de estrutura humana e física, na qual pretende ser Diretor Escolar;
+
+
+II –
+
+as ações que o candidato, na hipótese de ser eleito, planeja implementar, em busca de melhorias em todas as dimensões;
+
+
+III –
+
+o detalhamento dos objetivos e das metas a serem atingidas e ações que evidenciem o compromisso do Município em garantir o acesso, a permanência e a inclusão dos estudantes na Rede Municipal de Ensino, bem como o percurso formativo destes com ênfase na aprendizagem e na perspectiva de formação integral, em consonância com o Projeto Político Pedagógico e a legislação vigente.
+
+
+§ 1º
+
+Ao elaborar o Plano de Gestão o candidato à função de Diretor Escolar deverá utilizar o roteiro a ser publicado pela Comissão Central e Secretaria Municipal de Educação.
+
+
+§ 2º
+
+O Diretor da unidade escolar responde civil, penal e administrativamente pelo exercício irregular de suas atribuições, conforme disposto em lei.
+
+
+#### CAPÍTULO V — DO RESULTADO DO PROCESSO AVALIATIVO E DA CERTIFICAÇÃO DE CANDIDATOS À FUNÇÃO DE DIRETOR DE ESCOLA
+
+
+Art. 10.
+
+A homologação da inscrição dos candidatos à função de Diretor Escolar das Unidades de Ensino da Rede Municipal de Guarujá do Sul será concedida ao candidato cujo Plano de Gestão preencha todos os critérios estabelecidos nesta Lei e seja devidamente aprovado na forma do artigo 7º.
+
+
+#### CAPÍTULO VI — DOS CRITÉRIOS E PROCEDIMENTOS PARA O PROCESSO CONSULTIVO
+
+
+Art. 11.
+
+O Processo Consultivo consiste na consulta pública para a escolha dos candidatos as vagas do cargo de Diretor de Escola, pela comunidade escolar, e tem como diretriz o estímulo à participação da comunidade escolar, sendo realizado nas Unidades de Ensino.
+
+
+Art. 12.
+
+O Conselho Municipal de Educação, órgão colegiado do Sistema Municipal de Ensino, de natureza participativa e representativa da comunidade na gestão da educação, exerce as funções de caráter normativo, consultivo e deliberativo nas questões que lhe são pertinentes, será responsável pela aprovação de normatização que complemente as diretrizes para o processo consultivo na escolha de candidatos à função de diretor escolar, conforme critérios definidos nesta Lei.
+
+
+Art. 13.
+
+Entende-se por comunidade escolar, para os efeitos desta Lei:
+
+
+I –
+
+o conjunto de estudantes matriculados do 4º ao 9º Ano do Ensino Fundamental;
+
+
+II –
+
+o pai ou a mãe ou ainda o(a) responsável pelo(a) aluno(a), desde que previamente cadastrado(a), com direito a 01 (um) voto, qualquer que seja o número de filhos matriculados(as) na mesma Unidade de Ensino;
+
+
+III –
+
+membros do quadro funcional do magistério, em efetivo exercício, assim entendidos, para os efeitos desta Lei, os professores, assessores, efetivos e contratados, com direito a um voto por unidade escolar que atue;
+
+
+IV –
+
+demais servidores públicos em efetivo exercício no estabelecimento de ensino, efetivos e contratados, com direito a um voto cada.
+
+
+Art. 14.
+
+O candidato à função de Diretor de Escola poderá concorrer em apenas 01 (uma) das vagas oferecidas.
+
+
+#### CAPÍTULO VII — DA INSCRIÇÃO DOS CANDIDATOS
+
+
+Art. 15.
+
+Constituem requisitos básicos para a inscrição dos candidatos à função de Diretor de Escola, os quais deverão ser atendidos de forma cumulativa pelos candidatos:
+
+
+I –
+
+ser servidor efetivo vinculado à rede municipal de ensino, com formação em nível superior na área da educação com pós-graduação em Gestão Escolar ou ter formação superior, em grau de Licenciatura em Pedagogia ou em nível de Especialização em Gestão Escolar quando se tratar de Licenciatura em outra área;
+
+
+II –
+
+ser servidor, ocupante de cargo efetivo, com no mínimo 03 (três) anos de efetivo exercício no Sistema Municipal de Ensino de Guarujá do Sul;
+
+
+III –
+
+não ter sido condenado em processo administrativo disciplinar ou judicial;
+
+
+IV –
+
+apresentar, no caso de ter sido gestor de recursos, declaração de regularidade na aplicação de recursos públicos e de aprovação da prestação de contas.
+
+
+V –
+
+o candidato, no ato de sua inscrição, deverá assumir compromisso de prestar assistência à Unidade Escolar para a qual se candidatar, em todos os seus turnos de funcionamento, perfazendo uma carga horária semanal de 40 (quarenta) horas, no período de sua posse na função de Diretor Escolar até o final de seu mandato, com dedicação exclusiva na função;
+
+
+VI –
+
+não estar em mudança de função provisória e/ou definitiva, por determinação da perícia médica deste Município;
+
+
+VII –
+
+não estar afastado ou licenciado, qualquer que seja a finalidade ou motivo, por período que ultrapasse a data prevista de sua posse na função de Diretor Escolar;
+
+
+VIII –
+
+atender às exigências estabelecidas nesta Lei;
+
+
+IX –
+
+o candidato deverá comprovar:
+
+
+a)
+
+estar quite com a legislação eleitoral e militar;
+
+
+b)
+
+apresentar certidões negativas civil e criminal;
+
+
+c)
+
+apresentar certidão de regularidade fiscal Municipal, Estadual e Federal;
+
+
+d)
+
+demonstrar estar apto a gerir e ser titular de contas bancárias;
+
+
+e)
+
+apresentar declaração de bens ou Declaração do Imposto de Renda atualizada, no ato da inscrição e também no término do mandato;
+
+
+f)
+
+comprovar residência no Município de Guarujá do Sul.
+
+
+§ 1º
+
+Excepcionalmente, no pleito inicial, caso o candidato possua Licenciatura, porém não tenha a especialização exigida, será aceita sua inscrição mediante apresentação de comprovante de matrícula e frequência em curso de Gestão Escolar, devendo apresentar o Certificado de Conclusão no prazo de 12 meses após sua posse;
+
+
+§ 2º
+
+Não havendo candidatos efetivos inscritos para o pleito, após 20 (vinte) dias do início do processo de inscrições, será admitida a inscrição de candidatos não efetivos, que atendam aos critérios desta Lei e que tenham no mínimo 02 (dois) anos de experiência na Rede Municipal de Ensino de Guarujá do Sul.
+
+
+§ 3º
+
+Quando não satisfeita a inscrição na forma do §2º deste artigo, no prazo definido no Edital, poderá ser aceita inscrição de servidor de qualquer rede de ensino, inclusive privada, desde que tenha pós-gradução em gestão escolar e, por fim se não concorrer ninguém, a nomeação será feita pelo Prefeito Municipal, respeitados os incisos III, IV, V, VI, VII, IX do artigo 15 desta Lei, cujo nomeado deverá ter curso superior e exercerá plenamente a função por todo o mandato correspondente, salvo exoneração a pedido ou por dispensa.
+
+
+#### CAPÍTULO VIII — DAS COMISSÕES
+
+
+Art. 16.
+
+O processo de escolha será realizado pela Secretaria Municipal de Educação em parceria com o Conselho Municipal de Educação que instituirá:
+
+
+I –
+
+Comissão Eleitoral Central;
+
+
+II –
+
+Comissão Eleitoral Escolar.
+
+
+Parágrafo único
+
+As Comissões a que se refere este artigo serão constituídas de membros titulares e de igual número de suplentes, correspondentes a cada representação.
+
+
+Art. 17.
+
+O Secretário Municipal de Educação tornará pública a Comissão Eleitoral Central, composta por 05 (cinco) membros, representantes dos seguintes segmentos:
+
+
+I –
+
+01 (um) servidor da SME (Secretaria Municipal de Educação de Guarujá do Sul), em exercício no Sistema Municipal de Ensino;
+
+
+II –
+
+02 (dois) membros representantes do Conselho Municipal de Educação de Guarujá do Sul;
+
+
+III –
+
+02 (dois) servidores representantes dos professores em docência da Rede Pública Municipal, indicados pelo quadro do Magistério do Sistema Municipal de Ensino.
+
+
+§ 1º
+
+Em sua primeira reunião, convocada pelo Secretário Municipal de Educação, a Comissão Central escolherá dentre seus membros o Presidente, Vice-Presidente e Secretário.
+
+
+§ 2º
+
+Ficam impedidos de compor a Comissão Eleitoral Central e as Comissões Eleitorais Escolares os integrantes intencionados em se candidatarem ou que mantenham grau de parentesco até terceiro grau, com quaisquer candidatos.
+
+
+§ 3º
+
+A Comissão Central será de caráter permanente, com prazo de vigência de 04 (quatro) anos.
+
+
+Art. 18.
+
+A Comissão Central funcionará com a presença, de pelo menos 03 (três) de seus membros, deliberando com a maioria simples dos presentes.
+
+
+Parágrafo único
+
+A ausência de representantes de determinada classe ou entidade, não impedirá o funcionamento da Comissão Central.
+
+
+Art. 19.
+
+A Comissão Central exercerá as seguintes competências:
+
+
+I –
+
+elaborar e aprovar seu Regimento Interno, até a segunda reunião;
+
+
+II –
+
+coordenar o processo de escolha, analisar e aprovar o Plano de Gestão apresentado pelo candidato, fixando as correções necessárias quando for o caso;
+
+
+III –
+
+divulgar o calendário e os procedimentos do processo eleitoral para todas as Comissões Locais;
+
+
+IV –
+
+convocar as Comissões Locais para a instalação dos seus trabalhos;
+
+
+V –
+
+sistematizar as inscrições encaminhadas pelas Comissões Escolares;
+
+
+VI –
+
+prestar orientações e esclarecimentos aos Membros das Comissões Escolares para o desenvolvimento do processo seletivo, inclusive as que ocorram durante a votação e apuração;
+
+
+VII –
+
+expedir instruções normativas acerca da pertinência e limites da propaganda referente ao processo nas unidades escolares;
+
+
+VIII –
+
+encaminhar e distribuir o material à votação para as Comissões Escolares;
+
+
+IX –
+
+fiscalizar o processo realizado pelas Comissões Eleitorais Escolares;
+
+
+X –
+
+encaminhar à Comissão Escolar o resultado das eleições das escolas sob sua circunscrição;
+
+
+XI –
+
+analisar e julgar os recursos referentes ao processo;
+
+
+XII –
+
+declarar nulo o processo de escolha na unidade escolar em que forem constatadas irregularidades decorrentes de:
+
+
+a)
+
+descumprimento de prazo estabelecido oficialmente;
+
+
+b)
+
+rasuras em atas e documentos que fazem parte do processo;
+
+
+c)
+
+resultados fraudulentos;
+
+
+d)
+
+violação de urnas;
+
+
+e)
+
+falta de assinatura dos componentes da mesa de votação, em cédulas, que possa comprometer o processo de escolha.
+
+
+XIII –
+
+resolver casos omissos;
+
+
+XIV –
+
+encaminhar à Secretaria Municipal de Educação a relação dos (as) escolhidos (as) para as providências cabíveis;
+
+
+XV –
+
+declarar a validade do processo de escolha no âmbito das Comissões Escolares.
+
+
+Parágrafo único
+
+Será disponibilizada uma sala na sede da Secretaria Municipal de Educação, devidamente equipada, para o funcionamento das ações de trabalho da Comissão Eleitoral Central durante todo o processo que consta nesta Lei.
+
+
+Art. 20.
+
+A Comissão Eleitoral Escolar será composta por:
+
+
+I –
+
+02 (dois) representantes dos profissionais da educação do Sistema Municipal de Ensino, lotados na respectiva unidade escolar;
+
+
+II –
+
+01 (um) representante dos demais servidores da Educação;
+
+
+III –
+
+01 (um) representante dos pais ou responsáveis legais;
+
+
+IV –
+
+01 (um) representante dos estudantes, devidamente qualificado em conformidade com o Art. 17, inciso I, desta Lei, ou pai ou responsável pelo estudante quando se tratar de Unidade Escolar de Educação Infantil;
+
+
+§ 1º
+
+Os integrantes da Comissão Escolar serão indicados pelo Conselho Escolar de cada unidade.
+
+
+§ 2º
+
+A Comissão Eleitoral Escolar, uma vez constituída, elegerá um dos seus membros para presidi-la.
+
+
+§ 3º
+
+Não poderá integrar a Comissão Eleitoral Escolar: o candidato, seu cônjuge, ou parentes do candidato, ainda que por afinidade, até o terceiro grau, colateral ou em linha reta.
+
+
+Art. 21.
+
+A Comissão Escolar terá as seguintes competências:
+
+
+I –
+
+organizar e acompanhar o processo, a partir da inscrição dos candidatos até a apuração e divulgação dos atos e resultados, garantindo sua publicação;
+
+
+II –
+
+promover debates a fim de tornar públicas as propostas dos(as) candidatos(as);
+
+
+III –
+
+resolver as impugnações e demais incidentes verificados durante os trabalhos de votação, contagem e apuração, obedecendo as normas do processo eleitoral, podendo esta decisão ser submetida a recurso para a Comissão Eleitoral Central;
+
+
+IV –
+
+encaminhar a Comissão Central, imediatamente após o término do processo, as urnas com os respectivos boletins de apuração e respectivas atas.
+
+
+#### CAPÍTULO IX — DA ESCOLHA
+
+
+Art. 22.
+
+Terá direito de voto a comunidade escolar estabelecida no art. 13 desta Lei.
+
+
+§ 1º
+
+Cada representante do segmento de pais ou responsáveis terá direito a apenas um voto em cada Unidade Escolar, independentemente do número de estudantes que represente.
+
+
+§ 2º
+
+Para o atendimento ao disposto no parágrafo anterior, o representante do segmento de pais ou responsáveis será escolhido, conforme dispuser o regulamento geral do processo.
+
+
+Art. 23.
+
+Ninguém poderá votar mais de uma vez na mesma Unidade Escolar, ainda que represente segmentos diversos ou acumule cargos ou funções.
+
+
+§ 1º
+
+Fica assegurado o voto ao cônjuge, no segmento pais, para profissionais da educação que possuem filhos estudantes e que optarem por votar no segmento servidores do magistério.
+
+
+§ 2º
+
+O ocupante do quadro do magistério que trabalha em mais de uma escola, poderá votar nas escolas em que exerce suas atividades.
+
+
+Art. 24.
+
+O número mínimo de votantes para validação do processo eleitoral, independente do número de cadastrados por segmento, será de 30% (trinta por cento).
+
+
+Art. 25.
+
+Apurados os votos, será proclamado(a) eleito(a) o(a) candidato(a) que:
+
+
+I –
+
+no caso da candidatura única, obtiver 50% (cinquenta por cento) mais 01 (um) da pontuação válida, de acordo com a proporcionalidade de votos daquela Unidade Escolar;
+
+
+II –
+
+no caso de mais de uma candidatura, será eleito(a) o candidato(a) que obtiver o maior número de votos daquela Unidade de Escolar;
+
+
+III –
+
+ocorrendo, em primeiro lugar, o empate de 02 (dois) ou mais candidatos(as), será considerado(a) eleito(a) o(a) candidato(a) com mais tempo de efetivo exercício na Rede Municipal de Ensino de Guarujá do Sul, e, permanecendo o empate, o candidato que possuir idade maior.
+
+
+Parágrafo único
+
+O processo será anulado quando os votos brancos e nulos superarem os votos válidos.
+
+
+Art. 26.
+
+Deverão ocorrer eleições extraordinárias para as Unidades de Ensino que se encontrem em situação de:
+
+
+I –
+
+criação de novas Unidades de Ensino;
+
+
+II –
+
+exoneração do(a) Diretor(a) eleito(a);
+
+
+III –
+
+mandato de direção sub judice.
+
+
+§ 1º
+
+No caso do inciso I ocorrerá indicação da Secretaria Municipal de Educação após a constituição do Conselho Escolar, o processo de escolha de diretores(as) no prazo máximo de 01 ano.
+
+
+§ 2º
+
+O processo de escolha extraordinário ocorrerá para cumprir o período correspondente à complementação do mandato em curso, que não poderá ser inferior a 01 (um) ano de intervalo entre mandatos.
+
+
+§ 3º
+
+Ocorrendo a vacância faltando até 11 (onze) meses e 29 (vinte e nove) dias para complementação de mandato, o Poder Executivo, juntamente ao Conselho Municipal de Educação escolherá um Diretor “pro-tempore”.
+
+
+§ 4º
+
+Caberá ao Chefe do Poder Executivo, no caso de afastamento superior a 30 (trinta) dias consecutivos do Diretor de unidade escolar, consultado o Conselho Municipal de Educação, designar um Diretor em caráter temporário pelo período que perdurar o afastamento.
+
+
+#### CAPÍTULO X — DOS CRITÉRIOS E PROCEDIMENTOS PARA O PROCESSO FORMATIVO
+
+
+Art. 27.
+
+O Processo Formativo consiste na participação do Diretor Escolar em curso de formação continuada em gestão escolar, com o objetivo de promover atualização, aprofundamento, complementação e ampliação de conhecimentos indispensáveis ao exercício da função, necessários ao desenvolvimento de novas competências em gestão, monitoramento e avaliação educacional.
+
+
+Parágrafo único
+
+No ato da posse, o Diretor Escolar assinará o Termo de Compromisso de Gestão Escolar, no qual também se comprometerá em participar da formação continuada de que trata o caput deste artigo.
+
+
+#### CAPÍTULO XI — DA PROCLAMAÇÃO DOS RESULTADOS E DA POSSE
+
+
+Art. 28.
+
+Homologado o resultado final do processo pela Comissão Eleitoral Central, o Secretário Municipal de Educação encaminhará a lista nominal com os eleitos das Unidades de Ensino participantes ao Chefe do Executivo Municipal para o ato de nomeação do servidor eleito.
+
+
+§ 1º
+
+O candidato eleito não tomará posse na função de Diretor Escolar enquanto acumular cargos comissionados ou funções da mesma natureza nas esferas Municipal, Estadual ou Federal e/ou desses cargos não estiver desincompatibilizado até a data prevista para a respectiva posse.
+
+
+§ 2º
+
+O candidato eleito, empossado, entrará em exercício e passará a ocupar o cargo comissionado de Diretor de Escola, salvo opção pela gratificação quando se tratar de candidato eleito ocupante de cargo de provimento efetivo, sendo regido, em qualquer caso, pelo direito administrativo com vinculação ao Estatuto dos Servidores Públicos e ao Plano de Carreira e de Remuneração dos profissionais da educação do município de Guarujá do Sul, com vencimentos previstos em lei.
+
+
+#### CAPÍTULO XII — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 29.
+
+O primeiro processo de escolha dos gestores pela comunidade escolar será iniciado em até 15 (quinze) dias a contar da publicação desta Lei, cabendo à Secretaria Municipal de Educação, em conjunto com o Conselho Municipal de Educação e com a Comissão Eleitoral Central e Comissões Eleitorais Escolares, organizar e realizar o pleito eleitoral, com a devida proclamação do resultado.
+
+
+Parágrafo único
+
+A gestão dos Diretores escolhidos no pleito de 2023 dar-se-á no período de 01/01/2024 a 31/12/2027.
+
+
+Art. 30.
+
+O Plano de Gestão apresentado pelo Diretor eleito, será implementado durante o período do seu mandato, cabendo a Secretaria Municipal de Educação, com a participação da Comissão Eleitoral Central monitorar e avaliar a sua execução.
+
+
+Art. 31.
+
+O Conselho Escolar poderá, mediante ato fundamentado, recomendar ao Secretário(a) Municipal de Educação, a destituição do Diretor que cometa ilícito penal, falta de idoneidade moral, de assiduidade, de eficiência e ainda por infração funcional e disciplinar conforme regras do Estatuto dos Servidores Públicos Municipais.
+
+
+Parágrafo único
+
+Em caso de omissão do Conselho Escolar quanto ao disposto no caput deste artigo, caberá ao Secretário Municipal de Educação por conhecimento próprio ou por outros canais de denúncia, adotar as medidas cabíveis à consecução do disposto no caput deste artigo.
+
+
+Art. 32.
+
+O processo de escolha de candidatos à função de Diretor de Escola obedecerá ainda às normatizações complementares do Conselho Municipal de Educação e da Comissão Central.
+
+
+Art. 33.
+
+Para cobrir as despesas oriundas da execução da presente Lei serão utilizados recursos do orçamento municipal.
+
+
+Art. 34.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 35.
+
+Ficam revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE GUARUJÁ DO SUL, SC, em  
+02 de agosto de 2023.  
+72º ano da Fundação e 61º ano da Instalação.  
+Claudio Junior Weschenfelder  
+Prefeito Municipal
+

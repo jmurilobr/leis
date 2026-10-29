@@ -1,0 +1,984 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Garça - SP</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Garça - SP",
+      "url" : "http://sapl.garca.sp.leg.br"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          28/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/logo_casa.png"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Garça - SP
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/100353?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/735/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Lei nº 5.344, de 02 de março de 2020
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Lei</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>5344</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>2020</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>2 de Março de 2020</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>Autoriza a doação para empresa com atividade industrial no Distrito Empresarial &quot;Pedro Valentim Fernandes&quot;. (Empresa &quot;Rogéria da Silva Pereira - ME&quot;).</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/735/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt29213" ><div class="dtxt" id="d29213" pks="" pk="29213"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt31127" ><a class="dpt-link" name="31127" title="31127"></a><div class="dtxt" id="d31127" pks="" pk="31127"><div style="text-align: justify;">Autoriza a doação para empresa com atividade industrial no Distrito Empresarial "Pedro Valentim Fernandes". (Empresa "Rogéria da Silva Pereira - ME").</div></div></div><div class="dn" id="dn31127" pk="31127"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt31128" ><a class="dpt-link" name="31128" title="31128"></a><div class="dtxt" id="d31128" pks="" pk="31128"><div style="text-align: justify;">O Prefeito do Município de Garça, Estado de São Paulo, no uso de suas atribuições, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte lei:</div></div></div><div class="dn" id="dn31128" pk="31128"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt31129" ><div class="dtxt" id="d31129" pks="" pk="31129"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt31130" ><div class="dtxt" id="d31130" pks="" pk="31130"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt31131" ><a class="dpt-link" name="31131">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d31131" pks="" pk="31131"><div style="text-align: justify;">Fica o Poder Executivo Municipal autorizado a doar, com encargos, o lote 13, da quadra “C” do Distrito Empresarial “Pedro Valentim Fernandes”, a ser desmembrado da Matrícula nº 10.840 do CRI local, nos termos do artigo 17, §§ 4º e 5º da Lei Federal nº 8.666/1993, observados os preceitos da Lei Municipal nº 5.238, de 06 de julho de 2018, e a deliberação da Comissão dos Distritos Empresariais, consignada em ata da reunião realizada no dia 22 de fevereiro de 2.019, como incentivo à empresa “Rogeria da Silva Pereira - ME”, inscrita no CNPJ nº 26.910.063/0001-79, para o desenvolvimento de atividades de fabricação de artefatos de material plástico para usos industriais.</div></div></div><div class="dn" id="dn31131" pk="31131"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt31132" ><div class="dtxt" id="d31132" pks="" pk="31132"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt31133" ><a class="dpt-link" name="31133">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d31133" pks="" pk="31133">A doação de que trata o artigo 1º desta Lei independe de concorrência, em vista da existência de relevante interesse social e de ser feita <span style="text-align: justify;">com encargo, de conformidade com o artigo 181, inciso I, da Lei Orgânica do Município.</span></div></div><div class="dn" id="dn31133" pk="31133"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt31134" ><div class="dtxt" id="d31134" pks="" pk="31134"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt31135" ><a class="dpt-link" name="31135">Art. 3º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d31135" pks="" pk="31135"><div style="text-align: justify;">A donatária obriga-se, como encargo da doação, a utilizar o lote doado para implantar suas instalações empresariais, conforme projeto de instalação e plano de expansão futura apresentada à Municipalidade, devendo respeitar os prazos e condições da Lei Municipal nº 5.238/2018.</div></div></div><div class="dn" id="dn31135" pk="31135"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt31136" ><a class="dpt-link" name="31136" title="31136">Parágrafo único </a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d31136" pks="" pk="31136"><div style="text-align: justify;">Em havendo benfeitorias comprovadamente realizadas no imóvel, a respectiva indenização ficará a cargo da donatária, que deverá promover o seu pagamento à empresa que executou as melhorias, não podendo incluir no preço do imóvel o valor do terreno, que constitui incentivo do Município.</div></div></div><div class="dn" id="dn31136" pk="31136"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt31137" ><div class="dtxt" id="d31137" pks="" pk="31137"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt31138" ><a class="dpt-link" name="31138">Art. 4º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d31138" pks="" pk="31138"><div style="text-align: justify;">Na Escritura Pública de doação do imóvel constará, obrigatoriamente, cláusula em que a donatária se obrigue a atender à finalidade e aos prazos legais, sob pena de reversão automática do objeto doado ao patrimônio municipal.</div></div></div><div class="dn" id="dn31138" pk="31138"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt31139" ><div class="dtxt" id="d31139" pks="" pk="31139"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt31140" ><a class="dpt-link" name="31140">Art. 5º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d31140" pks="" pk="31140"><div style="text-align: justify;">A doação a que se refere a presente Lei, com dispensa de licitação, será efetivada mediante Escritura Pública, outorgada somente após comprovado o cumprimento das disposições desta Lei, e aos artigos 9º, 10 e 11 da Lei Municipal nº 5.238/2018, devendo constar obrigatoriamente os encargos da donatária, o prazo de seu cumprimento e a cláusula de reversão, nos termos do § 4º do artigo 17 da Lei nº 8.666/93, sob pena de nulidade do ato.</div></div></div><div class="dn" id="dn31140" pk="31140"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt31141" ><div class="dtxt" id="d31141" pks="" pk="31141"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt31142" ><a class="dpt-link" name="31142">Art. 6º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d31142" pks="" pk="31142"><div style="text-align: justify;">Na Escritura Pública de doação do imóvel constará, obrigatoriamente, cláusula em que a donatária se obrigue a atender à finalidade e aos prazos legais, sob pena de reversão automática do objeto doado ao patrimônio municipal.</div></div></div><div class="dn" id="dn31142" pk="31142"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt31143" ><div class="dtxt" id="d31143" pks="" pk="31143"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt31144" ><a class="dpt-link" name="31144">Art. 7º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d31144" pks="" pk="31144"><div style="text-align: justify;">Na escritura pública constará, ainda, cláusula de inalienabilidade do terreno doado, sem prévia autorização escrita do Município de Garça, bem como observado o artigo 15 da Lei Municipal nº 5.238/2018, acerca do arrendamento ou locação da área recebida em doação.</div></div></div><div class="dn" id="dn31144" pk="31144"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt31145" ><div class="dtxt" id="d31145" pks="" pk="31145"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt31146" ><a class="dpt-link" name="31146">Art. 8º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d31146" pks="" pk="31146"><div style="text-align: justify;">O lote recebido em doação, bem como os bens a ele incorporado, poderão ser hipotecados ou alienados fiduciariamente pela empresa donatária, somente após o registro da escritura de doação, mediante autorização do Município, exclusivamente para captação de recursos destinados ao desenvolvimento das atividades empresariais, nos termos do artigo 13 da Lei Municipal nº 5.238/2018.</div></div></div><div class="dn" id="dn31146" pk="31146"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt31147" ><div class="dtxt" id="d31147" pks="" pk="31147"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt31148" ><a class="dpt-link" name="31148">Art. 9º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d31148" pks="" pk="31148"><div style="text-align: justify;">Na hipótese do artigo anterior, a cláusula de reversão e demais obrigações serão garantidas por hipoteca de 2º grau em favor do doador, como determina o § 5º, do artigo 17 da Lei Federal nº 8.666/93.</div></div></div><div class="dn" id="dn31148" pk="31148"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt31149" ><div class="dtxt" id="d31149" pks="" pk="31149"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt31150" ><a class="dpt-link" name="31150">Art. 10.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d31150" pks="" pk="31150">As despesas decorrentes desta Lei correrão à conta das dotações próprias do orçamento municipal.</div></div><div class="dn" id="dn31150" pk="31150"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt31151" ><div class="dtxt" id="d31151" pks="" pk="31151"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt31152" ><a class="dpt-link" name="31152">Art. 11.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d31152" pks="" pk="31152">Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.</div></div><div class="dn" id="dn31152" pk="31152"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt31153" ><a class="dpt-link" name="31153" title="31153"></a><div class="dtxt" id="d31153" pks="" pk="31153"><div style="text-align: center;"><br><br>Garça, 2 de março de 2020.<br><br><br></div><div style="text-align: center;">João Carlos dos Santos</div><div style="text-align: center;">Prefeito<br><br><br></div></div></div><div class="dn" id="dn31153" pk="31153"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+
+
+  </div></div></div>
+
+
+</div>
+
+  <div class="dont-break-out"><div style="text-align: center;">Rua Bar&atilde;o do Rio Branco, 127/131, Centro, Gar&ccedil;a/SP, CEP 17.400-082<br />Telefone/Fax: (14) 3471-0950 / (14) 3471-1308 / (14) 3471-0033 / (14) 3471-3479 &ndash; CNPJ 49.887.532/0001-81<br />Site: www.garca.sp.leg.br / e-mail: camara@cmgarca.sp.gov.br</div></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Garça - SP</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Rua Barão do Rio Branco, nº 127/131 - Centro</span>
+                  <br>
+                  CEP: <span class="postal-code">17400-082</span>
+                  |
+                  Telefone: <span>(14) 3471-0033</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="http://www.garca.sp.leg.br" class="url">Site</a> |
+                  <a href="mailto:camara@cmgarca.sp.gov.br" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+    
+
+    
+  </body>
+</html>

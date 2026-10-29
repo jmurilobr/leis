@@ -1,0 +1,21 @@
+{
+  "leituras_integrais_MD": 3,
+  "registros": [
+    {
+      "path": "reguladores/mapa/portarias/2017/portaria-n-804-de-10-de-abril-de-2017-20162170.md",
+      "sha256_MD": "94c96902b151d6230b5cbd7e5b1c4c51c5f33c04d9803d331365fa41ec539a7e",
+      "sha256_HTML": "fd2f580296896ec39969abd17f9810fa93a73935f46d69021eade1cd502cca00",
+      "decisao": "reter_do_sucessor",
+      "fundamento": "Art. 3 remete a embarcações constantes do anexodesta Portaria; Art. 2 prevê divulgação no sítio. Relação não representada no HTML/MD preservados."
+    },
+    {
+      "path": "reguladores/mds/portarias/2017/portaria-n-187-de-16-de-maio-de-2017-20218630.md",
+      "sha256_MD": "177ed8a324f98b01d89e42ce00415605854f41a9755b5d09a4eb2b1587c57a57",
+      "sha256_HTML": "13af064acfd447a687f22beb91a3a4f00db35a54767eaa55dbb5e6a6748955f5",
+      "decisao": "controle_objeto_representado_sujeito_leitura_ROOT",
+      "fundamento": "Leitura integral: após os artigos principais e assinatura, ANEXO reproduz Política de Gestão de Riscos em capítulos I a VII e dispositivos até Art.14. Plano do Art.9§1 é criação futura em 180 dias, não objeto anexo atual omitido. Literais 4° e 5° sem Art. e palavras concatenadas são preservados. Alerta lexical, por si só, não prova ausência."
+    }
+  ],
+  "controle_prospectivo": "controle_MDS43.json.gz: Art.1 determina divulgação a cada exercício; sem remissão a anexo próprio atual.",
+  "limites": "Não altera MD, fonte, registro, guard ou seleção3060. Objeto representado não é inferido pela simples existência de heading: identidade e conteúdo próprio foram lidos. ROOT decide promoção."
+}

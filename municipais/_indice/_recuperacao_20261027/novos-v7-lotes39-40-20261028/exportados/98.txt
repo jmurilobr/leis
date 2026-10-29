@@ -1,0 +1,631 @@
+---
+titulo: "Lei Ordinária nº 1.348, de 19 de outubro de 2005"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1348"
+data: "2005-10-19"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/1926"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/450/text"
+sha256_fonte: "32746189b8146d7d3cfe5412a51945d79c82cedfa8dd630ef04b14213b71ec5d"
+sha256_texto: "694c4d0cec36b906771ee728066cccb62ef3fe0ed3342c819d94aea7032c2731"
+capturado_em_fonte: "2026-10-28T13:26:35.033725-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.348, de 19 de outubro de 2005
+
+Institui o Sistema Municipal de Habitação de Interesse Social - SMHIS, cria o Fundo Municipal de Habitação de Interesse Social - FMHIS e institui o Conselho Gestor do FMHIS.
+
+
+A Câmara Municipal de Guaíra, estado do Paraná, aprovou e eu Prefeito Municipal, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Esta Lei dispõe sobre o Sistema Municipal de Habitação de Interesse Social - SMHIS, cria o Fundo Municipal de Habitação de Interesse Social - FMHIS e institui o Conselho Gestor do FMHIS, conforme lei federal nº 11.124 de 16 de junho de 2005 e nos termos da Seção III do Capitulo II - da Ordem Social, artigo 152 da Lei Orgânica Municipal, Resolução 02/2001 da Câmara Municipal de Guaíra.
+
+
+#### CAPÍTULO I — DO SISTEMA MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL
+
+
+##### Seção I — Objetivos, Princípios e Diretrizes
+
+
+Art. 2º.
+
+Fica instituído o Sistema Municipal de Habitação de Interesse Social - SMHIS, com o objetivo de:
+
+
+I –
+
+viabilizar para a população de menor renda o acesso a terra urbanizada e à habitação digna e sustentável;
+
+
+II –
+
+implementar políticas e programas de investimentos e subsídios, promovendo e viabilizando o acesso à habitação voltada à população de menor renda; e
+
+
+III –
+
+articular, compatibilizar, acompanhar e apoiar a atuação das instituições e órgãos que desempenham funções no setor da habitação.
+
+
+Art. 3º.
+
+O SMHIS centralizará todos os programas e projetos destinados à habitação de interesse social, observada a Lei Orgânica Municipal, o Plano Diretor e a legislação específica.
+
+
+Art. 4º.
+
+A estruturação, a organização e a atuação do SMHIS devem observar:
+
+
+I –
+
+os seguintes princípios:
+
+
+a)
+
+compatibilidade e integração das políticas habitacionais federal, estadual e municipal, bem como das demais políticas setoriais de desenvolvimento urbano, ambientais e de inclusão social;
+
+
+b)
+
+moradia digna como direito e vetor de inclusão social;
+
+
+c)
+
+democratização, descentralização, controle social e transparência dos procedimentos decisórios;
+
+
+d)
+
+função social da propriedade urbana visando a garantir atuação direcionada a coibir a especulação imobiliária e permitir o acesso à terra urbana e ao pleno desenvolvimento das funções sociais da cidade e da propriedade;
+
+
+II –
+
+as seguintes diretrizes:
+
+
+a)
+
+prioridade para planos, programas e projetos habitacionais para a população de menor renda, articulados no âmbito federal, estadual e municipal;
+
+
+b)
+
+utilização prioritária de incentivo ao aproveitamento de áreas dotadas de infra-estrutura não utilizadas ou subutilizadas, inseridas na malha urbana;
+
+
+c)
+
+utilização prioritária de terrenos de propriedade do Poder Público para a implantação de projetos habitacionais de interesse social;
+
+
+d)
+
+sustentabilidade econômica, financeira e social dos programas e projetos implementados;
+
+
+e)
+
+incentivo à implementação dos diversos institutos jurídicos que regulamentam o acesso à moradia;
+
+
+f)
+
+incentivo à pesquisa, incorporação de desenvolvimento tecnológico e de formas alternativas de produção habitacional;
+
+
+g)
+
+adoção de mecanismos de acompanhamento e avaliação e de indicadores de impacto social das políticas, planos e programas; e
+
+
+h)
+
+estabelecer mecanismos de quotas para idosos, deficientes e famílias chefiadas por mulheres dentre o grupo identificado como o de menor renda da alínea "a" deste inciso.
+
+
+##### Seção II — Da Composição
+
+
+Art. 5º.
+
+Integram o Sistema Municipal de Habitação de Interesse Social - SMHIS os seguintes órgãos e entidades:
+
+
+I –
+
+Prefeitura Municipal, órgão central do SMHIS;
+
+
+II –
+
+oordenadoria Municipal Especial de Habitação, ou outro órgão com competência atribuída pelo Poder Executivo, enquanto agente operador do FMHIS;
+
+
+III –
+
+Conselho Gestor do FMHIS;
+
+
+IV –
+
+Estatais, fundações, sociedades, sindicatos, associações comunitárias, cooperativas habitacionais e quaisquer outras entidades publicas e privadas que desempenhem atividades na área habitacional, afins ou complementares, todos na condição de agentes promotores das ações no âmbito do SMHIS; e
+
+
+V –
+
+Agentes financeiros autorizados pelo Conselho Monetário Nacional a atuar no Sistema Financeiro da Habitação - SFH.
+
+
+Art. 6º.
+
+São recursos do SMHIS:
+
+
+I –
+
+Fundo de Amparo ao Trabalhador - FAT, nas condições estabelecidas pelo seu Conselho Deliberativo;
+
+
+II –
+
+Fundo de Garantia do Tempo de Serviço - FGTS, nas condições estabelecidas pelo seu Conselho Curador;
+
+
+III –
+
+Fundo Nacional de Habitação de Interesse Social - FNHIS;
+
+
+IV –
+
+Fundo Municipal de Habitação de Interesse Social - FMHIS.
+
+
+V –
+
+outros fundos ou programas que vierem a ser incorporados ao SMHIS.
+
+
+#### CAPÍTULO II — DO FUNDO MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL
+
+
+##### Seção I — Objetivos e Fontes
+
+
+Art. 7º.
+
+Fica criado o Fundo Municipal de Habitação de Interesse Social - FMHIS, de natureza contábil, com o objetivo de centralizar e gerenciar recursos orçamentários para os programas estruturados no âmbito do SMHIS, destinados a implementar políticas habitacionais direcionadas à população de menor renda.
+
+
+Art. 8º.
+
+O FMHIS é constituído por:
+
+
+I –
+
+outros fundos ou programas que vierem a ser incorporados ao FMHIS;
+
+
+II –
+
+dotações do Orçamento Geral do Município, classificados na função de habitação;
+
+
+III –
+
+recursos provenientes de empréstimos externos e internos para programas de habitação;
+
+
+IV –
+
+contribuições e doações de pessoas físicas ou jurídicas, entidades e organismos de cooperação nacionais ou internacionais;
+
+
+VI - receitas operacionais e patrimoniais de operações realizadas com recursos do FMHIS; e
+
+
+VII - outros recursos que lhe vierem a ser destinados.
+
+
+##### Seção II — Do Conselho Gestor do Fmhis
+
+
+Art. 9º.
+
+O FMHIS será gerido por um Conselho Gestor.
+
+
+Art. 10.
+
+O Conselho Gestor é órgão de caráter deliberativo, normativo, consultivo e fiscalizador, e será composto de forma paritária por órgãos e entidades do Poder Executivo e representante da sociedade civil.
+
+
+§ 1º
+
+O Poder Executivo regulamentará por Decreto, sobre a composição do Conselho Gestor do FMHIS, definindo os integrantes do referido Conselho Gestor.
+
+
+§ 2º
+
+A função de conselheiro não será remunerada, sendo desempenhada de forma voluntária e considerada de relevante interesse publico.
+
+
+§ 3º
+
+Competirá a Prefeitura Municipal proporcionar ao Conselho Gestor os meios necessários ao exercício de suas competências.
+
+
+##### Seção III — Das Aplicações Dos Recursos do Fmhis
+
+
+Art. 11.
+
+As aplicações dos recursos do FMHIS serão destinadas a ações vinculadas aos programas de habitação de interesse social que contemplem:
+
+
+I –
+
+aquisição, construção, conclusão, melhoria, reforma, locação social e arrendamento de unidades habitacionais em áreas urbanas e rurais;
+
+
+II –
+
+produção de lotes urbanizados para fins habitacionais;
+
+
+III –
+
+urbanização, produção de equipamentos comunitários, regularização fundiária e urbanística de áreas caracterizadas de interesse social;
+
+
+IV –
+
+implantação de saneamento básico, infra-estrutura e equipamentos urbanos, complementares aos programas habitacionais de interesse social;
+
+
+V –
+
+aquisição de materiais para construção, ampliação e reforma de moradias;
+
+
+VI –
+
+recuperação ou produção de imóveis em áreas encortiçadas ou deterioradas, centrais ou periféricas, para fins habitacionais de interesse social;
+
+
+VII –
+
+serviço de assistência técnica, jurídica de apoio à organização comunitária para implantação dos objetivos da presente Lei;
+
+
+VIII –
+
+reassentamento de moradores em áreas ocupadas irregularmente, em áreas de situação de risco ou em área de preservação ambiental;
+
+
+IX –
+
+contratação de serviços de terceiros para execução e implementação das ações vinculadas ao FMHIS.
+
+
+X –
+
+outros programas e intervenções na forma aprovada pelo Conselho Gestor do FMHIS.
+
+
+§ 1º
+
+Será admitida a aquisição de terrenos vinculada à implantação de projetos habitacionais.
+
+
+§ 2º
+
+A aplicação dos recursos do FMHIS em áreas urbanas deve submeter-se à política de desenvolvimento urbano expressa no plano diretor.
+
+
+#### CAPÍTULO III — DAS ATRIBUIÇÕES DOS INTEGRANTES DO SMHIS
+
+
+##### Seção I — Da Prefeitura Municipal
+
+
+Art. 12.
+
+A Prefeitura Municipal compete através da Coordenadoria Municipal Especial da Habitação, ou outro órgão competente:
+
+
+I –
+
+coordenar as ações do SMHIS;
+
+
+II –
+
+estabelecer, ouvido o Conselho Gestor do FMHIS, as diretrizes, prioridades, estratégias e instrumentos para a implementação da Política Municipal de Habitação de Interesse Social e os Programas de Habitação de Interesse Social;
+
+
+III –
+
+elaborar e definir, ouvido o Conselho Gestor do FMHIS, o Plano Municipal de Habitação de Interesse Social, em conformidade com as diretrizes de desenvolvimento urbano e em articulação com os planos estaduais, regionais e municipais de habitação;
+
+
+IV –
+
+oferecer subsídios técnicos ao Conselho Gestor do FMHIS e aos demais conselho municipais com atribuições específicas relativas às questões urbanas e habitacionais, integrantes do SMHIS;
+
+
+V –
+
+monitorar a implementação da Política Municipal de Habitação de Interesse Social, observadas as diretrizes de atuação do SMHIS;
+
+
+VI –
+
+autorizar o FMHIS a ressarcir os custos operacionais e correspondentes encargos tributários do agente operador;
+
+
+VII –
+
+instituir sistema de informações para subsidiar a formulação, implementação, acompanhamento e controle das ações no âmbito do SMHIS, incluindo cadastro municipal de beneficiários das políticas de subsídios, e zelar pela sua manutenção, podendo, para tal, realizar convênio ou contrato;
+
+
+VIII –
+
+elaborar a proposta orçamentária e controlar a execução do orçamento e dos planos de aplicação anuais e plurianuais dos recursos do FMHIS, em consonância com a legislação federal e estadual pertinente;
+
+
+IX –
+
+acompanhar e avaliar as atividades das entidades e órgãos integrantes do SMHIS, visando a assegurar o cumprimento da legislação, das normas e das diretrizes em vigor;
+
+
+X –
+
+expedir atos normativos relativos à alocação dos recursos, na forma aprovada pelo Conselho Gestor do FMHIS;
+
+
+XI –
+
+acompanhar a aplicação dos recursos do FMHIS;
+
+
+XII –
+
+submeter à apreciação do Conselho Gestor as contas do FMHIS, sem prejuízo das competências e prerrogativas dos órgãos de controle interno e externo, encaminhando-as aos Tribunais de Contas do Estado e da União;
+
+
+XIII –
+
+subsidiar o Conselho Gestor com estudos técnicos necessários ao exercício de suas atividades.
+
+
+##### Seção II — Do Conselho Gestor do Fmhis
+
+
+Art. 13.
+
+Ao Conselho Gestor do FMHIS compete:
+
+
+I –
+
+estabelecer diretrizes e critérios de alocação dos recursos do FMHIS, observado o disposto nesta Lei, a Política e o Plano Municipal de Habitação estabelecidos pela Prefeitura Municipal;
+
+
+II –
+
+aprovar orçamentos e planos de aplicação e metas anuais e plurianuais dos recursos do FMHIS;
+
+
+III –
+
+deliberar sobre as contas do FMHIS;
+
+
+IV –
+
+dirimir dúvidas quanto à aplicação das normas regulamentares, aplicáveis ao FMHIS, nas matérias de sua competência;
+
+
+V –
+
+fixar os valores de remuneração do agente operador;
+
+
+VI –
+
+acompanhar e fiscalizar execução dos programas habitacionais podendo requerer embargos das obras, suspensão ou liberação de recursos, uma vez constatado o desvio dos objetivos do Projeto, irregularidades na aplicação dos recursos, desrespeito às normas da boa técnica ou agressão meio ambiente;
+
+
+VII –
+
+promover ampla publicidade das formas e critérios de acesso aos programas, das modalidades de acesso à moradia, das metas anuais de atendimento habitacional, dos recursos previstos e aplicados, identificados pelas fontes de origem, das áreas objeto de intervenção, dos números e valores dos benefícios e dos financiamentos concedidos, de modo a permitir o acompanhamento e fiscalização pela sociedade das ações do SMHIS.
+
+
+VIII –
+
+promover a Conferencia Municipal da Habitação a cada dois anos, audiências públicas, representativas dos segmentos sociais existentes, para debater e avaliar critérios de alocação de recursos e programas habitacionais no âmbito do SMHIS.
+
+
+IX –
+
+constituir grupos técnicos, comissões especiais, temporárias ou permanentes, quando julgar necessário para o desempenho de suas funções.
+
+
+X –
+
+aprovar seu regimento interno.
+
+
+Art. 14.
+
+As demais entidades e órgãos integrantes do SMHIS contribuirão para o alcance dos objetivos do referido Sistema no âmbito de suas respectivas competências institucionais.
+
+
+##### Seção III — Do Agente Operador do Fmhis
+
+
+Art. 15.
+
+A Coordenadoria Municipal Especial da Habitação, ou outro órgão competente, na qualidade de agente operador do FMHIS, compete:
+
+
+I –
+
+definir e implementar os procedimentos operacionais necessários à aplicação dos recursos do FMHIS, com base nas normas e diretrizes elaboradas pelo Conselho Gestor e pela Prefeitura Municipal;
+
+
+II –
+
+controlar a execução físico-financeira dos recursos do FMHIS; e
+
+
+III –
+
+prestar contas das operações realizadas com recursos do FMHIS com base nas atribuições que lhe sejam especificamente conferidas, submetendo-as a Prefeitura Municipal.
+
+
+Parágrafo único
+
+As competências estabelecidas neste artigo, poderão mediante convênio serem delegadas a agente financeiro autorizado pelo Conselho Monetário Nacional a atuar no Sistema Financeiro da Habitação - SFH, que atuará como instituição depositária dos recursos do FMHIS.
+
+
+#### CAPÍTULO IV — DOS BENEFÍCIOS E SUBSÍDIOS FINANCEIROS DO SMHIS
+
+
+Art. 16.
+
+O acesso à moradia deve ser assegurado aos beneficiários do SMHIS, de forma articulada entre as 03 (três) esferas de Governo, garantindo o atendimento prioritário às famílias de menor renda e adotando políticas de subsídios implementadas com recursos do FMHIS.
+
+
+Art. 17.
+
+Os benefícios concedidos no âmbito do SMHIS poderão ser representados por:
+
+
+I –
+
+empréstimos ou subsídios financeiros, suportados pelo FMHIS, destinados a complementar a capacidade de pagamento das famílias beneficiárias, respeitados os limites financeiros e orçamentários municipais;
+
+
+II –
+
+equalização, a valor presente, de operações de crédito, realizadas por instituições financeiras autorizadas pelo Conselho Monetário Nacional e fiscalizadas pelo Banco Central do Brasil;
+
+
+III –
+
+isenção ou redução de impostos municipais, incidentes sobre o empreendimento, no processo construtivo, condicionado à prévia autorização legal;
+
+
+IV –
+
+outros benefícios não caracterizados como subsídios financeiros, destinados a reduzir ou cobrir o custo de construção ou aquisição de moradias, decorrentes ou não de convênios firmados entre o poder público local e a iniciativa privada.
+
+
+§ 1º
+
+Para concessão dos benefícios de que trata este artigo serão observadas as seguintes diretrizes:
+
+
+I –
+
+identificação dos beneficiários dos programas realizados no âmbito do SMHIS no cadastro municipal de que trata o inciso VII do art. 12 desta Lei, de modo a controlar a concessão dos benefícios;
+
+
+II –
+
+valores de benefícios inversamente proporcionais à capacidade de pagamento das famílias beneficiárias;
+
+
+III –
+
+utilização de metodologia aprovada pelo órgão central do SMHIS para o estabelecimento dos parâmetros relativos aos valores dos benefícios, à capacidade de pagamento das famílias e aos valores máximos dos imóveis, que expressem as diferenças regionais;
+
+
+IV –
+
+concepção do subsídio como benefício pessoal e intransferível, concedido com a finalidade de complementar a capacidade de pagamento do beneficiário para o acesso à moradia, ajustando-a ao valor de venda do imóvel ou ao custo do serviço de moradia, compreendido como retribuição de uso, aluguel, arrendamento ou outra forma de pagamento pelo direito de acesso à habitação;
+
+
+V –
+
+impedimento de concessão de benefícios de que trata este artigo a proprietários, promitentes compradores, arrendatários ou cessionários de imóvel residencial, com renda familiar mensal superior a 05 (cinco) salários mínimos vigentes no País;
+
+
+VI –
+
+para efeito do disposto nos incisos I a IV do caput deste artigo, especificamente para concessões de empréstimos e, quando houver, lavratura de escritura pública, os contratos celebrados e os registros cartorários deverão constar, preferencialmente, no nome da mulher;
+
+
+VII –
+
+nos casos de antecipação de receita advinda do FMHIS por empréstimo, o Conselho Gestor normatizará sobre as condições, prazos e encargos do contrato de mutuo/hipotecário e afins.
+
+
+§ 2º
+
+O beneficiário favorecido por programa realizado no âmbito do SMHIS somente será contemplado 1 (uma) única vez com os benefícios de que trata este artigo.
+
+
+§ 3º
+
+Outras diretrizes para a concessão de benefícios no âmbito do SMHIS poderão ser definidas pelo Conselho Gestor do FMHIS.
+
+
+#### CAPÍTULO V — DISPOSIÇÕES GERAIS, TRANSITÓRIAS E FINAIS
+
+
+Art. 18.
+
+Esta Lei será implementada em consonância com a Política Nacional e Estadual de Habitação e com o Sistema Nacional e Estadual de Habitação, na forma definida pelo Ministério das Cidades.
+
+
+Art. 19.
+
+Fica o Poder Executivo Municipal autorizado a desenvolver programas e ações implementadoras do programa federal de Subsídio a Habitação de Interesse Social - PSH, de que trata a Lei Federal nº 10.998 de 15/12/2004, Lei Federal nº 10.257 de 10/07/2001;
+
+
+Art. 20.
+
+Fica o Poder Executivo Municipal autorizado a desenvolver programas e ações implementadoras de Concessão de Uso Especial de Imóvel, de que dispõe a Medida Provisória nº 2.220 de 04/09/2001, de que trata o parágrafo 1º, do artigo 183, da Constituição Federal de 1988.
+
+
+Art. 21.
+
+As despesas com a execução da presente lei, correrão por conta de dotações orçamentárias específicas.
+
+
+Art. 22.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a regulamentar por Decreto a presente Lei no que for necessário, inclusive designar órgão para operar como Agente Operador do FMHIS.
+
+
+Art. 23.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas às disposições em contrário, especialmente a Lei Municipal nº 1088 de 16 de setembro de 1996.
+
+
+Gabinete do Prefeito Municipal, em 19 de Outubro de 2005.  
+  
+FABIAN PERSI VENDRUSCOLO  
+Prefeito Municipal.
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

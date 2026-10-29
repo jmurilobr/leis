@@ -1,0 +1,7475 @@
+{
+  "criterio": "Congela o próximo lote de candidatos TA, sem repetir identidades já examinadas.\n\nVersão 2: exporta diários/anexos apenas de portais selecionados, evitando exigir\nmetadados de tipos de portais sem candidatos neste lote.\n\nO limite é somente o tamanho do lote de trabalho. A coleta de portais continua;\nreexecuções com as exclusões anteriores cobrem os candidatos seguintes.\n",
+  "selecionados": 1434,
+  "disponiveis_apos_exclusoes": 1434,
+  "exclusoes": [
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0001/resultados.jsonl",
+      "sha256": "cb49d44c92fe2e8f0102be164a449805bff97fcee62248f3da16a5563bc74148"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0002-v2/resultados.jsonl",
+      "sha256": "2b2730a051cb96a4ff159162e98366a0a4bfc431290aacaa9f15b0b1897e4472"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0003/resultados.jsonl",
+      "sha256": "fe9d893e621397986d9cb3b0f264d70cf401d36db5f8ee4947e8f9a0a33082fe"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0004/resultados.jsonl",
+      "sha256": "727700d434820dcd22f5ec9fb9aed079e99e58450a3c18b98cd15eed1a711c32"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0005/resultados.jsonl",
+      "sha256": "3235bf84baef24f08e4bc7ebf5803fbe3ddab23c3aae882926bc66e7885e2570"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0006/resultados.jsonl",
+      "sha256": "1d067d4f848aa353b30e6884798f35b5aa9b55f5a9ba3e897367d48dce75ffb1"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0007/resultados.jsonl",
+      "sha256": "7e9065d204ef26054f26dbb6118b997c2ca789b8fd83286ea74c57a2ff2361a2"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-piloto-gates-0001/resultados.jsonl",
+      "sha256": "2f3d2a94ffd99335a5c9d782692aaa5b865570ef4f8cced270c94073e15278ae"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/formas-gates-0001/resultados.jsonl",
+      "sha256": "60c71f5205eb437a4c42f289d873ae3b9d4bea6b13a7c00e79337939feb73dfa"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/resultados.jsonl",
+      "sha256": "e02a8d1e15f881485d78bfb6bac0b0a0a7f13ebc35875898b06f22e12fcf9969"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0002/resultados.jsonl",
+      "sha256": "4a236a292f92deb5da31a24f10e313f93187a130772028803738532174987183"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0003/resultados.jsonl",
+      "sha256": "a30f0beb3bcdf6410883449224177c20241655bccee8cb845e917c42cfb9a508"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0004/resultados.jsonl",
+      "sha256": "c4742688d9d15e5c8c53d8dbf43547d565f377bdbabef622fe3e42574678ac28"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0005/resultados.jsonl",
+      "sha256": "34d785b4180b63f7b735c3cf221ac2e905b01ac6570e8175a4d0c666323e8d6e"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0006/resultados.jsonl",
+      "sha256": "2df97b04e59b5977127005a710a9cea7d04d81a4b4a4d4f135b218bfffacabd0"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0007/resultados.jsonl",
+      "sha256": "4c4930cc4e19e5b0c912835b33b61d56c821e718f40a415d39038cf6f31a82b1"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0008/resultados.jsonl",
+      "sha256": "d92d281e8e8ac10320c86127535c065cd8b5cba4f0f33877d803d6802efb4c16"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/resultados.jsonl",
+      "sha256": "f4039cccc51c6f8b48a556c23e804cb037c8ba55d047e4cd38a573959eb45632"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0010/resultados.jsonl",
+      "sha256": "747062b23203a4330bc86d01a35a53c94dd3330f717513ab3ed5321bcceca306"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/resultados.jsonl",
+      "sha256": "d00e56bac03cf106f7ee2182c4797a2b188f1ad73a42d28571c1c7b5a376db3e"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0012/resultados.jsonl",
+      "sha256": "411f9a9e76c09ec62ef5f3e4f58714de8ab0c32097980ef2097c2b96667ade58"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0013/resultados.jsonl",
+      "sha256": "e81b1d45cc85bdd1d2f95b63c21e9ba574c6daa2380a27e7495ec9a591118470"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0014/resultados.jsonl",
+      "sha256": "7ae08befcd3728cdaf5ae4b1c0a123506b7fa25479026b75df5a3a68ace88701"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0015/resultados.jsonl",
+      "sha256": "27a69317ef9cf93fb11eaf0bda63267183a6c1a44c2d28cdc8d1550564ec7bc7"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0016/resultados.jsonl",
+      "sha256": "b2d842b5108e0e4d20c7a45d28f80e7d91cab96fed43d2278e036c4d7e87fa22"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0017/resultados.jsonl",
+      "sha256": "434043a3daaed4f634f5ae038bc07e30e1931a2394968249da6a326408867380"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/resultados.jsonl",
+      "sha256": "36305a676ed16ad48e6c4bd81ff4dce30d0d70e885cd9472c790b594930a8e35"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/tabelas-gates-0003/resultados.jsonl",
+      "sha256": "2401e2e10b5b5525b1f74ca700bd6ed3afdd76f8b26a8d58b7910dcda58642c5"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0001/resultados.jsonl",
+      "sha256": "5932a21d2f981ad60fb193e59905cb200a864ba63fdc6c6b82cdcb2fb4c8a803"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0002/resultados.jsonl",
+      "sha256": "743684bf7245afe2ce980a1c69e9b9f710145ee757458699075004a2ab54c59b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0003/resultados.jsonl",
+      "sha256": "fec8db37da0df80f24d140744fd160a69d7d54e524757678db4fe532b8d32c6b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0004/resultados.jsonl",
+      "sha256": "973a23f5b8058ae80a9bc8e50f72f6c139658c2e4e278d5e8ed3b678aecc4eb2"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0005/resultados.jsonl",
+      "sha256": "c94f3121369d1d538755aa1db82b139844dd2c059620913a05e6672657ac08a7"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/resultados.jsonl",
+      "sha256": "07d2def1265a88da175c93cce49b1cb0b6e614a39392a8b34298c5077ec67933"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0002/resultados.jsonl",
+      "sha256": "00b0379793a8cefcc6856103200a894027cc12b4ebaa00a0888624acdeb77924"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0003/resultados.jsonl",
+      "sha256": "703972bf99466f32af3ea505376726e60953103c80bfcb015b138b322027bada"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/resultados.jsonl",
+      "sha256": "839b37cdab75de94ecc9f5cb8edaa0a2e6170edb8ef80efcbbe64922b10dee5e"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001-v2/resultados.jsonl",
+      "sha256": "a4757881e0f7c5cc09735b4607fb9436a2681fc6bbdc9bdc884942ba269b02d0"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0002/resultados.jsonl",
+      "sha256": "353d1230a0e13fe4e46b88fdb81aff47a12838c7fbb380c8261269e3df03f5ea"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0006/resultados.jsonl",
+      "sha256": "77fa0bfd91207f69ce1f69b8f288d536fd309260252cbb69eba7992069ea63cc"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0007/resultados.jsonl",
+      "sha256": "17d885bf36143f9de9ba0b2affb3df2e32a291901a3f825be96461c575a3cbf1"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0008/resultados.jsonl",
+      "sha256": "40710202641b46c142de773af6e360358bc0ebc342f005fa9ab2ee5efa6b4d53"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0009/resultados.jsonl",
+      "sha256": "1b47ce849a273d4dc8867137c695a57e05a09daaf1395142e0223a5948143689"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "sha256": "07c28b7649ab8d2b66e5457dc4a91e301c0ad10f207e14d5f8d5386d9d0f922d"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "sha256": "88151915faa9eee309d14b21682d66e7df027ce2c06a26be1c4bcb4d1e715400"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "sha256": "4163cc2ede430d59996828d6c55032be7055f8ac96f55dc7500b36b0bdadecb3"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/resultados.jsonl",
+      "sha256": "e2da31dfcdbbbf388ec02f9b311e85f5c88669fc7cd3efda03355694394576ac"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012-v3/resultados.jsonl",
+      "sha256": "96f11eb8a39c3f95785207414dcb951cd09e7e6775509a143cd97824a18c9d2c"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0013/resultados.jsonl",
+      "sha256": "938def4e7698e31c7415a6981465ed65dbc789793350b359b499e3381d0fa10b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0014/resultados.jsonl",
+      "sha256": "4c3cfeeb0a05b2bb00c0f4cb762fd4f7488aedd8d6f71ab7357ff5b1213ff27b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0015/resultados.jsonl",
+      "sha256": "bbf88caafca24ef2881e3c07118ac25262b4c48173aefe57d0e074929364e301"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0016/resultados.jsonl",
+      "sha256": "b0e76b22e26e2be97db8a67c9bb2d972208287c115aa662250b186ff6f07df9b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0017/resultados.jsonl",
+      "sha256": "9579a7eb8988886a89e1ba1c778264f2ce53ce9dab591885b5201ba8a8badf16"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/resultados.jsonl",
+      "sha256": "64be15e2213da7eafa32b6022b3449299796aa668f859ff87dcd78e55f046a17"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0008/resultados.jsonl",
+      "sha256": "d133cfa0c781a2b375502106a50242648deba0b8263a90c94014904644345766"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0020/resultados.jsonl",
+      "sha256": "31acff44e532afca9c66e424f5af09e5a42b2c6a1acf6ce0b5a41ce038815cee"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0021/resultados.jsonl",
+      "sha256": "2936b9ed3b45a6130e00bb401a7eb8c084819b1bb3f0eeeab28bb47539b70c65"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/resultados.jsonl",
+      "sha256": "98e1f8df5a1ea8e884d0d231fb8d87eca21986891c7db424842bd5c596a5714e"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0023/resultados.jsonl",
+      "sha256": "bd2fbc5eef79e6113f6d60fa70a02a9890c1f0586cd9749525d9d94701775fdf"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0024/resultados.jsonl",
+      "sha256": "dc997b3f0bd5badb44d2bae4136bb9fcee0839612546ffd28037e10322665423"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/resultados.jsonl",
+      "sha256": "912667ccaf650893caca595d8d38645ad7df94ba36fdcfc4a7c562d152b26821"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0026/resultados.jsonl",
+      "sha256": "7d270076ac2608b3dfb811b0b59ecd6b730bc68705a66bf56ece0d08eb78ee7e"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0027/resultados.jsonl",
+      "sha256": "2b7ea3d036192533270787e36572131fb853e2964e50ab1770d61e63841b11e8"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0028/resultados.jsonl",
+      "sha256": "5eaf05578c3c3273f7919509db9ee678c73f3743c80dea0fcad4fc0b1197ff28"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0029/resultados.jsonl",
+      "sha256": "8628afd6a9ce9f3c5f1fa22c290fa48800224a3c5e29eaa3d45df854110f2b53"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0030/resultados.jsonl",
+      "sha256": "80d261f03819ee626f5ab656a377a0c85b62dc2dc19098c82807b19c6c6825f1"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0031/resultados.jsonl",
+      "sha256": "6c5591f0fe02aadf4462a4797ba8e94d78a112ad062fc19d784b2ce59180239b"
+    }
+  ],
+  "prefixos_origem": [
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0032/sapl.formosa.go.leg.br/resultados.jsonl",
+      "sha256_prefixo": "c4d14acf1cbf984f1007cefa9745ab2750aefb6f13506ac1a2b4a5d8b722b72a",
+      "bytes_prefixo": 1827035
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0032/sapl.fozdoiguacu.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "83c9b86d5bc918eb87e0c57e1c2a571dd13cda52f2c2bfa91532d64f494fa8ef",
+      "bytes_prefixo": 2304538
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0032/sapl.franciscobeltrao.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "9266f4e6a470a26e3b50a2a06b03c767fae6deb55d49971d9a75139efdb04436",
+      "bytes_prefixo": 6324
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0032/sapl.galia.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "e6b8535c2a08382d0a41ef03bb851d2af49bbbbf1646ae43821010f88173fc95",
+      "bytes_prefixo": 3313
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0032/sapl.garca.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "8f9de2759f49f6ee6d8229d396fd2ce449612e3c18e3887e6de6ad76037299b4",
+      "bytes_prefixo": 406284
+    }
+  ],
+  "script_sha256": "ed1f0a1eaeda7c9c3f1271ecdbbae4634b92e070bb936d4d89f3e5d2ac57f520",
+  "identidades": [
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 931,
+      "norma_id": 1806
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1373,
+      "norma_id": 2495
+    },
+    {
+      "host": "sapl.franciscobeltrao.pr.leg.br",
+      "ta_id": 11,
+      "norma_id": 185
+    },
+    {
+      "host": "sapl.galia.sp.leg.br",
+      "ta_id": 3,
+      "norma_id": 3
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2125,
+      "norma_id": 102310
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 942,
+      "norma_id": 1805
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 420,
+      "norma_id": 1966
+    },
+    {
+      "host": "sapl.franciscobeltrao.pr.leg.br",
+      "ta_id": 9,
+      "norma_id": 113
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2124,
+      "norma_id": 102308
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 941,
+      "norma_id": 1804
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 421,
+      "norma_id": 1967
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2123,
+      "norma_id": 102307
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 940,
+      "norma_id": 1803
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1350,
+      "norma_id": 2486
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2122,
+      "norma_id": 102306
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 939,
+      "norma_id": 1802
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1136,
+      "norma_id": 2374
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2121,
+      "norma_id": 102305
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 938,
+      "norma_id": 1801
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1135,
+      "norma_id": 2373
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2120,
+      "norma_id": 102303
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 937,
+      "norma_id": 1800
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1134,
+      "norma_id": 2372
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2118,
+      "norma_id": 102304
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 936,
+      "norma_id": 1799
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1133,
+      "norma_id": 2371
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2119,
+      "norma_id": 102302
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 929,
+      "norma_id": 1798
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1132,
+      "norma_id": 2370
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2116,
+      "norma_id": 102291
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 935,
+      "norma_id": 1797
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1121,
+      "norma_id": 2359
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2115,
+      "norma_id": 102290
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 934,
+      "norma_id": 1796
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1118,
+      "norma_id": 2357
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2117,
+      "norma_id": 102289
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1196,
+      "norma_id": 1795
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1117,
+      "norma_id": 2356
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2114,
+      "norma_id": 102288
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 171,
+      "norma_id": 1793
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1110,
+      "norma_id": 2355
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2112,
+      "norma_id": 102287
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1084,
+      "norma_id": 1792
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 529,
+      "norma_id": 2070
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2110,
+      "norma_id": 102286
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 298,
+      "norma_id": 1791
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 684,
+      "norma_id": 2156
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2105,
+      "norma_id": 102284
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1112,
+      "norma_id": 448
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 160,
+      "norma_id": 1775
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2109,
+      "norma_id": 102283
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 510,
+      "norma_id": 1788
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 527,
+      "norma_id": 2068
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2107,
+      "norma_id": 102282
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 509,
+      "norma_id": 1787
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1341,
+      "norma_id": 2478
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2108,
+      "norma_id": 102281
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1694,
+      "norma_id": 1786
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1078,
+      "norma_id": 2341
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2104,
+      "norma_id": 102279
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 775,
+      "norma_id": 1785
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1077,
+      "norma_id": 2340
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2106,
+      "norma_id": 102274
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1806,
+      "norma_id": 1784
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1095,
+      "norma_id": 2350
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2103,
+      "norma_id": 102273
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1880,
+      "norma_id": 112
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 643,
+      "norma_id": 2137
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2101,
+      "norma_id": 102270
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1083,
+      "norma_id": 1783
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1335,
+      "norma_id": 2474
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2102,
+      "norma_id": 102267
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 279,
+      "norma_id": 1782
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 958,
+      "norma_id": 2312
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2100,
+      "norma_id": 102265
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1642,
+      "norma_id": 1780
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1165,
+      "norma_id": 2398
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2099,
+      "norma_id": 102264
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 268,
+      "norma_id": 1776
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1164,
+      "norma_id": 2397
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2098,
+      "norma_id": 102263
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1362,
+      "norma_id": 1775
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1163,
+      "norma_id": 2396
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2097,
+      "norma_id": 102262
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 992,
+      "norma_id": 1774
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1159,
+      "norma_id": 2393
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2096,
+      "norma_id": 102261
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 2145,
+      "norma_id": 4981
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 526,
+      "norma_id": 2067
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2095,
+      "norma_id": 102260
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1113,
+      "norma_id": 447
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 525,
+      "norma_id": 2066
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2094,
+      "norma_id": 102259
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 239,
+      "norma_id": 446
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 642,
+      "norma_id": 2136
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2093,
+      "norma_id": 102266
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 191,
+      "norma_id": 1765
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 524,
+      "norma_id": 2065
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2089,
+      "norma_id": 102243
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1809,
+      "norma_id": 1772
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 379,
+      "norma_id": 1929
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2086,
+      "norma_id": 102238
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1810,
+      "norma_id": 1771
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1744,
+      "norma_id": 2788
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2083,
+      "norma_id": 102237
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 799,
+      "norma_id": 1770
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1393,
+      "norma_id": 2505
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2084,
+      "norma_id": 102236
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1780,
+      "norma_id": 1769
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2520,
+      "norma_id": 3467
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2087,
+      "norma_id": 102228
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1812,
+      "norma_id": 1768
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2269,
+      "norma_id": 3161
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2085,
+      "norma_id": 102227
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1813,
+      "norma_id": 1767
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1433,
+      "norma_id": 2523
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2090,
+      "norma_id": 102226
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 378,
+      "norma_id": 1762
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1145,
+      "norma_id": 2380
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2078,
+      "norma_id": 102222
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 142,
+      "norma_id": 1761
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1158,
+      "norma_id": 2392
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2077,
+      "norma_id": 102221
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 140,
+      "norma_id": 1760
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1157,
+      "norma_id": 2391
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2076,
+      "norma_id": 102220
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1316,
+      "norma_id": 1759
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 298,
+      "norma_id": 1863
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2075,
+      "norma_id": 102219
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1314,
+      "norma_id": 1758
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1330,
+      "norma_id": 2470
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2074,
+      "norma_id": 102218
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 492,
+      "norma_id": 1757
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1526,
+      "norma_id": 2603
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2081,
+      "norma_id": 102225
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 804,
+      "norma_id": 1753
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1522,
+      "norma_id": 2602
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2080,
+      "norma_id": 102224
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1811,
+      "norma_id": 1752
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 523,
+      "norma_id": 2064
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2073,
+      "norma_id": 102212
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 2444,
+      "norma_id": 1751
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 437,
+      "norma_id": 1977
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2072,
+      "norma_id": 102211
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 214,
+      "norma_id": 1750
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1144,
+      "norma_id": 2379
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2071,
+      "norma_id": 102202
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1116,
+      "norma_id": 445
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 962,
+      "norma_id": 2313
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2070,
+      "norma_id": 102201
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1117,
+      "norma_id": 444
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1156,
+      "norma_id": 2390
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2069,
+      "norma_id": 102199
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 230,
+      "norma_id": 1748
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1155,
+      "norma_id": 2389
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2068,
+      "norma_id": 102198
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1036,
+      "norma_id": 1742
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1154,
+      "norma_id": 2388
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2067,
+      "norma_id": 102195
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 752,
+      "norma_id": 1741
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1085,
+      "norma_id": 2345
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2062,
+      "norma_id": 102194
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 928,
+      "norma_id": 1740
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 385,
+      "norma_id": 1938
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2063,
+      "norma_id": 102193
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 475,
+      "norma_id": 1739
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1143,
+      "norma_id": 2378
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2064,
+      "norma_id": 102192
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1545,
+      "norma_id": 1738
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 417,
+      "norma_id": 1964
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2065,
+      "norma_id": 102191
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 711,
+      "norma_id": 1737
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 419,
+      "norma_id": 1965
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2066,
+      "norma_id": 102190
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1118,
+      "norma_id": 443
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1089,
+      "norma_id": 2347
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2061,
+      "norma_id": 102189
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1119,
+      "norma_id": 442
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 327,
+      "norma_id": 1879
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2060,
+      "norma_id": 102188
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1120,
+      "norma_id": 441
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2485,
+      "norma_id": 3453
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2057,
+      "norma_id": 102187
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1643,
+      "norma_id": 1735
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1329,
+      "norma_id": 2469
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2058,
+      "norma_id": 102185
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 297,
+      "norma_id": 1733
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1074,
+      "norma_id": 2337
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2059,
+      "norma_id": 102184
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1689,
+      "norma_id": 1731
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 889,
+      "norma_id": 2285
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2056,
+      "norma_id": 102186
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1654,
+      "norma_id": 162
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 683,
+      "norma_id": 2155
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2051,
+      "norma_id": 102168
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 296,
+      "norma_id": 1730
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1233,
+      "norma_id": 2438
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2053,
+      "norma_id": 102167
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1787,
+      "norma_id": 1729
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1137,
+      "norma_id": 2375
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2052,
+      "norma_id": 102169
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 587,
+      "norma_id": 1728
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 232,
+      "norma_id": 1817
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2054,
+      "norma_id": 102170
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 370,
+      "norma_id": 1725
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 326,
+      "norma_id": 1878
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2032,
+      "norma_id": 102166
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 925,
+      "norma_id": 1724
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 752,
+      "norma_id": 2135
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2034,
+      "norma_id": 102165
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 361,
+      "norma_id": 795
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1513,
+      "norma_id": 2589
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2031,
+      "norma_id": 102162
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1690,
+      "norma_id": 1723
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 412,
+      "norma_id": 1962
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2035,
+      "norma_id": 102164
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 170,
+      "norma_id": 376
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 413,
+      "norma_id": 1963
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2033,
+      "norma_id": 102163
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1817,
+      "norma_id": 1734
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1153,
+      "norma_id": 2387
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2037,
+      "norma_id": 102161
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 44,
+      "norma_id": 3496
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 641,
+      "norma_id": 2134
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2036,
+      "norma_id": 102158
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 295,
+      "norma_id": 1720
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 640,
+      "norma_id": 2133
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2030,
+      "norma_id": 102152
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 474,
+      "norma_id": 1719
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 662,
+      "norma_id": 2144
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2028,
+      "norma_id": 102153
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 190,
+      "norma_id": 1718
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 90,
+      "norma_id": 1744
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2029,
+      "norma_id": 102151
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 2128,
+      "norma_id": 1713
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 297,
+      "norma_id": 1862
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2039,
+      "norma_id": 102150
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1644,
+      "norma_id": 1711
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2795,
+      "norma_id": 2480
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2026,
+      "norma_id": 102148
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 2348,
+      "norma_id": 1710
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1086,
+      "norma_id": 2346
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2038,
+      "norma_id": 102159
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1526,
+      "norma_id": 147
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1084,
+      "norma_id": 2344
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2022,
+      "norma_id": 102144
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1616,
+      "norma_id": 61
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2335,
+      "norma_id": 3195
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2024,
+      "norma_id": 102147
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 189,
+      "norma_id": 32
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2497,
+      "norma_id": 3508
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2025,
+      "norma_id": 102146
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 586,
+      "norma_id": 1708
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1152,
+      "norma_id": 2386
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2021,
+      "norma_id": 102119
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 229,
+      "norma_id": 1707
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1130,
+      "norma_id": 2369
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2023,
+      "norma_id": 102145
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 305,
+      "norma_id": 1705
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 900,
+      "norma_id": 2293
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2020,
+      "norma_id": 102120
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 306,
+      "norma_id": 1704
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 871,
+      "norma_id": 2272
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2016,
+      "norma_id": 102117
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 294,
+      "norma_id": 1703
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 522,
+      "norma_id": 2063
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2015,
+      "norma_id": 102116
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 838,
+      "norma_id": 1702
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 325,
+      "norma_id": 1877
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2014,
+      "norma_id": 102115
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1121,
+      "norma_id": 440
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1228,
+      "norma_id": 2436
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2017,
+      "norma_id": 102113
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 293,
+      "norma_id": 1694
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1328,
+      "norma_id": 2468
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2013,
+      "norma_id": 102114
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 292,
+      "norma_id": 1692
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 410,
+      "norma_id": 1960
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2012,
+      "norma_id": 102112
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 228,
+      "norma_id": 1691
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 411,
+      "norma_id": 1961
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2011,
+      "norma_id": 102107
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 290,
+      "norma_id": 1690
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 661,
+      "norma_id": 2143
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2010,
+      "norma_id": 102106
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1688,
+      "norma_id": 1055
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1039,
+      "norma_id": 2322
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2008,
+      "norma_id": 102100
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1693,
+      "norma_id": 192
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1151,
+      "norma_id": 2385
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2009,
+      "norma_id": 102099
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 43,
+      "norma_id": 3495
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1148,
+      "norma_id": 2383
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2007,
+      "norma_id": 102098
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 42,
+      "norma_id": 3494
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1147,
+      "norma_id": 2382
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2006,
+      "norma_id": 102097
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 794,
+      "norma_id": 1684
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 682,
+      "norma_id": 2154
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2004,
+      "norma_id": 102094
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 798,
+      "norma_id": 1683
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1856,
+      "norma_id": 2840
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2001,
+      "norma_id": 102077
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 993,
+      "norma_id": 1682
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1224,
+      "norma_id": 2435
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1999,
+      "norma_id": 102074
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 585,
+      "norma_id": 1681
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 681,
+      "norma_id": 2153
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2000,
+      "norma_id": 102075
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 994,
+      "norma_id": 1677
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 324,
+      "norma_id": 1876
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1997,
+      "norma_id": 102071
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1122,
+      "norma_id": 439
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2107,
+      "norma_id": 3004
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1998,
+      "norma_id": 102072
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 763,
+      "norma_id": 1672
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 520,
+      "norma_id": 2061
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 2005,
+      "norma_id": 102070
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 713,
+      "norma_id": 1665
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 519,
+      "norma_id": 2060
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1996,
+      "norma_id": 102055
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1358,
+      "norma_id": 1663
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 518,
+      "norma_id": 2059
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1995,
+      "norma_id": 102054
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1123,
+      "norma_id": 438
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1073,
+      "norma_id": 2336
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1994,
+      "norma_id": 102053
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 157,
+      "norma_id": 1662
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 517,
+      "norma_id": 2058
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1993,
+      "norma_id": 102052
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 792,
+      "norma_id": 1661
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 516,
+      "norma_id": 2057
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1987,
+      "norma_id": 102044
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 712,
+      "norma_id": 1660
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1512,
+      "norma_id": 2588
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1984,
+      "norma_id": 102042
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 289,
+      "norma_id": 1658
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 515,
+      "norma_id": 2056
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1985,
+      "norma_id": 102043
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 41,
+      "norma_id": 3493
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2794,
+      "norma_id": 3845
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1979,
+      "norma_id": 102037
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 791,
+      "norma_id": 1656
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1691,
+      "norma_id": 2785
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1978,
+      "norma_id": 102036
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 790,
+      "norma_id": 1655
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2483,
+      "norma_id": 3451
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1977,
+      "norma_id": 102033
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 789,
+      "norma_id": 1654
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2334,
+      "norma_id": 3194
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1986,
+      "norma_id": 102034
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 774,
+      "norma_id": 1653
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 378,
+      "norma_id": 1928
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1975,
+      "norma_id": 102027
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 788,
+      "norma_id": 1652
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 377,
+      "norma_id": 1927
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1973,
+      "norma_id": 102026
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 773,
+      "norma_id": 1651
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 767,
+      "norma_id": 2240
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1974,
+      "norma_id": 102025
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 787,
+      "norma_id": 1650
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1142,
+      "norma_id": 2377
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1972,
+      "norma_id": 102024
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 786,
+      "norma_id": 1649
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2163,
+      "norma_id": 3048
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1970,
+      "norma_id": 102023
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 785,
+      "norma_id": 1648
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1213,
+      "norma_id": 2422
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1971,
+      "norma_id": 102022
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 772,
+      "norma_id": 1647
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 78,
+      "norma_id": 1735
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1966,
+      "norma_id": 102016
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 584,
+      "norma_id": 1644
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 507,
+      "norma_id": 2050
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1965,
+      "norma_id": 102015
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 227,
+      "norma_id": 1643
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 376,
+      "norma_id": 1924
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1964,
+      "norma_id": 102014
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 226,
+      "norma_id": 1642
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 317,
+      "norma_id": 1872
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1963,
+      "norma_id": 102013
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1124,
+      "norma_id": 437
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2496,
+      "norma_id": 3507
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1954,
+      "norma_id": 102009
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 583,
+      "norma_id": 1636
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2333,
+      "norma_id": 3193
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1953,
+      "norma_id": 102007
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1659,
+      "norma_id": 172
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 649,
+      "norma_id": 2141
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1961,
+      "norma_id": 102006
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1848,
+      "norma_id": 189
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2308,
+      "norma_id": 3174
+    },
+    {
+      "host": "sapl.garca.sp.leg.br",
+      "ta_id": 1960,
+      "norma_id": 102005
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 995,
+      "norma_id": 1634
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1212,
+      "norma_id": 2421
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 751,
+      "norma_id": 1633
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 506,
+      "norma_id": 2049
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 139,
+      "norma_id": 1631
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 316,
+      "norma_id": 1871
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 710,
+      "norma_id": 1630
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 436,
+      "norma_id": 1976
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 784,
+      "norma_id": 1629
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1141,
+      "norma_id": 2376
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 750,
+      "norma_id": 1627
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 891,
+      "norma_id": 2286
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 138,
+      "norma_id": 1626
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2837,
+      "norma_id": 4375
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1240,
+      "norma_id": 1625
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 878,
+      "norma_id": 2281
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1050,
+      "norma_id": 1622
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1507,
+      "norma_id": 2577
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1125,
+      "norma_id": 436
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1539,
+      "norma_id": 2625
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 2609,
+      "norma_id": 1620
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1391,
+      "norma_id": 2504
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 771,
+      "norma_id": 1619
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1885,
+      "norma_id": 2845
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 954,
+      "norma_id": 1618
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 680,
+      "norma_id": 2152
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1082,
+      "norma_id": 1610
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 296,
+      "norma_id": 1861
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 267,
+      "norma_id": 1609
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2263,
+      "norma_id": 3156
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1126,
+      "norma_id": 435
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 852,
+      "norma_id": 2265
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 288,
+      "norma_id": 1606
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2793,
+      "norma_id": 3844
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 996,
+      "norma_id": 1604
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 375,
+      "norma_id": 1926
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1257,
+      "norma_id": 1603
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 280,
+      "norma_id": 1849
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1127,
+      "norma_id": 434
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 851,
+      "norma_id": 2264
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1333,
+      "norma_id": 1598
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1140,
+      "norma_id": 2366
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 797,
+      "norma_id": 1597
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 504,
+      "norma_id": 2047
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 796,
+      "norma_id": 1596
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2791,
+      "norma_id": 3843
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 759,
+      "norma_id": 1595
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 849,
+      "norma_id": 2263
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1629,
+      "norma_id": 1594
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 639,
+      "norma_id": 2132
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 783,
+      "norma_id": 1592
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1139,
+      "norma_id": 2365
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1338,
+      "norma_id": 1591
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 374,
+      "norma_id": 1925
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1357,
+      "norma_id": 1590
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1390,
+      "norma_id": 2503
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 997,
+      "norma_id": 1589
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1075,
+      "norma_id": 2339
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 999,
+      "norma_id": 1588
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 503,
+      "norma_id": 2046
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1046,
+      "norma_id": 1587
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 502,
+      "norma_id": 2045
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1879,
+      "norma_id": 1586
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1504,
+      "norma_id": 2567
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 758,
+      "norma_id": 1584
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 77,
+      "norma_id": 1734
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1045,
+      "norma_id": 830
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 628,
+      "norma_id": 2126
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 582,
+      "norma_id": 1578
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1126,
+      "norma_id": 2364
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 782,
+      "norma_id": 1575
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1386,
+      "norma_id": 2501
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 438,
+      "norma_id": 1573
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2301,
+      "norma_id": 3173
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 581,
+      "norma_id": 1572
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 505,
+      "norma_id": 2048
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 580,
+      "norma_id": 1571
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1503,
+      "norma_id": 2565
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 749,
+      "norma_id": 1570
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1502,
+      "norma_id": 2564
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1658,
+      "norma_id": 1569
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1125,
+      "norma_id": 2363
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 885,
+      "norma_id": 1567
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 212,
+      "norma_id": 1806
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 366,
+      "norma_id": 1565
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 373,
+      "norma_id": 1923
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 579,
+      "norma_id": 1564
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2203,
+      "norma_id": 3120
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 883,
+      "norma_id": 1557
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1385,
+      "norma_id": 2500
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1049,
+      "norma_id": 1554
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1340,
+      "norma_id": 2477
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 276,
+      "norma_id": 1552
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 501,
+      "norma_id": 2044
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 578,
+      "norma_id": 1550
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 188,
+      "norma_id": 1792
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 577,
+      "norma_id": 1549
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 848,
+      "norma_id": 2262
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1645,
+      "norma_id": 1547
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2267,
+      "norma_id": 3159
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 287,
+      "norma_id": 1544
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2332,
+      "norma_id": 3185
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 576,
+      "norma_id": 1542
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 372,
+      "norma_id": 1922
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 757,
+      "norma_id": 1539
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1383,
+      "norma_id": 2498
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 889,
+      "norma_id": 1538
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1501,
+      "norma_id": 2563
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 806,
+      "norma_id": 1537
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1500,
+      "norma_id": 2562
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 893,
+      "norma_id": 1535
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 76,
+      "norma_id": 1733
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 575,
+      "norma_id": 1533
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1186,
+      "norma_id": 2406
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 286,
+      "norma_id": 1532
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1207,
+      "norma_id": 2419
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1129,
+      "norma_id": 432
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1204,
+      "norma_id": 2418
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1130,
+      "norma_id": 431
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1185,
+      "norma_id": 2405
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1128,
+      "norma_id": 433
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1434,
+      "norma_id": 2524
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 225,
+      "norma_id": 1523
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1124,
+      "norma_id": 2362
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 892,
+      "norma_id": 1521
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1378,
+      "norma_id": 2496
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 886,
+      "norma_id": 1520
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1499,
+      "norma_id": 2558
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 756,
+      "norma_id": 1519
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1369,
+      "norma_id": 2491
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1137,
+      "norma_id": 430
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 638,
+      "norma_id": 2131
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1256,
+      "norma_id": 1514
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 719,
+      "norma_id": 2189
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 169,
+      "norma_id": 3474
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2266,
+      "norma_id": 3158
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 762,
+      "norma_id": 1507
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 648,
+      "norma_id": 2140
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 761,
+      "norma_id": 1505
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2790,
+      "norma_id": 3842
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 781,
+      "norma_id": 1504
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1122,
+      "norma_id": 2360
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 156,
+      "norma_id": 1502
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 846,
+      "norma_id": 2261
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 40,
+      "norma_id": 3492
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2072,
+      "norma_id": 2975
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1175,
+      "norma_id": 1500
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2789,
+      "norma_id": 3841
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1211,
+      "norma_id": 1499
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 369,
+      "norma_id": 1915
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 2,
+      "norma_id": 10
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 957,
+      "norma_id": 2311
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 572,
+      "norma_id": 373
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 923,
+      "norma_id": 2303
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 780,
+      "norma_id": 1498
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2788,
+      "norma_id": 3840
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1646,
+      "norma_id": 1492
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2034,
+      "norma_id": 2946
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1310,
+      "norma_id": 1490
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2787,
+      "norma_id": 3839
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1350,
+      "norma_id": 4476
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1108,
+      "norma_id": 2354
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1309,
+      "norma_id": 1488
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 637,
+      "norma_id": 2130
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1649,
+      "norma_id": 1482
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 75,
+      "norma_id": 1732
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1363,
+      "norma_id": 1477
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1480,
+      "norma_id": 2543
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1207,
+      "norma_id": 1476
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1895,
+      "norma_id": 2848
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1203,
+      "norma_id": 1475
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 947,
+      "norma_id": 2310
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 983,
+      "norma_id": 1468
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2264,
+      "norma_id": 3157
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1206,
+      "norma_id": 1467
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1372,
+      "norma_id": 2494
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1295,
+      "norma_id": 1465
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2786,
+      "norma_id": 3838
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1131,
+      "norma_id": 429
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1996,
+      "norma_id": 2929
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1525,
+      "norma_id": 1452
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1094,
+      "norma_id": 2349
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1134,
+      "norma_id": 428
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2252,
+      "norma_id": 3152
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1136,
+      "norma_id": 427
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2785,
+      "norma_id": 3837
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 253,
+      "norma_id": 1450
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2783,
+      "norma_id": 3836
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 987,
+      "norma_id": 1448
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1076,
+      "norma_id": 2335
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 542,
+      "norma_id": 1444
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1755,
+      "norma_id": 2793
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1000,
+      "norma_id": 1443
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1901,
+      "norma_id": 2851
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1001,
+      "norma_id": 1442
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2782,
+      "norma_id": 3835
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 779,
+      "norma_id": 1441
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2776,
+      "norma_id": 3834
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 39,
+      "norma_id": 3491
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1689,
+      "norma_id": 2784
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 736,
+      "norma_id": 1437
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1520,
+      "norma_id": 2599
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 747,
+      "norma_id": 1436
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 500,
+      "norma_id": 2043
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1948,
+      "norma_id": 1435
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 499,
+      "norma_id": 2042
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 770,
+      "norma_id": 1432
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 718,
+      "norma_id": 2188
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1657,
+      "norma_id": 1431
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2109,
+      "norma_id": 3006
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1174,
+      "norma_id": 1425
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1679,
+      "norma_id": 2770
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1818,
+      "norma_id": 1445
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 845,
+      "norma_id": 2260
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 895,
+      "norma_id": 1424
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1688,
+      "norma_id": 2783
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1037,
+      "norma_id": 1423
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 365,
+      "norma_id": 1914
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 930,
+      "norma_id": 1422
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 74,
+      "norma_id": 1731
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1650,
+      "norma_id": 1419
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 717,
+      "norma_id": 2187
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1135,
+      "norma_id": 426
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 364,
+      "norma_id": 1913
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 986,
+      "norma_id": 1404
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2638,
+      "norma_id": 3699
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 224,
+      "norma_id": 1397
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 627,
+      "norma_id": 2124
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 38,
+      "norma_id": 3490
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1123,
+      "norma_id": 2361
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1271,
+      "norma_id": 1382
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2643,
+      "norma_id": 3707
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1819,
+      "norma_id": 1381
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 363,
+      "norma_id": 1912
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 541,
+      "norma_id": 1374
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 361,
+      "norma_id": 1909
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1365,
+      "norma_id": 1373
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 895,
+      "norma_id": 2289
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 805,
+      "norma_id": 1370
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 491,
+      "norma_id": 2034
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 960,
+      "norma_id": 1369
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 489,
+      "norma_id": 2032
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1133,
+      "norma_id": 425
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2642,
+      "norma_id": 3706
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 223,
+      "norma_id": 1366
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1489,
+      "norma_id": 2551
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 512,
+      "norma_id": 1361
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1488,
+      "norma_id": 2549
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 920,
+      "norma_id": 1360
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1444,
+      "norma_id": 2528
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1615,
+      "norma_id": 62
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 498,
+      "norma_id": 2041
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 709,
+      "norma_id": 1354
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 497,
+      "norma_id": 2040
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 746,
+      "norma_id": 1353
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 73,
+      "norma_id": 1730
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 745,
+      "norma_id": 1352
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2640,
+      "norma_id": 3704
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 708,
+      "norma_id": 1347
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1487,
+      "norma_id": 2548
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 744,
+      "norma_id": 1346
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 496,
+      "norma_id": 2039
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 743,
+      "norma_id": 1345
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1898,
+      "norma_id": 2850
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 869,
+      "norma_id": 1344
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1482,
+      "norma_id": 2544
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 873,
+      "norma_id": 1343
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2289,
+      "norma_id": 3162
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1173,
+      "norma_id": 1341
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 359,
+      "norma_id": 1908
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 959,
+      "norma_id": 1339
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1484,
+      "norma_id": 2546
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1820,
+      "norma_id": 1380
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 495,
+      "norma_id": 2038
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 755,
+      "norma_id": 1336
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 492,
+      "norma_id": 2035
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1628,
+      "norma_id": 1332
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 357,
+      "norma_id": 1906
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 962,
+      "norma_id": 1327
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2775,
+      "norma_id": 3833
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 867,
+      "norma_id": 1326
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1847,
+      "norma_id": 2838
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 961,
+      "norma_id": 1325
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2184,
+      "norma_id": 3064
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 733,
+      "norma_id": 1322
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 279,
+      "norma_id": 1848
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 778,
+      "norma_id": 1321
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 494,
+      "norma_id": 2037
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 865,
+      "norma_id": 1320
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 493,
+      "norma_id": 2036
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 871,
+      "norma_id": 1319
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2639,
+      "norma_id": 3703
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 368,
+      "norma_id": 77
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1483,
+      "norma_id": 2545
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 777,
+      "norma_id": 1312
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1282,
+      "norma_id": 2452
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 990,
+      "norma_id": 1302
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 490,
+      "norma_id": 2033
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 923,
+      "norma_id": 1297
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1463,
+      "norma_id": 2125
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 922,
+      "norma_id": 1286
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 480,
+      "norma_id": 2019
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 36,
+      "norma_id": 3488
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 479,
+      "norma_id": 2018
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 37,
+      "norma_id": 3489
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1396,
+      "norma_id": 2506
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1038,
+      "norma_id": 1282
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1288,
+      "norma_id": 2456
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 623,
+      "norma_id": 1280
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 409,
+      "norma_id": 1959
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1651,
+      "norma_id": 1277
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1065,
+      "norma_id": 2329
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1664,
+      "norma_id": 1271
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2331,
+      "norma_id": 3184
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1638,
+      "norma_id": 1269
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2631,
+      "norma_id": 3677
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 956,
+      "norma_id": 1263
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 39,
+      "norma_id": 1716
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 845,
+      "norma_id": 1261
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1287,
+      "norma_id": 2455
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 35,
+      "norma_id": 3487
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 366,
+      "norma_id": 1916
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 958,
+      "norma_id": 1255
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1897,
+      "norma_id": 2849
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 857,
+      "norma_id": 1254
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2038,
+      "norma_id": 2947
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 511,
+      "norma_id": 1252
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 623,
+      "norma_id": 2120
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 266,
+      "norma_id": 1250
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2629,
+      "norma_id": 3673
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1039,
+      "norma_id": 1248
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 626,
+      "norma_id": 2123
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 742,
+      "norma_id": 1247
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 488,
+      "norma_id": 2031
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1040,
+      "norma_id": 1245
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 478,
+      "norma_id": 2017
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1544,
+      "norma_id": 1239
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2231,
+      "norma_id": 3137
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1041,
+      "norma_id": 1236
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1726,
+      "norma_id": 2786
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1042,
+      "norma_id": 1232
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2627,
+      "norma_id": 3658
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1043,
+      "norma_id": 1231
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 778,
+      "norma_id": 2241
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 622,
+      "norma_id": 1230
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2475,
+      "norma_id": 3375
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 856,
+      "norma_id": 1228
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 72,
+      "norma_id": 1729
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 2127,
+      "norma_id": 1227
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 487,
+      "norma_id": 2030
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 855,
+      "norma_id": 1219
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 486,
+      "norma_id": 2029
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1214,
+      "norma_id": 1218
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 477,
+      "norma_id": 2016
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1641,
+      "norma_id": 1212
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 277,
+      "norma_id": 1846
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 34,
+      "norma_id": 3486
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2186,
+      "norma_id": 3066
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1640,
+      "norma_id": 1209
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1514,
+      "norma_id": 2590
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 957,
+      "norma_id": 1190
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 485,
+      "norma_id": 2023
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 748,
+      "norma_id": 1187
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 476,
+      "norma_id": 2015
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1234,
+      "norma_id": 1186
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1097,
+      "norma_id": 2351
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 955,
+      "norma_id": 1185
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1519,
+      "norma_id": 2598
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1607,
+      "norma_id": 1182
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2626,
+      "norma_id": 3656
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 222,
+      "norma_id": 1181
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 675,
+      "norma_id": 2148
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1625,
+      "norma_id": 4656
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1177,
+      "norma_id": 2400
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1652,
+      "norma_id": 1184
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 484,
+      "norma_id": 2028
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1132,
+      "norma_id": 424
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 933,
+      "norma_id": 2305
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 705,
+      "norma_id": 1157
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 844,
+      "norma_id": 2259
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1470,
+      "norma_id": 1156
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2625,
+      "norma_id": 3652
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 184,
+      "norma_id": 1153
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2624,
+      "norma_id": 3650
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 851,
+      "norma_id": 1150
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2623,
+      "norma_id": 3648
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 183,
+      "norma_id": 1148
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 843,
+      "norma_id": 2258
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 948,
+      "norma_id": 1144
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2622,
+      "norma_id": 3647
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1115,
+      "norma_id": 423
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 939,
+      "norma_id": 2309
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1002,
+      "norma_id": 1141
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2474,
+      "norma_id": 3374
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1794,
+      "norma_id": 1137
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1349,
+      "norma_id": 2485
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1216,
+      "norma_id": 1124
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 483,
+      "norma_id": 2027
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1003,
+      "norma_id": 1121
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 475,
+      "norma_id": 2014
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1227,
+      "norma_id": 1120
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2182,
+      "norma_id": 3063
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 951,
+      "norma_id": 1114
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1678,
+      "norma_id": 2769
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1213,
+      "norma_id": 1113
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1830,
+      "norma_id": 2827
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1231,
+      "norma_id": 1112
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 435,
+      "norma_id": 1975
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 33,
+      "norma_id": 3485
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 842,
+      "norma_id": 2257
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 950,
+      "norma_id": 1109
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2621,
+      "norma_id": 3646
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1653,
+      "norma_id": 1108
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2620,
+      "norma_id": 3645
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1044,
+      "norma_id": 1106
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 474,
+      "norma_id": 2013
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1606,
+      "norma_id": 1079
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2619,
+      "norma_id": 3644
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1004,
+      "norma_id": 1078
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2618,
+      "norma_id": 3643
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 32,
+      "norma_id": 3484
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 351,
+      "norma_id": 1900
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 31,
+      "norma_id": 3483
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 58,
+      "norma_id": 1721
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1238,
+      "norma_id": 1042
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 924,
+      "norma_id": 2304
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1605,
+      "norma_id": 1040
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2617,
+      "norma_id": 3642
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 803,
+      "norma_id": 1030
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2616,
+      "norma_id": 3641
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1205,
+      "norma_id": 1028
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2473,
+      "norma_id": 3373
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 830,
+      "norma_id": 1026
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2615,
+      "norma_id": 3640
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 808,
+      "norma_id": 1022
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1331,
+      "norma_id": 2471
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1662,
+      "norma_id": 1021
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 473,
+      "norma_id": 2012
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 30,
+      "norma_id": 3482
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1511,
+      "norma_id": 2585
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 718,
+      "norma_id": 1015
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 625,
+      "norma_id": 2122
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1209,
+      "norma_id": 995
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 472,
+      "norma_id": 2011
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 822,
+      "norma_id": 988
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1510,
+      "norma_id": 2580
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1229,
+      "norma_id": 981
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 841,
+      "norma_id": 2256
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1005,
+      "norma_id": 980
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 471,
+      "norma_id": 2010
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1186,
+      "norma_id": 978
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1518,
+      "norma_id": 2597
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 843,
+      "norma_id": 964
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 276,
+      "norma_id": 1844
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 827,
+      "norma_id": 955
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2614,
+      "norma_id": 3639
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1598,
+      "norma_id": 940
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 482,
+      "norma_id": 2024
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1148,
+      "norma_id": 925
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 470,
+      "norma_id": 2009
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1147,
+      "norma_id": 924
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 469,
+      "norma_id": 2007
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 801,
+      "norma_id": 920
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 481,
+      "norma_id": 2022
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1149,
+      "norma_id": 917
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 840,
+      "norma_id": 2255
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1150,
+      "norma_id": 909
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 839,
+      "norma_id": 2254
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 738,
+      "norma_id": 906
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 838,
+      "norma_id": 2253
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1006,
+      "norma_id": 902
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2613,
+      "norma_id": 3638
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1178,
+      "norma_id": 896
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2472,
+      "norma_id": 3372
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 29,
+      "norma_id": 3481
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2471,
+      "norma_id": 3371
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1151,
+      "norma_id": 891
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2612,
+      "norma_id": 3635
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1152,
+      "norma_id": 890
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2611,
+      "norma_id": 3634
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 919,
+      "norma_id": 889
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2610,
+      "norma_id": 3633
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1153,
+      "norma_id": 888
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 468,
+      "norma_id": 2006
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1158,
+      "norma_id": 887
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2609,
+      "norma_id": 3632
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1159,
+      "norma_id": 886
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2470,
+      "norma_id": 3367
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1160,
+      "norma_id": 885
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 275,
+      "norma_id": 1843
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1185,
+      "norma_id": 884
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2608,
+      "norma_id": 3631
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 182,
+      "norma_id": 872
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2607,
+      "norma_id": 3630
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1161,
+      "norma_id": 871
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1893,
+      "norma_id": 2847
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 168,
+      "norma_id": 870
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1687,
+      "norma_id": 2780
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 829,
+      "norma_id": 869
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2606,
+      "norma_id": 3629
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1162,
+      "norma_id": 864
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2605,
+      "norma_id": 3628
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 947,
+      "norma_id": 863
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2604,
+      "norma_id": 3627
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 981,
+      "norma_id": 862
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 796,
+      "norma_id": 2252
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 945,
+      "norma_id": 861
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 938,
+      "norma_id": 2308
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 984,
+      "norma_id": 860
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 434,
+      "norma_id": 1974
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 952,
+      "norma_id": 859
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1070,
+      "norma_id": 2334
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 949,
+      "norma_id": 858
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1435,
+      "norma_id": 2525
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 982,
+      "norma_id": 857
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 636,
+      "norma_id": 2129
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1230,
+      "norma_id": 856
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2469,
+      "norma_id": 3366
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1947,
+      "norma_id": 854
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 922,
+      "norma_id": 2302
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1786,
+      "norma_id": 849
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1105,
+      "norma_id": 2353
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1946,
+      "norma_id": 847
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1069,
+      "norma_id": 2333
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1097,
+      "norma_id": 843
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2603,
+      "norma_id": 3626
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 821,
+      "norma_id": 717
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1333,
+      "norma_id": 2473
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 820,
+      "norma_id": 715
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 467,
+      "norma_id": 2005
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 715,
+      "norma_id": 713
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2602,
+      "norma_id": 3625
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1163,
+      "norma_id": 710
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 795,
+      "norma_id": 2251
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1164,
+      "norma_id": 709
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 937,
+      "norma_id": 2307
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1165,
+      "norma_id": 708
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 273,
+      "norma_id": 1842
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1098,
+      "norma_id": 707
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2601,
+      "norma_id": 3624
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 815,
+      "norma_id": 706
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2584,
+      "norma_id": 3608
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1007,
+      "norma_id": 705
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 794,
+      "norma_id": 2250
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 2350,
+      "norma_id": 697
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2204,
+      "norma_id": 3121
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1233,
+      "norma_id": 694
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 716,
+      "norma_id": 2186
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1237,
+      "norma_id": 693
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2467,
+      "norma_id": 3364
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1236,
+      "norma_id": 692
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2583,
+      "norma_id": 3607
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1228,
+      "norma_id": 691
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2582,
+      "norma_id": 3606
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1232,
+      "norma_id": 687
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2581,
+      "norma_id": 3605
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 814,
+      "norma_id": 686
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2580,
+      "norma_id": 3604
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 828,
+      "norma_id": 683
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2464,
+      "norma_id": 3361
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1208,
+      "norma_id": 674
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2600,
+      "norma_id": 3603
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 818,
+      "norma_id": 669
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2579,
+      "norma_id": 3602
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1212,
+      "norma_id": 668
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2745,
+      "norma_id": 4492
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 817,
+      "norma_id": 667
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2578,
+      "norma_id": 3601
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1008,
+      "norma_id": 662
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2577,
+      "norma_id": 3600
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 946,
+      "norma_id": 661
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2463,
+      "norma_id": 3360
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1166,
+      "norma_id": 660
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2462,
+      "norma_id": 3359
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 800,
+      "norma_id": 658
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 278,
+      "norma_id": 1847
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 825,
+      "norma_id": 657
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2576,
+      "norma_id": 3599
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 714,
+      "norma_id": 656
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2575,
+      "norma_id": 3598
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 809,
+      "norma_id": 653
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 466,
+      "norma_id": 2004
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 813,
+      "norma_id": 652
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2574,
+      "norma_id": 3597
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 265,
+      "norma_id": 155
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 465,
+      "norma_id": 2003
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1184,
+      "norma_id": 639
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 793,
+      "norma_id": 2248
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1188,
+      "norma_id": 637
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2460,
+      "norma_id": 3358
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1183,
+      "norma_id": 636
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1220,
+      "norma_id": 2428
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 765,
+      "norma_id": 635
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2185,
+      "norma_id": 3065
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1011,
+      "norma_id": 633
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2573,
+      "norma_id": 3596
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1010,
+      "norma_id": 632
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1221,
+      "norma_id": 2429
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1014,
+      "norma_id": 631
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2459,
+      "norma_id": 3357
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 734,
+      "norma_id": 630
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1680,
+      "norma_id": 2775
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1182,
+      "norma_id": 624
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1219,
+      "norma_id": 2427
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1167,
+      "norma_id": 623
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1223,
+      "norma_id": 2433
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 760,
+      "norma_id": 622
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1222,
+      "norma_id": 2431
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1176,
+      "norma_id": 621
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 790,
+      "norma_id": 2245
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 181,
+      "norma_id": 258
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2572,
+      "norma_id": 3595
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1639,
+      "norma_id": 614
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2571,
+      "norma_id": 3594
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 802,
+      "norma_id": 608
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1459,
+      "norma_id": 2532
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 795,
+      "norma_id": 606
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1857,
+      "norma_id": 2841
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 812,
+      "norma_id": 603
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2458,
+      "norma_id": 3356
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1210,
+      "norma_id": 601
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 622,
+      "norma_id": 2119
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 953,
+      "norma_id": 599
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1534,
+      "norma_id": 2624
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 764,
+      "norma_id": 598
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2570,
+      "norma_id": 3593
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1235,
+      "norma_id": 596
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 463,
+      "norma_id": 2002
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 811,
+      "norma_id": 593
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2569,
+      "norma_id": 3592
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 816,
+      "norma_id": 591
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2568,
+      "norma_id": 3591
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 810,
+      "norma_id": 590
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1068,
+      "norma_id": 2332
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1215,
+      "norma_id": 589
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 462,
+      "norma_id": 2001
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 807,
+      "norma_id": 588
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 350,
+      "norma_id": 1899
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 685,
+      "norma_id": 569
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 757,
+      "norma_id": 2084
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 707,
+      "norma_id": 568
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 349,
+      "norma_id": 1898
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 155,
+      "norma_id": 567
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 461,
+      "norma_id": 2000
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 985,
+      "norma_id": 536
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 448,
+      "norma_id": 1991
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 28,
+      "norma_id": 3480
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2457,
+      "norma_id": 3355
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 729,
+      "norma_id": 526
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 460,
+      "norma_id": 1999
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1543,
+      "norma_id": 524
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1509,
+      "norma_id": 2581
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 703,
+      "norma_id": 523
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1754,
+      "norma_id": 2791
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 819,
+      "norma_id": 514
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2456,
+      "norma_id": 3354
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 720,
+      "norma_id": 512
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2567,
+      "norma_id": 3590
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1168,
+      "norma_id": 507
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2073,
+      "norma_id": 2976
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1169,
+      "norma_id": 506
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2188,
+      "norma_id": 3068
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 3,
+      "norma_id": 414
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2455,
+      "norma_id": 3353
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1202,
+      "norma_id": 504
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2566,
+      "norma_id": 3589
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 679,
+      "norma_id": 499
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 789,
+      "norma_id": 2244
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1015,
+      "norma_id": 494
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 459,
+      "norma_id": 1998
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 826,
+      "norma_id": 493
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 348,
+      "norma_id": 1897
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 706,
+      "norma_id": 492
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2565,
+      "norma_id": 3588
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 730,
+      "norma_id": 490
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 56,
+      "norma_id": 1724
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 682,
+      "norma_id": 480
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 877,
+      "norma_id": 2280
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 681,
+      "norma_id": 479
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 347,
+      "norma_id": 1896
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 684,
+      "norma_id": 478
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 458,
+      "norma_id": 1997
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 719,
+      "norma_id": 475
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 528,
+      "norma_id": 2069
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1195,
+      "norma_id": 474
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2453,
+      "norma_id": 3350
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1191,
+      "norma_id": 473
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2564,
+      "norma_id": 3587
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1194,
+      "norma_id": 472
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2125,
+      "norma_id": 3018
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1114,
+      "norma_id": 422
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 452,
+      "norma_id": 1994
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 700,
+      "norma_id": 471
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1506,
+      "norma_id": 2575
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 698,
+      "norma_id": 470
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2399,
+      "norma_id": 3283
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 695,
+      "norma_id": 469
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 450,
+      "norma_id": 1992
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 154,
+      "norma_id": 405
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 783,
+      "norma_id": 2243
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1334,
+      "norma_id": 402
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2563,
+      "norma_id": 3586
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1193,
+      "norma_id": 399
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2395,
+      "norma_id": 3270
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 717,
+      "norma_id": 390
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 271,
+      "norma_id": 1841
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 728,
+      "norma_id": 381
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 451,
+      "norma_id": 1993
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 697,
+      "norma_id": 379
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 447,
+      "norma_id": 1985
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 680,
+      "norma_id": 365
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2562,
+      "norma_id": 3585
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 793,
+      "norma_id": 364
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 449,
+      "norma_id": 1988
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 702,
+      "norma_id": 363
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 881,
+      "norma_id": 2282
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 699,
+      "norma_id": 362
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1508,
+      "norma_id": 2578
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1201,
+      "norma_id": 358
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1422,
+      "norma_id": 2522
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1012,
+      "norma_id": 355
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1505,
+      "norma_id": 2570
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1013,
+      "norma_id": 354
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1532,
+      "norma_id": 2306
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1009,
+      "norma_id": 353
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1747,
+      "norma_id": 2790
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 716,
+      "norma_id": 348
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2560,
+      "norma_id": 3583
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 422,
+      "norma_id": 347
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2559,
+      "norma_id": 3582
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 696,
+      "norma_id": 346
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1746,
+      "norma_id": 2789
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1200,
+      "norma_id": 345
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1067,
+      "norma_id": 2331
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 731,
+      "norma_id": 331
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2557,
+      "norma_id": 3580
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1170,
+      "norma_id": 330
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 624,
+      "norma_id": 2121
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1171,
+      "norma_id": 329
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2556,
+      "norma_id": 3579
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 167,
+      "norma_id": 327
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2555,
+      "norma_id": 3578
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1154,
+      "norma_id": 313
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2552,
+      "norma_id": 3576
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 236,
+      "norma_id": 127
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2551,
+      "norma_id": 3575
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 704,
+      "norma_id": 305
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2550,
+      "norma_id": 3574
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 144,
+      "norma_id": 296
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2549,
+      "norma_id": 3573
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 443,
+      "norma_id": 268
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1753,
+      "norma_id": 2020
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 686,
+      "norma_id": 262
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1832,
+      "norma_id": 2828
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1035,
+      "norma_id": 260
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 269,
+      "norma_id": 1835
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 683,
+      "norma_id": 257
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2548,
+      "norma_id": 3572
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 694,
+      "norma_id": 245
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2484,
+      "norma_id": 3452
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 693,
+      "norma_id": 244
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2547,
+      "norma_id": 3571
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 692,
+      "norma_id": 243
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2546,
+      "norma_id": 3570
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 691,
+      "norma_id": 242
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 268,
+      "norma_id": 1823
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 690,
+      "norma_id": 241
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2545,
+      "norma_id": 3569
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 689,
+      "norma_id": 237
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2544,
+      "norma_id": 3568
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 137,
+      "norma_id": 233
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2123,
+      "norma_id": 3016
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 688,
+      "norma_id": 229
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2543,
+      "norma_id": 3567
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 687,
+      "norma_id": 228
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1066,
+      "norma_id": 2330
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 2334,
+      "norma_id": 222
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2542,
+      "norma_id": 3566
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 944,
+      "norma_id": 221
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2541,
+      "norma_id": 3565
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 452,
+      "norma_id": 220
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2540,
+      "norma_id": 3564
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 450,
+      "norma_id": 219
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2539,
+      "norma_id": 3563
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 451,
+      "norma_id": 217
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2538,
+      "norma_id": 3562
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 449,
+      "norma_id": 216
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2439,
+      "norma_id": 3337
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 448,
+      "norma_id": 215
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2438,
+      "norma_id": 3336
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 447,
+      "norma_id": 214
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2437,
+      "norma_id": 3335
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 446,
+      "norma_id": 213
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2435,
+      "norma_id": 3333
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 445,
+      "norma_id": 212
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2434,
+      "norma_id": 3332
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 442,
+      "norma_id": 211
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2433,
+      "norma_id": 3331
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 437,
+      "norma_id": 210
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2432,
+      "norma_id": 3330
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 436,
+      "norma_id": 209
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2431,
+      "norma_id": 3329
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 435,
+      "norma_id": 208
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2430,
+      "norma_id": 3328
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 434,
+      "norma_id": 207
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1098,
+      "norma_id": 2352
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 433,
+      "norma_id": 206
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2429,
+      "norma_id": 3327
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 432,
+      "norma_id": 2813
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2428,
+      "norma_id": 3326
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 431,
+      "norma_id": 2812
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2424,
+      "norma_id": 3322
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 430,
+      "norma_id": 2811
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2423,
+      "norma_id": 3321
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 429,
+      "norma_id": 2810
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2422,
+      "norma_id": 3320
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 428,
+      "norma_id": 2809
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1751,
+      "norma_id": 1836
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 427,
+      "norma_id": 2808
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2421,
+      "norma_id": 3319
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 426,
+      "norma_id": 2807
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1750,
+      "norma_id": 1840
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 425,
+      "norma_id": 2806
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2420,
+      "norma_id": 3318
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 424,
+      "norma_id": 2849
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1517,
+      "norma_id": 2596
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 423,
+      "norma_id": 2848
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2418,
+      "norma_id": 3316
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 421,
+      "norma_id": 2847
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2417,
+      "norma_id": 3315
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 420,
+      "norma_id": 2846
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1749,
+      "norma_id": 1837
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 418,
+      "norma_id": 2844
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1748,
+      "norma_id": 1838
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 419,
+      "norma_id": 2845
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2416,
+      "norma_id": 3314
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 417,
+      "norma_id": 2843
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2415,
+      "norma_id": 3313
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 416,
+      "norma_id": 2842
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2414,
+      "norma_id": 3312
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 415,
+      "norma_id": 2841
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1516,
+      "norma_id": 2595
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 413,
+      "norma_id": 2839
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2413,
+      "norma_id": 3311
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 412,
+      "norma_id": 2838
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2411,
+      "norma_id": 3309
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 411,
+      "norma_id": 2837
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2412,
+      "norma_id": 3310
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 410,
+      "norma_id": 2836
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2410,
+      "norma_id": 3308
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 409,
+      "norma_id": 2835
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2409,
+      "norma_id": 3307
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 414,
+      "norma_id": 2840
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2408,
+      "norma_id": 3306
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 408,
+      "norma_id": 2834
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2407,
+      "norma_id": 3305
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 407,
+      "norma_id": 2833
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2405,
+      "norma_id": 3304
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 406,
+      "norma_id": 2832
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2403,
+      "norma_id": 3302
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 405,
+      "norma_id": 2831
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2402,
+      "norma_id": 3301
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 404,
+      "norma_id": 2830
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1578,
+      "norma_id": 2294
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 403,
+      "norma_id": 2829
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1577,
+      "norma_id": 1839
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 402,
+      "norma_id": 2828
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1890,
+      "norma_id": 2846
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 401,
+      "norma_id": 2827
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2177,
+      "norma_id": 3062
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 400,
+      "norma_id": 2826
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2176,
+      "norma_id": 3061
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 395,
+      "norma_id": 2821
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2175,
+      "norma_id": 3060
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 394,
+      "norma_id": 2820
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2174,
+      "norma_id": 3059
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 399,
+      "norma_id": 2825
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2173,
+      "norma_id": 3058
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 398,
+      "norma_id": 2824
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2172,
+      "norma_id": 3057
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 397,
+      "norma_id": 2823
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2171,
+      "norma_id": 3056
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 396,
+      "norma_id": 2822
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2170,
+      "norma_id": 3055
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 393,
+      "norma_id": 2819
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2169,
+      "norma_id": 3054
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 135,
+      "norma_id": 2818
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2168,
+      "norma_id": 3053
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 133,
+      "norma_id": 2817
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2167,
+      "norma_id": 3052
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 132,
+      "norma_id": 2816
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2166,
+      "norma_id": 3051
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 131,
+      "norma_id": 205
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2165,
+      "norma_id": 3050
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 130,
+      "norma_id": 2815
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2164,
+      "norma_id": 3049
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 129,
+      "norma_id": 2814
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2156,
+      "norma_id": 3046
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 1567,
+      "norma_id": 4652
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2155,
+      "norma_id": 3045
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 128,
+      "norma_id": 3437
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2154,
+      "norma_id": 3044
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 127,
+      "norma_id": 204
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2153,
+      "norma_id": 3043
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 126,
+      "norma_id": 1094
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2152,
+      "norma_id": 3042
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 125,
+      "norma_id": 203
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2151,
+      "norma_id": 3041
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 124,
+      "norma_id": 202
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2150,
+      "norma_id": 3040
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 678,
+      "norma_id": 3792
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2149,
+      "norma_id": 3039
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 123,
+      "norma_id": 201
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2148,
+      "norma_id": 3038
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 122,
+      "norma_id": 3116
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2147,
+      "norma_id": 3037
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 121,
+      "norma_id": 200
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2146,
+      "norma_id": 3036
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 120,
+      "norma_id": 199
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2145,
+      "norma_id": 3035
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 119,
+      "norma_id": 3448
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2144,
+      "norma_id": 3034
+    },
+    {
+      "host": "sapl.formosa.go.leg.br",
+      "ta_id": 6,
+      "norma_id": 198
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2143,
+      "norma_id": 3033
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2142,
+      "norma_id": 3032
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2140,
+      "norma_id": 3030
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2139,
+      "norma_id": 3029
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2138,
+      "norma_id": 3028
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2137,
+      "norma_id": 3027
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2136,
+      "norma_id": 3026
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2134,
+      "norma_id": 3025
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2132,
+      "norma_id": 3024
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2131,
+      "norma_id": 3023
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2130,
+      "norma_id": 3022
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2128,
+      "norma_id": 3021
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2124,
+      "norma_id": 3017
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2126,
+      "norma_id": 3019
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2122,
+      "norma_id": 3015
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2121,
+      "norma_id": 3014
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2120,
+      "norma_id": 3013
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2118,
+      "norma_id": 3012
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2113,
+      "norma_id": 3010
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2112,
+      "norma_id": 3009
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2111,
+      "norma_id": 3008
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2108,
+      "norma_id": 3005
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2106,
+      "norma_id": 3003
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2104,
+      "norma_id": 3001
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2103,
+      "norma_id": 3000
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2102,
+      "norma_id": 2999
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2101,
+      "norma_id": 2997
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2100,
+      "norma_id": 2996
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2099,
+      "norma_id": 2995
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2098,
+      "norma_id": 2994
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2097,
+      "norma_id": 2993
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2096,
+      "norma_id": 2992
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2095,
+      "norma_id": 2991
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2090,
+      "norma_id": 2990
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2089,
+      "norma_id": 2988
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2088,
+      "norma_id": 2987
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2086,
+      "norma_id": 2986
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2084,
+      "norma_id": 2985
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2083,
+      "norma_id": 2984
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2082,
+      "norma_id": 2983
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2081,
+      "norma_id": 2982
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2080,
+      "norma_id": 2981
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2078,
+      "norma_id": 2980
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2077,
+      "norma_id": 2979
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2076,
+      "norma_id": 2978
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2075,
+      "norma_id": 2977
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2068,
+      "norma_id": 2974
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2067,
+      "norma_id": 2973
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2066,
+      "norma_id": 2972
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2065,
+      "norma_id": 2971
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2064,
+      "norma_id": 2970
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2062,
+      "norma_id": 2969
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2061,
+      "norma_id": 2968
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2060,
+      "norma_id": 2967
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2058,
+      "norma_id": 2966
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2057,
+      "norma_id": 2965
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2056,
+      "norma_id": 2964
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2055,
+      "norma_id": 2963
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2054,
+      "norma_id": 2962
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2053,
+      "norma_id": 2961
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2052,
+      "norma_id": 2960
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2051,
+      "norma_id": 2959
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2050,
+      "norma_id": 2958
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2049,
+      "norma_id": 2957
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2048,
+      "norma_id": 2956
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2047,
+      "norma_id": 2955
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2043,
+      "norma_id": 2949
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2029,
+      "norma_id": 2945
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2028,
+      "norma_id": 2944
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2023,
+      "norma_id": 2940
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2022,
+      "norma_id": 2939
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2020,
+      "norma_id": 2937
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2002,
+      "norma_id": 2933
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2001,
+      "norma_id": 2932
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 2000,
+      "norma_id": 2931
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1999,
+      "norma_id": 2930
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1992,
+      "norma_id": 2927
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1990,
+      "norma_id": 2926
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1989,
+      "norma_id": 2925
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1988,
+      "norma_id": 2924
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1987,
+      "norma_id": 2923
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1983,
+      "norma_id": 2920
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1982,
+      "norma_id": 2919
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1981,
+      "norma_id": 2918
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1979,
+      "norma_id": 2917
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1978,
+      "norma_id": 2916
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1977,
+      "norma_id": 2915
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1976,
+      "norma_id": 2914
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1973,
+      "norma_id": 2912
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1972,
+      "norma_id": 2911
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1971,
+      "norma_id": 2910
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1966,
+      "norma_id": 2909
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1965,
+      "norma_id": 2908
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1964,
+      "norma_id": 2907
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1963,
+      "norma_id": 2906
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1962,
+      "norma_id": 2905
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1961,
+      "norma_id": 2903
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1960,
+      "norma_id": 2902
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1959,
+      "norma_id": 2901
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1958,
+      "norma_id": 2900
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1957,
+      "norma_id": 2899
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1956,
+      "norma_id": 2898
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1954,
+      "norma_id": 2897
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1953,
+      "norma_id": 2896
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1951,
+      "norma_id": 2894
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1949,
+      "norma_id": 2892
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1947,
+      "norma_id": 2890
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1946,
+      "norma_id": 2889
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1945,
+      "norma_id": 2888
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1944,
+      "norma_id": 2887
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1943,
+      "norma_id": 2886
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1942,
+      "norma_id": 2885
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1940,
+      "norma_id": 2884
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1939,
+      "norma_id": 2883
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1938,
+      "norma_id": 2882
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1921,
+      "norma_id": 2880
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1936,
+      "norma_id": 2879
+    },
+    {
+      "host": "sapl.fozdoiguacu.pr.leg.br",
+      "ta_id": 1935,
+      "norma_id": 2878
+    }
+  ]
+}

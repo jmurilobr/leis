@@ -1,0 +1,201 @@
+---
+titulo: "Lei Complementar nº 1, de 16 de outubro de 2009"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "1"
+data: "2009-10-16"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/1967"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/500/text"
+sha256_fonte: "0b4a73fa8a66a0fed7c3f0488fdf0ec28c94026ff2148a5c48d44fa9b5fd7589"
+sha256_texto: "5d55a0def6dad33619ed0390edb316f76b3535f376a9b82ffe9da363868e5875"
+capturado_em_fonte: "2026-10-28T13:22:04.374147-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Complementar nº 1, de 16 de outubro de 2009
+
+Institui o Programa de Recuperação Fiscal de Guaíra - REFIG.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou e eu Prefeito Municipal, sanciono a seguinte Lei Complementar:
+
+
+Art. 1º.
+
+Fica instituído o Programa de Recuperação Fiscal de Guaíra - REFIG MUNICIPAL, com a finalidade de promover a regularização de créditos, decorrentes de débitos de pessoas físicas e jurídicas, relativos a tributos e demais créditos não tributários municipais, inclusive restituições, com vencimento até 31 de dezembro de 2008, inscritos ou não em dívida ativa, parcelados ou não, ajuizados ou não, com a exigibilidade suspensa ou não.
+
+
+Art. 2º.
+
+O Programa previsto no artigo anterior terá vigência até 180 (cento e oitenta) dias da data de publicação da presente lei, prorrogável por igual período mediante autorização legislativa especifica, e permitirá aos contribuintes o parcelamento em até 60 (sessenta) parcelas mensais e sucessivas.
+
+
+Art. 3º.
+
+Os contribuintes que:
+
+
+a)
+
+Optarem pelo pagamento de uma só vez, terão redução de 100% (cem por cento) do valor relativo a multa e juros;
+
+
+b)
+
+Optarem pelo pagamento em até 06 (seis) parcelas mensais, terão uma redução de 90% (noventa por cento) do valor relativo a multa e juros;
+
+
+c)
+
+Optarem pelo pagamento em até 12 (doze) parcelas mensais, terão uma redução de 80% (oitenta por cento) do valor relativo a multa e juros;
+
+
+d)
+
+Optarem pelo pagamento em até 24 (vinte e quatro) parcelas mensais, terão uma redução de 60% (sessenta por cento) do valor relativo a multa e juros;
+
+
+e)
+
+Optarem pelo pagamento em até 36 (trinta e seis) parcelas mensais, terão uma redução de 40% (quarenta por cento) do valor relativo a multa e juros.
+
+
+f)
+
+Optarem pelo pagamento em até 48 (quarenta e oito) parcelas mensais, terão uma redução de 20% (vinte por cento) do valor relativo a multa e juros.
+
+
+g)
+
+Optarem pelo pagamento em até 60 (sessenta) parcelas mensais, terão uma redução de 10% (dez por cento) do valor relativo a multa e juros.
+
+
+Parágrafo único
+
+As reduções previstas neste artigo não incidirão sobre os juros do parcelamento da dívida.
+
+
+Art. 4º.
+
+O pagamento ou parcelamento de débitos ajuizados somente serão aceitos após o pagamento das custas judiciais, ficando suspensa a execução até o término do pagamento.
+
+
+Art. 5º.
+
+Fica o Poder Executivo Municipal, autorizado a efetuar o parcelamento dos créditos de origem em condenação judicial de penas de ressarcimento integral de dano ao erário público e imposição de pagamento de multa civil ao erário público (Art. 12, Lei nº 8429/92), em até 60 (sessenta) parcelas mensais e sucessivas, sem qualquer dedução das penalidades.
+
+
+Art. 6º.
+
+O valor mínimo da parcela mensal será:
+
+
+a)
+
+Para pessoa jurídica: correspondente a 02 (duas) Unidades Fiscais de Guaíra - UFG;
+
+
+b)
+
+Para pessoa física: correspondente a 01 (uma) Unidade Fiscal de Guaíra - UFG.
+
+
+§ 1º
+
+Excepcionalmente o Diretor de Tributação poderá para atender a capacidade contributiva do sujeito passivo da obrigação tributária, autorizar o parcelamento em parcelas de menor valor.
+
+
+§ 2º
+
+A Administração Municipal enviará ao Poder Legislativo, relação dos contribuintes beneficiados pelo parágrafo 1º, bimestralmente, até o término da vigência deste Programa de Recuperação Fiscal.
+
+
+Art. 7º.
+
+Os contribuintes interessados na obtenção do benefício assegurado por esta Lei deverão requerer à Secretaria Municipal da Fazenda, Departamento de Tributação, através de formulário próprio.
+
+
+§ 1º
+
+A primeira parcela deverá ser paga em até 15 (quinze) dias após o parcelamento, sendo que o não pagamento implicará na revogação do parcelamento, e no reconhecimento da dívida, interrompendo a prescrição dos referidos débitos.
+
+
+§ 2º
+
+A segunda parcela poderá vencer em até 30 (trinta) dias após o vencimento da primeira e assim sucessivamente.
+
+
+Art. 8º.
+
+A adesão ao Programa implica na confissão irrevogável e irretratável dos débitos e em expressa renúncia a qualquer defesa ou recurso administrativo ou judicial ou direito de ação, bem como na desistência dos já interpostos.
+
+
+Art. 9º.
+
+O parcelamento de créditos tributários obedecerá às seguintes condições:
+
+
+I –
+
+Serão aplicados juros a razão de 1% (um por cento) ao mês para os parcelamentos com prazo de pagamento superiores a 12 meses;
+
+
+II –
+
+Para os parcelamentos efetuados com prazo superior a 12 (doze) meses, o saldo devedor será atualizado monetária conforme variação da Unidade Fiscal de Guaíra - U.F.G., ou, na falta deste, outro índice que preserve adequadamente o valor real do crédito;
+
+
+III –
+
+Serão aplicados sobre as parcelas não pagas até a data do vencimento, correção monetária, multa e os juros de mora previstos no Sistema Tributário Municipal;
+
+
+Art. 10.
+
+Será facultado ao contribuinte antecipar o pagamento das parcelas pactuadas, com desconto dos juros correspondentes, mediante requerimento.
+
+
+Art. 11.
+
+O parcelamento será revogado no caso de atraso no pagamento de 05 (cinco) parcelas consecutivas ou 10 (dez) alternadas.
+
+
+Parágrafo único
+
+No caso de ocorrer a hipótese prevista no caput deste artigo, iniciar-se-á o procedimento de cobrança executiva do débito, incluído o valor das parcelas e o valor da multa e juros fiscais, ambos calculados com todos os acréscimos previstos em lei.
+
+
+Art. 12.
+
+O não cumprimento das condições do parcelamento nesta lei, impedirá o interessado de ter acesso a nova negociação de sua dívida, devendo saldar integralmente todo o débito.
+
+
+Art. 13.
+
+O Chefe do Executivo Municipal poderá regulamentar a presente Lei, no prazo de 30 (trinta) dias, contado da publicação.
+
+
+Art. 14.
+
+Esta Lei Complementar entra em vigor na data de sua publicação.
+
+
+Art. 15.
+
+Ficam revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Guaíra - PR, em 16 de outubro de 2009.  
+  
+DR. MANOEL KUBA  
+Prefeito Municipal
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

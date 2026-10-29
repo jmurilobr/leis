@@ -1,0 +1,143 @@
+---
+titulo: "Lei Ordinária-GPREF nº 2.898, de 03 de junho de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2.898"
+data: "2025-06-03"
+municipio: "Guarujá do Sul"
+uf: "SC"
+codigo_ibge: "4206603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guarujadosul.sc.leg.br/norma/3173"
+fonte_texto: "https://sapl.guarujadosul.sc.leg.br/ta/1788/text"
+sha256_fonte: "81fcd93149f8c1647ed4ade2f9e6ce2a66483835dec37db0cdaf1f8e18526b9c"
+sha256_texto: "edc3a9c2f1acdad51dfbbadc59b663437e42f33947e3c7271be1cf4a156ba3c2"
+capturado_em_fonte: "2026-10-28T13:32:15.113768-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-GPREF nº 2.898, de 03 de junho de 2025
+
+A Prefeita Municipal de Guarujá do Sul, Estado de Santa Catarina, faz saber a todos os habitantes deste município que a Câmara Municipal de Vereadores votou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Autoriza o poder executivo municipal a proceder a realização da III FECEG – “FEIRA E EXPOSIÇÃO COMERCIAL E EMPRESARIAL DE GUARUJÁ DO SUL”, a qual ocorrerá no segundo semestre de 2025, nas dependências do Módulo Esportivo Beira Flor e no Centro de Tradições Gaúchas – CTG Aconchego Gaúcho, cedido conforme o disposto no Art. 2º, § 3º da Lei Municipal n. 2.527/2017.
+
+
+Art. 2º.
+
+A responsabilidade administrativa e financeira para a realização da III FECEG será exercida pelo Município de Guarujá do Sul, ficando a Chefe do Poder Executivo Municipal, autorizada a efetuar despesas, no limite de R$ 440.000,00 (quatrocentos e quarenta mil reais), respeitando os ditames e rituais da lei de licitações, para contratações em geral, tais como, aluguéis de stands, publicidade, sonorização, atrações artísticas locais, regionais e nacionais, estruturas de coberturas e toldos individuais, segurança, banheiros químicos e demais despesas inerentes ao evento.
+
+
+Art. 3º.
+
+Fica a Chefe do Poder Executivo Municipal autorizada a firmar parceria na forma de Acordo de Cooperação com a entidade sem fins lucrativos ACEGS, inscrita no CNPJ sob nº 12.250.401/0001-89, para que atue em conjunto ou isoladamente, como entidade organizadora e apoiadora do evento.
+
+
+§ 1º
+
+Para fins do disposto no caput deste artigo, fica autorizada a realização da Parceria mediante inexigibilidade do Chamamento Público previsto na Lei Federal nº 13.019/2014, conforme art. 31, incisos I e II, devido à experiência e capacidade técnica operacional já consolidada da entidade, comprovada na realização de edições anteriores.
+
+
+§ 2º
+
+O Termo de Parceria não envolverá repasse de recursos financeiros do Município à entidade, ficando as despesas centralizadas no Poder Executivo Municipal
+
+
+Art. 4º.
+
+Ficará a cargo da Chefe do Poder Executivo nomear Comissão Central Organizadora que além de dispor sobre todas as regras e regulamentos da III FECEG, terá poderes para fixar preços de produtos, espaços, serviços comercializáveis e demais trâmites administrativos que se fizerem necessários.
+
+
+Parágrafo único
+
+A Feira terá caráter local, e contará, exclusivamente com a presença de expositores cujos empreendimentos estejam sediados em Guarujá do Sul, ficando o executivo municipal autorizado a isentar valores de locação de stands, como forma de incentivo aos empreendimentos econômicos de Guarujá do Sul.
+
+
+Art. 5º.
+
+A Chefe do Poder Executivo Municipal instituirá Comissão Especial com a finalidade de organizar o evento.
+
+
+Parágrafo único
+
+A Comissão será composta por no mínimo:
+
+
+I –
+
+Cinco servidores municipais, designados dentre aqueles com conhecimento na área.
+
+
+II –
+
+Quatro representantes da Associação Comercial e Empresarial de Guarujá do Sul - ACEGS;
+
+
+Art. 6º.
+
+Fica autorizado o uso de espaços públicos, de bens móveis, imóveis e equipamentos de propriedade do município, bem como a convocação de Servidores, objetos e serviços para a promoção da Feira.
+
+
+Art. 7º.
+
+Toda a movimentação financeira da III FECEG, compreendendo o aporte de recursos do município bem como as receitas e despesas dar-se-á através de conta bancária específica, identificada e vinculada ao evento, movimentados por transferência eletrônica de valores, de cuja movimentação se dará amplo conhecimento através do Portal da Transparência, em tempo real.
+
+
+Parágrafo único
+
+Poderá o Município receber patrocínio financeiro e/ou em serviços e bens materiais atrelados à realização do evento.
+
+
+Art. 8º.
+
+O evento será de acesso livre aos visitantes, sem cobrança de ingressos e taxas de estacionamento.
+
+
+Art. 9º.
+
+As refeições de almoço servido, serão organizadas e comercializadas pela instituição – CTG Aconchego Gaúcho, sendo de direito da entidade possíveis sobras financeiras.
+
+
+Parágrafo único
+
+O município fica isento de pagamento de taxas ou valores de locação de espaços para com o CTG Aconchego gaúcho, excetuando-se eventuais danos materiais oriundos da realização da feira.
+
+
+Art. 10.
+
+As despesas decorrentes da presente lei correrão à conta das seguintes dotações orçamentárias consignadas no Orçamento Geral do Município:
+
+
+Órgão 04 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO Unidade 07 ENCARGOS GERAIS DO MUNICÍPIO.
+
+Funcional 04.122.0007.2.033 Manutenção da III FECEG
+
+3.3.90.00.00.00.00.00 – 2.5.00.7000 - Aplicações Diretas............ R$ 440.000,00
+
+Total R$ 440.000,00
+
+
+Art. 11.
+
+As despesas poderão ser suplementadas com o provável acréscimo e consequente excesso de arrecadação proveniente das receitas advindas dos patrocínios mencionadas nesta Lei.
+
+
+Art. 12.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+GABINETE DA PREFEITA MUNICIPAL DE GUARUJÁ DO SUL – SC 03 de junho de 2025.
+
+73º ano de Fundação e 63º ano de Instalação
+
+**Eliane Aparecida de Souza Fanton**
+
+**Prefeita Municipal**
+

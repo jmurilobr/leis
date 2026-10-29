@@ -1,0 +1,118 @@
+---
+titulo: "Lei Ordinária nº 634, de 13 de maio de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "634"
+data: "2025-05-13"
+municipio: "Guadalupe"
+uf: "PI"
+codigo_ibge: "2204501"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guadalupe.pi.leg.br/norma/652"
+fonte_texto: "https://sapl.guadalupe.pi.leg.br/ta/649/text"
+sha256_fonte: "86076606d8227cefcb8ec7321d04144a2d2c49726ad0cd61d9a5b7991cc05735"
+sha256_texto: "4f529980ae4345a9e9ede273b6c11e6445ed2e95e16d593034ace9869fb7f8fa"
+capturado_em_fonte: "2026-10-28T12:42:32.472703-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 634, de 13 de maio de 2025
+
+Dispõe acerca da remição de foro de imóveis enfitêuticos municipais e dá outras providências.
+
+
+O PREFEITO DE GUADALUPE, ESTADO DO PIAUÍ, no uso das suas atribuições legais conferidas pela Lei Orgânica do Município, FAZ SABER que a Câmara Municipal de Guadalupe aprovou e ele sanciona a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a conceder a remição de foro aos enfiteutas que possuam interesse em estabelecer o domínio pleno de imóveis foreiros do Município de Guadalupe-PI.
+
+
+§ 1º
+
+O interessado na remição de foro deverá formalizar requerimento junto ao Município de Guadalupe, acostando a documentação hábil de comprovar o domínio útil do imóvel, documentação pessoal e as demais exigências previstas nesta Lei.
+
+
+§ 2º
+
+Após a apresentação do requerimento o Município de Guadalupe, através do setor competente, analisará o pleito e em seguida, restando evidente o preenchimento dos prérequisitos, emitirá guia para o recolhimento dos valores devidos pela remição de foro.
+
+
+§ 3º
+
+O interessado pela remição de foro deverá pagar o valor correspondente a 3 (três) foros que equivale, cada foro, a 1% do valor do imóvel.
+
+
+Art. 2º.
+
+Não será concedido remição de foro a qualquer enfiteuta em débito com a fazenda pública municipal.
+
+
+Art. 3º.
+
+Após a tramitação do processo originado a partir do requerimento de remição de foro, o Município de Guadalupe, desde que todos os pré-requisitos sejam cumpridos e a obrigação prevista no §3° do art. 1º cumprida, através do setor competente, irá emitir a certidão negativa de débitos para fins de remição de foro.
+
+
+Art. 4º.
+
+Em posse da certidão negativa de débitos para fins de remição de foro, o interessado poderá se dirigir junto ao registro de imóvel competente que, por sua vez, irá averbar a remição no registro de imóvel.
+
+
+Parágrafo único
+
+É de inteira responsabilidade do foreiro as custas e emolumentos perante o registro de imóveis.
+
+
+Art. 5º.
+
+Para fins de aplicação desta Lei, considera-se:
+
+
+I –
+
+Foreiro ou enfiteuta: quem detém o domínio útil do imóvel;
+
+
+II –
+
+Domínio útil: direito de usufruir do imóvel da maneira mais completa possível e de o transmitir a outrem por ato intervivos ou de última vontade.
+
+
+III –
+
+Foro: contribuição anual e fixa que o foreiro ou enfiteuta paga ao senhorio direto com a finalidade de exercer o domínio útil sobre o imóvel.
+
+
+IV –
+
+Domínio direto: direito do senhorio, a quem fica atribuída a substância do imóvel.
+
+
+Art. 6º.
+
+Sendo a remição de foro requerida, o Município poderá negá-la desde que seja evidenciado o interesse público em recobrar o domínio útil do imóvel, mediante o exercício do direito de preferência.
+
+
+Art. 7º.
+
+Compete ao Poder Executivo, no que couber, a regulamentar a presente Lei.
+
+
+Art. 8º.
+
+Revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete da Prefeita Municipal de Guadalupe aos treze dias do mês de maio de dois mil e vinte e cinco.  
+Jesse James Lima Miranda  
+Prefeito Municipal
+
+Sancionada, Publicada e Registrada, a presente Lei, em treze de maio de dois mil e vinte e cinco.
+
+Edson Sousa Rodrigues  
+Secretário Municipal de Planejamento e Gestão
+

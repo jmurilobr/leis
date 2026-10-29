@@ -1,0 +1,160 @@
+---
+titulo: "Lei Ordinária-GPREF nº 2.836, de 11 de dezembro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2.836"
+data: "2023-12-11"
+municipio: "Guarujá do Sul"
+uf: "SC"
+codigo_ibge: "4206603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guarujadosul.sc.leg.br/norma/3096"
+fonte_texto: "https://sapl.guarujadosul.sc.leg.br/ta/1713/text"
+sha256_fonte: "fd11b1f576954673989cca2d94feb048e1fd8506b688f31ce4d89a0c17a5365e"
+sha256_texto: "25458e37095082b05bf7c4c5aef34f8c4b3577bb6833fbcf009c051bb449b33d"
+capturado_em_fonte: "2026-10-28T13:35:03.039671-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-GPREF nº 2.836, de 11 de dezembro de 2023
+
+Claudio Junior Weschenfelder, Prefeito Municipal de Guarujá do Sul, Estado de Santa Catarina, Faço saber a Todos os habitantes deste Município que a Câmara Municipal de Vereadores apreciou, votou, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a abrir um Crédito Adicional Suplementar no valor de R$ 227.000,00 (duzentos e vinte e sete mil reais), no orçamento do Município de Guarujá do Sul, no exercício de 2023, destinado ao reforço dos seguintes itens orçamentários:
+
+
+Órgão 04- SECRETARIA DE ADMINISTRAÇÃO E FAZENDA:  
+Unidade 07- Encargos Gerais:  
+Função 04 –Administração  
+Subfunção 122 – Administração Geral  
+Programa 07 – Encargos Gerais  
+Projeto: 1.027 – Construção da Sede Administrativa  
+4.4.90.00.00.1.704.7000- Aplicações Diretas........................R$ 227.000,00
+
+
+Art. 2º.
+
+Para dar cobertura do crédito adicional suplementar de que trata o art. 1º, fica reduzido do orçamento vigente do Município de Guarujá do Sul, os seguintes itens orçamentários:
+
+
+Órgão 07- SECRETARIA DE INDÚSTRIA E COMÉRCIO:  
+Unidade 01- Departamento de Indústria e Comércio:  
+Função 22 –Indústria  
+Subfunção 661 – Promoção Industrial  
+Programa 27 – Incentivo para a Indústria  
+Projeto: 1.026 – Infraestrutura do Bairro Industrial  
+483-4.4.90.00.00.1.704.7000- Aplicações Diretas....................R$ 17.000,00
+
+Órgão 08- SECRETARIA DE TRANSPORTES E OBRAS:  
+Unidade 01- Departamento de Urbanismo:  
+Função 15 –Urbanismo  
+Subfunção 451 – Infra Estrutura Urbana  
+Programa 09 – Pavimentação de Ruas  
+Projeto: 1.007 – Pavimentação de Ruas  
+501-4.4.90.00.00.1.704.7000- Aplicações Diretas....................R$ 195.000,00
+
+Órgão 08- SECRETARIA DE TRANSPORTES E OBRAS:  
+Unidade 01- Departamento de Urbanismo:  
+Função 26 –Transporte  
+Subfunção 782 – Transporte Rodoviário  
+Programa 31 – Obras e Infraestrutura  
+Projeto: 1.021 – Construção de Garagem  
+534-4.4.90.00.00.1.704.7000- Aplicações Diretas....................R$ 15.000,00
+
+
+Art. 3º.
+
+Fica o Poder Executivo Municipal autorizado a abrir um Crédito Adicional Suplementar no valor de R$ 477.000,00 (quatrocentos e setenta e sete mil reais), no orçamento do Município de Guarujá do Sul, no exercício de 2023, destinado ao reforço dos seguintes itens orçamentários:
+
+
+Órgão 05- SECRETARIA DE EDUCAÇÃO, CULTURA E ESPORTE:  
+Unidade 02- Departamento de Ensino Fundamental e Infantil:  
+Função 12 –Educação  
+Subfunção 361 – Ensino Fundamental  
+Programa 14 – Ensino Fundamental e Infantil  
+Atividade: 2.009 – Manutenção do Ensino Fundamental  
+367-3.1.90.00.00.1.500.1001- Aplicações Diretas....................R$ 156.000,00
+
+Órgão 05- SECRETARIA DE EDUCAÇÃO, CULTURA E ESPORTE:  
+Unidade 02- Departamento de Ensino Fundamental e Infantil:  
+Função 12 –Educação  
+Subfunção 365 – Educação Infantil  
+Programa 15 – Criança na Escola  
+Atividade: 2.102 – Manutenção do Ensino Infantil/Creche  
+398-3.1.90.00.00.1.500.1001- Aplicações Diretas....................R$ 225.000,00
+
+Órgão 05- SECRETARIA DE EDUCAÇÃO, CULTURA E ESPORTE:  
+Unidade 02- Departamento de Ensino Fundamental e Infantil:  
+Função 12 –Educação  
+Subfunção 365 – Educação Infantil  
+Programa 15 – Criança na Escola  
+Atividade: 2.103 – Manutenção do Ensino Infantil/Pré  
+404-3.1.90.00.00.1.500.1001- Aplicações Diretas....................R$ 96.000,00
+
+
+Art. 4º.
+
+Para dar cobertura do crédito adicional suplementar de que trata o art. 3º, fica reduzido do orçamento vigente do Município de Guarujá do Sul, os seguintes itens orçamentários:
+
+
+Órgão 04- SECRETARIA DE ADMINISTRAÇÃO E FAZENDA:  
+Unidade 07- Encargos Gerais:  
+Função 04 –Administração  
+Subfunção 122 – Administração Geral  
+Programa 07 – Encargos Gerais  
+Projeto: 1.027 – Construção da Sede Administrativa  
+282-4.4.90.00.00.1.500.7000- Aplicações Diretas....................R$ 227.000,00
+
+Órgão 07- SECRETARIA DE INDÚSTRIA E COMÉRCIO:  
+Unidade 01- Departamento de Indústria e Comércio:  
+Função 22 –Indústria  
+Subfunção 661 – Promoção Industrial  
+Programa 36 – Incentivo a Indústria e ao Comércio  
+Atividade: 2.123 – Programa Acelera Guarujá  
+496-3.3.90.00.00.1.500.7000- Aplicações Diretas....................R$ 50.000,00  
+497-4.4.90.00.00.1.500.7000- Aplicações Diretas....................R$ 50.000,00
+
+Órgão 10- FUNDO DE HABITAÇÃO E INTERESSE SOCIAL:  
+Unidade 01- Departamento de Habitação e Interesse Social:  
+Função 16 –Habitação  
+Subfunção 482 – Habitação Urbana  
+Programa 56 – Programa de Habitação  
+Projeto: 1.046 – Imóvel para Programa de Habitação  
+545-4.4.90.00.00.1.500.7000- Aplicações Diretas....................R$ 80.000,00
+
+Órgão 10- FUNDO DE HABITAÇÃO E INTERESSE SOCIAL:  
+Unidade 01- Departamento de Habitação e Interesse Social:  
+Função 16 –Habitação  
+Subfunção 482 – Habitação Urbana  
+Programa 56 – Programa de Habitação  
+Atividade: 2.107 – Infra Estrutura Programa de Habitação  
+548-4.4.90.00.00.1.500.7000- Aplicações Diretas....................R$ 50.000,00
+
+Órgão 08- SECRETARIA DE TRANSPORTES E OBRAS:  
+Unidade 01- Departamento de Urbanismo:  
+Função 26 –Transporte  
+Subfunção 782 – Transporte Rodoviário  
+Programa 31 – Obras e Infraestrutura  
+Projeto: 1.017 – Construção de Pontes e Galerias  
+524-4.4.90.00.00.1.500.7000- Aplicações Diretas....................R$ 20.000,00
+
+
+Art. 5º.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE GUARUJÁ DO SUL, 11 DE DEZEMBRO DE 2023.  
+CLAUDIO JUNIOR WESCHENFELDER  
+Prefeito Municipal  
+Certificamos que a presente Lei foi publicada e registrada nesta Secretaria  
+em data supra.  
+Júlio Cesar Della Flora  
+Secretário Administração e Fazenda
+

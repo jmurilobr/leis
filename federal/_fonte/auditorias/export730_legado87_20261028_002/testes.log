@@ -1,0 +1,16 @@
+8 regressões passaram
+test_alias_numero_colide (__main__.Protecoes.test_alias_numero_colide) ... ok
+test_caminho_absoluto_recusado (__main__.Protecoes.test_caminho_absoluto_recusado) ... ok
+test_durable_nao_sobrescreve (__main__.Protecoes.test_durable_nao_sobrescreve) ... ok
+test_hardlink_nao_sobrescreve (__main__.Protecoes.test_hardlink_nao_sobrescreve) ... ok
+test_travessia_recusada (__main__.Protecoes.test_travessia_recusada) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.004s
+
+OK
+Traceback (most recent call last):
+  File "/Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/auditorias/export730_legado87_20261028_002/test_isolamento_export.py", line 4, in <module>
+    B=Path(__file__).resolve().parent;R=B.parents[3];sys.dont_write_bytecode=True;sys.path.insert(0,str(ROOT/'federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/scripts'));sys.path.insert(0,str(B));import versoes_exportadas as versions
+                                                                                                        ^^^^
+NameError: name 'ROOT' is not defined

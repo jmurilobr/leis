@@ -1,0 +1,7 @@
+Pacote de normas novas em rotas criadas exclusivamente; nenhum canônico preexistente foi substituído.
+Repetir V3: Python bundled -I scripts/verificar_entrega_ta_sem_promocoes_v3_privado_20261027.py --manifesto MANIFESTO_DE_ORIGEM --replay --saida NOVA_SAIDA.json
+Antes de publicar, repetir dedup contra HEAD por OID e reservas qualificadas; manter identificação do commit e SHA de cada reserva. O baseline deste pacote já reconciliou 4.734 anteriores em HEAD e 47 candidatos por SHA futuro.
+Staging exclusivamente ROOT: git --literal-pathspecs -c core.autocrlf=false add -f --pathspec-from-file=ESTE_DIRETORIO/stage.paths.z --pathspec-file-nul
+Conferir blobs indexados contra arquivos deste manifesto e SHA externo do próprio manifesto. Não formatar hardbreaks/EOF, não normalizar controles ou Unicode e não usar git apply --whitespace=fix.
+Tachados no corpo selecionado são preservados pelo perfil V7, sem inferência de revogação. CSS estático interno/inline, fontes especiais, ocultação e contextos foram examinados; folhas externas não consultadas. Fonte complicada ou ausente permanece retida.
+Exportados .txt são cópias isoladas byte-identical para conferência, não outras normas a contar. Metadados usam a captura original com dia America/Recife quando há offset.

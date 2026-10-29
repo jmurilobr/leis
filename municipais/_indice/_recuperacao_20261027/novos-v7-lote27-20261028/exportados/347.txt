@@ -1,0 +1,249 @@
+---
+titulo: "Lei Ordinária nº 974, de 06 de maio de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "974"
+data: "2020-05-06"
+municipio: "Fernão"
+uf: "SP"
+codigo_ibge: "3515657"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fernao.sp.leg.br/norma/41112"
+fonte_texto: "https://sapl.fernao.sp.leg.br/ta/65/text"
+sha256_fonte: "c4559c3d770bee14e2598a0e8b8dbd1c6c2e3f1bd22cdec88acdc43c83ae5348"
+sha256_texto: "b3ce3fa6d20f082d0c90553a396462f35a25da51f626c07417d504925985209d"
+capturado_em_fonte: "2026-10-28T10:47:43.366799-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 974, de 06 de maio de 2020
+
+INSTITUI NO MUNICÍPIO DE FERNÃO O PROGRAMA DE RECUPERAÇÃO FISCAL - REFIS 2020, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+ADELCIO APARECIDO MARTINS, PREFEITO DO MUNICÍPIO DE FERNÃO, ESTADO DE SÃO PAULO, NO USO DE SUAS ATRIBUIÇÕES LEGAIS.  
+  
+FAÇO SABER que a Câmara Municipal de Fernão aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Institui no Município de Fernão, o Programa de Recuperação Fiscal - REFIS 2020, com a finalidade de implementar a arrecadação, bem como efetivar a regularização de créditos do Município, decorrentes de débitos tributários e não tributários dos contribuintes, pessoas físicas ou jurídicas, com sede ou não no Município, cujo fato gerador tenha ocorrido até dia 31 de dezembro de 2019.
+
+
+§ 1º
+
+Os débitos previstos no caput deste artigo se referem àqueles constituídos ou não, inscritos ou não em dívida ativa, mesmo que em fase de execução fiscal, os discutidos em mandado de segurança, ação ordinária ou por qualquer outra medida judicial, os oriundos de procedimento administrativo ou que tenham sido objeto de parcelamento anterior, cancelado ou não por falta de pagamento
+
+
+§ 2º
+
+Para os débitos já constituídos, os benefícios de que trata esta Lei se estenderão somente para os juros de mora e multa moratória, aplicados a partir da data de sua constituição.
+
+
+§ 3º
+
+A recuperação fiscal de que trata esta Lei se dará através de parcelamento de débitos, que será efetuado por opção do contribuinte, em até 60 (sessenta) parcelas iguais, mensais e consecutivas.
+
+
+Art. 2º.
+
+O ingresso no Programa de Recuperação Fiscal - REFIS 2020 se dará por opção do contribuinte, que fará jus aos benefícios previstos nesta Lei.
+
+
+Parágrafo único
+
+Os débitos serão consolidados na data do pagamento da primeira parcela do parcelamento ou do pagamento total do débito, individualmente, para cada inscrição municipal, incluindo a multa moratória, juros de mora, nos termos acordados na formalização do pedido de adesão.
+
+
+Art. 3º.
+
+O prazo para que o contribuinte possa requerer o parcelamento será de 60 dias a partir da publicação desta lei.
+
+
+§ 1º
+
+O prazo supracitado poderá ser prorrogado através de Decreto Municipal pelo prazo de 60 dias.
+
+
+§ 2º
+
+O pedido de parcelamento deverá ser formulado pelo próprio contribuinte ou representante legal devidamente constituído, no caso de pessoa física ou, ainda, pelo sócio ou representante legal devidamente constituído, no caso de pessoa jurídica.
+
+
+§ 3º
+
+O parcelamento instituído nos termos desta Lei independerá de apresentação de garantia ou arrolamento de bens, mantidas aquelas decorrentes de débitos transferidos de outras modalidades de parcelamento ou de execução fiscal.
+
+
+§ 4º
+
+A adesão ao REFIS impõe ao sujeito passivo a obrigatoriedade de incluir os débitos na ordem de prescrição, ou seja, dos mais antigos para os mais novos, incluindo os débitos objeto de parcelamentos vigentes e os débitos suspensos.
+
+
+§ 5º
+
+Os débitos objeto de parcelamentos vigentes poderão ser excluídos e aqueles suspensos poderão ser reabilitados, a pedido do próprio contribuinte, no ato da consolidação dos débitos para formalização do REFIS.
+
+
+Art. 4º.
+
+Durante o período de que trata o art. 3°, retro e, a partir da data da formalização do pedido de parcelamento e de sua homologação, o contribuinte devedor de débitos exclusivamente tributários terá direito à anistia parcial dos juros de mora e da multa moratória, conforme a seguir previsto:
+
+
+<table><tbody><tr><td>PARCELAS DO PPED</td><td>JUROS</td><td>MULTA MORATORIA</td></tr><tr><td>A VISTA</td><td>100%</td><td>100%</td></tr><tr><td>02 a 12</td><td>70%</td><td>70%</td></tr><tr><td>13 a 24</td><td>60%</td><td>60%</td></tr><tr><td>25 a 36</td><td>40%</td><td>40%</td></tr><tr><td>37 a 48</td><td>20%</td><td>20%</td></tr><tr><td>49 a 60</td><td>10%</td><td>10%</td></tr></tbody></table>
+
+
+Parágrafo único
+
+A homologação do pedido de parcelamento dentro do Programa de Recuperação Fiscal - REFIS 2020 de se dará no momento do pagamento da parcela única ou da primeira parcela.
+
+
+Art. 5º.
+
+Em razão do parcelamento, o valor de cada parcela do débito parcelado, não poderá ser inferior a:
+
+
+I –
+
+R$ 20,00 (vinte reais) para pessoas físicas;
+
+
+II –
+
+R$ 50,00 (cinquenta reais) para pessoas jurídicas.
+
+
+§ 1º
+
+O vencimento da primeira parcela ou da parcela única se dará no máximo em 10 dias após data da formalização do acordo e as demais no mesmo dia dos meses subsequentes.
+
+
+§ 2º
+
+Nas parcelas do REFIS em atraso incidirão juros de 1 % (um por cento) ao mês e multa moratória de 5% (cinco por cento) após o vencimento, nos termos da Lei Complementar n° 001/97, Código Tributário Municipal.
+
+
+Art. 6º.
+
+O parcelamento será cancelado automaticamente nas hipóteses de:
+
+
+I –
+
+inadimplência, por 03 (três) meses consecutivos ou alternados, relativamente a qualquer dos débitos abrangidos pelo Programa de Recuperação Fiscal- REFIS 2020;
+
+
+II –
+
+decretação de falência, extinção, liquidação ou cisão da pessoa jurídica;
+
+
+III –
+
+propositura de qualquer medida judicial ou extrajudicial relativa aos débitos objeto do Programa de Recuperação Fiscal- REFIS 2020;
+
+
+IV –
+
+prática de qualquer procedimento tendente a subtrair receita do contribuinte do Programa de Recuperação Fiscal - REFIS 2020, mediante simulação de ato, devidamente apurado pela unidade competente;
+
+
+V –
+
+infração de qualquer das normas estabelecidas nesta Lei.
+
+
+VI –
+
+quando restar quaisquer das parcelas não pagas, após o prazo para pagamento da última parcela formalizada no presente acordo.
+
+
+Parágrafo único
+
+O parcelamento poderá ser cancelado por despacho fundamentado do Chefe do Executivo Municipal, independente do disposto neste artigo, nos casos de alteração ou cancelamento dos débitos objeto do parcelamento.
+
+
+Art. 7º.
+
+O cancelamento do parcelamento nos termos da presente Lei independerá de notificação prévia do contribuinte e implicará:
+
+
+I –
+
+na imediata execução judicial dos débitos que não foram extintos com o pagamento das parcelas efetuadas e, encontrando-se o débito em execução fiscal, em prosseguimento da ação judicial, independentemente de qualquer outra providência administrativa;
+
+
+II –
+
+na execução das garantias vinculadas ao parcelamento;
+
+
+III –
+
+no restabelecimento, em relação ao montante não pago, dos acréscimos legais na forma da legislação aplicável à época dos vencimentos dos débitos originais;
+
+
+IV –
+
+no impedimento para o contribuinte de se beneficiar de qualquer outra modalidade de parcelamento pelo período de até 01 (um) ano, a contar do cancelamento do REFIS.
+
+
+Art. 8º.
+
+A opção pelo Programa de Parcelamento Recuperação Fiscal - REFIS 2020 implicará:
+
+
+I –
+
+na confissão irrevogável e irretratável dos débitos;
+
+
+II –
+
+na aceitação plena e irretratável de todas as condições estabelecidas nesta Lei;
+
+
+III –
+
+no pagamento regular das parcelas dos débitos devidos;
+
+
+IV –
+
+na manutenção automática dos gravames decorrentes de medida cautelar fiscal e das garantias prestadas judicial ou extrajudicialmente.
+
+
+Parágrafo único
+
+A homologação do pedido de parcelamento de débitos em cobrança judicial, não importa em novação, transação ou no levantamento ou extinção da garantia ofertada em execução judicial, a qual ficará suspensa até o término do cumprimento do parcelamento requerido.
+
+
+Art. 9º.
+
+Em havendo defesa administrativa ou recurso judicial, o contribuinte deverá desistir expressamente e, de forma irrevogável, da impugnação ou do recurso interposto ou da ação judicial proposta, e renunciar a quaisquer alegações de direito sobre as quais se fundam os referidos processos administrativos e ações judiciais, relativamente à matéria cujo respectivo débito queira parcelar.
+
+
+Parágrafo único
+
+Nos casos previstos no caput deste artigo a emissão de certidão negativa ou positiva com efeito de negativa fica condicionada à apresentação da desistência judicial devidamente homologada pela Procuradoria Geral do Município.
+
+
+Art. 10.
+
+Caberá ao Chefe do Poder Executivo Municipal editar normas regulamentares necessárias à execução do Programa de Recuperação Fiscal- REFIS 2020.
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Fernão, 06 de maio de 2020.  
+  
+Adélcio Aparecido Martins  
+Prefeito Municipal
+

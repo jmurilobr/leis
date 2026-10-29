@@ -1,0 +1,165 @@
+---
+titulo: "Lei Ordinária nº 2.467, de 27 de março de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2467"
+data: "2026-03-27"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2719"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/1056/text"
+sha256_fonte: "a8b99a59e1ac7063c104aa6d738e9e6fe302be32826882a89eed35b1f0aa79b8"
+sha256_texto: "1db149a6ba8ee4c03d200f8820ae01702c03c1dbd41c96d9f93d3bf4c3d4d5cf"
+capturado_em_fonte: "2026-10-28T13:06:22.812646-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.467, de 27 de março de 2026
+
+Institui a Gratificação por Atividades de Transporte Público Coletivo Urbano e Rural (GATPUR), no âmbito do Município de Guaíra, Estado do Paraná, e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituída a Gratificação por Atividades de Transporte Público Coletivo Urbano e Rural – GATPUR, destinada aos servidores públicos efetivos ocupantes do cargo/emprego de motorista que exerçam atividades no transporte público urbano e rural.
+
+
+Art. 2º.
+
+A gratificação de que trata o artigo 1º desta Lei será atribuída nos moldes do disposto no art. 88 da Lei Municipal nº 1.246/2003 e paga no montante de R$ 1.800,00 (mil e oitocentos reais), mensais, sendo devida aos ocupantes de cargo/emprego de provimento efetivo de motorista de veículos no efetivo transporte público em áreas urbanas e rurais do Município de Guaíra, Estado do Paraná.
+
+
+§ 1º
+
+O valor definido no caput deste artigo será atualizado conforme percentual estipulado na revisão geral anual da remuneração dos servidores Municipais, disposto no artigo 224 da Lei Municipal nº 1.246/2003.
+
+
+§ 2º
+
+A gratificação de que trata esta Lei será instituída para compensar a carga horária variável e excepcional presente nas atividades no transporte público urbano e rural do Município, de modo que, exclui a possibilidade de recebimento de horas extraordinárias porventura realizadas.
+
+
+§ 3º
+
+Os servidores que porventura perceberem remuneração decorrente de função gratificada ou encargo especial, incorporada ou não, deverão optar entre as gratificações, sendo vedada a percepção cumulada de ambas as vantagens.
+
+
+§ 4º
+
+O servidor não fará jus à gratificação GATPUR durante o período de férias, neste caso, será devido somente a média referente ao seu período aquisitivo.
+
+
+§ 5º
+
+A GATPUR não incidirá sob o 13º salário dos servidores, neste caso, será devido somente a média anual.
+
+
+§ 6º
+
+O recebimento das referidas gratificações pelos motoristas de veículos não impede o recebimento de diárias que trata a Lei Municipal nº 1.850/2013.
+
+
+Art. 3º.
+
+Fica autorizada a jornada especial de trabalho para os motoristas de veículos que exercerem as suas funções no transporte público urbano e rural, a ser regulamentada por ato normativo do Poder Executivo Municipal.
+
+
+Art. 4º.
+
+Os servidores que receberem as referidas gratificações ficarão sujeitos a regime de escala, plantão ou sobreaviso, a serem regulamentadas por ato administrativo da Secretaria Municipal de Administração.
+
+
+Art. 5º.
+
+A gratificação de que trata esta Lei não se incorporará à remuneração dos servidores para qualquer outro efeito, nem serão computadas para concessão de outras vantagens, sendo devida aos motoristas de veículos somente quando no exercício do serviço vinculado ao transporte público urbano e rural.
+
+
+Parágrafo único
+
+Ao motorista de veículos que se encontre, excepcionalmente, em idêntica situação e nas mesmas condições dos servidores a que se refere este artigo, ou seja, conduzindo veículos em atividades de transporte público urbano e rural da Secretaria Municipal de Administração, será estendido o pagamento da gratificação somente no mês que realizar os serviços, o qual não se incorporará ao vencimento para qualquer efeito.
+
+
+Art. 6º.
+
+Compete à Secretaria Municipal de Administração determinar os critérios de conveniência, oportunidade e interesse público em cada caso, autorizando e elaborando escala dos servidores a prestarem serviço, segundo regulamento interno.
+
+
+Parágrafo único
+
+A relação contendo os nomes dos servidores que prestaram o serviço nos termos do artigo 1º desta Lei deverá ser encaminhada pela Secretaria Municipal de Administração à Diretoria de Pessoal para efeitos de pagamento.
+
+
+Art. 7º.
+
+Os valores das gratificações mensais serão reduzidos proporcionalmente se, durante o mês, o motorista de veículos incidir nas seguintes ocorrências:
+
+
+I –
+
+faltar injustificadamente ao trabalho;
+
+
+II –
+
+comparecer tardia e injustificadamente ao local de trabalho ou ausentar-se dele antecipadamente, sem autorização;
+
+
+III –
+
+provocar dolosamente acidente de trânsito;
+
+
+IV –
+
+não atender injustificadamente à escala de trabalho;
+
+
+V –
+
+negar-se a cumprir injustificadamente escala previamente designada pelo superior hierárquico;
+
+
+VI –
+
+infringir às normas regulamentares do setor.
+
+
+§ 1º
+
+A redução do valor da gratificação dar-se-á na razão de 10% (dez por cento) por ocorrência que vier a ocorrer, deverá ser encaminhada mensalmente pela Secretaria Municipal de Administração à Diretoria de Pessoal para efeitos de pagamento.
+
+
+§ 2º
+
+Os motoristas de veículos dos quadros permanentes da Secretaria Municipal de Administração que sofrerem penalidades disciplinares de suspensão ou advertência perderão o valor integral da gratificação no mês subsequente ao término do procedimento administrativo disciplinar que apurar e determinar a aplicação da penalidade.
+
+
+Art. 8º.
+
+O Servidor que se negar a cumprir de forma reiterada as atribuições advindas do encargo especial, será substituído a critério do respectivo superior hierárquico.
+
+
+Art. 9º.
+
+As despesas decorrentes desta Lei correrão por dotações orçamentárias próprias, previstas na Lei de Diretrizes Orçamentárias.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 27 de março de 2026.
+
+***GILEADE GABRIEL OSTI***
+
+Prefeito Municipal
+

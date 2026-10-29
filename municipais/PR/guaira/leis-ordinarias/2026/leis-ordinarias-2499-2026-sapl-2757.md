@@ -1,0 +1,513 @@
+---
+titulo: "Lei Ordinária nº 2.499, de 10 de setembro de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2499"
+data: "2026-09-10"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2757"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/1096/text"
+sha256_fonte: "3b43d651849dbb40bee2602f2a74833ffff4b702e77a290a3394648b4adb3e13"
+sha256_texto: "225e22b1695d27345193086aa1113a5386aedff49dfcd3d67af6e28be868ab58"
+capturado_em_fonte: "2026-10-28T13:05:13.710961-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.499, de 10 de setembro de 2026
+
+Institui a Política Municipal de Alfabetização do Município de Guaíra, Estado do Paraná, e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprova e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Fica instituída a Política Municipal de Alfabetização do Município de Guaíra, como política pública permanente destinada a assegurar o direito de todas as crianças à alfabetização na idade adequada, promovendo a aprendizagem, a equidade educacional e a melhoria da qualidade da educação básica da Rede Municipal de Ensino.
+
+
+Art. 2º.
+
+A Política Municipal de Alfabetização será implementada em regime de colaboração entre o Município, o Estado do Paraná e a União, observadas as diretrizes:
+
+
+I –
+
+da Constituição Federal;
+
+
+II –
+
+da Lei Federal nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional);
+
+
+III –
+
+da Lei Federal nº 15.247, de 31 de outubro de 2025, que institui o Compromisso Nacional Criança Alfabetizada;
+
+
+IV –
+
+da Lei Estadual nº 21.323, de 20 de dezembro de 2022, que institui o Programa Educa Juntos;
+
+
+V –
+
+da Resolução SEED nº 5.158, de 07 de agosto de 2023, que institui a Estratégia Alfabetiza Juntos da Secretaria de Estado da Educação do Paraná;
+
+
+VI –
+
+do Plano Nacional de Educação - PNE para o decênio 2026-2036 (Lei Federal nº 15.388, de 14 de abril de 2026);
+
+
+VII –
+
+do Plano Municipal de Educação de Guaíra, Lei 1939 de 23 junho de 2015.
+
+
+#### CAPÍTULO II — DOS PRINCÍPIOS
+
+
+Art. 3º.
+
+Constituem princípios da Política Municipal de Alfabetização:
+
+
+I –
+
+a garantia do direito à alfabetização de todas as crianças até o final do 2º ano do Ensino Fundamental;
+
+
+II –
+
+o regime de colaboração entre os entes federativos;
+
+
+III –
+
+a promoção da equidade educacional, considerando as diferenças regionais, sociais, culturais, econômicas, étnico-raciais, territoriais e de gênero;
+
+
+IV –
+
+a valorização da avaliação como instrumento de diagnóstico, acompanhamento e melhoria da aprendizagem;
+
+
+V –
+
+a formação continuada dos profissionais da educação;
+
+
+VI –
+
+a utilização de evidências científicas e indicadores educacionais para subsidiar as decisões pedagógicas;
+
+
+VII –
+
+a garantia de condições pedagógicas adequadas para o processo de alfabetização, incluindo materiais didáticos e recursos de apoio.
+
+
+#### CAPÍTULO III — DOS OBJETIVOS
+
+
+Art. 4º.
+
+São objetivos da Política Municipal de Alfabetização:
+
+
+I –
+
+elevar a qualidade da alfabetização nos anos iniciais do Ensino Fundamental I do município;
+
+
+II –
+
+assegurar a alfabetização das crianças até o final do 2º ano do Ensino Fundamental I;
+
+
+III –
+
+contribuir para o cumprimento das metas estabelecidas no Plano Municipal de Educação;
+
+
+IV –
+
+fortalecer práticas pedagógicas fundamentadas em evidências científicas;
+
+
+V –
+
+promover a utilização de tecnologias educacionais no processo de alfabetização;
+
+
+VI –
+
+incentivar a socialização de experiências pedagógicas exitosas;
+
+
+VII –
+
+reconhecer e disseminar boas práticas de gestão e de ensino;
+
+
+VIII –
+
+fortalecer a articulação entre a Educação Infantil e o Ensino Fundamental;
+
+
+IX –
+
+implementar ações permanentes de recomposição das aprendizagens.
+
+
+#### CAPÍTULO IV — DAS DIRETRIZES
+
+
+Art. 5º.
+
+São diretrizes da Política Municipal de Alfabetização:
+
+
+I –
+
+priorizar a alfabetização até o final do 2º ano do Ensino Fundamental I;
+
+
+II –
+
+promover práticas pedagógicas voltadas ao desenvolvimento da leitura, escrita, oralidade, escuta, compreensão leitora e produção textual;
+
+
+III –
+
+fortalecer a gestão pedagógica das unidades escolares;
+
+
+IV –
+
+oferecer assistência técnico-pedagógica às equipes escolares;
+
+
+V –
+
+acompanhar sistematicamente a aprendizagem dos estudantes;
+
+
+VI –
+
+implementar ações permanentes de recomposição das aprendizagens;
+
+
+VII –
+
+incentivar o desenvolvimento da linguagem oral e escrita desde a Educação Infantil;
+
+
+VIII –
+
+fortalecer a participação das famílias no processo educativo;
+
+
+IX –
+
+promover ações articuladas entre a pré-escola e o 1º ano do Ensino Fundamental I;
+
+
+X –
+
+assegurar práticas pedagógicas inclusivas aos estudantes público-alvo da Educação Especial.
+
+
+#### CAPÍTULO V — DO PÚBLICO-ALVO
+
+
+Art. 6º.
+
+São público-alvo da Política Municipal de Alfabetização:
+
+
+I –
+
+as crianças matriculadas na pré-escola;
+
+
+II –
+
+os estudantes matriculados nos anos iniciais do Ensino Fundamental I da Rede Municipal de Ensino.
+
+
+#### CAPÍTULO VI — DOS AGENTES RESPONSÁVEIS
+
+
+Art. 7º.
+
+Participam da implementação da Política Municipal de Alfabetização:
+
+
+I –
+
+a Secretaria Municipal de Educação;
+
+
+II –
+
+os gestores municipais;
+
+
+III –
+
+os diretores escolares;
+
+
+IV –
+
+as equipes pedagógicas;
+
+
+V –
+
+os professores da Educação Infantil e dos anos iniciais do Ensino Fundamental;
+
+
+VI –
+
+os demais profissionais da educação;
+
+
+VII –
+
+a comunidade escolar e as famílias.
+
+
+#### CAPÍTULO VII — DAS AÇÕES E ESTRATÉGIAS
+
+
+Art. 8º.
+
+A Política Municipal de Alfabetização será desenvolvida mediante:
+
+
+I –
+
+definição de orientações curriculares;
+
+
+II –
+
+estabelecimento de metas de aprendizagem;
+
+
+III –
+
+formação continuada dos profissionais da educação;
+
+
+IV –
+
+disponibilização de materiais didáticos e pedagógicos;
+
+
+V –
+
+utilização de avaliações diagnósticas, formativas e externas;
+
+
+VI –
+
+monitoramento contínuo da aprendizagem;
+
+
+VII –
+
+desenvolvimento de programas de recomposição das aprendizagens;
+
+
+VIII –
+
+utilização de indicadores educacionais para planejamento e tomada de decisões;
+
+
+IX –
+
+incentivo ao uso de metodologias e tecnologias educacionais inovadoras;
+
+
+X –
+
+fortalecimento das ações de transição entre Educação Infantil e Ensino Fundamental I.
+
+
+#### CAPÍTULO VIII — DO MONITORAMENTO E DA AVALIAÇÃO
+
+
+Art. 9º.
+
+O monitoramento da Política Municipal de Alfabetização compreenderá:
+
+
+I –
+
+acompanhamento periódico dos resultados de aprendizagem;
+
+
+II –
+
+análise de indicadores educacionais;
+
+
+III –
+
+sistematização de dados por estudante, turma e unidade escolar;
+
+
+IV –
+
+avaliação da efetividade das ações implementadas;
+
+
+V –
+
+utilização dos resultados para o replanejamento das ações pedagógicas;
+
+
+VI –
+
+acompanhamento das avaliações internas e externas.
+
+
+#### CAPÍTULO IX — DAS COMPETÊNCIAS
+
+
+Art. 10.
+
+Compete à Secretaria Municipal de Educação:
+
+
+I –
+
+coordenar a implementação da Política Municipal de Alfabetização;
+
+
+II –
+
+elaborar o Documento Orientador da Execução da Política Municipal de Alfabetização e demais normas complementares necessárias à sua execução;
+
+
+III –
+
+promover formação continuada dos profissionais da educação;
+
+
+IV –
+
+acompanhar e avaliar os resultados obtidos;
+
+
+V –
+
+estabelecer parcerias institucionais necessárias ao fortalecimento da política;
+
+
+VI –
+
+divulgar periodicamente indicadores e resultados da alfabetização no Município.
+
+
+#### CAPÍTULO X — DA IMPLEMENTAÇÃO DA POLÍTICA MUNICIPAL DE ALFABETIZAÇÃO
+
+
+Art. 11.
+
+A Política Municipal de Alfabetização será implementada por meio do Documento Orientador da Execução da Política Municipal de Alfabetização do Município de Guaíra, elaborado e atualizado pela Secretaria Municipal de Educação, com acompanhamento do Conselho Municipal de Educação, observado o disposto nesta Lei.
+
+
+§ 1º
+
+O Documento Orientador estabelecerá as diretrizes técnicas, pedagógicas e operacionais necessárias à implementação, ao monitoramento e à avaliação da Política Municipal de Alfabetização, devendo contemplar, no mínimo:
+
+
+I –
+
+o diagnóstico da realidade educacional do Município;
+
+
+II –
+
+os objetivos, as metas e os indicadores de aprendizagem;
+
+
+III –
+
+as estratégias pedagógicas para a alfabetização e a recomposição das aprendizagens;
+
+
+IV –
+
+as ações de formação continuada dos profissionais da educação;
+
+
+V –
+
+as estratégias de inclusão e de atendimento às necessidades específicas dos estudantes;
+
+
+VI –
+
+os mecanismos de monitoramento e avaliação da aprendizagem;
+
+
+VII –
+
+as formas de articulação com as famílias, a comunidade escolar e demais instituições parceiras;
+
+
+VIII –
+
+o planejamento anual das ações, com definição dos responsáveis por sua execução.
+
+
+§ 2º
+
+O Documento Orientador poderá contemplar outros eixos, estratégias e instrumentos necessários ao aperfeiçoamento da Política Municipal de Alfabetização.
+
+
+§ 3º
+
+O Documento Orientador será atualizado sempre que necessário ao aperfeiçoamento da Política Municipal de Alfabetização ou em razão de alterações na legislação educacional aplicável.
+
+
+#### CAPÍTULO XI — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 12.
+
+As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias da Secretaria Municipal de Educação, consignadas no orçamento vigente do Município, observado o disposto nos arts. 16 e 17 da Lei Complementar Federal nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), suplementadas, se necessário.
+
+
+Art. 13.
+
+O Poder Executivo poderá regulamentar esta Lei no que couber.
+
+
+Art. 14.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 10 de setembro de 2026.
+
+***GILEADE GABRIEL OSTI***
+
+Prefeito Municipal
+

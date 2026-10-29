@@ -1,0 +1,111 @@
+---
+titulo: "Lei Ordinária-PMEPF nº 1.595, de 13 de maio de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1595"
+data: "2022-05-13"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/1189"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/220/text"
+sha256_fonte: "7afa9fe6d3a934d6ae520df14d780ee5e20214c89e6907040bcbebd732d038a4"
+sha256_texto: "0e38f33079a0093cec4a37c0a78198360d06dd8600490fb04e43afe495b2dfaf"
+capturado_em_fonte: "2026-10-28T10:46:28.066230-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-PMEPF nº 1.595, de 13 de maio de 2022
+
+“Autoriza a abertura de Crédito Adicional Suplementar ao Orçamento Vigente”
+
+
+A CÂMARA MUNICIPAL DE ENG. PAULO DE FRONTIN aprova e eu, José Emmanoel Rodrigues Artemenko, Prefeito Municipal, sanciono e promulgo a seguinte
+
+
+Art. 1º.
+
+Em conformidade com o artigo 4º da Lei Municipal nº 1584, de 14 de dezembro de 2021, fica autorizada a abertura de Crédito Adicional Suplementar, no orçamento vigente do Fundo Municipal de Saúde, por Superávit Financeiro, na importância de R$ 10.531.676,76 (dez milhões, quinhentos e trinta e um mil, seiscentos e setenta e seis reais, setenta e seis centavos), com as seguintes classificações e desmembramentos:
+
+
+FONTE 0022 = R$ 10.531.676,76 (Recursos do Estado)
+
+
+• Doenças Crônicas não Transmissíveis (DCNT): R$ 6.169.912,80
+
+<table><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função</strong></td><td><strong>Programas</strong></td><td><strong>Proj/Ativ</strong></td><td><strong>Elemento de Despesa </strong></td><td><strong>Fonte</strong></td><td><strong>Valor (R$)</strong></td></tr><tr><td>03</td><td>001</td><td>10</td><td>301</td><td>3003</td><td>2431</td><td>3.3.90.30.00.00.00.0 </td><td>2.621.000</td><td>969.912,80 </td></tr><tr><td>03</td><td>001</td><td>10</td><td>301</td><td>3003</td><td>2431</td><td>3.3.90.32.00.00.00.0</td><td>2.621.000</td><td>3.000.000,00</td></tr><tr><td>03</td><td>001</td><td>10</td><td>301</td><td>3003</td><td>2431</td><td>3.3.90.39.00.00.00.0 </td><td>2.621.000</td><td>2.200.000,00 </td></tr></tbody></table>
+
+
+• SAMU Regional: R$ 559.627,17
+
+<table><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função</strong></td><td><strong>Programas</strong></td><td><strong>Proj/Ativ </strong></td><td><strong>Elemento de Despesa </strong></td><td><strong>Fonte</strong></td><td><strong>Valor (R$) </strong></td></tr><tr><td>03</td><td>001</td><td>10</td><td>302</td><td>3004</td><td>2314</td><td>3.1.90.11.00.00.00.0</td><td>2.621.000</td><td>80.000,00 </td></tr><tr><td>03</td><td>001</td><td>10</td><td>302</td><td>3004</td><td>2314</td><td>3.1.90.13.00.00.00.0 </td><td>2.621.000</td><td>14.627,17</td></tr><tr><td>03</td><td>001</td><td>10</td><td>302</td><td>3004</td><td>2314</td><td>3.3.90.14.00.00.00.0</td><td>2.621.000</td><td>15.000,00 </td></tr><tr><td>03</td><td>001</td><td>10</td><td>302</td><td>3004</td><td>2314</td><td>3.3.90.30.00.00.00.0 </td><td>2.621.000</td><td>130.000,00</td></tr><tr><td>03</td><td>001</td><td>10</td><td>302</td><td>3004</td><td>2314</td><td>3.3.90.36.00.00.00.0 </td><td>2.621.000</td><td>50.000,00 </td></tr><tr><td>03</td><td>001</td><td>10</td><td>302</td><td>3004</td><td>2314</td><td>3.3.90.39.00.00.00.0 </td><td>2.621.000</td><td>100.000,00 </td></tr><tr><td>03</td><td>001</td><td>10</td><td>302</td><td>3004</td><td>2314</td><td>4.4.90.52.00.00.00.0 </td><td>2.621.000</td><td>170.000,00 </td></tr></tbody></table>
+
+
+• Programa de Apoio aos Hospitais do Interior (PAHI): R$ 903.012,74
+
+<table><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função </strong></td><td><strong>Programas</strong></td><td><strong>Proj/Ativ</strong></td><td><strong>Elemento de Despesa </strong></td><td><strong>Fonte</strong></td><td><strong>Valor (R$)</strong></td></tr><tr><td>03</td><td>001</td><td>10</td><td>302</td><td>3004</td><td>2313</td><td>3.3.90.30.00.00.00.0</td><td>2.621.000 </td><td>453.012,74 </td></tr><tr><td>03</td><td>001</td><td>10</td><td>302</td><td>3004</td><td>2313</td><td>3.3.90.39.00.00.00.0</td><td>2.621.000 </td><td>350.000,00</td></tr><tr><td>03</td><td>001</td><td>10</td><td>302</td><td>3004</td><td>2313</td><td>4.4.90.52.00.00.00.0</td><td>2.621.000 </td><td>100.000,00 </td></tr></tbody></table>
+
+
+• COFIRAPS: R$ 632.930,34
+
+<table><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função </strong></td><td><strong>Programas</strong></td><td><strong>Proj/Ativ </strong></td><td><strong>Elemento de Despesa</strong></td><td><strong>Fonte</strong></td><td><strong>Valor (R$) </strong></td></tr><tr><td>03</td><td>001</td><td>10</td><td>302</td><td>3004</td><td>2317</td><td>3.1.90.11.00.00.00.0</td><td>2.621.000</td><td>96.930,34 </td></tr><tr><td>03</td><td>001</td><td>10</td><td>302</td><td>3004</td><td>2317</td><td>3.1.90.13.00.00.00.0 </td><td>2.621.000</td><td>60.000,00 </td></tr><tr><td>03</td><td>001</td><td>10</td><td>302</td><td>3004</td><td>2317</td><td>3.3.90.30.00.00.00.0</td><td>2.621.000</td><td>300.000,00 </td></tr><tr><td>03</td><td>001</td><td>10</td><td>302</td><td>3004</td><td>2317</td><td>3.3.90.36.00.00.00.0</td><td>2.621.000</td><td>76.000,00 </td></tr><tr><td>03</td><td>001</td><td>10</td><td>302</td><td>3004</td><td>2317</td><td>3.3.90.39.00.00.00.0 </td><td>2.621.000</td><td>100.000,00</td></tr></tbody></table>
+
+
+• PREFAPS: R$ 847.707,68
+
+<table><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função </strong></td><td><strong>Programas</strong></td><td><strong>Proj/Ativ </strong></td><td><strong>Elemento de Despesa</strong></td><td><strong>Fonte</strong></td><td><strong>Valor (R$) </strong></td></tr><tr><td>03</td><td>001</td><td>10</td><td>301</td><td>3003</td><td>2316</td><td>3.1.90.11.00.00.00.0 </td><td>2.621.000 </td><td>472.707,68 </td></tr><tr><td>03</td><td>001</td><td>10</td><td>301</td><td>3003</td><td>2316</td><td>3.1.90.13.00.00.00.0 </td><td>2.621.000 </td><td>200.000,00</td></tr><tr><td>03</td><td>001</td><td>10</td><td>301</td><td>3003</td><td>2316</td><td>3.3.90.30.00.00.00.0 </td><td>2.621.000 </td><td>50.000,00 </td></tr><tr><td>03</td><td>001</td><td>10</td><td>301</td><td>3003</td><td>2316</td><td>3.3.90.32.00.00.00.0</td><td>2.621.000 </td><td>10.000,00 </td></tr><tr><td>03</td><td>001</td><td>10</td><td>301</td><td>3003</td><td>2316</td><td>3.3.90.36.00.00.00.0</td><td>2.621.000 </td><td>15.000,00</td></tr><tr><td>03</td><td>001</td><td>10</td><td>301</td><td>3003</td><td>2316</td><td>3.3.90.39.00.00.00.0 </td><td>2.621.000 </td><td>50.000,00 </td></tr><tr><td>03</td><td>001</td><td>10</td><td>301</td><td>3003</td><td>2316</td><td>4.4.90.52.00.00.00.0 </td><td>2.621.000 </td><td>50.000,00 </td></tr></tbody></table>
+
+
+• Covid-19: R$ 48.050,00
+
+<table><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função </strong></td><td><strong>Programas</strong></td><td><strong>Proj/Ativ </strong></td><td><strong>Elemento de Despesa</strong></td><td><strong>Fonte</strong></td><td><strong>Valor (R$) </strong></td></tr><tr><td>03</td><td>001</td><td>10</td><td>302</td><td>3004</td><td>2319</td><td>3.3.90.30.00.00.00.0</td><td>2.621.000</td><td>48.050,00 </td></tr></tbody></table>
+
+
+• COFI-VS - Vigilância: R$ 230.662,44
+
+<table><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função </strong></td><td><strong>Programas</strong></td><td><strong>Proj/Ativ </strong></td><td><strong>Elemento de Despesa</strong></td><td><strong>Fonte</strong></td><td><strong>Valor (R$) </strong></td></tr><tr><td>03</td><td>001</td><td>10</td><td>304</td><td>3006</td><td>2312</td><td>3.1.90.11.00.00.00.0 </td><td>2.621.000</td><td>100,00</td></tr><tr><td>03</td><td>001</td><td>10</td><td>304</td><td>3006</td><td>2312</td><td>3.3.90.30.00.00.00.0</td><td>2.621.000</td><td>84.831,16</td></tr><tr><td>03</td><td>001</td><td>10</td><td>304</td><td>3006</td><td>2312</td><td>3.3.90.36.00.00.00.0</td><td>2.621.000</td><td>15.168,84 </td></tr><tr><td>03</td><td>001</td><td>10</td><td>304</td><td>3006</td><td>2312</td><td>3.3.90.39.00.00.00.0</td><td>2.621.000</td><td>50.562,44</td></tr><tr><td>03</td><td>001</td><td>10</td><td>304</td><td>3006</td><td>2312</td><td>4.4.90.52.00.00.00.0 </td><td>2.621.000</td><td>80.000,00</td></tr></tbody></table>
+
+
+• Assistência Farmacêutica Básica: R$ 398.570,09
+
+<table><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função </strong></td><td><strong>Programas</strong></td><td><strong>Proj/Ativ </strong></td><td><strong>Elemento de Despesa</strong></td><td><strong>Fonte</strong></td><td><strong>Valor (R$) </strong></td></tr><tr><td>03</td><td>001</td><td>10</td><td>303</td><td>3005</td><td>2310</td><td>3.3.90.32.00.00.00.0 </td><td>2.621.000 </td><td>398.570,09</td></tr></tbody></table>
+
+
+• FINANSUS: R$ 741.203,50
+
+<table><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função </strong></td><td><strong>Programas</strong></td><td><strong>Proj/Ativ </strong></td><td><strong>Elemento de Despesa</strong></td><td><strong>Fonte</strong></td><td><strong>Valor (R$) </strong></td></tr><tr><td>03</td><td>001</td><td>10</td><td>302</td><td>3004</td><td>2318</td><td>3.3.90.30.00.00.00.0</td><td>2.621.000</td><td>200.000,00 </td></tr><tr><td>03</td><td>001</td><td>10</td><td>302</td><td>3004</td><td>2318</td><td>3.3.90.32.00.00.00.0</td><td>2.621.000</td><td>140.703,50 </td></tr><tr><td>03</td><td>001</td><td>10</td><td>302</td><td>3004</td><td>2318</td><td>3.3.90.39.00.00.00.0 </td><td>2.621.000</td><td>400.500,00 </td></tr></tbody></table>
+
+
+Art. 2º.
+
+O recurso para atender à presente suplementação é oriundo de Superávit Financeiro apurado no Balanço Patrimonial do Exercício de 2021; conforme inciso I do Art. 43 da Lei nº 4.320 de 17/03/64.
+
+
+Parágrafo único
+
+O Superávit Financeiro apurado a que se refere o caput está demonstrado da seguinte forma:
+
+
+**BALANCETE CONTÁBIL DE VERIFICAÇÃO EM 31/12/2021**  
+Agência 4647-7 (Banco do Brasil): Contas 14233-6; 14754-0  
+Agência 6787 (Bradesco): Contas 3734-6; 5046-6; 5052-4; 5054-7; 6012-7
+
+
+<table><tbody><tr><td colspan="2"><strong>ATIVO</strong></td><td colspan="2"><strong>PASSIVO</strong></td></tr><tr><td colspan="2"><strong>FINANCEIRO</strong></td><td colspan="2"><strong>FINANCEIRO</strong></td></tr><tr><td>Disponibilidades</td><td>R$ 12.235.203,80</td><td>Obrigações</td><td>R$ 1.703.527,04</td></tr><tr><td> </td><td> </td><td>Superávit</td><td>R$ 10.531.676,76 </td></tr><tr><td><strong>Total</strong></td><td><strong>R$ 12.235.203,80</strong></td><td><strong>Total</strong></td><td><strong>R$ 12.235.203,80 </strong></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Engenheiro Paulo de Frontin, 13 de maio de 2022
+
+**JOSÉ EMMANOEL RODRIGUES ARTEMENKO**
+
+Prefeito Municipal
+

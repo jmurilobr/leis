@@ -1,0 +1,234 @@
+---
+titulo: "Lei Ordinária nº 1.220, de 25 de novembro de 2002"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1220"
+data: "2002-11-25"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2140"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/664/text"
+sha256_fonte: "a1f3b48d1394a41ad2c3a4167a084925dc470a2d7a153074a24b3d0884431ce6"
+sha256_texto: "450cffc3dd97af9462219daeebdde2a3b6291f883b1414c77d22fbd2b2dfe584"
+capturado_em_fonte: "2026-10-28T13:30:33.478367-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.220, de 25 de novembro de 2002
+
+Dispõe sobre a concessão de incentivos para expansão e/ou ampliação de empresas industriais, no Município de Guaíra.
+
+
+A câmara municipal de guaíra, estado do Paraná, aprovou, e eu prefeito municipal, sanciono a seguinte lei:
+
+
+#### CAPÍTULO I — DAS FINALIDADES E DIRETRIZES GERAIS
+
+
+Art. 1º.
+
+A presente lei visa fomentar, através da Secretaria Municipal de Indústria e Comércio, o desenvolvimento econômico do Município de Guaíra - PR, mediante incremento às Indústrias, traçando diretrizes para a concessão de incentivos para a ampliação das já existentes, visando a geração de empregos, renda e a melhoria da qualidade de vida dos habitantes do município de Guaíra, estado do Paraná.
+
+
+Art. 2º.
+
+Fica o Poder Executivo Municipal autorizado, nos termos desta Lei, a conceder incentivos até o limite de R$ 20.000,00 (vinte mil reais).
+
+
+Art. 3º.
+
+Fica a cargo da Secretaria Municipal de Indústria e Comércio, a análise e o parecer para concessão de incentivos, previstos nesta Lei.
+
+
+Parágrafo único
+
+A Secretaria Municipal de Indústria e Comércio, deverá:
+
+
+I –
+
+estabelecer prioridades de investimentos;
+
+
+II –
+
+examinar a viabilidade dos projetos, recebendo as propostas mediante formulário próprio;
+
+
+III –
+
+avaliar os resultados obtidos;
+
+
+IV –
+
+fiscalizar os projetos garantindo a correta utilização dos recursos.
+
+
+#### CAPÍTULO II — DAS MODALIDADES DE INCENTIVOS
+
+
+Art. 4º.
+
+Os incentivos serão a título de reformas prediais internas, ou sejam, divisórias, pinturas, rede de telefone, padrões e instalações internas de energia elétrica e outros correlatos.
+
+
+#### CAPÍTULO III — DOS BENEFICIÁRIOS
+
+
+Art. 5º.
+
+Os incentivos de que trata esta Lei serão concedidos para indústrias legalmente constituídas, instaladas em imóveis próprios ou alugados, no município de Guaíra - PR, e que atendam às exigências desta Lei.
+
+
+#### CAPÍTULO IV — DAS EXIGÊNCIAS
+
+
+Art. 6º.
+
+As empresas e os empreendedores interessados na obtenção dos incentivos, constantes desta Lei, deverão formalizar suas solicitações com os seguintes itens, dados e comprovações:
+
+
+a)
+
+Descrição clara e objetiva do ramo de atividade empresarial a ser desenvolvida;
+
+
+b)
+
+Relação discriminada da matéria prima e mão de obra a ser utilizada;
+
+
+c)
+
+Projeção do aumento da capacidade produtiva da unidade a ser beneficiada;
+
+
+d)
+
+Mercado consumidor potencial;
+
+
+e)
+
+Previsão da geração de empregos diretos e indiretos;
+
+
+f)
+
+Balanço patrimonial e demonstrativo do resultado do exercício do último ano.
+
+
+Art. 7º.
+
+As empresas para se habilitarem a receber os incentivos deverão, além de terem sua solicitação aprovada pela Secretaria Municipal de Indústria e Comércio, apresentar os seguintes documentos:
+
+
+a)
+
+Contrato Social acompanhado da última alteração;
+
+
+b)
+
+Cartão do CNPJ atualizado;
+
+
+c)
+
+Cartão da Inscrição Estadual atualizado;
+
+
+d)
+
+Comprovante de endereço da empresa;
+
+
+e)
+
+Certidão Negativa Federal;
+
+
+f)
+
+Certidão Negativa Estadual;
+
+
+g)
+
+Certidão Negativa Municipal, da empresa e dos Sócios;
+
+
+h)
+
+Certidão Negativa de Débitos junto ao INSS;
+
+
+i)
+
+Certificado de Regularidade Fiscal do FGTS;
+
+
+j)
+
+RG e CPF dos Sócios;
+
+
+k)
+
+Comprovante de endereço dos sócios;
+
+
+l)
+
+Certidão Negativa de Protestos da empresa e dos sócios;
+
+
+m)
+
+Certidão Negativa de Ônus da empresa e dos sócios;
+
+
+n)
+
+Comprovante de Idoneidade Financeira da empresa e dos sócios.
+
+
+#### CAPÍTULO V — DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
+
+
+Art. 8º.
+
+A concessão dos incentivos, não isenta os beneficiários do cumprimento da legislação aplicável, especialmente a de proteção do meio ambiente, cabendo ao Município tomar as medidas destinadas ao aperfeiçoamento do desenvolvimento econômico de seu território.
+
+
+Art. 9º.
+
+Fica a cargo do chefe do Poder Executivo Municipal celebrar protocolos com empresas interessadas nos incentivos da presente Lei, bem como firmar atos e instrumentos necessários à aplicação do disposto nesta Lei.
+
+
+Art. 10.
+
+As despesas decorrentes deste Programa correrão por conta das dotações específicas dos orçamentos municipais, e a concessão dos incentivos dependerá de análise e aprovação da Secretaria Municipal de Indústria e Comércio, a qual deverá emitir parecer sobre a viabilidade técnica e econômica do empreendimento e da disponibilidade de recursos financeiros.
+
+
+Art. 11.
+
+Caso se faça necessária regulamentação desta Lei, o executivo instituirá por Decreto.
+
+
+Art. 12.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Guaíra, em 25 de novembro de 2002.  
+  
+DR. MANOEL KUBA  
+Prefeito Municipal
+

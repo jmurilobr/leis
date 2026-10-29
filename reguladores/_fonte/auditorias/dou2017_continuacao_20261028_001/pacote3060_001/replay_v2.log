@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/Volumes/ExternalSSD/GitHub/constituicao/reguladores/_fonte/auditorias/dou2017_continuacao_20261028_001/pacote3060_001/replay3060_v2.py", line 53, in <module>
+    assert original.tag=='p' and 'assina'in cls or original.tag=='div' and 'informacao-conteudo-dou'in cls,(path,'Irmão externo não administrativo')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: ('reguladores/mapa/portarias/2017/portaria-n-43-de-6-de-marco-de-2017-20365642.md', 'Irmão externo não administrativo')

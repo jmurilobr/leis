@@ -1,0 +1,67 @@
+---
+titulo: "Lei Ordinária nº 477, de 07 de junho de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "477"
+data: "2017-06-07"
+municipio: "Guadalupe"
+uf: "PI"
+codigo_ibge: "2204501"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guadalupe.pi.leg.br/norma/218"
+fonte_texto: "https://sapl.guadalupe.pi.leg.br/ta/171/text"
+sha256_fonte: "453a063cd20bfc03056c7a88bb6bf0b3cb4ebd0d2102d4a3bc1a259f5459958e"
+sha256_texto: "458a492752bd6f173f0b402a2ada7a86406a8d682cbae988e9f89c54a37c1e16"
+capturado_em_fonte: "2026-10-28T12:48:25.381524-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 477, de 07 de junho de 2017
+
+Autoriza o Poder Executivo Municipal a abrir Crédito Adicional Especial no orçamento vigente, no valor de R$ 100.000,00 (cem mil reais), e a criar um programa de trabalho para viabilizar a execução para o fim a que se destina e dá outras providências.
+
+
+A Prefeita Municipal de Guadalupe, Estado do Piauí, faço saber que a Câmara Municipal de Guadalupe aprova e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica aberto no orçamento em vigor, Lei Orçamentária Anual n° 0473/2016, de 07/12/2016, o Crédito Adicional Especial no valor de R$ 100.000,00 (cem mil reais).
+
+
+Art. 2º.
+
+Para viabilizar a execução da despesa objeto deste crédito adicional, ficam criados, no orçamento do exercício financeiro de 2017, o Programa de Trabalho e os elementos de despesa a seguir:
+
+
+<table><tbody><tr><td><strong>Códigos</strong></td><td><strong>Especificações</strong></td><td><strong>Valores</strong></td></tr><tr><td>08243</td><td>Manutenção das Ativ. do Programa Criança Feliz</td><td>100.000,00</td></tr><tr><td>3.3.90.30.00</td><td>Material de Consumo</td><td>15.000,00</td></tr><tr><td>3.3.90.36.00</td><td>Outros Serviços de Terceiros - Pessoa Física</td><td>85.000,00</td></tr></tbody></table>
+
+
+Art. 3º.
+
+Os recursos para cobertura das despesas com o programa ora criado são derivados de transferências do Governo Federal decorrentes do termo de Aceite e Compromisso firmado pelo município de Guadalupe com o Ministério de Desenvolvimento Social e Agrário, convênio instituído pelo Decreto Presidencial n° 8.869, de 5 de outubro de 2016.
+
+
+Art. 4º.
+
+As receitas decorrentes deste convênio serão utilizadas nas despesas de custeio. As despesas de investimento no aprimoramento do programa serão efetivadas com a utilização de recursos próprios do município.
+
+
+Art. 5º.
+
+Fica o Poder Executivo Municipal autorizado a fazer por decreto os ajustes necessários à execução do programa.
+
+
+Art. 6º.
+
+Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete da Prefeita Municipal de Guadalupe, Estado do Piauí em sete de junho de dois mil e dezessete.  
+  
+Maria Jozeneide Fernandes Lima  
+Prefeita Municipal
+

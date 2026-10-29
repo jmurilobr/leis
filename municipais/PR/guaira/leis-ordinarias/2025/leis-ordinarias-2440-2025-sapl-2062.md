@@ -1,0 +1,981 @@
+---
+titulo: "Lei Ordinária nº 2.440, de 19 de novembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2440"
+data: "2025-11-19"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2062"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/623/text"
+sha256_fonte: "58c9034fd75ec89c1aef00345d34e19b797b6e2d56181da83d9ecb0e71517eea"
+sha256_texto: "1b47bd35c0328fb1e9473f10824d0f2af9cbe2b091a197c408d67a56b6278131"
+capturado_em_fonte: "2026-10-28T13:07:40.643141-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.440, de 19 de novembro de 2025
+
+Institui a política municipal de inovação, ciência e tecnologia do Município de Guaíra, Estado do Paraná, e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+A presente Lei institui a política municipal de Ciência, Tecnologia e Inovação, cria a Câmara Técnica de Ciência, Tecnologia e Inovação do Conselho Municipal de Desenvolvimento Econômico de Guaíra - PRODESG e estabelece medidas de incentivo à inovação, à pesquisa e ao desenvolvimento científico e tecnológico, visando a consolidação do Ecossistema de Ciência, Tecnologia e Inovação, o estímulo à inovação no setor produtivo e a promoção do desenvolvimento econômico e social do município de Guaíra.
+
+
+Art. 2º.
+
+Para os efeitos desta Lei, considera-se:
+
+
+I –
+
+Inovação: introdução de novidade ou aperfeiçoamento no ambiente produtivo e social que resulte em novos produtos, serviços ou processos ou que compreenda a agregação de novas funcionalidades ou características a produto, serviço ou processo já existente que possa resultar em melhorias e em efetivo ganho de qualidade ou desempenho, quer seja através de recursos e equipamentos tecnológicos ou não;
+
+
+II –
+
+Produto, Processo ou Serviço Inovador: resultado de aplicação substancial de conhecimentos científicos e tecnológicos, caracterizado por diferencial competitivo no mercado ou significativo benefício social;
+
+
+III –
+
+Empresa Inovadora: se destaca por sua capacidade de introduzir novas ideias, tecnologias, produtos, serviços ou modelos de negócios no mercado, preza pela transparência, criatividade, colaboração e diversidade de ideias, faz investimentos em pesquisa e desenvolvimento para criar produtos e serviços diferenciados. Caracterizada por estar em constante inovação no desenvolvimento de produtos, readequação de serviços e/ou na melhoria ou substituição de processos existentes.
+
+
+IV –
+
+Startup com base no conhecimento: empresa legalmente constituída nos termos da legislação vigente, cujos produtos, design, processos ou serviços sejam preponderantemente decorrentes dos resultados de suas atividades de pesquisa, desenvolvimento tecnológico e de inovação:
+
+
+a)
+
+constituída há menos de sessenta meses, e cuja formação não tenha sido decorrente de cisão, fusão, incorporação ou aquisição de empresas;
+
+
+b)
+
+cuja receita bruta (anual) não ultrapasse o valor do maior limite de que trata o inciso II do art. 3º da Lei Complementar Federal nº 123, de 14 de dezembro de 2006, ou leis que a sucedam e correlatas;
+
+
+c)
+
+cujo contrato social ou regime de empresário estabeleça que a distribuição de dividendos somada à distribuição de juros sobre o capital próprio não excederá 1% (um por cento) do lucro líquido do exercício;
+
+
+d)
+
+cujo contrato social ou regime de empresário estabeleça que não haverá criação de partes beneficiárias;
+
+
+e)
+
+cujas despesas de pesquisa e desenvolvimento sejam iguais ou superiores a 20% (vinte por cento) da receita bruta, sendo excluídas dessas despesas os valores direcionados à formação de ativo imobilizado;
+
+
+f)
+
+cujo somatório de pró-labore pago aos sócios não ultrapasse o teto do funcionalismo público estadual, e mais do que 20% (vinte por cento) do patrimônio líquido da empresa;
+
+
+V –
+
+Startup de natureza incremental: a empresa de caráter inovador que visa a aperfeiçoar sistemas, métodos ou modelos de negócio, de produção, de serviços ou de produtos já existentes, nos termos das alíneas "a" a "f" do inciso III deste artigo;
+
+
+VI –
+
+Startup de natureza disruptiva: a empresa de caráter inovador que visa a criação de algo totalmente novo em relação a sistemas, métodos ou modelos de negócio, de produção, de serviços ou de produtos, nos termos das alíneas "a" a "f" do inciso III deste artigo;
+
+
+VII –
+
+Spin-offs: é o lançamento de um produto, serviço ou negócio de caráter inovador que visa aperfeiçoar sistemas, métodos ou modelos de negócio, que nasce de organizações existentes, sejam elas empresas ou centros de pesquisa como universidades, laboratórios e institutos;
+
+
+VIII –
+
+Empresas Âncoras: empresas de grande porte, pertencentes a diversos segmentos da indústria, comércio e serviços, que participam do ecossistema testando e/ou investindo em ciência, tecnologia e inovação;
+
+
+IX –
+
+Tecnologia: conjunto ordenado de ações ou medidas efetivas empregadas na produção e comercialização de bens ou serviços bem como o conjunto de conhecimentos científicos e empíricos que resultam de observações, experiência, atitudes específicas e tradição (oral ou escrita);
+
+
+X –
+
+Ambientes promotores da inovação: são espaços propícios à inovação e ao empreendedorismo, que constituem ambientes característicos da economia baseada no conhecimento; articulação entre empresas nos diferentes níveis de governo, nas instituições científicas, tecnológicas e de inovação; nas agências de fomento ou organizações da sociedade civil e incubadoras tecnológicas;
+
+
+XI –
+
+Arranjos Promotores da Inovação (API): Uma ação programada e cooperada envolvendo ICTs, empresas e outras organizações, em determinado setor econômico especializado, visando ampliar sua capacidade de inovação, seu desenvolvimento econômico, social e ambiental, dotada de uma entidade gestora, seja pública ou privada, que atua como facilitadora das atividades cooperativas;
+
+
+XII –
+
+Espaço Maker: local compartilhado para criação e construção, utilizando ferramentas tecnológicas, destinadas a desenvolver diversas habilidades, pensamento crítico, raciocínio e criatividade;
+
+
+XIII –
+
+Coworking: espaço de trabalho compartilhado, para pessoas físicas e jurídicas que mantenham ou não domicílio no mesmo endereço, projetado para possibilitar um ambiente produtivo, inovador e colaborativo;
+
+
+XIV –
+
+Pré-Incubadora: ambiente que oferece suporte a empreendedores para transformar suas ideias de negócios em empresas formalizadas juridicamente. Isso ocorre por meio de ferramentas, serviços de consultoria técnica e mercadológica, mentoria, assessorias, cursos e apoio institucional além de networking e aproximação com entidades financeiras e de investimento;
+
+
+XV –
+
+Incubadora de Empresas Inovadoras ou com base tecnológica ou no conhecimento: organização ou estrutura que objetiva estimular ou prestar apoio logístico, gerencial e tecnológico ao empreendedorismo inovador e intensivo em conhecimento, com o objetivo de facilitar a criação e o desenvolvimento de empresas que tenham como diferencial a realização de atividades voltadas à inovação;
+
+
+XVI –
+
+Aceleradora de Empresas: Pessoa jurídica que tenha por objetivo auxiliar projetos de empresas que apresentem alto potencial de crescimento, através de investimento financeiro, apoio comercial e societário, posicionamento de mercado e estratégico, podendo participar, como sócia do negócio acelerado;
+
+
+XVII –
+
+Ecossistema de Inovação e Tecnologia: aglomeração de empresas, profissionais, órgãos e entidades públicas e privadas localizadas em um mesmo território, que apresentam especialização produtiva e mantêm vínculos de articulação, interação, cooperação e aprendizagem entre si e com outros atores locais, tais como governo, associações empresariais, instituições de crédito, ensino e pesquisa;
+
+
+XVIII –
+
+Instituição científica, tecnológica e de inovação (ICT): órgão ou entidade da administração pública direta ou indireta ou pessoa jurídica de direito privado sem fins lucrativos legalmente constituída sob as leis brasileiras, com sede e foro no País, que inclua em sua missão institucional ou em seu objetivo social ou estatutário a pesquisa básica ou aplicada de caráter científico ou tecnológico ou o desenvolvimento de novos produtos, serviços ou processos;
+
+
+XIX –
+
+Parque Tecnológico: complexo de entidades empresariais, científicas e tecnológicas organizadas para promover a cultura e a prática da cooperação visando à inovação, a competitividade empresarial e a geração de riquezas por meio da criação e fortalecimento de empresas inovadoras;
+
+
+XX –
+
+Polo tecnológico: ambiente industrial e tecnológico caracterizado pela presença dominante de micro, pequenas e médias empresas com áreas correlatas de atuação em determinado espaço geográfico, com vínculos operacionais com ICT, recursos humanos, laboratórios e equipamentos organizados e com predisposição ao intercâmbio entre os entes envolvidos para consolidação, marketing e comercialização de novas tecnologias;
+
+
+XXI –
+
+Inovação Colaborativa no Serviço Público: prática da Administração Pública Direta e Indireta em dar publicidade por meio de chamamento público ou ainda pela modalidade de concurso, a desafios da gestão para Startups com base no conhecimento, buscando soluções a partir dos problemas ou finalidades públicas expostas, para criação e desenvolvimento de serviços públicos inéditos ou que contemplem potencial de inovação, sob as premissas de incerteza no processo inovativo e não vinculação da administração à aquisição de produtos e serviços resultantes das atividades de pesquisa e desenvolvimento prevista em edital próprio;
+
+
+XXII –
+
+Encomenda Tecnológica: contratação direta mediante dispensa de licitação, de ICT pública ou privada, entidades de direito privado sem fins lucrativas ou empresas, isoladamente ou em consórcios, voltadas para atividades de pesquisa e de reconhecida capacitação tecnológica no setor, visando à realização de atividades de pesquisa, desenvolvimento e inovação que envolvam risco tecnológico, para solução de problema técnico específico ou obtenção de produto, design, serviço ou processo inovador;
+
+
+XXIII –
+
+Programa de Incentivo à Ciência, Tecnologia e Inovação: instituído para concessão de incentivo fiscal e econômico à pessoa física ou jurídica estabelecida no município, conforme regulamento próprio, com o objetivo primordial de promover o empreendedorismo inovador de interesse da municipalidade;
+
+
+XXIV –
+
+Programa Municipal de Ciência, Tecnologia e Inovação: o planejamento das atividades que visam a implementação dos objetivos desta lei, organizado de forma periódica pela Câmara Técnica de Ciência, Tecnologia e Inovação, contendo metas, ações, agentes participantes, regras de aplicação e de planejamento de recursos necessários à execução das atividades propostas;
+
+
+XXV –
+
+Câmara Técnica de Ciência, Tecnologia e Inovação do Conselho Municipal de Desenvolvimento Econômico de Guaíra – PRODESG: é o mecanismo de participação da comunidade no direcionamento de ações governamentais, por meio da formulação de diretrizes, do acompanhamento e da fiscalização, que reúne os principais atores no processo de desenvolvimento sustentável por meio da inovação;
+
+
+XXVI –
+
+Agente de Inovação: Servidor público, capacitado e preparado, preferencialmente de carreira, aprovado pela Câmara Técnica de Ciência, Tecnologia e Inovação, designado por ato do poder executivo para acompanhar, articular e monitorar a agenda pública de inovação no desempenho de suas atribuições, com vistas ao cumprimento das disposições e diretrizes contidas nesta lei, sob supervisão da Câmara Técnica de Ciência, Tecnologia e Inovação, responsável pelas políticas de inovação no Município.
+
+
+#### CAPÍTULO II — DO SISTEMA MUNICIPAL DE INOVAÇÃO (SMI)
+
+
+Art. 3º.
+
+Institui o Sistema Municipal de Inovação com o objetivo de incentivar o desenvolvimento sustentável do município pela inovação, pesquisa científica e tecnológica em ambiente produtivo, estimulando programas e projetos, articulados com o setor público e privado.
+
+
+Parágrafo único
+
+Integram o Sistema Municipal de Inovação:
+
+
+I –
+
+A Câmara Técnica de Ciência, Tecnologia e Inovação do Conselho Municipal de Desenvolvimento Econômico de Guaíra - PRODESG;
+
+
+II –
+
+O Município de Guaíra por meio da Secretaria de Tecnologia e Sistemas de Informação;
+
+
+III –
+
+A Câmara Municipal de Vereadores;
+
+
+IV –
+
+As instituições de ensino estadual, superior, tecnológico e profissionalizantes estabelecidas no município;
+
+
+V –
+
+Os Ambientes Promotores de Inovação, localizados no Município;
+
+
+VI –
+
+As empresas inovadoras com estabelecimento no Município;
+
+
+VII –
+
+As Startups com base no conhecimento, natureza incremental e/ou disruptiva;
+
+
+VIII –
+
+Os consórcios públicos de inovação;
+
+
+IX –
+
+O terceiro setor;
+
+
+X –
+
+Os criadores e inventores independentes;
+
+
+XI –
+
+As ICTs localizadas no município;
+
+
+XII –
+
+As entidades que se enquadram como Agências de Fomento, inclusive os serviços autônomos que atuam em ciência, tecnologia e inovação;
+
+
+XIII –
+
+As entidades públicas ou privadas que desenvolvam ou apoiem atividade de ciência, tecnologia e inovação estabelecidas no município;
+
+
+XIV –
+
+Arranjos Promotores de Inovação (API) reconhecidos pela Câmara Técnica de Ciência, Tecnologia e Inovação;
+
+
+Art. 4º.
+
+Poderão ser credenciadas ao Sistema Municipal de Inovação segundo regulamento aprovado pela Câmara Técnica de Ciência, Tecnologia e Inovação, unidades de promoção e serviços de apoio as empresas de base tecnológica ou inovadoras que atuem nos seguintes ramos:
+
+
+I –
+
+Internacionalização e comércio exterior;
+
+
+II –
+
+Propriedade intelectual;
+
+
+III –
+
+Fundos de investimento e participação;
+
+
+IV –
+
+Consultoria tecnológica, empresarial e jurídica a empresas de base tecnológica;
+
+
+V –
+
+Condomínios empresariais do setor tecnológico;
+
+
+VI –
+
+Outros que forem julgados relevantes pela Câmara Técnica de Ciência, Tecnologia e Inovação.
+
+
+§ 1º
+
+O credenciamento terá validade de 04 (quatro) anos, contados da sua concessão, sendo que a renovação se dará na forma de regulamento.
+
+
+§ 2º
+
+As empresas participantes de incubadoras, centros de inovação, parques tecnológicos e Arranjos Promotores de Inovação (API) reconhecidos pela Câmara Técnica de Ciência, Tecnologia e Inovação, integrantes do Sistema Municipal de Inovação, serão consideradas integrantes credenciadas e poderão usufruir dos benefícios estabelecidos nesta lei.
+
+
+Art. 5º.
+
+O Município de Guaíra apoiará a cooperação entre o Sistema Municipal de Inovação e o Sistema de Inovação no âmbito de outros Municípios, Estados e União, instituições públicas e privadas, o terceiro setor, incubadoras, parques tecnológicos e empresas que promovam inovação e entidades de ensino e pesquisa cientifica e tecnológica.
+
+
+#### CAPÍTULO III — DA CÂMARA TÉCNICA DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO DO CONSELHO MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO DE GUAÍRA - PRODESG
+
+
+Art. 6º.
+
+Para a realização dos objetivos desta Lei, fica instituída a Câmara Técnica de Ciência, Tecnologia e Inovação do Conselho Municipal de Desenvolvimento Econômico de Guaíra - PRODESG, com a finalidade de promover a discussão, a proposição e o acompanhamento das políticas públicas de Ciência, Tecnologia e Inovação, de interesse do Município, bem como a análise dos incentivos às pessoas físicas e jurídicas inovadoras.
+
+
+Art. 7º.
+
+A Câmara Técnica de Ciência, Tecnologia e Inovação no Conselho Municipal de Desenvolvimento Econômico de Guaíra - PRODESG, órgão superior de consulta, de natureza consultiva e propositiva do Município de Guaíra será composta por no mínimo 16 membros da seguinte forma:
+
+
+I –
+
+um representante da Secretaria de Tecnologia e Sistemas de Informação;
+
+
+II –
+
+um representante da Secretaria de Desenvolvimento Econômico e Emprego;
+
+
+III –
+
+um representante da Secretaria de Agropecuária, Infraestrutura e Meio Ambiente;
+
+
+IV –
+
+um representante da Secretaria de Turismo, Esporte e Lazer;
+
+
+V –
+
+um representante da Secretaria de Educação;
+
+
+VI –
+
+um representante das escolas de ensino estadual e técnico;
+
+
+VII –
+
+um representante do setor produtivo rural do município de Guaíra;
+
+
+VIII –
+
+quatro representantes da classe empresarial indicados pela ACIAG, sendo um ligado a indústria, outro ao comércio, dois a prestação de serviços, sendo um de turismo e um de tecnologia;
+
+
+IX –
+
+um representante de Instituição de Ensino Superior;
+
+
+X –
+
+um representante das empresas âncoras;
+
+
+XI –
+
+um representante de Instituições Financeiras Privadas;
+
+
+XII –
+
+um representante das Cooperativas de Crédito;
+
+
+XIII –
+
+um representante da sociedade civil organizada;
+
+
+§ 1º
+
+A composição da Câmara Técnica de Ciência, Tecnologia e Inovação no Conselho Municipal de Desenvolvimento Econômico de Guaíra – PRODESG, deverá ser na proposição de 60/40, sendo 60% das vagas para representantes de entidades e instituições da iniciativa privada e de até 40% das vagas para representantes vinculados a iniciativa pública federal, estadual e/ou municipal.
+
+
+§ 2º
+
+As instituições indicarão seus representantes, titulares e suplentes, que serão nomeados por ato do Chefe do Poder Executivo Municipal, no prazo máximo de 30 (trinta) dias após a realização de todas as indicações.
+
+
+§ 3º
+
+Cada titular da Câmara Técnica de Ciência, Tecnologia e Inovação terá um suplente;
+
+
+§ 4º
+
+Perderá o mandato o membro que deixar de pertencer a instituição pela qual foi indicado;
+
+
+§ 5º
+
+Os membros da Câmara Técnica de Ciência, Tecnologia e Inovação podem ser substituídos a qualquer momento, mediante solicitação da instituição, apresentada à Coordenação da Câmara Técnica de Ciência, Tecnologia e Inovação.
+
+
+§ 6º
+
+A direção da Câmara Técnica de Ciência, Tecnologia e Inovação no Conselho Municipal de Desenvolvimento Econômico de Guaíra - PRODESG será exercida pelo Presidente, Vice-Presidente e Secretário, eleitos pela maioria dos votos dos membros presentes, garantindo-se a alternância na presidência entre representantes governamentais e não governamentais, sendo permitida a recondução no total ou em parte de seus membros nos próximos mandatos.
+
+
+§ 7º
+
+O Presidente, o Vice-Presidente e o Secretário da Câmara Técnica de Ciência, Tecnologia e Inovação serão eleitos entre os representantes das instituições elencadas neste artigo e, em ocorrendo a vacância dos cargos de presidente e vice, será convocada nova eleição.
+
+
+§ 8º
+
+A Câmara Técnica de Ciência, Tecnologia e Inovação do Conselho Municipal de Desenvolvimento Econômico de Guaíra – PRODESG, reunir-se-á ordinariamente ou extraordinariamente, no mínimo 4 vezes ao ano, mediante convocação de seu Presidente ou por um terço de seus membros e sugerirá por maioria simples de votos dos presentes.
+
+
+§ 9º
+
+A participação na Câmara Técnica de Ciência, Tecnologia e Inovação será considerada relevante serviço público e não será atividade remunerada.
+
+
+§ 10
+
+O mandato dos membros e seus respectivos suplentes será de 03 (três) anos.
+
+
+§ 11
+
+O Regimento Interno da Câmara Técnica de Ciência, Tecnologia e Inovação de Guaíra, será aprovado com os votos da maioria absoluta dos membros presentes, sendo publicado, em até 90 (noventa) dias após a data da publicação da portaria de nomeação dos membros da Câmara Técnica, no diário oficial do município.
+
+
+§ 12
+
+Caberá ao Município a obrigação de prover os recursos humanos e materiais necessários ao pleno funcionamento administrativo e operacional da Câmara Técnica.
+
+
+§ 13
+
+O apoio executivo para a Câmara Técnica de Ciência, Tecnologia e Inovação será realizado por um ou mais Agentes de Inovação.
+
+
+§ 14
+
+O Chefe do Poder Executivo, nomeará para Agente de Inovação, Servidor Público federal, estadual e/ou municipal, atuante, capacitado e preparado, cujo nome tenha sido aprovado pela Câmara Técnica de Ciência, Tecnologia e Inovação, para acompanhar e articular a agenda pública de inovação, com vistas ao cumprimento das disposições e diretrizes contidas nesta lei, tendo por competência:
+
+
+I –
+
+Atuar pelo cumprimento da lei municipal e sugerir possíveis mudanças nessa legislação;
+
+
+II –
+
+Apoiar na realização do diagnóstico do sistema municipal de inovação e seus atores;
+
+
+III –
+
+Conectar os atores de inovação do município a fim de potencializar o atendimento ao empreendedor inovador;
+
+
+IV –
+
+Identificar e interagir com as lideranças locais do setor público, privado e lideranças comunitárias que possam colaborar com as ações locais de Inovação;
+
+
+V –
+
+Articular o engajamento dos diversos organismos públicos e privados que compõe o sistema local de inovação, nas ações da Câmara Técnica de Ciência, Tecnologia e Inovação e do Poder Executivo municipal voltadas para o incentivo à inovação;
+
+
+VI –
+
+Contribuir diretamente na organização e atuação da Câmara Técnica de Ciência, Tecnologia e Inovação promovendo as ações necessárias para que o grupo atinja seus objetivos em prol da inovação no município;
+
+
+VII –
+
+Prestar Apoio executivo para a Coordenação da Câmara Técnica de Ciência, Tecnologia e Inovação;
+
+
+VIII –
+
+Apoiar a implementação e continuidade de políticas públicas do município voltadas aos estímulos e incentivos à inovação nas empresas;
+
+
+IX –
+
+Acompanhar as deliberações e os estudos desenvolvidos no âmbito do Comitê Gestor Municipal das MPEs e do Iguassu Valley – Sistema Regional de Inovação ou órgãos que venham a substituí-los;
+
+
+X –
+
+Manter registro organizado de todas as suas atividades;
+
+
+XI –
+
+Dar publicidade as ações da Câmara Técnica de Ciência, Tecnologia e Inovação de Guaíra;
+
+
+XII –
+
+Desempenhar as demais funções correlatas que lhe forem delegadas.
+
+
+Art. 8º.
+
+À Câmara Técnica de Ciência, Tecnologia e Inovação competirá:
+
+
+I –
+
+formular, propor, avaliar, validar e fiscalizar planos, ações e políticas públicas de promoção da inovação para o desenvolvimento do Município, a partir de iniciativas governamentais ou em parceria com agentes privados, sempre preservando o interesse público;
+
+
+II –
+
+promover a geração, difusão e democratização do conhecimento, das informações e novas técnicas e incentivar a introdução e adaptação à realidade local de técnicas já existentes;
+
+
+III –
+
+promover e incentivar estudos, eventos e pesquisas nas áreas de que trata esta Lei;
+
+
+IV –
+
+sugerir políticas de captação e alocação de recursos para as finalidades da presente Lei;
+
+
+V –
+
+acompanhar, avaliar e fiscalizar o correto uso dos recursos públicos destinados à inovação;
+
+
+VI –
+
+elaborar texto base que versa sobre a matéria a ser regulamentada desta lei, nos casos em que forem necessários e, que posteriormente serão encaminhados ao Chefe do Poder Executivo;
+
+
+VII –
+
+elaborar, aprovar e modificar o seu regimento interno, resoluções, recomendações, e demais atos de sua competência que se fizerem necessários, no Órgão Oficial do Município;
+
+
+VIII –
+
+requerer aos órgãos públicos e privados informações e indicadores que sejam importantes para a análise e consecução de seus deveres legais, proposição de políticas públicas e ações municipais, atuando em sinergia com a Sala do Empreendedor, a Câmara Técnica dos Pequenos Negócios e demais Conselhos Municipais, nas áreas de Educação, Meio Ambiente, Desenvolvimento Econômico, Tecnológico e demais de interesse público;
+
+
+IX –
+
+propor ao Executivo Municipal o aperfeiçoamento profissional e a introdução de métodos de trabalho e técnicas operacionais, visando à qualificação da esfera pública municipal na prestação de serviços públicos com aplicação de inovação;
+
+
+X –
+
+incentivar a pesquisa e o desenvolvimento tecnológico inovador voltados ao aperfeiçoamento dos serviços públicos municipais e ao uso e controle dos recursos naturais;
+
+
+XI –
+
+instituir subcomissões ou câmaras permanentes ou transitórias para estudos, avaliações, proposição de programas, planos de ação e projetos, fiscalização, ou outra atividade definida pela Câmara Técnica de Ciência, Tecnologia e Inovação, podendo solicitar informações ou documentações complementares que julgar indispensáveis para a sua avaliação e ser auxiliadas por assessores independentes;
+
+
+XII –
+
+promover, incentivar e apoiar a educação empreendedora, inovadora e tecnológica no ensino básico, visando a manutenção do ecossistema inovador, seja por iniciativas do Município, seja em parceria com outras iniciativas;
+
+
+XIII –
+
+analisar as solicitações de empresas e pessoas físicas interessadas nos incentivos e estímulos previstos em Lei, podendo aprová-los ou rejeitá-los;
+
+
+XIV –
+
+manter intercâmbio, parcerias e colaborar na articulação das ações entre organismos públicos, privados e do terceiro setor envolvidos na formulação de políticas e ecossistemas de inovação, com outros municípios, estados, União e organismos internacionais;
+
+
+XV –
+
+promover a integração dos habitats de inovação locais e destes, em especial, com o Sistema Regional de Inovação do Oeste Paranaense – Iguassu Valley;
+
+
+XVI –
+
+manter atuação, participação e integração com o Sistema Regional de Inovação do Oeste Paranaense – Iguassu Valley.
+
+
+#### CAPÍTULO IV — DOS ARRANJOS PROMOTORES DE INOVAÇÃO (API)
+
+
+Art. 9º.
+
+A Câmara Técnica de Ciência, Tecnologia e Inovação credenciará, para efeito de incentivos os Arranjos Promotores de Inovação (APIs) que forem julgados de interesse ao Desenvolvimento Econômico, Científico, Tecnológico, Inovador e Sustentável do município.
+
+
+§ 1º
+
+haverá prioridade de acesso aos incentivos estabelecidos por esta lei, o requerente integrante de Arranjo Promotor de Inovação (API) credenciado pela Câmara Técnica de Ciência, Tecnologia e Inovação.
+
+
+§ 2º
+
+a informação sistêmica de dados cadastrais e socioeconômicos, conforme regulamento estabelecido pela Câmara Técnica de Ciência, Tecnologia e Inovação é pré- requisito para participar de Arranjo Promotor de Inovação (APIs) credenciado;
+
+
+§ 3º
+
+os Arranjos Promotores de Inovação (APIs) deverão atender critérios de propósitos, porte e gestão a serem estabelecido conforme regulamento da Câmara Técnica de Ciência, Tecnologia e Inovação.
+
+
+#### CAPÍTULO V — DA POLÍTICA MUNICIPAL DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO (PMCTI)
+
+
+Art. 10.
+
+Fica instituída a Política Municipal de Ciência, Tecnologia e Inovação, destinada a promover e estimular a inovação, o empreendedorismo, a pesquisa e a qualificação científica e tecnológica no município de Guaíra.
+
+
+Art. 11.
+
+Fica o Executivo Municipal autorizado a promover o desenvolvimento científico, tecnológico e de inovação no Município de Guaíra, com vistas:
+
+
+I –
+
+à promoção das atividades científicas e tecnológicas como estratégias para o desenvolvimento econômico e social;
+
+
+II –
+
+à promoção da liberdade econômica em ambiente de competição e redução da pobreza e das desigualdades, com melhoria do Índice de Desenvolvimento Humano - IDH, a partir da inserção econômica da população, nas atividades empreendedoras de base tecnológica e inovadora, priorizando-se políticas públicas para micro e pequenas empresas do Município de Guaíra;
+
+
+III –
+
+à promoção e continuidade dos processos de formação e capacitação científica, tecnológica e de inovação;
+
+
+IV –
+
+à descentralização das atividades de ciência, tecnologia e inovação em cada secretaria e departamento na esfera municipal;
+
+
+V –
+
+à promoção da cooperação e interação entre os entes públicos, entre os setores público, privado, instituições de ensino e pesquisa, e entre estes com o terceiro setor;
+
+
+VI –
+
+ao apoio e incentivo à economia criativa do Município de Guaíra;
+
+
+VII –
+
+ao estímulo à atividade de inovação nas Instituições Científicas, Tecnológicas e de Inovação (ICTs) e nas empresas, inclusive para a atração, a constituição e a instalação de ambientes de inovação;
+
+
+VIII –
+
+à promoção da competitividade empresarial nos mercados municipal, regional, nacional e internacional;
+
+
+IX –
+
+à promoção do empreendedorismo inovador e intensivo de conhecimento, em particular da criação e desenvolvimento de empresas nascentes da base tecnológica ou decorrentes de processos derivados;
+
+
+X –
+
+à criação e desenvolvimento dos instrumentos de fomento, bem como sua permanente atualização e aperfeiçoamento visando o desenvolvimento sustentável do setor;
+
+
+XI –
+
+ao incentivo à constituição de ambientes favoráveis à inovação e às atividades de transferência de tecnologia;
+
+
+XII –
+
+ao fortalecimento das capacidades operacionais, científicas, tecnológicas e administrativas das ICTs;
+
+
+XIII –
+
+à atratividade dos instrumentos de fomento e de crédito, bem como sua permanente atualização e aperfeiçoamento;
+
+
+XIV –
+
+à simplificação de procedimentos para gestão de projetos de ciência, tecnologia e inovação e adoção de controle por resultados em sua avaliação;
+
+
+XV –
+
+à utilização do poder de compra do Município para fomento à inovação;
+
+
+XVI –
+
+ao apoio, incentivo e integração dos criadores e inventores independentes às atividades das ICTs e ao sistema produtivo;
+
+
+XVII –
+
+à garantia do direito à informação;
+
+
+XVIII –
+
+à simplificação de procedimentos para gestão de projetos de ciência, tecnologia e inovação;
+
+
+XIX –
+
+ao reconhecimento e aceitação do risco tecnológico, endógeno ou exógeno às atividades de pesquisa e desenvolvimento, corrente para a simplificação e flexibilização de procedimentos e normas para adoção de desafios tecnológicos e concurso de projetos inovadores;
+
+
+XX –
+
+a busca pelo melhor resultado qualitativamente considerado, para o desenvolvimento socioeconômico do município de Guaíra.
+
+
+#### CAPÍTULO VI — DOS MECANISMOS DE INCENTIVO À INOVAÇÃO
+
+
+Art. 12.
+
+O Município de Guaíra, por meio de seus órgãos da administração pública direta ou indireta, incentivará o processo de inovação nas empresas, mediante o compartilhamento de recursos humanos, materiais e/ou de infraestrutura, a concessão de apoio financeiro, de incentivos fiscais e/ou subvenção econômica.
+
+
+§ 1º
+
+A concessão de recursos financeiros, sob a forma de subvenção econômica e financiamento, visando ao desenvolvimento de produtos, processos ou serviços inovadores, será precedida de aprovação de projeto pelo órgão ou entidade concedente.
+
+
+§ 2º
+
+A concessão da subvenção econômica prevista no § 1.º deste artigo implica, obrigatoriamente, a assunção de contrapartida pela empresa beneficiária, na forma estabelecida nos instrumentos de ajuste específicos.
+
+
+§ 3º
+
+O Poder Executivo regulamentará o disposto neste artigo, mediante resoluções expedidas pela Câmara Técnica de Ciência, Tecnologia e Inovação.
+
+
+Art. 13.
+
+O município de Guaíra promoverá e incentivará a pesquisa, o desenvolvimento de produtos, design, serviços e processos inovadores, em empresas brasileiras e em entidades de direito privado sem fins lucrativos, criadores e inventores independentes, startups, spin-offs e empresas com base no conhecimento, consórcio público de inovação e entidades brasileiras do terceiro setor, mediante concessão de recursos financeiros, humanos, materiais ou de infraestrutura a serem ajustados em instrumentos específicos e destinados a apoiar atividades de pesquisa, desenvolvimento e inovação, para atender às prioridades das políticas industrial e tecnológica do município.
+
+
+Art. 14.
+
+O Município de Guaíra poderá celebrar acordos de cooperação, convênios, parcerias estratégicas com instituições públicas e privadas, com ou sem fins lucrativos, para promover e incentivar o desenvolvimento de produtos, serviços e processos inovadores que impactem estrategicamente no ecossistema.
+
+
+§ 1º
+
+São instrumentos de promoção e estímulo à inovação:
+
+
+I –
+
+Subvenção econômica;
+
+
+II –
+
+Financiamento;
+
+
+III –
+
+Participação societária;
+
+
+IV –
+
+Contrato de produtos de soluções inovadoras;
+
+
+V –
+
+Encomenda tecnológica;
+
+
+VI –
+
+Incentivos fiscais;
+
+
+VII –
+
+Concessão de bolsas;
+
+
+VIII –
+
+Uso do poder de compra públicas;
+
+
+IX –
+
+Fundos de investimentos;
+
+
+X –
+
+Fundos de participação;
+
+
+XI –
+
+Títulos financeiros, incentivados ou não;
+
+
+XII –
+
+Criação de sanbox regulatórios para áreas específicas.
+
+
+§ 2º
+
+O Município poderá utilizar mais de um instrumento de estímulo à inovação a fim de conferir efetividade aos programas de inovação em empresas.
+
+
+Art. 15.
+
+O município poderá criar e apoiar, a implantação e a consolidação de ambientes promotores da inovação, incluídos pré-incubadoras, incubadoras, aceleradoras de empresas, parques e polos tecnológicos como forma de incentivar o desenvolvimento tecnológico, o aumento da competitividade e a interação entre as empresas e as ICTs.
+
+
+§ 1º
+
+Os ambientes promotores de inovação previstos no caput deste artigo poderão apoiar o criador e inventor independente, startups, spin-offs e empresas com base no conhecimento, como forma de incentivar o desenvolvimento tecnológico, o fomento de novos negócios e o aumento da competitividade;
+
+
+§ 2º
+
+As pré-incubadoras, incubadoras, aceleradoras de empresas, os parques e polos tecnológicos e os demais ambientes promotores da inovação estabelecerão suas regras para fomento, concepção e desenvolvimento de projetos em parceria e para seleção de empresas para ingresso nesses ambientes.
+
+
+§ 3º
+
+Para os fins previstos no caput, o município poderá:
+
+
+I –
+
+utilizar para seus projetos ou autorizar o uso de imóveis para a instalação e a consolidação de ambientes promotores da inovação, diretamente às empresas e às ICTs interessadas ou por meio de entidade com ou sem fins lucrativos que tenha por missão institucional a gestão de parques e polos tecnológicos e de pré-incubadoras, incubadoras, aceleradoras de empresas, mediante contrapartida obrigatória, financeira ou não financeira, na forma de regulamento;
+
+
+II –
+
+participar da criação e da governança das entidades gestoras de parques tecnológicos, de pré-incubadoras, incubadoras, aceleradoras de empresas, ou outros ambientes de inovação, desde que adotem mecanismos que assegurem a segregação das funções de financiamento e de execução.
+
+
+Art. 16.
+
+Os órgãos e entidades da Administração Pública Municipal poderão promover inovação colaborativa no serviço público, voltados à resolução de problemas concretos pertinentes à Administração Pública Municipal, por meio de startups e empresas com base no conhecimento, relativo a produtos, design, serviços e processos inovadores comprovados ou em desenvolvimento, na forma estabelecida pela legislação federal, LC 182/2021 (art. 12, 13, 14, 15).
+
+
+Art. 17.
+
+O Poder Público Municipal poderá alocar, em seu orçamento, recursos para a operação e manutenção de ambientes promotores de inovação, inclusive, espaços maker, coworkings, pré-incubadoras, incubadoras, aceleradoras, e centros de inovação e tecnologia.
+
+
+Art. 18.
+
+O município poderá, mediante contrapartida financeira ou não, e por prazo determinado, nos termos de contrato ou convênio:
+
+
+I –
+
+compartilhar seus laboratórios, equipamentos, instrumentos, materiais e demais instalações com ICT ou empresas em ações voltadas à inovação tecnológica para consecução das atividades de incubação, sem prejuízo de sua atividade finalística;
+
+
+II –
+
+permitir a utilização de seus laboratórios, equipamentos, instrumentos, materiais e demais instalações existentes em suas próprias dependências por ICT, empresas ou pessoas físicas voltadas a atividades de pesquisa, desenvolvimento e inovação, desde que tal permissão não interfira diretamente em sua atividade-fim nem com ela conflite;
+
+
+III –
+
+permitir o uso de seu capital intelectual em projetos de pesquisa, desenvolvimento e inovação.
+
+
+Parágrafo único
+
+O compartilhamento e a permissão de que tratam os incisos I e II do caput obedecerão às prioridades, aos critérios e aos requisitos aprovados e divulgados pelo município, observadas as respectivas disponibilidades e assegurada a igualdade de oportunidades a pessoas físicas, empresas e demais organizações interessadas.
+
+
+#### CAPÍTULO VII — DA CONTRATAÇÃO PÚBLICA DE SOLUÇÕES INOVADORAS
+
+
+Art. 19.
+
+As licitações e os contratos a que se refere este Capítulo encontram amparo na Lei Complementar Federal n° 182/2021, suas alterações e/ou substituições.
+
+
+#### CAPÍTULO VIII — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 20.
+
+Para a consecução dos objetivos de que trata esta Lei, o Município poderá celebrar instrumentos jurídicos apropriados, inclusive convênios e contratos, com órgãos da Administração direta ou indireta, federal, estadual e municipal bem como, com organismos internacionais, instituições de pesquisa, instituições de ensino, fundações de apoio às instituições de ensino, entidades privadas sem fins lucrativos de apoio ao empreendedorismo e inovação, entidades empresariais, instituições de fomento, investimento ou financiamento.
+
+
+Art. 21.
+
+Na aplicação do disposto nesta Lei, serão observadas as seguintes diretrizes:
+
+
+I –
+
+Assegurar tratamento diferenciado, favorecido e simplificado às microempresas e às empresas de pequeno porte;
+
+
+II –
+
+Promover a simplificação dos procedimentos para gestão dos projetos de ciência, tecnologia e inovação e do controle por resultados em sua avaliação.
+
+
+Art. 22.
+
+As regulamentações desta lei, quando necessárias, serão publicadas via decreto do Poder Executivo Municipal.
+
+
+Art. 23.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 19 de novembro de 2025.
+
+***GILEADE GABRIEL OSTI***
+
+Prefeito Municipal
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

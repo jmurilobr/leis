@@ -1,0 +1,603 @@
+---
+titulo: "Resolução-CMEPF nº 2, de 15 de dezembro de 2022"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "2"
+data: "2022-12-15"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/2087"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/1756/text"
+sha256_fonte: "e2ba19121fdc0506770256f4c70dd4694078946bb9ed60cde65c7d049021d19f"
+sha256_texto: "aac86506b76a20f309db503368d12cdd3942d472d9255d86c900a66be2cb2aa4"
+capturado_em_fonte: "2026-10-28T10:43:52.382176-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Resolução-CMEPF nº 2, de 15 de dezembro de 2022
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Este Código estabelece os princípios éticos e as regras básicas de decoro que devem orientar a conduta dos que estejam no exercício do cargo de vereador.
+
+
+Parágrafo único
+
+Regem-se também por este Código o procedimento disciplinar e as penalidades aplicáveis no caso de descumprimento das normas relativas ao decoro parlamentar.
+
+
+Art. 2º.
+
+As imunidades, prerrogativas e franquias asseguradas pela Constituição, pelas leis e pelo Regimento Interno aos vereadores são institutos destinados à garantia do exercício do mandato popular e à defesa do Poder Legislativo.
+
+
+#### CAPÍTULO II — DOS DEVERES FUNDAMENTAIS
+
+
+Art. 3º.
+
+São deveres fundamentais do vereador:
+
+
+I –
+
+promover a defesa do interesse público e da soberania nacional;
+
+
+II –
+
+respeitar e cumprir a Constituição, a Lei Orgânica, as leis e as normas internas da Casa;
+
+
+III –
+
+zelar pelo prestígio, aprimoramento e valorização das instituições democráticas e representativas e pelas prerrogativas do Poder Legislativo;
+
+
+IV –
+
+exercer o mandato com dignidade e respeito à coisa pública e à vontade popular, agindo com boa-fé, zelo e probidade;
+
+
+V –
+
+apresentar-se à Câmara durante as sessões legislativas ordinárias e extraordinárias e participar das sessões do Plenário e das reuniões de comissão de que seja membro;
+
+
+VI –
+
+examinar todas as proposições submetidas a sua apreciação e voto sob a ótica do interesse público;
+
+
+VII –
+
+tratar com respeito e independência os colegas, as autoridades, os servidores da Casa e os cidadãos com os quais mantenha contato no exercício da atividade parlamentar, não prescindindo de igual tratamento;
+
+
+VIII –
+
+prestar contas do mandato à sociedade, disponibilizando as informações necessárias ao seu acompanhamento e fiscalização;
+
+
+IX –
+
+respeitar as decisões legítimas dos órgãos da Casa.
+
+
+#### CAPÍTULO III — DOS ATOS INCOMPATÍVEIS COM O DECORO PARLAMENTAR
+
+
+Art. 4º.
+
+Constituem procedimentos incompatíveis com o decoro parlamentar, puníveis com a perda do mandato:
+
+
+I –
+
+abusar das prerrogativas constitucionais e previstas na Lei Orgânica asseguradas aos membros desta Casa, bem como cometer crime previsto na legislação e que fira o decoro e/ou a ética parlamentar, ser condenado por crime com decisão transitada em julgado, ou condenado em segunda instância por ato de improbidade administrativa;
+
+
+II –
+
+perceber, a qualquer título, em proveito próprio ou de outrem, no exercício da atividade parlamentar, vantagens indevidas, nos termos legais;
+
+
+III –
+
+celebrar acordo que tenha por objeto a posse do suplente, condicionando-a a contraprestação financeira ou à prática de atos contrários aos deveres éticos ou regimentais dos vereadores;
+
+
+IV –
+
+fraudar, por qualquer meio ou forma, o regular andamento dos trabalhos legislativos para alterar o resultado de deliberação;
+
+
+V –
+
+omitir intencionalmente informação relevante, ou, nas mesmas condições, prestar informação falsa nas declarações de que trata o art. 17.
+
+
+#### CAPÍTULO IV — DOS ATOS ATENTATÓRIOS AO DECORO PARLAMENTAR
+
+
+Art. 5º.
+
+Atentam, ainda, contra o decoro parlamentar as seguintes condutas, puníveis na forma deste Código:
+
+
+I –
+
+perturbar a ordem das sessões da Câmara ou das reuniões de comissão;
+
+
+II –
+
+praticar atos que infrinjam as regras de boa conduta nas dependências da Casa;
+
+
+III –
+
+praticar ofensas físicas ou morais nas dependências da Câmara ou desacatar, por atos ou palavras, outro parlamentar, a Mesa ou comissão, ou os respectivos Presidentes;
+
+
+IV –
+
+usar os poderes e prerrogativas do cargo para constranger ou aliciar servidor, colega ou qualquer pessoa sobre a qual exerça ascendência hierárquica, com o fim de obter qualquer espécie de favorecimento;
+
+
+V –
+
+revelar conteúdo de debates ou deliberações que a Câmara ou comissão hajam resolvido que devam ficar secretos;
+
+
+VI –
+
+revelar informações e documentos oficiais de caráter reservado, de que tenha tido conhecimento na forma regimental;
+
+
+VII –
+
+usar verbas de gabinete em desacordo com os princípios fixados no caput do art. 37 da Constituição Federal;
+
+
+VIII –
+
+relatar matéria submetida à apreciação da Câmara, de interesse específico de pessoa física ou jurídica que tenha contribuído para o financiamento de sua campanha eleitoral;
+
+
+IX –
+
+fraudar, por qualquer meio ou forma, o registro de presença às sessões, ou às reuniões de comissão.
+
+
+Parágrafo único
+
+As condutas puníveis neste artigo só serão objeto de apreciação mediante provas.
+
+
+Art. 6º.
+
+Ao Conselho de Ética e Decoro Parlamentar compete:
+
+
+I –
+
+zelar pela observância dos preceitos deste Código, atuando no sentido da preservação da dignidade do mandato parlamentar na Câmara de Vereadores;
+
+
+II –
+
+processar os acusados nos casos e termos previstos no art. 12;
+
+
+III –
+
+instaurar o processo disciplinar e proceder a todos os atos necessários à sua instrução, nos casos e termos do art. 13;
+
+
+IV –
+
+responder às consultas da Mesa, de comissões e de vereadores sobre matérias de sua competência;
+
+
+V –
+
+organizar e manter o Sistema de Acompanhamento e Informações do Mandato Parlamentar, nos termos do art. 16.
+
+
+Art. 7º.
+
+O Conselho de Ética e Decoro Parlamentar compõe-se de três membros titulares com mandato de dois anos.
+
+
+§ 1º
+
+Na representação numérica dos partidos e blocos parlamentares será atendido o princípio da proporcionalidade partidária, desde que possível, devendo, na designação dos vereadores que vão integrar o Conselho, ser observado o Regimento Interno e demais leis sobre o tema.
+
+
+§ 2º
+
+Não poderá ser membro do Conselho o vereador:
+
+
+I –
+
+submetido a processo disciplinar em curso, por ato atentatório ou incompatível com o decoro parlamentar;
+
+
+II –
+
+que tenha recebido, na legislatura, penalidade disciplinar de suspensão de prerrogativas regimentais ou de suspensão temporária do exercício do mandato, e da qual se tenha o competente registro nos anais ou arquivos da Casa.
+
+
+§ 3º
+
+O recebimento de representação contra membro do Conselho por infringência dos preceitos estabelecidos por este Código, com prova inequívoca da verossimilhança da acusação, constitui causa para seu imediato afastamento da função, a ser aplicado de ofício por seu presidente, devendo perdurar até decisão final sobre o caso.
+
+
+Art. 8º.
+
+O Conselho de Ética e Decoro Parlamentar respeitará as previsões constantes na Lei Orgânica, no Regimento Interno e demais normas pertinentes a sua atuação.
+
+
+Parágrafo único
+
+O Conselho observará as disposições regimentais relativas ao funcionamento das comissões da Casa, inclusive no que diz respeito à eleição de seu presidente e designação de relatores.
+
+
+#### CAPÍTULO V — DAS PENALIDADES APLICÁVEIS E DO PROCESSO DISCIPLINAR
+
+
+Art. 9º.
+
+São as seguintes as penalidades aplicáveis por conduta atentatória ou incompatível com o decoro parlamentar:
+
+
+I –
+
+censura, verbal ou escrita;
+
+
+II –
+
+suspensão de prerrogativas regimentais;
+
+
+III –
+
+suspensão temporária do exercício do mandato;
+
+
+IV –
+
+perda do mandato.
+
+
+Parágrafo único
+
+Na aplicação das penalidades serão consideradas a natureza e a gravidade da infração cometida, os danos que dela provierem para a Câmara, as circunstâncias agravantes ou atenuantes e os antecedentes do infrator.
+
+
+Art. 10.
+
+A censura verbal será aplicada, pelo Presidente da Câmara, em sessão, ou de comissão, durante suas reuniões, ao vereador que incidir nas condutas descritas nos incisos I e II do art. 5º.
+
+
+Parágrafo único
+
+Contra a aplicação da penalidade prevista neste artigo poderá o vereador recorrer ao respectivo Plenário.
+
+
+Art. 11.
+
+A censura escrita será aplicada pela Mesa, por provocação do ofendido, nos casos de incidência na conduta do inciso III do art. 5º, ou, por solicitação do Presidente da Câmara ou de comissão, nos casos de reincidência nas condutas referidas no art. 10.
+
+
+Art. 12.
+
+A suspensão de prerrogativas regimentais será aplicada pelo Plenário da Câmara dos Vereadores, por proposta do Conselho de Ética e Decoro Parlamentar, ao vereador que incidir nas vedações dos incisos VI a VIII do art. 5º, observado o seguinte:
+
+
+I –
+
+qualquer cidadão é parte legítima para representar junto à Mesa da Câmara dos Vereadores, especificando os fatos e respectivas provas;
+
+
+II –
+
+recebida representação nos termos do inciso I, verificadas a existência dos fatos e respectivas provas, a Mesa a encaminhará ao Conselho, cujo presidente instaurará o processo, designando relator;
+
+
+III –
+
+instaurado o processo, o Conselho promoverá a apuração sumária dos fatos, assegurando ao representado ampla defesa e providenciando as diligências que entender necessárias, no prazo de trinta dias;
+
+
+IV –
+
+o Conselho emitirá, ao final da apuração, parecer concluindo pela improcedência ou procedência da representação, e determinará seu arquivamento ou proporá a aplicação da penalidade de que trata este artigo; neste caso, o parecer será encaminhado à Mesa para as providências referidas na parte final do inciso IX do § 4º do art. 13;
+
+
+V –
+
+são passíveis de suspensão as seguintes prerrogativas:
+
+
+a)
+
+usar a palavra, em sessão, no horário destinado ao Expediente;
+
+
+b)
+
+encaminhar discurso para publicação no Diário da Câmara;
+
+
+c)
+
+candidatar-se a, ou permanecer exercendo, cargo de membro da Mesa ou de presidente ou vice-presidente de comissão;
+
+
+d)
+
+ser designado relator de proposição em comissão ou no Plenário;
+
+
+VI –
+
+a penalidade aplicada poderá incidir sobre todas as prerrogativas referidas no inciso V, ou apenas sobre algumas, a juízo do Conselho, que deverá fixar seu alcance tendo em conta a atuação parlamentar pregressa do acusado, os motivos e as conseqüências da infração cometida;
+
+
+VII –
+
+em qualquer caso, a suspensão não poderá estender-se por mais de seis meses.
+
+
+Art. 13.
+
+A aplicação das penalidades de suspensão temporária do exercício do mandato, de no máximo trinta dias, e de perda do mandato são de competência do Plenário da Câmara dos Vereadores, que deliberará em escrutínio secreto e por maioria absoluta de seus membros, por provocação da Mesa ou de partido político representado no Legislativo, por representação ou provocação dirigida a Mesa Diretora ou ao Presidente da Casa, após processo disciplinar instaurado pelo Conselho de Ética e Decoro Parlamentar, na forma deste artigo.
+
+
+§ 1º
+
+Será punível com a suspensão temporária do exercício do mandato o deputado que incidir nas condutas descritas nos incisos IV, V e IX do art. 5º e com a perda do mandato o vereador que incidir nas condutas descritas no art. 4º.
+
+
+§ 2º
+
+Poderá ser apresentada, à Mesa, representação popular, ou oriunda de autoridade pública contra vereador por procedimento punível na forma deste artigo.
+
+
+§ 3º
+
+A Mesa não poderá deixar de conhecer representação apresentada nos termos do § 2º, devendo sobre ela emitir parecer fundamentado, determinando seu arquivamento ou o envio ao Conselho de Ética e Decoro Parlamentar para a instauração do competente processo disciplinar, conforme o caso.
+
+
+§ 4º
+
+Recebida representação nos termos deste artigo, o Conselho observará o seguinte procedimento:
+
+
+I –
+
+o presidente, sempre que considerar necessário, designará três de seus membros para compor subcomissão de inquérito destinada a promover as devidas apurações dos fatos e das responsabilidades;
+
+
+II –
+
+constituída ou não a subcomissão referida no inciso anterior, será remetida cópia da representação ao deputado acusado, que terá o prazo de cinco sessões ordinárias para apresentar sua defesa escrita e indicar provas;
+
+
+III –
+
+esgotado o prazo sem apresentação de defesa, o presidente nomeará defensor dativo para oferecê-la, reabrindo-lhe igual prazo;
+
+
+IV –
+
+apresentada a defesa, o relator da matéria ou, quando for o caso, a subcomissão de inquérito, procederá às diligências e à instrução probatória que entender necessárias, findas as quais proferirá parecer no prazo de cinco sessões ordinárias da Câmara, concluindo pela procedência da representação ou por seu arquivamento, oferecendo, na primeira hipótese, projeto de resolução destinado à declaração da suspensão ou perda do mandato;
+
+
+V –
+
+o parecer do relator ou da subcomissão de inquérito, quando for o caso, será submetido à apreciação da comissão, considerando-se aprovado se obtiver a maioria absoluta dos votos de seus membros;
+
+
+VI –
+
+a rejeição do parecer originariamente apresentado obriga à designação de novo relator, preferencialmente entre aqueles que, durante a discussão da matéria, tenham se manifestado contrariamente à posição do primeiro;
+
+
+VII –
+
+a discussão e a votação de parecer nos termos deste artigo serão abertas;
+
+
+VIII –
+
+da decisão do Conselho que contrariar norma constitucional, regimental ou deste Código, poderá o acusado recorrer à Comissão de Constituição, Justiça e Redação, que se pronunciará exclusivamente sobre os vícios apontados;
+
+
+IX –
+
+concluída a tramitação no Conselho de Ética, ou na Comissão de Constituição, Justiça e Redação, na hipótese de interposição de recurso nos termos do inciso VIII, o processo será encaminhado à Mesa e, uma vez lido no expediente, publicado e distribuído em avulsos para inclusão na Ordem do Dia.
+
+
+Art. 14.
+
+É facultado ao vereador, em qualquer caso, constituir advogado para sua defesa, ou fazê-la pessoalmente, em todas as fases do processo, inclusive no Plenário da Câmara.
+
+
+Parágrafo único
+
+Quando a representação apresentada contra vereador for considerada leviana ou ofensiva à sua imagem, bem como à imagem da Câmara, os autos do processo respectivo serão encaminhados à Procuradoria, para que tome as providências reparadoras de sua alçada, nos termos regimentais.
+
+
+Art. 15.
+
+Os processos instaurados pelo Conselho de Ética e Decoro Parlamentar não poderão exceder o prazo de sessenta dias para sua deliberação pelo Plenário, nos casos das penalidades previstas nos incisos I, II e III do art. 9º.
+
+
+§ 1º
+
+O prazo para deliberação do Plenário sobre os processos que concluírem pela perda do mandato, prevista no inciso IV do art. 9º, não poderá exceder noventa dias.
+
+
+§ 2º
+
+Em qualquer das hipóteses previstas neste artigo, a Mesa terá o prazo de dois dias, improrrogável, para incluir o processo na pauta da Ordem do Dia, sobrestando todas as demais matérias, exceto as previstas na Lei Orgânica. Í
+
+
+#### CAPÍTULO VI — DO SISTEMA DEACOMPANHAMENTO E INFORMAÇÕES DO MANDATO PARLAMENTAR
+
+
+Art. 16.
+
+O Conselho de Ética e Decoro Parlamentar deverá organizar e manter o Sistema de Acompanhamento e Informações do Mandato Parlamentar, mediante a criação de arquivo individual para cada vereador, onde constem os dados referentes:
+
+
+I –
+
+ao desempenho das atividades parlamentares, e em especial sobre:
+
+
+a)
+
+cargos, funções ou missões que tenha exercido no Poder Executivo, na Mesa, em comissões ou em nome da Casa durante o mandato;
+
+
+b)
+
+número de presenças às sessões ordinárias, com percentual sobre o total;
+
+
+c)
+
+número de pronunciamentos realizados nos diversos tipos de sessões da Câmara;
+
+
+d)
+
+número de pareceres que tenha subscrito como relator;
+
+
+e)
+
+relação das comissões e subcomissões que tenha proposto ou das quais tenha participado;
+
+
+f)
+
+número de propostas de emendas à Lei Orgânica, projetos, emendas, indicações, requerimentos, recursos, pareceres e propostas de fiscalização e controle;
+
+
+g)
+
+número, destinação e objetivos de viagens oficiais ao exterior realizadas com recursos do poder público;
+
+
+h)
+
+licenças solicitadas e respectiva motivação;
+
+
+i)
+
+votos dados nas proposições submetidas à apreciação, pelo sistema nominal, na legislatura;
+
+
+j)
+
+outras atividades pertinentes ao mandato, cuja inclusão tenha sido requerida pelo vereador;
+
+
+II –
+
+à existência de processos em curso, ou ao recebimento de penalidades disciplinares, por infração aos preceitos deste Código.
+
+
+Parágrafo único
+
+Os dados de que trata este artigo serão armazenados por meio de sistema de processamento eletrônico, ficando à disposição dos cidadãos através da Internet ou outras redes de comunicação similares, podendo ainda ser solicitados diretamente à secretaria do Conselho de Ética e Decoro Parlamentar.
+
+
+#### CAPÍTULO VII — DAS DECLARAÇÕES OBRIGATÓRIAS
+
+
+Art. 17.
+
+O vereador apresentará à Mesa ou, no caso do inciso III deste artigo, quando couber, à comissão, as seguintes declarações:
+
+
+I –
+
+ao assumir o mandato, para efeito de posse, e noventa dias antes das eleições, no último ano da legislatura, declaração de bens e rendas, incluindo todos os passivos de sua responsabilidade de valor igual ou superior à sua remuneração mensal como vereador;
+
+
+II –
+
+até o trigésimo dia seguinte ao encerramento do prazo para entrega da declaração do imposto de renda das pessoas físicas, cópia da declaração feita ao Tesouro;
+
+
+III –
+
+durante o exercício do mandato, em comissão ou em Plenário, ao iniciar-se a apreciação de matéria que envolva direta e especificamente seus interesses patrimoniais, declaração de impedimento para votar.
+
+
+§ 1º
+
+As declarações referidas nos incisos I e II deste artigo serão autuadas em processos devidamente formalizados e numerados seqüencialmente, fornecendo-se ao declarante comprovante da entrega, mediante recibo em segunda via ou cópia da mesma declaração, com indicação do local, data e hora da apresentação.
+
+
+§ 2º
+
+Uma cópia das declarações de que trata o parágrafo anterior será encaminhada ao Tribunal de Contas do Estado do Rio de Janeiro.
+
+
+§ 3º
+
+Os dados referidos nos parágrafos anteriores terão, na forma da Constituição Federal (art. 5º, XII), o respectivo sigilo resguardado, podendo, no entanto, a responsabilidade pelo mesmo ser transferida para o Conselho de Ética e Decoro Parlamentar, quando este os solicitar, mediante aprovação do respectivo requerimento pela sua maioria absoluta, em votação nominal.
+
+
+§ 4º
+
+Os servidores que, em razão de ofício, tiverem acesso às declarações referidas neste artigo ficam obrigados a resguardar e preservar o sigilo das informações nelas contidas, nos termos legais.
+
+
+#### CAPÍTULO VIII — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 18.
+
+Aprovado este Código, a Mesa organizará a distribuição das vagas do Conselho de Ética e Decoro Parlamentar entre os partidos e blocos parlamentares com assento na Casa, e convocará as lideranças a indicarem os vereadores das respectivas bancadas para integrar o Conselho, nos termos do art. 7º.
+
+
+Parágrafo único
+
+Os mandatos dos membros indicados na forma deste artigo estender-se-ão, excepcionalmente, até o início da sessão legislativa seguinte.
+
+
+Art. 20.
+
+Os projetos de resolução destinados a alterar o presente Código obedecerão às normas de tramitação do Regimento Interno.
+
+
+Plenário Jauldo Gomes Balthazar
+
+
+Engenheiro Paulo de Frontin, 15 de dezembro de 2022.
+
+
+JULIO CESAR DA SILVA SERENO
+
+
+Presidente
+

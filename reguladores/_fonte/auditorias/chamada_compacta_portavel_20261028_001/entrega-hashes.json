@@ -1,0 +1,154 @@
+{
+  "sha256_lista": "546fe66eb5cb380b9646584e534f6291c17ca19e4d2897b9d19fefd5e5084001",
+  "novos_canonicos": 0,
+  "arquivos": [
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_portavel_20261028_001/replay8000.py",
+      "sha256": "2767a640b9fd6e294b6ea1bef0f400a493dcd51cded1d7abd416f2104f9844de"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_portavel_20261028_001/manifesto8000.json",
+      "sha256": "18e6142f39f3df44aecc8fd5f05c0e76a85b69e88a75d1c050b4ac12d162730d"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_portavel_20261028_001/corpus8000-parte001.jsonl.gz",
+      "sha256": "ad6ae63195c8583dd90ffc829f009c4e9aa509b55a66b5b40b35d83472fb2d18"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_portavel_20261028_001/congelar.log",
+      "sha256": "732daff19a5fc3d21f56c4c076dd17c1419308794ab98e2a49fb6b34a6a5692c"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_portavel_20261028_001/replay.log",
+      "sha256": "2403536832e115542602ee06fa67d95df8b2bb240577bec844f1462da5d2be50"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_portavel_20261028_001/LEIA.md",
+      "sha256": "9c86d52eb50e1c4e27f7faa1c7f9f1b3a94d749d4b76b917186e1f15376c5a37"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_portavel_20261028_001/congelar_corpus.py",
+      "sha256": "912d7bb8e08c1a127f2b19d89a09fe177dc211d07898b2fa42dc4cb68549e1ad"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_portavel_20261028_001/replay_final.log",
+      "sha256": "2403536832e115542602ee06fa67d95df8b2bb240577bec844f1462da5d2be50"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/integridade_html_federal.py",
+      "sha256": "70945b86695a163f233875e23e01bf5f9c02a01dae6c4949dbda37b3b496214d"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/gate_orgao.py",
+      "sha256": "0e0a4cc73c5e9cc830b3a066acd723cad5f53665d955b149b6b47ad1f9158cce"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/comum.py",
+      "sha256": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/comparadores_HTML5_snapshot.py",
+      "sha256": "4e21696107ff467d34f7d4bf6b77ee4837f80d244e90fe689447caf58c33b2d9"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/identidade_decreto.py",
+      "sha256": "c7fd847bad0ae3a3432f43f0f4a5568f8236f61833aff514945d5eeafa6e9f94"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/representacao_html_dou_v2.py",
+      "sha256": "2f16eda246d73eb770357ff310e98ffb40a62a2e0519974d5bcf98ffaa440644"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/auditar_cache_dou.py",
+      "sha256": "f7ca46afc626712457a1c13574708718382993e41a1421a4385485fd0fb3ef22"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/auditar.py",
+      "sha256": "a49009efb2d02a3059bf5cbaddc39529c24e2630e377f46cf419c765033ca648"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/baixar_dou.py",
+      "sha256": "6f69c39c2c86116d1ed6ac81a156fba0716f180ef6e502e1c299d81e49cca9ce"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/gates_snapshot.py",
+      "sha256": "84be0cd214b120cb4fcc850f4e59347fdda84bf3e06bd2b4a4fb95e053ff833e"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/html2md.py",
+      "sha256": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/test_identidade_transversal.py",
+      "sha256": "b226e2f827f365720b05204d6c8e1b5a8fa8b90a29b3d07c8a56fe497d182e67"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/css_glifos_DOU_snapshot.py",
+      "sha256": "2a9662fd8607265103e7b8ac8d6a218c3eb4101a6b46cee0a5d483ec07e65834"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/marked-LICENSE.txt",
+      "sha256": "8e3a3f82f59a60958f56ca08f445647c32a4733dc7ca6c2c46f6eb898471ab9c"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/integridade_anexos_decreto.py",
+      "sha256": "e7acf0ce9ada5bb7d0e062dd20afd66724fef43109328046ef519a6e8a23abac"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/representacao_html_dou.py",
+      "sha256": "1ae5cecda55ddd32ab00fdb2598d50b7cd5aeadaad0e0e73d720e4727bf1732d"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/identidade_cross_snapshot.py",
+      "sha256": "51afd44aef6d03b55954556ef82a3ad613756f237a0096057f9a490adc14f8d7"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/test_gate_orgao.py",
+      "sha256": "1c141046eace16d7782afefbb99596603bec353389494d78ac9aad8e3e6b0d89"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/metadados_lotes.py",
+      "sha256": "24e18b063b413a8010cb202d85ff50ab83f738b6e2e34c3a9b76c50728b5ebad"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/marked.esm.mjs",
+      "sha256": "0b4487359ce6b85108708e7a532e1242a27f4718241e7b2de109ac6cd307d2dc"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/epigrafe_tokens_html_privado.py",
+      "sha256": "2097fa8448e087735f04840b751538b05d6eb26b6370f62594246dd25a9e1ded"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/test_epigrafe_tokens_html.py",
+      "sha256": "2a6dc58347c7aa6bc40ffda3e31231607e92a90ce0684ded1d7c28a8895be371"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/pe_fidelidade_visivel.py",
+      "sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/datas.py",
+      "sha256": "0d6cdbc1113d5fe15a471aa8cde3eb1653d1e1484b0904a5a13b9ca10e1349fc"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/gate_chamada_compacta.py",
+      "sha256": "dab2cf45c4b2b9263be4fd6a8a0c29235c2b99d6bfab0c9a95be1ecc745a8937"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/delta8000.json",
+      "sha256": "0bb206b77c3e0cec61a18aa7af9434e69830b44f91825e8ed7972dfe98558813"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/provas_delta8000.jsonl.gz",
+      "sha256": "5e053efd0542871a69a329f074569a24b84f1e824c6af0d3b85f34662be4f1d5"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/controle_MDS43.json.gz",
+      "sha256": "577ca598e842c45be52a46f9f68d54c8eaa173488b791988fd49864c7768654a"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/decisoes_contextuais.json",
+      "sha256": "f7a0c49ba3e39b80d5547b08a2144cdac83f316e4fdbe84a1317c5992cdc6025"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+---
+titulo: "PORTARIA Nº 176, DE 29 DE MARÇO DE 2017"
+orgao: "Ministério dos Transportes, Portos e Aviação Civil/AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES"
+tipo: "Portaria"
+numero: "176"
+data: 2017-03-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 31/03/2017, seção 1, p. 119"
+data_publicacao: 2017-03-31
+edicao: "63"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-176-de-29-de-marco-de-2017-20137496"
+sha256_html_fonte: 3cbab791844968e0b1e0b6503be13009ea92c141ebea2da3a558290f8d39a327
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 176, DE 29 DE MARÇO DE 2017
+
+PORTARIA Nº 176, DE 29 DE MARÇO DE 2017
+
+O DIRETOR-GERAL DA AGÊNCIA NACIONAL DETRANSPORTES TERRESTRES - ANTT, no uso de suas atribuições,fundamentado no art.40 da Resolução ANTT nº 4.770, de 25 de junhode 2015, e no que consta do Processo nº 50500.384083/2016-91,resolve:
+
+**Art. 1º** Emitir a Licença Operacional da empresa GUERINOSEISCENTO TRANSPORTES S/A, para os mercados ASTORGA/PR-OSVALDOCRUZ/SP, ASTORGA/PR-PRESIDENTE PRUDENTE/SP,BELA VISTA DO PARAÍSO/PR-PRESIDENTE PRUDENTE/SP,BELA VISTA DO PARAÍSO/PR-RANCHARIA/SP,CORNÉLIO PROCÓPIO/PR-PEDRINHAS PAULISTA/SP, CURITIBA/PR-PENÁPOLIS/SP,FLORESTÓPOLIS/PR-IACRI/SP, FLORESTÓPOLIS/PR-OSVALDOCRUZ/SP, FLORESTÓPOLIS/PRPRESIDENTEPRUDENTE/SP, IGUARAÇU/PR-BASTOS/SP,IGUARAÇU/PR-IACRI/SP, IGUARAÇU/PR-TUPA/SP, JAGUAPITA/PR-ARAÇATUBA/SP,JAGUAPITA/PR-OSVALDO CRUZ/SP,LONDRINA/PR-IEPÊ/SP, LONDRINA/PR-RANCHARIA/SP, LONDRINA/PR-TARUMA/SP,MANDAGUARI/PR-PRESIDENTE PRUDENTE/SP,MARINGÁ/PR-IACRI/SP, MARINGÁ/PR-MARTINÓPOLIS/SP,MIRASELVA/PR-IEPÊ/SP, MIRASELVA/PR-RANCHARIA/SP,MIRASELVA/PR-TUPA/SP, PORECATU/PR-IACRI/SP,PORECATU/PR-MARTINÓPOLIS/SP, PRADO FERREIRA/PRARAÇATUBA/SP,PRADO FERREIRA/PR-BASTOS/SP, PRADOFERREIRA/PR-MARTINÓPOLIS/SP, PRADO FERREIRA/PR-OSVALDOCRUZ/SP, PRADO FERREIRA/PR-PRESIDENTE PRUDENTE/SP,PRADO FERREIRA/PR-TUPA/SP e SERTANÓPOLIS/PR-FLORÍNIA/SP,disponibilizados na 1ª etapa conforme Deliberaçãon° 224/2016.
+
+**Art. 2º** Alterar a Licença Operacional - LOP nº 082 daGUERINO SEISCENTO TRANSPORTES S/A, para a inclusão destesmercados.
+
+**Art. 3º** Estabelecer que as linhas e seções após alteração daLOP estarão disponíveis no sítio eletrônico da ANTT(www.antt.gov.br).
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+JORGE BASTOS
+
+JORGE BASTOS
+
+Este conteúdo não substitui o publicado na versão certificada.

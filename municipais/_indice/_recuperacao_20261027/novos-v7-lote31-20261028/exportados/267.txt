@@ -1,0 +1,257 @@
+---
+titulo: "Resolução nº 13, de 14 de abril de 2011"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "13"
+data: "2011-04-14"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/462"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1066/text"
+sha256_fonte: "9c73c27861e80a4d3825ccd3ef31f71cf356b0b137e624824b42600efadcf3c1"
+sha256_texto: "be894a9a33e8b86edd9c6855107549018a8220bfd63a33e69dfbe5278de8d4dc"
+capturado_em_fonte: "2026-10-28T11:56:49.560220-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Resolução nº 13, de 14 de abril de 2011
+
+Cria a Ouvidoria Legislativa Municipal na Câmara Municipal de Formosa-GO, e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE FORMOSA, Estado de Goiás, aprovou, e eu, sanciono a seguinte Resolução:
+
+
+Art. 1º.
+
+Fica criada a Ouvidoria Legislativa Municipal na estrutura administrativa da Câmara Municipal de Formosa.
+
+
+Parágrafo único.
+
+A Ouvidoria Legislativa Municipal é um órgão de interlocução entre a Câmara Municipal e a sociedade, constituindo-se em um canal aberto para o recebimento de solicitações, pedidos de informações, reclamações, sugestões, elogios e quaisquer outros encaminhamentos da sociedade, desde que relacionados à Câmara Municipal.
+
+
+Art. 2º.
+
+Compete à Ouvidoria Legislativa Municipal:
+
+
+I –
+
+receber, analisar e encaminhar aos órgãos competentes as manifestações da sociedade que lhe forem dirigidas, em especial aquelas sobre:
+
+
+a)
+
+violação ou qualquer forma de discriminação atentatória dos direitos e liberdades fundamentais;
+
+
+b)
+
+ilegalidades, atos de improbidade administrativa e abuso de poder;
+
+
+c)
+
+mau funcionamento dos serviços legislativos e administrativos da Câmara Municipal;
+
+
+II –
+
+dar prosseguimento às manifestações recebidas;
+
+
+III –
+
+informar o cidadão ou entidade qual o órgão a que deverá dirigir-se, quando manifestações não forem de competência da Ouvidoria Legislativa Municipal;
+
+
+IV –
+
+organizar os mecanismos e canais de acesso dos interessados à Ouvidoria;
+
+
+V –
+
+facilitar o amplo acesso do usuário aos serviços da Ouvidoria, simplificando seus procedimentos e orientando os cidadãos sobre os meios de formalização das mensagens a serem encaminhadas à Ouvidoria Legislativa Municipal;
+
+
+VI –
+
+auxiliar a Mesa Diretora na tomada de medidas para sanar as violações, as ilegalidades e os abusos constatados;
+
+
+VII –
+
+auxiliar a Mesa Diretora na tomada de medidas necessárias à regularidade dos trabalhos legislativos e administrativos;
+
+
+VIII –
+
+acompanhar as manifestações encaminhadas pela sociedade civil à Câmara Municipal;
+
+
+IX –
+
+conhecer as opiniões e necessidades da sociedade para sugerir à Câmara Municipal as mudanças por ela aspiradas;
+
+
+X –
+
+auxiliar na divulgação dos trabalhos da Câmara Municipal, dando conhecimento aos cidadãos dos canais de comunicação e dos mecanismos de participação disponíveis.
+
+
+§ 1º
+
+A Ouvidoria Legislativa Municipal responderá em até 30 dias a contar do seu recebimento, as mensagens que lhes forem enviadas, sendo que esse prazo será de 40 dias quando a demanda necessitar de encaminhamentos ou respostas de outros órgãos. Admitir-se-á prorrogação desse prazo, por mais 20 dias quando a complexidade do caso assim o exigir.
+
+
+§ 2º
+
+Toda iniciativa proposta pela Ouvidoria Legislativa Municipal terá ampla divulgação pelos órgãos de comunicação da Câmara Municipal.
+
+
+Art. 3º.
+
+A Ouvidoria Legislativa Municipal é composta de um Ouvidor, que será designado pelo Presidente da Câmara Municipal dentre os servidores da Casa, com o mandato de 01 ano, admitida sua recondução por mais 01 ano.
+
+
+Parágrafo único.
+
+O Presidente da Câmara poderá designar um Ouvidor Substituto, que assumirá as funções do ouvidor em seus impedimentos e ausências.
+
+
+Art. 4º.
+
+O Ouvidor, no exercício de suas funções, poderá:
+
+
+I –
+
+requisitar informações ou cópias de documentos a qualquer órgão ou servidor da Câmara Municipal;
+
+
+II –
+
+solicitar a qualquer órgão informações e cópias de documentos necessários ao desenvolvimento de suas atribuições regimentais, através da Presidência da Câmara Municipal.
+
+
+Parágrafo único.
+
+O não cumprimento do prazo previsto no parágrafo 1º do Art. 2º deverá ser comunicado ao Presidente da Câmara Municipal.
+
+
+Art. 5º.
+
+A Mesa da Câmara Municipal deverá dar ampla divulgação da existência da Ouvidoria Legislativa Municipal e suas respectivas atividades, por todos os veículos de comunicação existentes ou utilizados pela Casa, em especial através da:
+
+
+I –
+
+divulgação e orientação completa acerca de sua finalidade e forma de utilização;
+
+
+II –
+
+manutenção do link exclusivo da Ouvidoria Parlamentar na página inicial do site da Câmara Municipal em local de fácil visualização;
+
+
+III –
+
+garantia de acesso aos cidadãos à Ouvidoria Legislativa Municipal por meio de canais ágeis e eficazes.
+
+
+Art. 6º.
+
+São atribuições exclusivas do Ouvidor:
+
+
+I –
+
+sugerir, quando cabível, a abertura de sindicância ou inquérito destinado a apurar irregularidades de que tenha conhecimento, ocorridas no interior da Câmara Municipal;
+
+
+II –
+
+solicitar à Presidência da Câmara Municipal o encaminhamento ao Tribunal de Contas do Estado, a Polícia Federal, ao Ministério Público ou órgão competente as denúncias recebidas que necessitem maiores esclarecimentos;
+
+
+III –
+
+solicitar informações quanto ao andamento de procedimentos iniciados por ação da Ouvidoria Legislativa Municipal;
+
+
+IV –
+
+elaborar relatório quadrimestral das atividades da Ouvidoria Legislativa Municipal para encaminhamento à Mesa Diretora da Câmara Municipal e posterior divulgação aos vereadores;
+
+
+V –
+
+elaborar relatório anual de atividades da Ouvidoria Legislativa Municipal, encaminhar cópia do mesmo à Mesa Diretora da Câmara Municipal e disponibilizar sua consulta a qualquer interessado;
+
+
+VI –
+
+incentivar e propiciar aos servidores da Ouvidoria oportunidades de capacitação e aperfeiçoamento para o desenvolvimento das suas atividades;
+
+
+VII –
+
+propor ao Presidente da Câmara Municipal a celebração de convênios com outras pessoas jurídicas de direito público ou privado, relativamente a temas de interesse da Ouvidoria Legislativa Municipal.
+
+
+Parágrafo único.
+
+O cidadão, ao formular sua petição, poderá fazê-lo pessoalmente, por e-mail, fax ou correio.
+
+
+Art. 7º.
+
+De posse de reclamação, o Ouvidor Legislativo Municipal deverá tomar as providências no sentido de sua apuração e encaminhar a sua conclusão a Mesa da Câmara Municipal, visando à solução do problema.
+
+
+Parágrafo único.
+
+O Ouvidor dará satisfação ao cidadão quanto às medidas tomadas.
+
+
+Art. 8º.
+
+A Mesa da Câmara Municipal assegurará à Ouvidoria Legislativa Municipal apoio físico, técnico e administrativo necessários ao desempenho de suas atividades.
+
+
+Art. 9º.
+
+A Mesa Diretora da Câmara Municipal baixará os atos complementares necessários ao desempenho de atividades da Ouvidoria.
+
+
+Art. 10.
+
+Esta Resolução entrará em vigor na data de sua publicação.
+
+
+Gabinete da Presidência da Câmara Municipal de Formosa, 15 de junho de 2011.
+
+Ver. ROGÉRIO DE PAULA MARTINS SILVA
+
+Presidente da Câmara
+
+Ver. NATANAEL CAETANO DO NASCIMENTO
+
+1º Secretário
+
+Registrada as fls. do Livro próprio.  
+Publicado no Placard da Câmara.  
+Data supra.  
+  
+  
+PAULO NATALINO DUTRA  
+Secretário Geral
+

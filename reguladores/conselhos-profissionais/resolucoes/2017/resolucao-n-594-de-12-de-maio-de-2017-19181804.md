@@ -1,0 +1,35 @@
+---
+titulo: "RESOLUÇÃO Nº 594, DE 12 DE MAIO DE 2017"
+orgao: "Entidades de Fiscalização do Exercício das Profissões Liberais/CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DA BAHIA"
+tipo: "Resolução"
+numero: "594"
+data: 2017-05-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/07/2017, seção 1, p. 88"
+data_publicacao: 2017-07-18
+edicao: "136"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-594-de-12-de-maio-de-2017-19181804"
+sha256_html_fonte: a7256dac8175247c0e60d8e187786c60b1114203fcf911e3266198a6994239ac
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO Nº 594, DE 12 DE MAIO DE 2017
+
+RESOLUÇÃO Nº 594, DE 12 DE MAIO DE 2017
+
+Dispõe sobre a Alteração do Regimento Internodo CRCBA.
+
+O PLENÁRIO DO CONSELHO REGIONAL DE CONTABILIDADEDO ESTADO DA BAHIA, no uso de suas atribuiçõeslegais e regimentais; Considerando o que o CONSELHO REGIONALDE CONTABILIDADE DO ESTADO DA BAHIA, possui mais de18.000(dezoito mil) profissionais registrados; Considerando que oatual quantitativo de conselheiros, encontra-se insuficiente par atenderas demandas das atividades desenvolvidas nas diversas áreas de atuaçãodo Sistema CFC/CRC´s; Considerando que o CONSELHO REGIONALDE CONTABILIDADE DO ESTADO DA BAHIA, atendeaos critérios estabelecidos pelo CONSELHO FEDERAL DE CONTABILIDADEpara aumentar o quadro de conselheiros; resolve:
+
+**Art. 1º** - Os art. 2º, 6º, 10, 11, 12, 14, 15, 18, 19, 20, 29, 30,33, 40, 57 e 62, do Regimento Interno do CONSELHO REGIONALDE CONTABILIDADE DO ESTADO DA BAHIA, passam a vigorarcom a seguinte redação: Art. 2º O Conselho Regional de Contabilidadedo Estado da Bahia - CRCBA é constituído por 21 (vinte eum) Conselheiros efetivos e igual número de respectivos suplentes,eleitos na forma da legislação vigente, tendo sede na cidade doSalvador-Bahia e jurisdição, a base territorial do Estado da Bahia.Art. 6º O mandato dos Conselheiros efetivos e suplentes, é de 4(quatro) anos, permitida a reeleição, renovando-se a composição doÓrgão de 2 (dois) em 2 (dois) anos, alternadamente, por 1/3 (umterço) e por 2/3 (dois terços). § 3º Revogado. Art. 10 O CRCBA écomposto de: - Órgãos Deliberativos: Câmara de Administração eFinanças; Órgãos Executivos: b) a Vice-Presidência de Administraçãoe Finanças; d) a Vice-Presidência de Fiscalização, Ética e Disciplina;Art. 11 Presidente e os Vice-presidentes serão eleitos pelo Plenário,com mandato de 2(dois) anos. § 1º O Presidente e os Vice-presidentesde Administração e Finanças, de Fiscalização, Ética e Disciplina,Controle Interno, Desenvolvimento Profissional e Institucional, e Técnica,deverão, obrigatoriamente, serem eleitos dentre os membrosEfetivos da categoria de Contadores que compõem o Plenário. OVice-Presidente de Registro poderá ser eleito dentre os membros dacategoria de Técnicos em Contabilidade e/ou Contadores. Art. 12 ACâmara de Administração e Finanças é integrada pelo Vice-Presidentede Administração e Finanças e de 2 (dois) Conselheiros, com mandatode 2 (dois) anos, coincidente com o do Presidente do CRCBA.Art. 14 A Câmara de Ética e Disciplina é integrada pelo Vice-Presidentede Fiscalização, Ética e Disciplina e 6 (seis) Conselheiros,eleitos pelo Plenário, com mandato de 2 (dois) anos, coincidente como do Presidente do CRCBA. Art. 15 A Câmara de Fiscalização éintegrada pelo Vice-Presidente de Fiscalização, Ética e Disciplina e 6(seis) Conselheiros, eleitos pelo Plenário, com mandato de 2 (dois)anos, coincidente com o do Presidente do CRCBA. Parágrafo Único:Os integrantes da Câmara de Ética e Disciplina, obrigatoriamente,serão os integrantes da Câmara de Fiscalização. Art. 18 A Câmara deDesenvolvimento Profissional e Institucional é integrada pelo VicePresidentede Desenvolvimento Profissional e Institucional e 4 (quatro)Conselheiros, eleitos pelo Plenário, com mandato de 2 (dois)anos, coincidente com o do Presidente do CRCBA. Art. 19 A 1ª(primeira) Câmara de Registro é integrada pelo Vice-Presidente deRegistro e 3 (três) Conselheiros, eleitos pelo Plenário, com mandatode 2 (dois) anos, coincidente com o do Presidente do CRCBA. Art.20 A 2ª (segunda) Câmara de Registro é integrada pelo Vice-Presidentede Registro e 3 (três) Conselheiros, eleitos pelo Plenário, commandato de 2 (dois) anos, coincidente com o do Presidente do CRCBA.Art. 29 Compete ao CRCBA: - Através do Câmara de Administraçãoe Finanças: Art. 30 São atribuições do Presidente: IV proporao Plenário a criação de cargos e funções, a fixação de saláriose a concessão de aumento e gratificações, organizando o respectivoquadro de pessoal, de forma fundamentada e avaliada; a) propor aoPlenário a abertura de créditos especiais e suplementares; b) autorizaro pagamento de despesas e movimentar contas bancárias, assinarcheques ou outra forma eletrônica de pagamento com registro e emissãode comprovante bancário em conjunto com o Vice-Presidente deAdministração e Finanças e/ou com empregado(s) previamente indicado(s),através de portaria para esse fim, podendo estes tambémassinar cheques com o referido Vice-Presidente; c) aprovar a aquisiçãode bens móveis, após parecer da Vice-presidência de Administraçãoe Finanças; d) adotar todas as necessidades para a realizaçãodas finalidades do CRCBA, bem como a sua administração, propondoao Plenário as que estiverem fora de sua alçada; e) apresentar até aprimeira sessão ordinária anterior à data determinada para envio aoCFC, o orçamento e plano de trabalho para o exercício seguinte,visando apreciação do Plenário e aprovação através de Resolução; f)delegar competência, na forma que dispõe o Regimento Interno; g)submeter a aprovação do Plenário, com parecer da Câmara de ControleInterno, os balancetes mensais de receita e despesa, os balançosdo exercício, a prestação de contas e o relatório de gestão; h) baixaros atos que julgar conveniente e oportuno, "ad referendum" do Plenário;i) presidir as sessões do Conselho Diretor. Art. 33 São atribuiçõesdos Vice-presidentes e Conselheiros: - Ao Vice-Presidente deFiscalização, Ética e Disciplina compete: - Ao Vice-Presidente deAdministração e Finanças compete: Art. 40 O Plenário, o TRED e asCâmaras, funcionarão com a presença da maioria absoluta, (metademais um) de seus membros e deliberarão por maioria de votos dospresentes, cabendo ao Plenário decidir os casos de exceção. Art. 57 ÀCâmara de Ética e Disciplina compete julgar os processos abertoscontra Profissionais da Contabilidade, "ad referendum" do TribunalRegional de Ética e Disciplina da Bahia, TRED-BA. Art. 62 O CRCBApoderá ter órgão de publicidade para divulgar os seus atos ematérias relacionadas com suas finalidades, exceto nos casos de publicaçõesobrigatórias na imprensa oficial, conforme disposto em normaespecífica do Conselho Federal de Contabilidade (Resolução CFCnº 1.000/2004 e nº 1.442/2013). Art. 2º - Esta Resolução entra emvigor após homologação pelo CFC e publicação no Diário Oficial doEstado ou da União.
+
+Esta Resolução foi aprovada pela Deliberação CFC 23/2017,de 09 de junho de 2017.
+
+ANTÔNIO CARLOS NOGUEIRA CERQUEIRA  
+Presidente do Conselho
+
+ANTÔNIO CARLOS NOGUEIRA CERQUEIRA
+
+Presidente do Conselho
+
+Este conteúdo não substitui o publicado na versão certificada.

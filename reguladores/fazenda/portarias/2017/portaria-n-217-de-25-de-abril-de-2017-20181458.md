@@ -1,0 +1,60 @@
+---
+titulo: "PORTARIA Nº 217, DE 25 DE ABRIL DE 2017"
+orgao: "Ministério da Fazenda/GABINETE DO MINISTRO"
+tipo: "Portaria"
+numero: "217"
+data: 2017-04-25
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 26/04/2017, seção 1, p. 19"
+data_publicacao: 2017-04-26
+edicao: "79"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-217-de-25-de-abril-de-2017-20181458"
+sha256_html_fonte: f1869eae689d2e9214b808e0eb2b9cd03ba1ca5924f7019236dfe1d9ac67bf61
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 217, DE 25 DE ABRIL DE 2017
+
+PORTARIA Nº 217, DE 25 DE ABRIL DE 2017
+
+O MINISTRO DE ESTADO DA FAZENDA, no uso da atribuição que lhe confere o inciso II do parágrafo único do art. 87 da Constituição, e tendo em vista o disposto no art. 7º, inciso III, do Decreto nº8.961, de 16 de janeiro de 2017, resolve:
+
+**Art. 1º** Detalhar os limites de pagamento de que trata o Anexo II, do Decreto nº 8.961, de 16 de janeiro de 2017, alterado pelo Decreto 9.018, de 30 de março de 2017, na forma dos Anexos I, II e III destaPortaria.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+HENRIQUE DE CAMPOS MEIRELLES
+
+## ANEXO I — LIMITES DE PAGAMENTO RELATIVOS A DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA PARA 2017 E AOS RESTOS A PAGAR
+
+R$ mil
+
+ÓRGÃOS E/OU UNIDADE ORÇAMENTÁRIAS ATÉ ABR ATÉ MAI ATÉ JUN ATÉ JUL ATÉ AGO ATÉ SET ATÉ OUT ATÉ NOV ATÉ DEZ20000 Presidência da República 388.267 475.627 562.987 650.347 737.707 825.067 912.427 999.787 1.087.14722000 Ministério da Agricultura, Pecuária e Abastecimento 226.953 283.332 3 3 9 . 7 11 396.090 452.469 508.848 565.227 621.606 682.61224000 Ministério da Ciência, Tecnologia, Inovações e Comunicações 764.445 910.147 1.055.849 1.201.551 1.347.253 1.492.955 1.638.657 1.784.3591.980.06125000 Ministério da Fazenda 733.703 1.032.499 1.246.324 1.460.149 1.673.974 1.887.799 2.101.624 2.315.449 2.529.27426000 Ministério da Educação 6.548.296 8.324.055 10.099.814 11 . 8 7 5 . 5 7 3 13.651.332 15.427.091 17.202.850 18.978.609 20.699.78028000 Ministério da Indústria, Comércio Exterior e Serviços 108.015 153.394 198.773 244.152 289.531 334.910 380.289 425.668 471.04730000 Ministério da Justiça e Cidadania 707.443 874.836 1.042.229 1.209.622 1.377.015 1.544.408 1 . 7 11 . 8 0 1 1.879.194 2.046.58732000 Ministério de Minas e Ener gia 64.864 81.728 98.592 11 5 . 4 5 6 132.320 149.184 166.048 182.912 198.96435000 Ministério das Relações Exteriores 503.445 613.006 692.567 772.128 851.689 9 11 . 2 5 0 9 7 0 . 8 11 1.030.372 1.089.93336000 Ministério da Saúde 5.673.618 7.668.349 9.663.080 11 . 6 5 7 . 8 11 13.652.542 15.647.273 17.642.004 19.636.735 21.631.47337000 Ministério da Transparência, Fiscalização e Controle 14.096 18.596 23.096 27.596 32.096 36.596 41.096 45.596 50.09639000 Ministério dos Transportes, Portos e Aviação Civil 158.246 199.121 239.996 280.871 321.746 362.621 399.439 434.673 469.90740000 Ministério do Trabalho 11 8 . 7 9 2 142.790 166.788 190.786 214.784 238.782 262.780 286.778 310.77642000 Ministério da Cultura 155.479 187.291 219.103 250.915 282.727 314.539 346.351 378.163 409.97544000 Ministério do Meio Ambiente 11 9 . 6 3 2 143.747 167.862 191.977 216.092 240.207 264.322 288.437 312.55247000 Ministério do Planejamento, Desenvolvimento e Gestão 2 6 4 . 11 0 380.581 497.052 613.523 729.994 846.465 962.936 1.079.407 1.195.87851000 Ministério do Esporte 143.173 171.773 200.373 228.973 257.573 286.173 314.773 343.373 371.97352000 Ministério da Defesa 920.721 1.236.328 1.551.935 1.867.542 2.183.149 2.498.756 2.814.363 3.129.970 3.445.57753000 Ministério da Integração Nacional 310.366 337.743 365.120 392.497 419.874 447.251 474.628 502.005 529.38254000 Ministério do Turismo 67.256 77.256 87.256 97.256 107.256 11 7 . 2 5 6 127.256 137.256 147.25655000 Ministério do Desenvolvimento Social e Agrário 899.471 1 . 0 11 . 1 7 1 1.122.871 1.234.571 1.346.271 1.457.971 1.569.671 1.681.37 11.793.07156000 Ministério das Cidades 58.981 72.839 86.697 100.555 11 4 . 4 1 3 128.271 142.129 155.987 168.92060000 Gabinete da Vice-Presidência da República 547 847 1.147 1.447 1.747 2.047 2.347 2.647 2.72163000 Advocacia-Geral da União 11 3 . 9 6 5 140.465 166.965 193.465 219.965 229.462 238.959 248.456 257.95371000 Encargos Financeiros da União - Demais 60.251 120.251 180.251 240.251 300.251 360.251 420.251 480.251 536.0617 11 0 2 Encar gos Financeiros da União - MPDG 246.000 259.000 272.000 285.000 298.000 3 11 . 0 0 0 324.000 337.000 350.0007 11 0 4 Encargos Financeiros da União - Remun. Agentes Financeiros 248.652 331.652 414.652 497.652 580.652 663.652 746.652 829.652 907.00073000 Transferências a Estados, Distrito Federal e Municípios 8.072 8.622 9.172 9.722 10.272 10.822 11 . 3 7 2 11 . 9 2 2 12.47274000 Operações Oficiais de Crédito - Demais 10.000 20.000 30.000 40.000 50.000 60.000 70.000 80.000 97.73774902 Operações Oficiais de Crédito - FIES 120.000 155.000 190.000 225.000 260.000 295.000 330.000 365.000 400.000
+
+T O TA L 19.756.859 25.432.046 30.992.262 36.552.478 4 2 . 11 2 . 6 9 4 47.635.907 53.155.063 58.672.635 64.186.185
+
+Fontes: Todas as fontes, exceto as fontes 150, 180, 250, 280 e suas correspondentes, resultantes da incorporação de saldos de exercícios anteriores.
+
+## ANEXO II — LIMITES DE PAGAMENTO RELATIVOS A DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA PARA 2017 E AOS RESTOS A PAGAR
+
+R$ mil
+
+ÓRGÃOS E/OU UNIDADE ORÇAMENTÁRIAS ATÉ ABR ATÉ MAI ATÉ JUN ATÉ JUL ATÉ AGO ATÉ SET ATÉ OUT ATÉ NOV ATÉ DEZ20000 Presidência da República 47.129 59.769 72.409 85.049 97.689 11 0 . 3 2 9 122.969 135.609 148.24922000 Ministério da Agricultura, Pecuária e Abastecimento 53.507 68.150 82.793 97.436 11 2 . 0 7 9 126.722 141.365 156.008 170.651
+
+24000 Ministério da Ciência, Tecnologia, Inovações e Comunicações 254.213 3 2 8 . 5 11 402.809 477.107 551.405 625.703 700.001 774.299 848.59725000 Ministério da Fazenda 214.666 282.270 349.874 417.478 485.082 552.686 620.290 687.894 755.49826000 Ministério da Educação 268.565 342.806 417.047 491.288 565.529 639.770 7 1 4 . 0 11 788.252 862.49328000 Ministério da Indústria, Comércio Exterior e Serviços 28.756 36.377 43.998 51.619 59.240 66.861 74.482 82.103 89.72430000 Ministério da Justiça e Cidadania 53.185 65.792 78.399 91.006 103.613 11 6 . 2 2 0 128.827 141.434 154.04132000 Ministério de Minas e Energia 30.828 40.964 51.100 61.236 71.372 81.508 91.644 101.780 111 . 9 1 635000 Ministério das Relações Exteriores 1.419 1.858 2.297 2.736 3.175 3.614 4.053 4.492 4.93136000 Ministério da Saúde 18.685 23.954 29.223 34.492 39.761 45.030 50.299 55.568 60.83039000 Ministério dos Transportes, Portos e Aviação Civil 65.323 86.089 106.855 127.621 148.387 169.153 189.919 210.685 231.45140000 Ministério do Trabalho 70.000 78.002 86.004 94.006 102.008 11 0 . 0 1 0 11 8 . 0 1 2 126.014 134.01642000 Ministério da Cultura 559 747 935 1.123 1 . 3 11 1.499 1.687 1.875 2.06344000 Ministério do Meio Ambiente 38.872 50.757 62.642 74.527 86.412 98.297 11 0 . 1 8 2 122.067 133.95247000 Ministério do Planejamento, Desenvolvimento e Gestão 1.463 2.334 3.205 4.076 4.947 5.818 6.689 7.560 8.43152000 Ministério da Defesa 505.784 627.146 748.508 869.870 991.232 1 . 11 2 . 5 9 4 1.233.956 1.355.318 1.476.68053000 Ministério da Integração Nacional 6.874 9.497 12.120 14.743 17.366 19.989 22.612 25.235 27.85855000 Ministério do Desenvolvimento Social e Agrário 296.749 370.049 443.349 516.649 589.949 663.249 736.549 809.849 883.14956000 Ministério das Cidades 61.864 77.006 92.148 107.290 122.432 137.574 152.716 167.858 183.000
+
+T O TA L 2.018.441 2.552.078 3.085.715 3.619.352 4.152.989 4.686.626 5.220.263 5.753.900 6.287.530
+
+Fontes: 150, 180, 250, 280 e suas correspondentes, resultantes da incorporação de saldos de exercícios anteriores.
+
+## ANEXO III — LIMITES DE PAGAMENTO RELATIVOS AO PROGRAMA DE ACELERAÇÃO DO CRESCIMENTO - PAC - DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA PARA 2017 E AOS RESTOS APA G A R
+
+R$ mil
+
+ÓRGÃOS E/OU UNIDADE ORÇAMENTÁRIAS ATÉ ABR ATÉ MAI ATÉ JUN ATÉ JUL ATÉ AGO ATÉ SET ATÉ OUT ATÉ NOV ATÉ DEZ20000 Presidência da República 13.480 14.920 16.360 17.800 19.240 20.680 2 2 . 11 9 23.558 24.99724000 Ministério da Ciência, Tecnologia, Inovações e Comunicações 294.000 294.000 294.000 3 2 1 . 7 11 349.422 377.133 387.326 397.519 407.71226000 Ministério da Educação 410.000 470.000 530.000 590.000 650.000 710.000 750.000 790.000 830.00032000 Ministério de Minas e Energia 30.348 37.624 44.900 52.176 59.452 66.728 74.004 81.280 88.55636000 Ministério da Saúde 214.866 279.283 343.700 4 0 8 . 11 7 472.534 536.951 587.101 637.251 687.40139000 Ministério dos Transportes, Portos e Aviação Civil 3.074.713 4.001.208 4.899.384 5.769.849 6.640.314 7.510.779 8.228.852 8.946.925 9.664.99442000 Ministério da Cultura 41.000 56.000 71.000 86.000 101.000 11 6 . 0 0 0 124.000 132.000 140.00047000 Ministério do Planejamento, Desenvolvimento e Gestão 260 40.315 40.370 40.425 40.480 40.535 40.590 40.645 40.70051000 Ministério do Esporte 9 1 . 111 92.222 93.333 94.444 95.555 96.666 97.777 98.888 99.99952000 Ministério da Defesa 9 8 5 . 11 7 1.810.234 2.443.736 3.077.238 3.710.740 4.344.242 4.444.242 4.544.242 4.644.24253000 Ministério da Integração Nacional 660.932 860.932 1.060.932 1.260.932 1.460.932 1.660.932 1.801.359 1.941.786 2.082.21354000 Ministério do Turismo 36.749 44.749 52.749 60.749 68.749 76.749 81.137 85.525 89.91355000 Ministério do Desenvolvimento Social e Agrário 37.000 47.000 57.000 67.000 77.000 87.000 97.000 107.000 11 7 . 0 0 056000 Ministério das Cidades 1.302.981 1.836.628 2.630.210 3.423.792 4.217.374 5.010.956 5.419.845 5.828.734 6.237.623
+
+T O TA L 7.192.556 9 . 8 8 5 . 11 4 12.577.673 15.270.232 17.962.791 20.655.350 22.155.350 23.655.350 25.155.350
+
+HENRIQUE DE CAMPOS MEIRELLES
+
+Este conteúdo não substitui o publicado na versão certificada.

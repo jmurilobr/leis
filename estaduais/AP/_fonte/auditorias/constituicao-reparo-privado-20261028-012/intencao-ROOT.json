@@ -1,0 +1,24 @@
+{
+  "tipo": "proposta; ROOT deve revisar e aplicar; não aplicada",
+  "novas_normas": 0,
+  "canonicamente_alterados": 0,
+  "preimagem_OID": "ea3d7922e142915c8c64adffbdd05f9998c2eb73",
+  "preimagem_sha256": "0c7bca53a8d275515f4e1b00fe4dabefe36135fb491f0b314d860ecc25fce96f",
+  "trocas": [
+    {
+      "destino": "estaduais/AP/constituicao/1991/constituicao-ap.md",
+      "preimagem": "estaduais/AP/_fonte/auditorias/HEAD-escopo-20261028-005/blobs/estaduais/AP/constituicao/1991/constituicao-ap.md",
+      "candidato": "estaduais/AP/_fonte/auditorias/constituicao-reparo-privado-20261028-012/candidatos/estaduais/AP/constituicao/1991/constituicao-ap.md",
+      "sha256_candidato": "d8d2add65b4948d4b42d449e43a865cc5a3443854681a111ba6a88724bdeb733",
+      "acao": "Backup por SHA da preimagem real; exigir blob HEAD e disco idênticos antes de substituição atômica exclusiva ROOT."
+    },
+    {
+      "destino": "estaduais/AP/constituicao/1991/anexos/constituicao-ap-compilacao-2025-ec71.pdf",
+      "candidato": "estaduais/AP/_fonte/auditorias/constituicao-reparo-privado-20261028-012/candidatos/estaduais/AP/constituicao/1991/anexos/constituicao-ap-compilacao-2025-ec71.pdf",
+      "sha256": "653e0e3fd73f516ae936d7f27b8cbb09f1d7d91e70bc11f578b203ceda6e3777",
+      "acao": "Criar anexo PDF integral somente se destino ausente; se existente, exigir SHA idêntico. Nenhum recorte."
+    }
+  ],
+  "limites": "Edição oficial compilada de 2025, histórico riscado reconhecível e excluído apenas do recorte editorial explícito; apêndices integrais, zero novas emendas contadas; vigência global2026 não certificada.",
+  "replay_exportado": "estaduais/AP/_fonte/auditorias/constituicao-replay-exportado-20261028-014/recibo.json"
+}

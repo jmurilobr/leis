@@ -1,0 +1,186 @@
+---
+titulo: "Lei Ordinária nº 1.100, de 07 de maio de 1997"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1100"
+data: "1997-05-07"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/1943"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/466/text"
+sha256_fonte: "3f702f162bd9a064d7facdf0b9c848edc7f46b6e84db89285b5de9acfd580387"
+sha256_texto: "6dcd532d7765f67164e0e62bd2fe1f720c6dbc3623e753c59a9bfe454870f659"
+capturado_em_fonte: "2026-10-28T13:34:20.733765-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.100, de 07 de maio de 1997
+
+Dispõe sobre a criação do Fundo Municipal de Desenvolvimento e Conservação Florestal - FUNDEFLOR.
+
+
+A Câmara Municipal de Guaíra, estado do Paraná, aprovou, e eu, Dr. Manoel Kuba, Prefeito Municipal, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica criado no âmbito municipal o Fundo Municipal de Desenvolvimento e Conservação Florestal - FUNDEFLOR, destinado a financiar os programas, projetos e atividades executados no município visando o Desenvolvimento Florestal, a Conservação e Proteção Florestal, a Educação Ambiental, a Preservação e o Combate aos Incêndios Florestais.
+
+
+Art. 2º.
+
+Constituirão recursos do Fundo Municipal de Desenvolvimento e Conservação Florestal - FUNDEFLOR:
+
+
+I –
+
+dotações orçamentárias dos Municípios e créditos adicionais que lhe forem atribuídos:
+
+
+II –
+
+resultado operacional próprio;
+
+
+III –
+
+recursos oriundos de operações de crédito;
+
+
+IV –
+
+recursos provenientes de convênios, contratos e outros ajustes celebrados com instituições públicas ou privadas, estaduais, nacionais ou internacionais;
+
+
+V –
+
+arrecadação proveniente de cobrança de taxas;
+
+
+VI –
+
+recursos oriundos da comercialização de mudas de essências florestais;
+
+
+VII –
+
+recursos oriundos da comercialização de matéria prima florestal proveniente da poda e corte de árvores da arborização urbana, hortos e florestas de produção municipais e outros;
+
+
+VIII –
+
+recursos oriundos de repasses financeiros provenientes do Sistema Estadual de Reposição Florestal Obrigatória;
+
+
+IX –
+
+produto das multas aplicadas em razão das infrações de caráter florestal e/ou ambiental;
+
+
+X –
+
+recursos oriundos de doações da pessoas físicas e/ou jurídicas, nacionais ou internacionais;
+
+
+XI –
+
+recursos oriundos de repasses na participação do ICMS ecológico;
+
+
+XII –
+
+outros recursos a ele destinados, compatíveis com suas finalidades.
+
+
+Art. 3º.
+
+Fica criada a Comissão Florestal Municipal no âmbito do Poder Executivo Municipal destinada a analisar e aprovar anualmente as contas do Fundo Municipal de Desenvolvimento e Conservação Florestal - FUNDEFLOR, e avaliar e/u readequar anualmente o Projeto Florestal Municipal.
+
+
+§ 1º
+
+A Comissão Florestal Municipal será constituída por:
+
+
+I –
+
+um representante do Poder Executivo;
+
+
+II –
+
+um representante do Poder Legislativo:
+
+
+III –
+
+um representante do IAP;
+
+
+IV –
+
+um representante do Ministério Público;
+
+
+V –
+
+um representante da EMATER;
+
+
+VI –
+
+um representante dos consumidores de matéria prima de origem florestal;
+
+
+VII –
+
+um representante da ITAIPU Binacional.
+
+
+§ 2º
+
+A Comissão Florestal Municipal, presidida pelo representante do Poder Executivo, será regulamentada e constituída por indicação do Prefeito através do Decreto Municipal.
+
+
+Art. 4º.
+
+Os recursos do Fundo Municipal de Desenvolvimento e Conservação Florestal - FUNDEFLOR, se destinam a financiar a execução das ações definidas no Programa Florestas Municipais no âmbito do Município através do Projeto Florestal Municipal, tendo como órgão executor a Secretaria Municipal de Agricultura e Meio Ambiente ouvida a Comissão Florestal Municipal.
+
+
+Art. 5º.
+
+Os recursos financeiros aportados ao Fundo Municipal de Desenvolvimento e Conservação Florestal - FUNDEFLOR, serão depositados no Banco do Estado do Paraná, em conta bancária específica denominada CONTA FUNDEFLOR a ser aberta e indicada pelo Poder Executivo.Municipal e a ser movimentada por Secretaria Municipal da Fazenda obedecido o plano de aplicação e em consonância com as disposições desta lei.
+
+
+§ 1º
+
+O Fundo Municipal de Desenvolvimento e Conservação Florestal FUNDEFLOR, poderá ser operado com varias contas bancárias, conforme a necessidade determinada pelas fontes.
+
+
+§ 2º
+
+A aprovação das contas do Fundo Municipal de Desenvolvimento e Conservação Florestal FUNDEFLOR, pela Comissão Florestal Municipal não ex ia sua obrigação perante o Tribunal de Contas competente.
+
+
+Art. 6º.
+
+Fica o Prefeito Municipal autorizado a abrir, por decreto, um crédito adicional especial até o valor de R$ 6.000,00 destinado ao FUNDEFLOR - Fundo Municipal e Desenvolvimento e Conservação Florestal.
+
+
+Art. 7º.
+
+Esta lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Edifício da Prefeitura Municipal de Guaíra, 07 de maio de 1997.  
+  
+DR. MANOEL KUBA  
+PREFEITO MUNICIPAL.
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

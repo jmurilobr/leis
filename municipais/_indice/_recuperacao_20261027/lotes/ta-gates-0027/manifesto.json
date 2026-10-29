@@ -1,0 +1,51 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 2000,
+  "aprovados_nestes_gates": 662,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0027/sapl.engenheiropaulodefrontin.rj.leg.br.prefixo.jsonl",
+      "sha256": "cc932187170e88d452293e02a3e6eebc3b4d17845b995776ff4c8880ed4cab87",
+      "bytes": 2138026
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0027/sapl.engenheiropaulodefrontin.rj.leg.br.tipos.json",
+      "url": "https://sapl.engenheiropaulodefrontin.rj.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "c7b2c14b43c3d60cf19217f47aad30bb8b0fff3964c79f12c05b7e6daf05fc94"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0027/sapl.engenheiropaulodefrontin.rj.leg.br.anexos.json",
+      "sha256": "2e5f01111b6b3ae535b041c4eb8f02c46b1743263c346025314b4dcd7031441d"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0027/sapl.fernao.sp.leg.br.prefixo.jsonl",
+      "sha256": "e701a7735a182fd1858d19bead43260a9dc8fafadb031becdf5970ad836fb018",
+      "bytes": 3428960
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0027/sapl.fernao.sp.leg.br.tipos.json",
+      "url": "https://sapl.fernao.sp.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "53fadaabc0b88fd3d901edf13778cdc434fa1c70a327166b04ebd1e42141ef94"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0027/sapl.fernao.sp.leg.br.anexos.json",
+      "sha256": "e22092556d7b762167afec82e34247ae39d01dd3827d0babc6fedcffdc5f85ee"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0027/sapl.formosa.go.leg.br.prefixo.jsonl",
+      "sha256": "e822c9e5f76cbac38cd3d0fe10ea1e3e9d37a49931ed2db3c4a957792618a7c3",
+      "bytes": 1169276
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0027/sapl.formosa.go.leg.br.tipos.json",
+      "url": "https://sapl.formosa.go.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "29dc0d94137aba1af54249808ce584f5ee07c34d47f8767281042f93ab39eaf2"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0027/sapl.formosa.go.leg.br.anexos.json",
+      "sha256": "76f0c4859418f13104f1739412ffb0015355b7b9789149237640646aa1957b0e"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

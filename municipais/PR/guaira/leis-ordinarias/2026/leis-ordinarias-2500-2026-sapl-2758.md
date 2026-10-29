@@ -1,0 +1,61 @@
+---
+titulo: "Lei Ordinária nº 2.500, de 15 de setembro de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2500"
+data: "2026-09-15"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2758"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/1097/text"
+sha256_fonte: "88c0a3b49c955f7a96f91c33c140f993dba41720013efaa1e2721a05f3f9188c"
+sha256_texto: "98e4b710f388751f469d99f9a0f9c91db7d2450c285b91316fc78a535cbf43b2"
+capturado_em_fonte: "2026-10-28T13:05:11.529066-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.500, de 15 de setembro de 2026
+
+Altera a Lei Orçamentária Anual - LOA 2026 (Lei Municipal 2.446 de 05/12/2025) e ajusta as programações estabelecidas no PPA - Plano Plurianual - 2026 a 2029 (Lei Municipal nº 2444 de 05/12/2025) e na LDO - Lei de Diretrizes Orçamentárias (Lei Municipal nº 2445 de 05/12/2025), para criação de dotação por REDUÇÃO, no valor de R$ 5.000,00 (cinco mil reais), e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a abrir no Orçamento Geral do Município de Guaíra – LOA (Lei (2446 de 05/12/2025) para o exercício de 2026, Crédito Adicional Especial no valor de R$ 5.000,00 (cinco mil reais), utilizando como recurso, a redução de dotação existente no exercício de 2026, nos termos do art. 43, § 1º, inciso I, da Lei Federal nº 4320/64, conforme detalhamento abaixo:
+
+
+<table><tbody><tr><td><p><strong>Órgão:</strong></p></td><td colspan="3"><p><strong>04 - Secretaria Municipal de Tecnologia e Sistemas de Informação</strong></p></td></tr><tr><td><p><strong>Unidade:</strong></p></td><td colspan="3"><p><strong>004 - Diretoria de Projetos, Desenvolvimento e Inovação</strong></p></td></tr><tr><td><p><strong>Programa:</strong></p></td><td colspan="3"><p><strong>0004 - GESTÃO DA POLÍTICA DE TECNOLOGIA DA INFORMAÇÃO</strong></p></td></tr><tr><td><p><strong>Função</strong></p></td><td colspan="3"><p><strong>0004 - Administração</strong></p></td></tr><tr><td><p><strong>Subfunção</strong></p></td><td colspan="3"><p><strong>0126 - Tecnologia da Informação</strong></p></td></tr><tr><td><p><strong>Atividade</strong></p></td><td colspan="3"><p><strong>2020 - MANUTENÇÃO DAS ATIVIDADES DE PROJETOS, DESENVOLVIMENTO E INOVAÇÃO</strong></p></td></tr><tr><td><p><strong>Ref.</strong></p></td><td><p><strong>Modalidade de Aplicação</strong></p></td><td><p><strong>Vínculo</strong></p></td><td><p><strong>Valor R$</strong></p></td></tr><tr><td><p> </p></td><td><p>3339031000000000000 - Premiações culturais, artísticas, científicas, desportivas e outras</p></td><td><p>505</p></td><td><p>5.000,00</p></td></tr><tr><td colspan="3"><p><strong>TOTAL</strong></p></td><td><p><strong>5.000,00</strong></p></td></tr></tbody></table>
+
+
+Art. 2º.
+
+Em decorrência da abertura do crédito adicional especial de que trata esta Lei, ficam reajustadas as programações estabelecidas no Plano Plurianual PPA 2026-2029 (Lei Municipal 2444 de 05/12/2025) e na Lei das Diretrizes Orçamentárias LDO 2026 (Lei Municipal 2445 de 05/12/2025).
+
+
+Art. 3º.
+
+Os recursos necessários para a abertura do Crédito Adicional Especial serão gerados pela redução da seguinte dotação da LOA vigente para o exercício de 2026 (Lei nº 2446 de 05/12/2025):
+
+
+<table><tbody><tr><td><p><strong>Órgão:</strong></p></td><td colspan="3"><p><strong>04 - Secretaria Municipal de Tecnologia e Sistemas de Informação</strong></p></td></tr><tr><td><p><strong>Unidade:</strong></p></td><td colspan="3"><p><strong>004 - Diretoria de Projetos, Desenvolvimento e Inovação</strong></p></td></tr><tr><td><p><strong>Programa:</strong></p></td><td colspan="3"><p><strong>0004 - GESTÃO DA POLÍTICA DE TECNOLOGIA DA INFORMAÇÃO</strong></p></td></tr><tr><td><p><strong>Função</strong></p></td><td colspan="3"><p><strong>0004 - Administração</strong></p></td></tr><tr><td><p><strong>Subfunção</strong></p></td><td colspan="3"><p><strong>0126 - Tecnologia da Informação</strong></p></td></tr><tr><td><p><strong>Atividade</strong></p></td><td colspan="3"><p><strong>2020 - MANUTENÇÃO DAS ATIVIDADES DE PROJETOS, DESENVOLVIMENTO E INOVAÇÃO</strong></p></td></tr><tr><td><p><strong>Ref.</strong></p></td><td><p><strong>Modalidade de Aplicação</strong></p></td><td><p><strong>Vínculo</strong></p></td><td><p><strong>Valor R$</strong></p></td></tr><tr><td><p>212</p></td><td><p>3339040000000000000 - Serviços de tecnologia da informação e comunicação - pessoa jurídica</p></td><td><p>505</p></td><td><p>5.000,00</p></td></tr><tr><td colspan="3"><p><strong>TOTAL</strong></p></td><td><p><strong>5.000,00</strong></p></td></tr></tbody></table>
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 15 de setembro de 2026.
+
+***GILEADE GABRIEL OSTI***
+
+Prefeito Municipal
+

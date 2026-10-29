@@ -1,0 +1,72 @@
+---
+titulo: "PORTARIA Nº 4, DE 19 DE MAIO DE 2017"
+orgao: "Ministério do Meio Ambiente/INSTITUTO CHICO MENDES DE CONSERVAÇÃO DA BIODIVERSIDADE/COORDENAÇÃO REGIONAL DA 4ª REGIÃO EM BELÉM"
+tipo: "Portaria"
+numero: "4"
+data: 2017-05-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 12/07/2017, seção 1, p. 93"
+data_publicacao: 2017-07-12
+edicao: "132"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-4-de-19-de-maio-de-2017-19170497"
+sha256_html_fonte: 07406afac619b96fd0246a4f1f6344342520936aa8267ebe4dcf8be8956c9bd1
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 4, DE 19 DE MAIO DE 2017
+
+PORTARIA Nº 4, DE 19 DE MAIO DE 2017
+
+Renova a portaria e modifica a composiçãodo Conselho Deliberativo da Reserva ExtrativistaMarinha de Soure no estado doPará (Processo SEI nº 02122.000475/2017-00)
+
+O COORDENADOR REGIONAL DO INSTITUTO CHICOMENDES DE CONSERVAÇÃO DA BIODIVERSIDADE - INSTITUTOCHICO MENDES, tendo em vista o disposto na Lei n°11.516, de 28 de agosto de 2007, e no uso das atribuições que lhe sãoconferidas pela Instrução Normativa ICMBio n° 09, de 05 de dezembrode 2014,Considerando o disposto na Lei no 9.985, de 18 dejulho de 2000, que institui o Sistema Nacional de Unidades de Conservaçãoda Natureza - SNUC, bem como no Decreto no 4.340, de 22de agosto de 2002, que a regulamenta;Considerando o Plano EstratégicoNacional de Áreas Protegidas - PNAP, instituído pelo Decreton° 5.758/2006, que prevê como estratégias para aprimorar oplanejamento e a gestão do SNUC, o estabelecimento e a promoçãodo funcionamento dos conselhos das unidades de conservação, bemcomo o apoio à participação efetiva dos representantes das comunidadeslocais nos conselhos;Considerando o Decreto n° 8.243/2014,que instituiu a Política Nacional de Participação Social - PNPS;Considerandoo Decreto s/n, de 22 de novembro de 2001, que criou aReserva Extrativista Marinha de Soure;Considerando a Portaria IBAMAnº 76/2003, que criou o Conselho Deliberativo da Reserva ExtrativistaMarinha de Soure;Considerando a Instrução NormativaICMBio nº 09, de 5 de dezembro de 2014, que disciplina as diretrizes,normas e procedimentos para a formação, implementação emodificação na composição de Conselhos Gestores de Unidades deConservação Federais;Considerando as proposições apresentadas pelaCoordenação Regional n° 04, do Instituto Chico Mendes, no ProcessoSEI nº 02122.000475/2017-00,
+
+R E S O L V E:
+
+**Art. 1o** O Conselho Deliberativo da Reserva Extrativista Marinhade Soure é composto por setores representativos do Poder Públicoe da Sociedade Civil, considerando as peculiaridades regionais eobservando-se o critério de paridade, na forma seguinte:
+
+I - ÓRGAÕS PÚBLICOS:
+
+a) Órgãos públicos ambientais, dos três níveis da federação;e
+
+b) Órgãos do Poder Público de áreas afins dos três níveis daFederação.
+
+II - INSTITUIÇÕES DE ENSINO, PESQUISA E EXTENSÃO:
+
+a)Universidades.
+
+III - COMUNIDADES LOCAIS/BENEFICIÁRIOS DAUNIDADE DE CONSERVAÇÃO:
+
+a) Associações Comunitárias; e
+
+b) Associações de Base Extrativista.
+
+IV -COLEGIADOS E ORGANIZAÇÕES NÃO GOVERNAMENTAIS:
+
+a)Organizações não governamentais;
+
+b) Organizações religiosas; e
+
+c) Organizações representantes de Populações Tradicionais.
+
+**§1º** O quantitativo de vagas e a relação das instituiçõesrepresentantes de cada setor são aqueles definidos pelo Conselho,observando-se o critério de paridade, devidamente registrados em atade reunião e homologados pelo Coordenador Regional competente doInstituto Chico Mendes.
+
+**§2º** As futuras modificações do quantitativo de vagas e darelação das instituições representativas dos setores serão definidaspelo Conselho e submetidas pelo chefe da Reserva Extrativista Marinhade Soure ao Coordenador Regional competente do InstitutoChico Mendes, para análise e homologação.
+
+**Art. 2º** O Conselho Deliberativo será presidido pelo chefe ouresponsável institucional da Reserva Extrativista Marinha de Soureque indicará seu suplente.
+
+**Art. 3o** A modificação na composição dos setores representadosno Conselho Deliberativo será decidida em reunião específica,com o devido registro em ata, com vistas à publicação de novaportaria.
+
+**Art. 4o** As atribuições, a organização e o funcionamento doConselho Deliberativo da Reserva Extrativista Marinha de Soure sãoprevistas no seu regimento interno.
+
+**Art. 5°** O Conselho elaborará o seu Plano de Ação e avaliaráa efetividade de seu funcionamento.
+
+**Parágrafo único.** O Plano de Ação e o resultado da avaliaçãodo Conselho devem ser enviados à Coordenação Geral de GestãoSocioambiental para fins de acompanhamento.
+
+**Art. 6o** Esta portaria entra em vigor na data de sua publicação.
+
+FERNANDO BARBOSA PEÇANHA JUNIOR
+
+FERNANDO BARBOSA PEÇANHA JUNIOR
+
+Este conteúdo não substitui o publicado na versão certificada.

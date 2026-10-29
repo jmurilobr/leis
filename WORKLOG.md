@@ -2158,3 +2158,87 @@ ROOT conferiu o raw histórico de27/10 localizado no disco pelo SHA79c0e373... r
 ### 2026-10-28 — 472 leis do Tocantins com edição e contexto conferidos
 
 ROOT repetiu76 testes do perfil004/promotor001, replay integral472/472, dry-run e aplicação exclusiva com backups e dedup integral dos2.971 blobs TO no HEAD. São468 leis ordinárias e4 complementares, com fontes PDF completas, captura real, corpo inteiro preformatado e metadados conservadores. Gates suplementares conferem epígrafe inicial, promulgação/fecho únicos, atos secundários, anotações e aprovação de documentos próprios; rótulo de edição descreve o PDF capturado sem certificar DOE ou vigência. ROOT inspecionou18 páginas de8 atos: todas as4 LC, três leis de4 páginas e Lei3.136. Pontilhados das citações de redações alteradas, valores e listas preservados; nenhuma emenda. Este lote não contém operador de recorte; demais proteções gráficas e de ocultação permanecem cumulativas. Os912 retidos continuam com motivos/fontes, incluindo LC82/2012 pela sequência literal Art1→Art3, sem presumir omissão. Metas preservadas.
+
+### 2026-10-28 — 63 leis do Tocantins com edições históricas explícitas
+
+ROOT repetiu88 testes do perfil006/promotor001, replay integral63/63, dry-run e aplicação exclusiva com backup/dedup do HEAD atual. São62 leis ordinárias e LC28/2001, 22 PDFs com notas editoriais literais identificados como edição histórica anotada, sem inferir revogada/situação. Notas e corpo integral permanecem no PDF e preformatado. Gramática sucessora reconhece Art1.º, fecho ao1ºdia, capítulos preliminares e promulgação legislativa com data/identidade exatas, sem mudar fontes. ROOT inspecionou25 páginas de11 atos, incluindo LC28/1126 com6 páginas,1226 com4, fórmulas legislativas1178/1265,1354 com assinatura na segunda folha e1461 com citações pontilhadas. Dezoito fontes possuem recortes demonstrados geometricamente com margem conservadora; demais gates gráficos/ocultação cumulativos. Quatro recursos2401/2402 permanecem retidos para cotejo, sem contar IDs como novas normas;1.701 retidos preservados. Nota de revogação de1354 consta só no cartão e terá observação específica atribuída sem emendar o PDF. Metas inalteradas.
+
+### 2026-10-28 — diferença entre cartão ALETO e PDF da Lei1.354/2002
+
+ROOT conferiu o overlay de uma observação atribuída: a ementa literal do cartão oficial informa revogação pela Lei1.719/2006, enquanto o PDF integral capturado não contém essa nota. Texto do catálogo reextraído da fonte HTML congelada e provas preservadas. Dry-run e aplicação por preimagem com backup/journal passaram. ROOT comprovou que todo o cabeçalho anterior e o corpo/H1 permanecem byte idênticos: somente observacao_edicao foi acrescentada. Situação/revogada continuam null; não se inferiu estado jurídico atual nem se alterou o PDF. Zero normas novas; metas preservadas.
+
+### 2026-10-28 — 352 normas municipais com baseline de36.293 documentos
+
+ROOT repetiu replayV3 integral352/352 no overlay atualizado, conferiu SHA/tamanho de3.024 artefatos e repetiu dedup por URL/IBGE/rota/tipo/número/ano sem colisões. Baseline efetivo tem36.293 canônicos: todos os blobs foram lidos integralmente por OID para conferir tamanho, SHA e cabeçalho completo, conjunto exato do HEAD e delta municipal vazio. Zero reservas acrescentadas. Os seis controles de publicação do pacote anterior omitidos do overlay foram preservados adicionalmente pelo ROOT; fontes e candidatos compartilhados não mudaram. Recibo ROOT identifica explicitamente baseline/confronto efetivos, mantendo campos históricos dos manifestos anteriores intactos. Fontes HTML/API, V3 por caracteres/números/tachados, CSS/glifos, tabelas e exportações preservados. Somente352 novos canônicos entram; componentes futuros não são contados. Vigência/CSS externo não certificados e metas preservadas.
+
+Verificação final do índice: formato sem erros/avisos; 6.324 quebras de exatamente dois espaços e704 finais vazios comprovados por SHA em corpos, transcrições e exportações preservados. Nenhuma outra classe de whitespace dispensada.
+
+### 2026-10-28 — 1.591 normas DOU de2017 após dedup transversal
+
+Primeira parte de5.769 selecionados sucessores (1.591/2.034/2.144), sem somar componentes antigos. ROOT repetiu21 testes e replay portátil integral5.769/5.769 em CommonMark/GFM/HTML5, texto/pontuação/números/listas/tabelas, metadados/epígrafe/dispositivo e CSS/glifos. Ficaram fora71 alertas de órgão/corpo e80 identidades já federais, sem sobreposição; nenhum órgão, corpo ou data foi corrigido. ROOT conferiu o índice federal completo189.008 e os16.915 fallbacks por OID/SHA/cabeçalho;174.393 têm chave e14.615 sem chave permanecem reservados, sem alegar dedup universal. Validação HEAD264.620 reguladores/federal sem colisões dos5.769, fontes integrais dos151 retidos e preimagens/OIDs dos80 duplicados preservadas. Apenas1.591 MD preexistentes entram neste commit; demais partes ficam para commits próprios. Fonte2017 encerrou com4 erros: não se afirma cobertura anual, CSS externo ou vigência. Capturas reais27/28 preservadas e autoria dos preexistentes não atribuída à qualificação. Preflight atual provou delta federal/reguladores vazio e todos1.591 destinos ausentes do HEAD. Metas inalteradas.
+
+Verificação final do índice: formato1.591 sem erros/avisos;603 hardbreaks de exatamente dois espaços comprovados por SHA nos MDs, inclusive assinaturas e linhas tipográficas das fontes. Nenhuma outra classe de whitespace dispensada.
+
+### 2026-10-28 — segunda parte DOU2017: 2.034 normas
+
+Segunda parte da seleção sucessora de5.769 já aprovada no replay integral ROOT e21 testes. Preflight por OID/SHA confirmou que o delta canônico desde a validação integral consiste exatamente nos1.591 já publicados, sem mudança federal nem remoções/modificações. Os2.034 novos destinos estão ausentes do HEAD e disjuntos; exclusões de71 alertas e80 duplicatas federais permanecem. Fontes e recibos comuns estão no primeiro commit; não há nova captura, alteração de corpo ou certificação de vigência. Metas preservadas.
+
+Índice2034: zero erros/avisos de formato;781 hardbreaks de exatamente dois espaços comprovados por SHA, nenhum final vazio e nenhuma outra classe dispensada.
+
+### 2026-10-28 — terceira parte DOU2017: 2.144 normas
+
+Terceira e última parte da seleção sucessora5.769, aprovada integralmente pelo ROOT em21 testes e dois motores/HTML5. Delta conferido por OID/SHA: os3.625 canônicos acrescentados são exatamente as partes1.591+2.034, sem remoções/modificações nem delta federal. Todos2.144 destinos restantes ausentes e disjuntos. Nenhuma alteração de órgão/corpo/data;71 alertas e80 duplicatas federais continuam fora. Fontes integrais e controles comuns preservados no primeiro commit. Ano2017 com4 erros de coleta: não se declara cobertura anual completa, CSS externo ou vigência. Metas inalteradas.
+
+Índice2144: zero erros/avisos de formato;523 hardbreaks de exatamente dois espaços comprovados por SHA, sem dispensar outra classe.
+
+### 2026-10-28 — agregado municipal de1.010 novas normas
+
+ROOT repetiu V3 integral1.010/1.010 sobre8.535 artefatos, zero problemas. Conferiu conjunto exato36.645 canônicos HEAD e leu todos por OID para validar SHA/tamanho/cabeçalho integral:36.293 da origem e352 anteriormente reservados agora publicados byte idênticos. Dedup repetida por identidade/URL/IBGE/rota sem colisões e1.010 destinos ausentes. Manifestos históricos e fontes HTML/API/CSS/glifos/tachados/exportações preservados; reserva352 reconciliada explicitamente, sem reescrever baseline. Componentes208/182/271/349 não publicados separadamente, lotes526futuros não contados neste commit. Metas preservadas; vigência/CSS externo não certificados.
+
+Índice1.010: zero erros/avisos de formato; 17208 quebras de exatamente dois espaços e 2020 finais vazios comprovados por SHA nos dados preservados, nenhuma outra classe dispensada.
+
+### 2026-10-28 — 580 decretos federais com fontes integrais
+
+ROOT repetiu8 regressões de limites e5 testes de segurança, replay portátil integral580/580, dry-run e aplicação exclusiva com backups/intenção/journal. Fontes HTML e respostas API integrais congeladas com CRC/SHA; comparadores CommonMark/GFM/HTML5 e CSS/glifos, identidade e fecho principal controlados. Destinos ausentes por path e número/ano no HEAD;579 representações Markdown e1 HTML. Dos2.000 resultados,1.420 permanecem fora, incluindo62 contextuais finais e demais retenções preservadas. Guard87 ativo sem redução dos gates; notas de ilegível/contexto histórico não reconstruídas. Captura real28/10 e autoria ROOT da aplicação preservadas. Mapas congelados e controles de portabilidade mantidos; metas inalteradas e sem certificação geral de vigência.
+
+### 2026-10-28 — agregado municipal de526 novas normas
+
+ROOT repetiu V3 integral526/526 e conferiu todos4.519 artefatos por SHA/tamanho. Leu integralmente os37.655 canônicos HEAD por OID para conferir SHA/tamanho/cabeçalho e conjunto exato:36.645 existentes na captura do baseline e1.010 anteriormente reservados agora publicados byte idênticos. Dedup atual sem colisões;526 destinos ausentes, disjuntos do agregado1.010. Os componentes241+285 não são publicados separadamente. Fontes HTML/API, CSS/glifos, exportações e prova de tachado preservados; baselines históricos intactos e reconciliação explícita. Demais candidatos futuros não contados. Vigência/CSS externo não certificados; metas inalteradas.
+
+Índice526: zero erros/avisos de formato; 6536 quebras de exatamente dois espaços e 1052 finais vazios comprovados por SHA nos dados preservados, nenhuma outra classe dispensada.
+
+### 2026-10-28 — 44 leis do Tocantins verificadas no perfil008
+
+ROOT repetiu97 testes, replay integral44/44, dry-run e aplicação exclusiva com backup/journal e dedup dos3.506 blobs TO integrais do HEAD. São30 leis ordinárias e14 complementares, com PDF digital integral e metadados conservadores. ROOT viu10 páginas de6 atos, conferindo os PDFs ao cache/SHA: LC105 republicada integral com nota de correção material, Lei1140 com3 páginas incluindo assinatura isolada, LC35/25 completas2p cada e Lei3239/1148 com notas de ADI/revogação. Notas e pontilhados preservados; catálogo e PDF distinguidos por observacao_edicao literal quando aplicável. Edição histórica capturada, sem certificar redação original, DOE ou vigência atual. Retidos1.647 preservados; metas inalteradas.
+
+### 2026-10-28 — 12 leis do Tocantins com edição anotada explícita
+
+ROOT repetiu100 testes, replay integral12/12, dry-run e aplicação exclusiva com backup/journal. São9 leis ordinárias e3 complementares. ROOT viu9 páginas de4 atos e conferiu PDF/cache/SHA: Lei1155 conserva notas que substituem arts1–7, sem reconstruir a redação original suprimida;1147 mantém arts1/3 e notas no art2; LC78 conserva art2-A e nota da LC82; LC103 inteira5p mantém citações/pontilhados e erro de numeração VI repetido na fonte. Corpo integral preformatado representa a edição efetivamente capturada, sem certificar íntegra original ou vigência atual. Metadados situação/revogada conservadores, sem inferir revogação integral a partir de notas ou tachados. Metas preservadas.
+
+### 2026-10-28 — agregado municipal de579 novas normas
+
+ROOT repetiu V3 integral579/579 e conferiu5.076 artefatos por SHA/tamanho. Baseline efetivo38181 canônicos HEAD, todos lidos integralmente por OID/SHA/tamanho/cabeçalho, com conjunto exato. As reservas históricas, inclusive1.010+526 já publicados, somam zero novas entradas no baseline; reconciliação explícita e sem reescrever manifestos anteriores. Dedup atual sem colisões e579 destinos ausentes. Componentes82+199+196+102 não publicados separadamente. Fontes HTML/API,26 tabelas, CSS/glifos e exportação preservados. Não se certifica vigência ou CSS externo, nem se contam lotes futuros. Metas inalteradas.
+
+Índice579: zero erros/avisos de formato; 27748 quebras de exatamente dois espaços e 1158 finais vazios comprovados por SHA nos dados preservados, nenhuma outra classe dispensada.
+
+### 2026-10-28 — 674 decretos federais com fontes e contexto conferidos
+
+ROOT repetiu8 testes de limites e5 de segurança, replay portátil674/674, dry-run e aplicação exclusiva com backups/fontes/intenção/journal. Dedup no HEAD por destino e número/ano sem colisões; fontes completas HTML/API em gzip com CRC/SHA, dois motores/HTML5/CSS e fecho principal controlados. São671 representações Markdown e3 HTML normativos. De2.000 resultados,1.326 retidos preservados, incluindo109 contextuais finais disjuntos:100 cláusulas/estatutos,5 projetos/plantas,2 CSS/glifos e2 séries. ROOT leu integralmente os controles10.552 com plano textual completo de uniformes e10.878 com comando/fecho próprios; nenhuma reconstrução dos objetos técnicos retidos. Marcador literal ilegível10.084 continua retido; guard87 intacto, sem máscaras automáticas ou redução de gates. Capturas reais28/10 preservadas; metas inalteradas e sem certificar vigência atual.
+
+Índice674: formato sem erros/avisos; três cópias SHA-idênticas de uma quebra de exatamente dois espaços antes da continuação da assinatura do tabelião11016 preservadas (canônico, candidato e backup). Nenhum final vazio ou outra classe de whitespace dispensada.
+
+### 2026-10-28 — 572 decretos federais com fontes integrais
+
+ROOT repetiu8 testes de limites e5 de segurança, replay portátil572/572, dry-run e aplicação exclusiva com backups/fontes/intenção/journal. Dedup contra HEAD já contendo674 anteriores: destinos e número/ano sem colisões. De2.000 resultados,1.961 fontes e25 APIs sem encoding preservadas,14 falhas registradas;572 selecionados566Markdown+6HTML normativos,1.428 retidos. Dos590 candidatos básicos,18 contextuais ficaram fora:8 projetos/plantas,8 societários e2 séries legislativas ambíguas. Fontes integrais HTML/API em gzip com CRC/SHA; dois motores/HTML5/CSS e fecho principal conferidos. Capturas reais28/10 preservadas. Guard87 intacto, sem máscaras automáticas, reconstrução de objetos ou certificação de vigência atual. Metas inalteradas.
+
+Índice572: formato sem erros/avisos;24 hardbreaks correspondentes a8 quebras de exatamente dois espaços nos títulos/legendas de5 documentos, com três cópias SHA-idênticas e mesmas linhas (canônico/candidato/backup). Nenhum final vazio ou outra classe dispensada.
+
+### 2026-10-28 — sete pendências individuais de integralidade técnica
+
+ROOT leu integralmente os7 MDs HEAD e os7 conteúdos visíveis HTML do inventário045, conferiu blobs/OIDs/SHA e fontes completas, e confirmou que nenhum estava no registro7630. Foram acrescentadas7 pendências individuais: quatro plantas atuais não representadas (45663/47891/48951/48954), projeto próprio42214 (quadro de custos não representa projeto), desenhos/especificações/modelo47962 e orçamento47069 em dúvida contextual explícita (tabela de fundos não certifica o orçamento). Retificações, áreas, valores, divergências literais e fechos preservados byte idênticos; zero canônicos editados/removidos e zero normas novas. Não se afirma inexistência dos objetos em outras fontes nem causa no conversor. Registro7630→7637 com preimagem/proposta comprimidas, fontes e parecer por caso; todas7630 entradas anteriores preservadas. Testes existentes do registro e revalidação somente leitura passaram; nenhuma máscara automática do inventário634. Metas preservadas; os7 deixam a contagem de integralidade até fonte complementar.
+
+### 2026-10-28 — Constituição do Amapá: histórico tachado restaurado
+
+ROOT conferiu68 artefatos e repetiu o inventário geométrico das271 páginas do PDF oficial SHA653e0e3...,17 testes e4cruzamentos CommonMark/GFM×lxml/HTML5lib. São1.508 faixas físicas,71.055 caracteres/posições exatos e448 segmentos del. Todos caracteres/espaços e ancestralidade de negrito/links/listas preservados; remover somente del reconstitui o corpo anterior byte idêntico. Apêndices147–271 preservados e não contados como71 novos atos; PDF integral local acrescentado. ROOT viu16 páginas, cobrindo15 perfis, continuidade10–11, risco final144 e limites146–148/271;15 dessas imagens conferem pixel a pixel com renderização própria do PDF. Ponto da101 com86,9% de caixa nominal conferido em contexto, sem recorte. Aplicação exclusiva por OID/preimagem/backup e escrita atômica, sem reconstruir redações. Recorte editorial explícito do corpo principal não tachado separa o histórico da compilação2025/EC71, sem certificar vigência global2026 ou inferir revogação integral. Captura antiga13/10 limitada a data; recaptura28/10comHTTP200 byte idêntica preservada. README passa a identificar CF como texto compilado com edição/data no cabeçalho. Zero normas novas, metas intactas.
+
+Ordem de trabalho atual, conforme orientação do usuário: concluir frentes não municipais primeiro; cliente municipal suspenso reversivelmente, com filas/artefatos preservados.

@@ -1,0 +1,84 @@
+{
+  "arquivos_proprios": [
+    {
+      "path": "reguladores/_fonte/auditorias/dou2017_selecao3059_20261028_001/manifesto3059.json",
+      "sha256": "8ad9db14bdbca9c2a631732e2523a10dbfe6c3dd223a165e971b618f56cc92fe"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou2017_selecao3059_20261028_001/replay3059.py",
+      "sha256": "43a79b4f52e07a0b1fb8e7b58be39f6d1458abbedd6f3f7f76938baac5ffca21"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou2017_selecao3059_20261028_001/validar3059_HEAD.py",
+      "sha256": "2ad62aa48e9851f16957b7ebe12f4886a83f765db9ca8c0ce3034c388a0a843c"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou2017_selecao3059_20261028_001/controles_chamada_compacta.json",
+      "sha256": "0fad7cb21b90e0ed9bb735d5028842f8119147d9af83a689dda871eaa9e097db"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/gate_chamada_compacta.py",
+      "sha256": "dab2cf45c4b2b9263be4fd6a8a0c29235c2b99d6bfab0c9a95be1ecc745a8937"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/test_chamada_compacta.py",
+      "sha256": "d4cc7ebe0575ce33804e5178664943e9a53ff2624492990e37dc3d0e97fdf89b"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/testes.log",
+      "sha256": "57b032bf208ea6ef60d9cbb1a8059c9b356d286c46a0c0c2ad1b5968e01f2da9"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/delta8000.json",
+      "sha256": "0bb206b77c3e0cec61a18aa7af9434e69830b44f91825e8ed7972dfe98558813"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/provas_delta8000.jsonl.gz",
+      "sha256": "5e053efd0542871a69a329f074569a24b84f1e824c6af0d3b85f34662be4f1d5"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/controle_MDS43.json.gz",
+      "sha256": "577ca598e842c45be52a46f9f68d54c8eaa173488b791988fd49864c7768654a"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/decisoes_contextuais.json",
+      "sha256": "f7a0c49ba3e39b80d5547b08a2144cdac83f316e4fdbe84a1317c5992cdc6025"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou2017_continuacao_20261028_001/escopo_DOM.py",
+      "sha256": "2024db76f2ada935e24549100b0dde8fd32fb3d9c46fd2f5c608d41ce9dabbb2"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou2017_continuacao_20261028_001/gate_orgao_contextual.py",
+      "sha256": "4be68f387f640a02a0c879860fa3efc39716627e0e49cb6d6294bac096ae15f1"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou2017_continuacao_20261028_001/test_contexto_escopo.py",
+      "sha256": "690d279ec7a9d8c91c3dcaf7ca06976aeb104809e3ae4909e1c106f8d89f472d"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou2017_continuacao_20261028_001/test_contexto_escopo.log",
+      "sha256": "59d1f416cdbc15e8acdca532ebef7815a89ae280751fe881e2203602182b509b"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou2017_continuacao_20261028_001/inventario_escopo_DOM3060.json",
+      "sha256": "cc446e6f9b5a2e567d8865dcb54a7f2ae4fa490fa89fe9cb28ef0c691c477ead"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou2017_continuacao_20261028_001/inventariar_escopo_DOM.py",
+      "sha256": "05c1dab2ce60ea1d893aa8ec53fcc1f40e56e4723df3c56330ae273633d9fd91"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou2017_continuacao_20261028_001/baseline_reguladores_HEAD_reservas.json.gz",
+      "sha256": "709f5719b36aabaca7e52fe970ed23c51bca7f84220129b09b855a95451644d8"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou2017_continuacao_20261028_001/indice_federal_HEAD_reservas.json.gz",
+      "sha256": "cc1ed0d878154dcbfaa4747405e095d01ea308d383def94631fa6fb0dc28af24"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou2017_continuacao_20261028_001/pacote3060_001/provas_retencoes3.jsonl.gz",
+      "sha256": "bd80f8aadf74d19501ee4a66d4e36a32cac8d1b4df29abcf053b7b0f0f98e6ae"
+    }
+  ]
+}

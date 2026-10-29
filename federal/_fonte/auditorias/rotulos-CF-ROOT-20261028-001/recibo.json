@@ -1,0 +1,24 @@
+{
+  "HEAD": "870d373767a6413cad4ef349bf3d3d355266d639",
+  "changes": [
+    {
+      "path": "scripts/plano.py",
+      "sha256_before": "ecddc91d1f8a9d16c08cbc7812f6b52b279563cb51a7b3292021af87d13ac083",
+      "sha256_after": "67810e3f0a7fd62147e4d126b7df3090e30b4756e75fe6143c3b5546d787f931",
+      "old": "Constitui\u00e7\u00e3o de 1988 (texto vigente)",
+      "new": "Constitui\u00e7\u00e3o de 1988 (texto compilado; edi\u00e7\u00e3o no cabe\u00e7alho)",
+      "backup": "federal/_fonte/auditorias/rotulos-CF-ROOT-20261028-001/plano.py.preimagem"
+    },
+    {
+      "path": "README.md",
+      "sha256_before": "3b974edd71a0acc8dec55ed631df1133d0f260c9d9fa7d787e612c9d502941c2",
+      "sha256_after": "0e9c3ec7daa1b2b3aafbba2295ecdb040b03317850818e73a5516196d6eceeed",
+      "old": "| \u2014 | Planalto | Constitui\u00e7\u00e3o Federal, texto vigente |",
+      "new": "| \u2014 | Planalto | Constitui\u00e7\u00e3o Federal, texto compilado; edi\u00e7\u00e3o/data no cabe\u00e7alho |",
+      "backup": "federal/_fonte/auditorias/rotulos-CF-ROOT-20261028-001/README.md.preimagem"
+    }
+  ],
+  "date": "2026-10-28T18:50:38.975910+00:00",
+  "checks": "Only two labels changed; plano AST identical after restoring one string constant. Numerical targets, folders and all other values unchanged. Canonical Constitution unchanged.",
+  "source_context": "CF source editions already audited in fc167 and AP integration437bce; no new legal current-status assertion."
+}

@@ -1,0 +1,192 @@
+---
+titulo: "Lei Ordinária nº 2.402, de 15 de abril de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2402"
+data: "2025-04-15"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/1510"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/132/text"
+sha256_fonte: "1c4dfa42ce336f9764d6eae467d9b9bd6ef58b8a0fb548522e2a6956ce330055"
+sha256_texto: "1d4228823f4354eb333fdce40cb06b22bbeef577fa6aed4f68aee8815058bda5"
+capturado_em_fonte: "2026-10-28T13:09:06.305812-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.402, de 15 de abril de 2025
+
+Disciplina e estabelece preceitos para a implantação de campanhas destinadas ao desenvolvimento das potencialidades de educandos com altas habilidades ou superdotação na rede pública e particular de ensino do Município de Guaíra, Estado do Paraná, e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu, Prefeito Municipal, no uso das atribuições legais, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Estabelece orientações e preceitos para a implantação de campanhas destinadas ao desenvolvimento das potencialidades de educandos com altas habilidades ou superdotação na rede pública e particular de ensino do Município de Guaíra.
+
+
+Art. 2º.
+
+As campanhas indicadas no art. 1º desta Lei compreendem as seguintes fases:
+
+
+I –
+
+Capacitar profissionais da rede pública e particular de ensino do Município para identificar e atender estudantes com altas habilidades ou superdotados desde a educação infantil até o ensino médio, promovendo a integração de estudantes com altas habilidades ou superdotação nas classes comuns do ensino regular;
+
+
+II –
+
+Promover:
+
+
+a)
+
+a identificação dos estudantes com altas habilidades ou superdotação a partir da educação infantil até o ensino médio, com base em critérios e procedimentos validados por evidências científicas;
+
+
+b)
+
+o encaminhamento para atendimento dos educandos com altas habilidades ou superdotação em ambiente apropriado para o desenvolvimento de suas múltiplas potencialidades.
+
+
+Art. 3º.
+
+Constituem-se preceitos para a implementação dos objetivos de que trata o art. 1º desta Lei:
+
+
+I –
+
+a possibilidade de promoção da formação inicial e continuada para os docentes da rede pública e particular de ensino do Município poderem identificar e trabalhar com educandos com altas habilidades/superdotação;
+
+
+II –
+
+a possibilidade de se firmar parcerias para a realização de avaliação e atendimento educacional especializado oferecido por universidades públicas e particulares, centros de pesquisas, instituições especializadas, privadas e do terceiro setor;
+
+
+III –
+
+a formulação:
+
+
+a)
+
+de programas especiais de enriquecimento curricular;
+
+
+b)
+
+de planos de desenvolvimento individual, que serão elaborados, acompanhados, avaliados em ação conjunta entre a escola, a família e profissionais do serviço de atendimento educacional especializado, quando existente para acompanhar a evolução dos educandos;
+
+
+IV –
+
+o incentivo para que as escolas inscrevam seus alunos nas seguintes olimpíadas do conhecimento oferecidas pelas diferentes sociedades científicas, visando identificar as altas habilidades ou superdotação nos estudantes que receberem medalhas e menções honrosas:
+
+
+a)
+
+Olimpíada Brasileira de Matemática das Escolas Públicas - OBMEP;
+
+
+b)
+
+Competição Brasileira de Robótica;
+
+
+c)
+
+Olimpíada Brasileira de Robótica;
+
+
+d)
+
+Torneiro Juvenil de Robótica (TJR);
+
+
+e)
+
+Olimpíada Brasileira de Astronomia;
+
+
+f)
+
+Olimpíada Brasileira de Biologia;
+
+
+g)
+
+Olimpíada Brasileira de Química;
+
+
+h)
+
+Olimpíada Brasileira de Física na Escola Pública;
+
+
+i)
+
+Olimpíada Nacional de Ciências;
+
+
+j)
+
+Olimpíada Nacional de História do Brasil;
+
+
+k)
+
+Olimpíada Brasileira de Física;
+
+
+l)
+
+Olimpíada Brasileira de Geografia (Viagem do Conhecimento);
+
+
+m)
+
+Olimpíada Brasileira de Linguística.
+
+
+Art. 4º.
+
+O Poder Público poderá estabelecer convênio com instituições privadas sem fins lucrativos, especializadas e com atuação exclusiva em educação especial para atendimento de estudantes com altas habilidades ou superdotação no contraturno, em áreas de seus interesses, com o devido registro no Censo Escolar do Instituto Nacional de Estudos e Pesquisas Anísio Teixeira - INEP.
+
+
+Art. 5º.
+
+Fica instituído o Dia Municipal das Altas Habilidades e Superdotação, a ser celebrado, anualmente, no dia 10 de agosto, passando a integral o Calendário Oficial do Município.
+
+
+Parágrafo único
+
+Na ocasião da data ora instituída, a Secretaria Municipal de Educação poderá promover ações que visem à conscientização da sociedade sobre o tema, conferindo a visibilidade das ações desenvolvidas no âmbito da rede pública e particular de ensino do Município, e intensificar a realização de campanhas para identificação de educandos com altas habilidades/superdotação;
+
+
+Art. 6º.
+
+As despesas decorrentes da execução desta Lei correrão à conta das dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 15 de abril de 2025.
+
+GILEADE GABRIEL OSTI
+
+Prefeito Municipal
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

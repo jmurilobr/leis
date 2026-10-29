@@ -1,0 +1,82 @@
+---
+titulo: "Lei Ordinária nº 648, de 21 de agosto de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "648"
+data: "2026-08-21"
+municipio: "Guadalupe"
+uf: "PI"
+codigo_ibge: "2204501"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guadalupe.pi.leg.br/norma/680"
+fonte_texto: "https://sapl.guadalupe.pi.leg.br/ta/677/text"
+sha256_fonte: "d909c19a7cd65ba67efa4a08bd1b8c8c38723ad028381af06da7ec24afe0cd8f"
+sha256_texto: "578ccd9f42c80c0f11a32796c0a9ddbe9fd05706f6ec9dd4082b5793bba408be"
+capturado_em_fonte: "2026-10-28T12:41:54.916034-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 648, de 21 de agosto de 2026
+
+Autoriza o Município de Guadalupe-PI a doar os imóveis de sua propriedade, especificados nesta lei, à Cooperativa Habitacional Zonal Sul – COHZSU e dá outras providências.
+
+
+Na qualidade de Prefeito Municipal de Guadalupe no uso das atribuições que me são conferidas pela Lei Orgânica do Município, faço saber que a Câmara Municipal aprovou e eu sanciono a presente Lei.
+
+
+Art. 1º.
+
+Fica o Município de Guadalupe-PI autorizado a doar dois imóveis de sua propriedade para a Cooperativa Habitacional Zonal Sul – COHZSU, inscrita no CNPJ sob o nº 05.527.734/0001-47, com sede na Av. Dom Severino, nº 1.600, Bairro: Fátima, Teresina - PI, no âmbito do Programa Minha Casa, Minha Vida Entidades - FDS (MCMV Entidades - FDS), conforme a seguir descritos:
+
+
+I –
+
+ÁREA 01 (Residencial Manuela Lima Miranda): Imóvel inscrito no Cartório de Registro de Imóveis sob a Matrícula nº 3209, Livro 2-I, Folha 18, situado na Rua São Pedro, s/n – Vila Nova, Município de Guadalupe-PI, com a seguinte descrição perimetral: Inicia-se a descrição deste perímetro no vértice 1, de coordenadas N 9.249.289,100m e E 657.458,798m; deste, segue confrontando com a Rua São Pedro, com os seguintes azimutes e distâncias: 43°41'46" e 77 m até o vértice 2, de coordenadas N 9.249.344,481m e E 657.511,714m; deste, segue confrontando com a Área da Prefeitura Municipal de Guadalupe, com os seguintes azimutes e distâncias: 308°00'41" e 151 m até o vértice 3, de coordenadas N 9.249.437,448m e E 657.392,769m; 212°58'02" e 84 m até o vértice 4, de coordenadas N 9.249.366,765m e E 657.346,925m; 124°46'09" e 136 m até o vértice 1, ponto inicial da descrição deste perímetro.
+
+
+II –
+
+ÁREA 02 (Residencial Coronel João Cardoso de Alencar): Imóvel inscrito no Cartório de Registro de Imóveis sob a Matrícula nº 683, Livro 2-C, Folhas 83-87V, situado na Av. Usina Boa Esperança, s/n – Vila Parnaíba, CEP 64.840-000, Município de Guadalupe-PI, com a seguinte descrição perimetral: Inicia-se a descrição deste perímetro no vértice 1, de coordenadas N 9.250.418,592m e E 657.313,791m; deste, segue confrontando com a Rua Projetada, com os seguintes azimutes e distâncias: 161°44'55" e 96 m até o vértice 2, de coordenadas N 9.250.327,697m e E 657.343,766m; deste, segue confrontando com a Av. Usina Boa Esperança, com os seguintes azimutes e distâncias: 72°53'36" e 116 m até o vértice 3, de coordenadas N 9.250.361,822m e E 657.454,646m; deste, segue confrontando com o Prédio da Maçonaria, com os seguintes azimutes e distâncias: 342°49'04" e 97 m até o vértice 4, de coordenadas N 9.250.454,810m e E 657.425,893m; deste, segue confrontando com a Av. Usina Itaparica, com os seguintes azimutes e distâncias: 252°05'44" e 118 m até o vértice 1, ponto inicial da descrição deste perímetro.
+
+
+Parágrafo único
+
+Todas as coordenadas aqui descritas estão georreferenciadas ao Sistema Geodésico Brasileiro, a partir da estação ativa da RBMC de Brasília, e encontram-se representadas no Sistema UTM, referenciadas ao Meridiano Central nº 45°00', fuso -23, tendo como datum o SIRGAS2000. Todos os azimutes, distâncias, áreas e perímetros foram calculados no plano de projeção UTM.
+
+
+Art. 2º.
+
+A doação a que se refere o art. 1º será feita mediante a condição de que as áreas doadas sejam utilizadas exclusivamente pela Cooperativa Habitacional Zonal Sul – COHZSU para a consecução de seus objetivos habitacionais e sociais no âmbito do município de Guadalupe-PI.
+
+
+Art. 3º.
+
+Os imóveis objeto da presente Lei reverterão ao domínio do Município de Guadalupe-PI, por anulação pura e simples do documento de doação, caso a donatária venha a realizar, em qualquer época, atividades estranhas ao previsto no art. 2º desta Lei.
+
+
+Parágrafo único
+
+Os imóveis objeto desta Lei também reverterão ao Município de Guadalupe-PI, por anulação pura e simples do documento de doação, caso a Cooperativa Habitacional Zonal Sul – COHZSU não inicie as atividades previstas no prazo de 24 (vinte e quatro) meses, a contar do início da vigência desta Lei
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 5º.
+
+Revogam-se as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal, de Guadalupe aos vinte e um dias do mês de agosto de dois mil e vinte e seis.  
+Jesse James Lima Miranda  
+Prefeito Municipal
+
+Sancionada, Publicada e Registrada, a presente Lei, em vinte e um de agosto de dois mil e vinte e seis.  
+Edson Sousa Rodrigues  
+Secretário Municipal de Planejamento e Gestão
+

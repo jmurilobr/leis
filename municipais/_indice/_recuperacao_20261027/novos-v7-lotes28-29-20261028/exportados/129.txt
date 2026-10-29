@@ -1,0 +1,226 @@
+---
+titulo: "Lei Ordinária nº 740, de 21 de dezembro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "740"
+data: "2021-12-21"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/4572"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1453/text"
+sha256_fonte: "8675cd2b26c2baa6ada8d3429bcd4eb507a0a8e02e8b10e74991341605396d58"
+sha256_texto: "bd9877c1feaf17b5155b6e895f58a8d461c7f8c0d2e2ed7f2ae9e4955f448638"
+capturado_em_fonte: "2026-10-28T11:19:56.236300-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 740, de 21 de dezembro de 2021
+
+Institui o programa “Buscando uma nova oportunidade” no município de Formosa.
+
+
+Projeto de Lei Ordinária nº 128/21, de autoria da Vereadora Simone Dias Ribeiro de Melo – Simone Ribeiro, aprovado em 6 de dezembro de 2021.
+
+O PREFEITO MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais, conferidas pela Constituição da República e Lei Municipal nº. 01/90, de 05 de abril de 1.990 – Lei Orgânica Municipal - LOM, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído o Programa “Buscando Uma Nova Oportunidade” tem o objetivo de fomentar e garantir a inclusão produtiva da população em situação de rua ou com trajetória de vida nas ruas, no Município de Formosa.
+
+
+Parágrafo único.
+
+Considera-se população em situação de rua o grupo populacional heterogêneo que possui em comum a pobreza extrema, os vínculos familiares interrompidos ou fragilizados e a inexistência de moradia convencional regular, e que utiliza os logradouros públicos e as áreas degradadas como espaço de moradia e de sustento, de forma temporária ou permanente, bem como as unidades de acolhimento para pernoite temporário ou como moradia provisória.
+
+
+Art. 2º.
+
+O Programa “Buscando Uma Nova Oportunidade” desenvolverá ações que criem e favoreçam a inserção produtiva da população em situação de rua ou com trajetória de vida nas ruas, por meio das seguintes modalidades:
+
+
+I –
+
+alocação no trabalho formal;
+
+
+II –
+
+inserção produtiva no âmbito do empreendedorismo e da economia solidária;
+
+
+III –
+
+exercício e desenvolvimento de atividades, capacitação ocupacional e frentes de trabalho nos órgãos e entidades do Poder Executivo Municipal ou em instituições parceiras do Município;
+
+
+IV –
+
+qualificação profissional.
+
+
+Art. 3º.
+
+São eixos do Programa “Buscando Uma Nova Oportunidade”:
+
+
+I –
+
+fomento à inclusão produtiva em serviços prestados por instituições, órgãos e entidades do Poder Executivo;
+
+
+II –
+
+fomento à criação de incentivos fiscais e administrativos para instituições públicas, privadas e da sociedade civil que garantirem vagas de emprego aos beneficiários do programa;
+
+
+III –
+
+garantia de atendimento prioritário e especializado nos serviços e equipamentos públicos municipais da política de trabalho e renda e assistência social, bem como atuação na identificação de vagas de emprego e oportunidades de renda;
+
+
+IV –
+
+promoção da intersetorialidade e da integralidade na oferta de programas, projetos, benefícios e serviços públicos para os beneficiários do programa, considerando a necessidade de acompanhamento especializado para inserção e permanência no mundo do trabalho.
+
+
+Art. 4º.
+
+Ficam definidas como áreas prioritárias para a prestação de serviços no âmbito do programa de oportunidades profissionais e de inclusão produtiva:
+
+
+I –
+
+construção civil;
+
+
+II –
+
+indústria e comércio;
+
+
+III –
+
+serviços gerais e domésticos;
+
+
+IV –
+
+jardinagem, paisagismo e limpeza urbana;
+
+
+V –
+
+artesanato, criação e moda;
+
+
+VI –
+
+logística em eventos, turismo e gastronomia.
+
+
+Art. 5º.
+
+As atividades do programa serão desenvolvidas junto aos órgãos e entidades do Poder Executivo, bem como por outras instituições públicas, privadas e da sociedade civil conveniadas ou parceiras.
+
+
+Art. 6º.
+
+São requisitos para inscrever-se como beneficiário do programa:
+
+
+I –
+
+estar em situação de rua ou ter trajetória de vida nas ruas, no Município de Formosa;
+
+
+II –
+
+não possuir vínculo formal de trabalho, na hipótese da modalidade de que trata o inciso III do caput do art. 2º;
+
+
+III –
+
+aderir aos termos de participação do programa.
+
+
+Art. 7º.
+
+O prazo de permanência dos usuários no programa instituído por esta lei será determinado pelo Executivo por meio de decreto.
+
+
+Art. 8º.
+
+Os beneficiários do programa que desempenharem atividades conforme as modalidades dos incisos I e II do caput do art. 2º terão:
+
+
+I –
+
+se no mercado formal, vínculo empregatício com empresas e entidades privadas que aderirem ao programa, inclusive aquelas que prestam serviços terceirizados pelo Município;
+
+
+II –
+
+se no âmbito de empreendimentos, condição de empreendedores, colaboradores, conforme os termos da legislação vigente.
+
+
+Art. 9º.
+
+O beneficiário será desligado do programa quando:
+
+
+I –
+
+for incluído no mercado formal de trabalho, no caso daqueles que desempenharem atividades conforme a modalidade do inciso III do caput do art. 2º;
+
+
+II –
+
+descumprir qualquer requisito desta lei;
+
+
+III –
+
+mudar-se para outro município.
+
+
+Art. 10.
+
+O beneficiário que prestar informação falsa ou usar de meio ilícito para a obtenção de vantagens será excluído do programa por um ano e, se reincidente, excluído definitivamente, sem prejuízo das sanções civis e penais aplicáveis.
+
+
+Art. 11.
+
+Esta lei deverá ser regulamentada pelo Executivo Municipal no prazo de 90 (noventa) dias.
+
+
+Art. 12.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 21 de dezembro de 2021.
+
+Gustavo Marques de Oliveira
+
+Prefeito Municipal
+
+Afixado no "placard" de publicidade.
+
+E encadernado em livro próprio.
+
+Data supra
+
+......................................................................................................
+
+Iany Macêdo Troncha
+
+Superint. Executiva de Documentação e Legislação
+
+Decreto nº. 21, de 04 de janeiro de 2021.
+

@@ -1,0 +1,3053 @@
+{
+  "sha256_lista": "b52ee489557d57a3d5c64e940c6fe6dcefaddd56014fccc92dd71b265d0d2676",
+  "arquivos": [
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/congelar_final.py",
+      "sha256": "7d4bc4bd0baf724ab9e17a020983f609b6e57afa2fd06b3c6aa7ff1ad69ef315"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/pacote_final001/lote_final.json",
+      "sha256": "e525dd16cff93855b411fbb84b123ddb5d9bec3522582bd3c89338e372cc306b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/pacote_final001/plano_inclusoes.json",
+      "sha256": "2e944acf0d8dc13612f1bc331df987e4d75ff11122496cf6da743795d770c68f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/pacote_final001/mapa_fontes.json",
+      "sha256": "3ac6200e828b4fac564637d5729cbe25ec5aafb0711353a61506e2bfd4badd3b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/pacote_final001/baseline_decretos_anos.z.gz",
+      "sha256": "afa25e8b53f36c2b07c503de82ca893f22e6b29a3d8f4c04fab8a22b637cdf2d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/pacote_final001/fontes/parte001.jsonl.gz",
+      "sha256": "602df9564fb4b89e61d9fc0ba049dfa3aa429928b36f2d6aa2cb15c0a502a25e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/coletar2000.py",
+      "sha256": "c05ecd9ef70f4c9cfef96effb0d64f113dfe54408be88e1978b5d0c1863d8a7d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/validacao_checkpoint_final.json",
+      "sha256": "4cd7457f85b5a082905fef246b427cafdc4cdcf02cf91c999ea88b231612818d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/inventariar_vinculos_tecnicos.py",
+      "sha256": "93f64b6ac0e0f65f2bb2d782e1693be398206821c634f3cc46cce6f111e3562b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qualificar_snapshot_v4.py",
+      "sha256": "4ec29f40be70d3749a030149a1e4a484748a8c6013148fda7144569e9a663c33"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/replay_HTML5_snapshot.py",
+      "sha256": "f722eec1e241ff2d4c80b06cea22aa515d68bf519bdecd98e8d327d403dd7622"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/reparar_render_nativo_snapshot.py",
+      "sha256": "1c5134d980a58336a69bc90b22914f3337c25338b03bcceb3f2d98c7de29a9bb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/snapshot_codigo.json",
+      "sha256": "f3f438a4157922413b8f58fc85a1a772d1a8c20b473ba714d2cf2dcb08c55aa4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/fila2000.json",
+      "sha256": "80a5df1114bae105ee85e4891c8eb24d7a47dfd774c0fb56e160af14c04bc324"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/coleta.log",
+      "sha256": "ebf784846dd464eb088c7679c640839e0937f8594ed2f414b5bee8f39740107f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/testar_limites_v4.py",
+      "sha256": "fe903526735d45bc1b9a4c7d5a74c971561d409b6575a3bfeced01633acd40ea"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/testes_limites_v4.json",
+      "sha256": "cb36ec2400179b172e938320efba67ef28ede2a7b8638b8b8a3873e32bce19e9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/contextualizarsnapshot.py",
+      "sha256": "4186be9f37df8ad0c67fe677c400a3ed1eab5169b2b38e1daf64469fcd78caf4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/contextossnapshot.json",
+      "sha256": "ef58c80917643c58c5f9dae747fee46427439da9aba5abbbcd9898dd0a5447c8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/revisar_contextos.py",
+      "sha256": "5930c94fa602606cabc33cbe29f14a6d777986df6792b4f15d58e0b6c0c96dcb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/formulas_legislativas.json",
+      "sha256": "7c51563dcdf92335f7b9d160cc009857f6a00836e03a1a79225776c03753ede2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/formulas_legislativas_v2.json",
+      "sha256": "7c51563dcdf92335f7b9d160cc009857f6a00836e03a1a79225776c03753ede2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/indices_repetidos_na_faixa.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/preflight_guard87.json",
+      "sha256": "b8cb54d67ba53028c3bd056c1df65b43e7bb7e502cb248b5a13349c9835b8d50"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/retencoes_contextuais001/retencoes.json",
+      "sha256": "e9cd9699ab8518bd3b8fa5510af3261c066abed3a4eb96ab0642472d8fc4d7bc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/retencoes_contextuais001/fontes_provas.jsonl.gz",
+      "sha256": "d12c08b7954bdc728416011b63b74faf24a2c080eaadaf4f9c8ded6817fc4c0e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/vinculos_tecnicos.json",
+      "sha256": "ba912174a1b7918f62bfbde6cb54a69eb816daa13840a0fafa5055ce687a8f7e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/revisao_contextual_snapshot.json",
+      "sha256": "4bf154fe52dc56e4bb477ecb2db39b58bd23c46b9bff1302616ec304867eccf6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/diagnosticar_glifossnapshot.py",
+      "sha256": "e1606b6511a62c87f9b78ad2ed3ad99ae95063920f023ff9d4b53388601c5716"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/diagnostico_glifossnapshot.json",
+      "sha256": "4e30aa5bf63d087aaf5c60db933b5f12b03d433f54355a5b5c13594759929ad7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/commonmark8886_20261027_001/replay_commonmark_html5.py",
+      "sha256": "824b00a5b40d1ab58b044d95bacef947b0b2862a8978c15bd136f27500ac67d6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/diagnostico_glifos1347_20261027_002/diagnosticar.py",
+      "sha256": "beadf267d897ef287c7525935f833c73d8b7337a58db27b6fc43a0f5cc62a4e2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5069-1903-12-07.md",
+      "sha256": "01932e72e6a114af071ac17422d86e796ded1b0aedc9e056be5258625b2927a7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5071-1903-12-09.md",
+      "sha256": "f95d573504048eaa1608f2b2352078be7806bcb1e4e060720ef80e8f02e06b92"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5074-1903-12-14.md",
+      "sha256": "10fbf64b189ba401c9526b8874638766278b68f9bf2cf163b01720a1b7f6e059"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5076-1903-12-15.md",
+      "sha256": "c38150076ae2474fb68299421bf62600ee58c88e7b9aa291f4d68a1144081e7e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5078-1903-12-21.md",
+      "sha256": "b49b391feae5566ec4128fc59f927b0bedbd2e734e5ee49415eaec9a4cc0b2a0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5083-1903-12-22.md",
+      "sha256": "93b35667c6edf92ae6e4b0ba954f4156945c47201fa38461636a8d4321d91699"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5092-1903-12-28.md",
+      "sha256": "7224be781c100641b6b44017fc821f2023e5ea7f8ea44ea12dab3528ca246697"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5094-1903-12-29.md",
+      "sha256": "c776df2b8cf37ad45e80cbfde7ebb7c9450bb7c57ac9f9a0917f49a2b98da79a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5095-1903-12-30.md",
+      "sha256": "e0f52235e28c9bbde012610f2da6ed6cd2c45839c8f4e299ed7b762810017a92"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5103-1904-01-07.md",
+      "sha256": "edc2c5ce680ca93af75e82df2837e4531f3ec41be7786773b23ff7379d262782"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5113-1904-01-11.md",
+      "sha256": "005e74eb816e7b78f44ff4538c4e63aeaf74a39ab26d4887b5fdb05ba2cb8e06"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5114-1904-01-12.md",
+      "sha256": "b728fbc2a6fc0fb7cb0b8094d4a17cd368b004e0dd05a17e0aadea9608a57c3f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5117-1904-01-18.md",
+      "sha256": "d441d8f85e3f88cba68acc46b9dcc19215c2b05fb0186f17a5042f1ef2bfe616"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5118-1904-01-18.md",
+      "sha256": "dec37f477bcdf0ef17f96417d07351cfbb091398e6a5e13cfdc4ef0fe93e0d19"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5119-1904-01-18.md",
+      "sha256": "64494743dcac13868de5f4e2033e3d8540025efe6edaeae7542462e50e236929"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5123-1904-01-26.md",
+      "sha256": "ab72d6af1f16be44b952eda82796b5f3de6f0cab99099b5404ecf4797214c881"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5126-1904-02-02.md",
+      "sha256": "b73b11c9ca7bb3b8566f2132c26d60b210be6bcdf5ce5b161881f648af0bd559"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5130-1904-02-08.md",
+      "sha256": "7b1b05e50b1a271174623e26569d15b436f81f211a1ac3e5301d9e95b2aa3b0a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5131-1904-02-08.md",
+      "sha256": "00a4fe24d52ed3ee9d0de02d688691d4e93fe243e821e5cc4218b24268237239"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5132-1904-02-09.md",
+      "sha256": "d988513b07327c2afa8aea661ccedaefa86b25aa8b0921572c0bd6d5568cd01f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5137-1904-02-22.md",
+      "sha256": "59b773b7d5e395e4eb99a92aae4dcb7f876418ddc559976ff2d779ff12c2066e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5138-1904-02-22.md",
+      "sha256": "bceab94df63c0c6eaedbc49527dc3f2a414043e399a086f7bb33920a4aacde9e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5139-1904-02-22.md",
+      "sha256": "0eeb11e5cc2a225f0a9d40e091f1f37e9ced064f08308e4a45bfc3abdf2e46cd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5140-1904-02-27.md",
+      "sha256": "de81c75d77020461fdac4367adbed8efe9f7cca3997c4888e4ed3c47af167968"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5145-1904-02-29.md",
+      "sha256": "83d781aaa9c34d5a50a3efe099f96ddcc5e4e23e810942705e9e68cc41a1b3ee"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5146-1904-02-29.md",
+      "sha256": "3219997499bc2dc2c4797c9b6cda7f1b5315ee8d11296446022eb3cd00f24556"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5147-1904-02-29.md",
+      "sha256": "ef2663feabd34035e16319e37c7281faa9133e3c757b2cab1382a5f20a0c4c40"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5150-1904-03-02.md",
+      "sha256": "6f809357a5540dede158ed2c40d9d70629bf74a563dde1856422dae2295970c9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5158-1904-03-08.md",
+      "sha256": "736aeee76907e3c2f9ef1af0c0e8bb9100cb88cc6afd0227c60efd70b67f87c4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5163-1904-03-14.md",
+      "sha256": "0d5f0e35754b97f9da649a6d0b4af7782f90743445eb83566c1d7af22a16a162"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5164-1904-03-14.md",
+      "sha256": "56e4ca7fdef31a5554ac690ce7d463428e17b7cd6edb2c838043ffb4750f928a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5167-1904-03-17.md",
+      "sha256": "2db5d5b136a82a93377bc902b9150924ab346109aca110a0d75d415fe4cc0b07"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5170-1904-03-21.md",
+      "sha256": "1d742a952a14bfe15d6e6bbcbbc67b3c8a4050b55b3704673167ffe75863bddc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5171-1904-03-21.md",
+      "sha256": "09bcf25cd316c635d029890aed16c7cc9d82761cb1ef464a02fe9b765faf5e49"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5174-1904-03-22.md",
+      "sha256": "81eae4ae5e27d11db4fa1833791a5c3f45de0a1242edfb8cb6bdc1f8b14961c0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5178-1904-03-25.md",
+      "sha256": "3ac12f08542333f617c4007f7acddfaa4367b6049db5b89c23f3ed2d54f51836"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5180-1904-03-28.md",
+      "sha256": "54a132431e8faaad6f0d4da0e7ceb3757b1896e232c024cc03dac8129b973335"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5189-1904-04-11.md",
+      "sha256": "8afe82eebf7503be3ade219f094e10642734dd43d737d4b62784b67e09121fa5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5192-1904-04-16.md",
+      "sha256": "396e9a5968d3b440e05e07d02574bfdc7c523a08e64d5234335ab033219ee09d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5194-1904-04-18.md",
+      "sha256": "49fd44ab1cfb303a6ff1dbcb9aa58fa9f64d235a558e1b5cd19424a74fa43e9c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5195-1904-04-18.md",
+      "sha256": "91d366a495175e44d58aaebc974ddb53c9569bacdb6088a6037b7ddfea96e86b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5196-1904-04-18.md",
+      "sha256": "38f0a9f8a977aa7e634a0bbfe9d0067605affaad0a40b5837aeb1e1a0675e626"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5199-1904-04-19.md",
+      "sha256": "78b16780ceb62aa89a7360ca23749c5e75f62ea8d0f268c8fa0b63d2f2462e2c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5207-1904-05-02.md",
+      "sha256": "237f6f0b6794149b8569c16e78304d9717dd6bb895f8a9aaf4514a05d8c43d4c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5212-1904-05-10.md",
+      "sha256": "368e89a94b1ba207d1a5805db7e8f5ce17e9b19bc35bb86fbf6a8ed5699c46ac"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5213-1904-05-10.md",
+      "sha256": "51c7cc7d0346bc3bd3715a41c21aa36d69ef7360a26c7115b3d9d698873dcdbb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5219-1904-05-16.md",
+      "sha256": "f1a8aab072a58fb0fcea262e407d69ceb0e0741c4947e6352e472e8aa4cb32a4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5220-1904-05-16.md",
+      "sha256": "df4ebdbea220a61cb6b855ebaa19d1e54ef944a074fb5ce101b120f03c98fd80"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5221-1904-05-23.md",
+      "sha256": "e7941156b9406eb257c4ce4083993e439d0e39a28848324a3c6ec077b5c057e9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5222-1904-05-23.md",
+      "sha256": "52c1318d8cb3f94b90c8bd1ac111b5ef4b2bd01184fc08bbb6a1420a240bf550"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5225-1904-05-30.md",
+      "sha256": "e9a2dd01a9bd93736749c392d035e7a70044e89d3305461b345caa7768ac661d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5233-1904-06-04.md",
+      "sha256": "8b1df2d6d69868781b4e4a9a096835d227f55ad1726e72b222b7bd4b0f423fd7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5234-1904-06-06.md",
+      "sha256": "564e747235f699826c40d4376ff750547ad070cad407512923b4bd084414b636"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5235-1904-06-06.md",
+      "sha256": "5548f060b3a4c9e20bf189ddc213fdd5d8058d7af952990f41795f5efb64f58b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5237-1904-06-13.md",
+      "sha256": "019c467e4099f50a1a2c7997a92367ad819c99afc2c69f04dc7b29fe8f876674"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5238-1904-06-13.md",
+      "sha256": "630f4193ec76dfe9940be50b7ef3d0f57c63aec4aaa3c9d1760af49fbbb14888"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5239-1904-06-20.md",
+      "sha256": "9d38323b4313657b87c7500262b3f07c1d6110f4249b6a67fcd5d4a93a1ead90"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5245-1904-07-11.md",
+      "sha256": "02e651195db5d42c81832ec64e098d1b420f58bb8a06f28731400741c4261408"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5246-1904-07-11.md",
+      "sha256": "4142877f239500af83564eff87d66d21c40eae7398cf1b58377f77847cbf81fd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5250-1904-07-18.md",
+      "sha256": "d717f49bb8dcfaac4601fa05417233252fe4f023e2a24fe6b2e2618b841a6ec8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5251-1904-07-18.md",
+      "sha256": "e976528831d373c34c7754788bacb40b9a5fdb102fb70340160ebbfbd5f1e191"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5253-1904-07-21.md",
+      "sha256": "70f0af46676a87d49c5dd735b65778a57b2b8df0a4e1465f566611a4e0c25c82"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5255-1904-07-25.md",
+      "sha256": "ddcceb17c0e9196566df6e2ae628e645e0a6e44da5b9ef92b845c7fbb6a6e47a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5261-1904-07-27.md",
+      "sha256": "c5bef3469fcc1f771981ce33f369f073935886118ea94f158f59ee5c6195de66"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5264-1904-07-30.md",
+      "sha256": "4ff64b5e481f6a379bbe4e0ab31e14471115c4133f45eab5c2774ce799f7a4ba"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5268-1904-08-01.md",
+      "sha256": "07fab5a44cfbc626767d484eaae9347c37a215a6c698e54cae6b1f2ba6e6bd9c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5269-1904-08-01.md",
+      "sha256": "1ee4ffe352f8f313c7f91ebfafba113cf32beb3db20889a23d620c3e3c5269da"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5270-1904-08-01.md",
+      "sha256": "fd2ac691c2c65c8ed8a2c6891e74817c2d5eb54c867713a3049ef1294ffdb90e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5271-1904-08-01.md",
+      "sha256": "530b359e35cc6c1f218ef7dfb71c8cefa7a36a25661be0a6a38b7b8427c69821"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5274-1904-08-08.md",
+      "sha256": "db01c87e15cd44efd23bf8eb0e631f4a773216161781974cb9c7538db1bce609"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5276-1904-08-08.md",
+      "sha256": "77c4f53453845bedf763b4f193808ca71189531da0953ebaf9d764e66d1854e8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5279-1904-08-09.md",
+      "sha256": "bf36b180ce16b070fe68ccef7a484a92f0d1c7de8b055099df7df585b68d6513"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5281-1904-08-09.md",
+      "sha256": "48ab7888eb3fa7f6d36103992962b5e39dd40e474fbef1118cc36b2f20e152e6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5287-1904-08-22.md",
+      "sha256": "27a2aec98ff5bbbefd4503c69389b6d9f91b06b0141bb37ddbb69c3cc3535749"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5288-1904-08-22.md",
+      "sha256": "540cad272e6e12d892fb21e10e1bbdfcdbb2a96215c07363ab0cb2e6f84a7b0f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5295-1904-08-29.md",
+      "sha256": "3295a1b74973e3713d85b9a20e3e450c22cbe100180e0cab8e83f113d76d7021"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5296-1904-08-29.md",
+      "sha256": "83db20299bc11fbfd118348993681d61ca835d66108c2770ca68cb524e8b7962"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5298-1904-08-30.md",
+      "sha256": "da82600c1b82920e310d1fc854d9219ed3945c206bad77e3f8e19fe4fe1fa45d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5302-1904-09-05.md",
+      "sha256": "8c9e668a28b3aa93f13abb5b5ad74d1468faf16879da5ee4d3d6efe53bd58472"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5303-1904-09-05.md",
+      "sha256": "3204f025cc55ea1453cc03eb66240328efcd7223ccc77ac9d621e79f21101372"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5305-1904-09-09.md",
+      "sha256": "40583cc38b4cdfb7d5fa14f7ff654f8556b583dd8e2a60c489512dc11c8e79ac"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5307-1904-09-09.md",
+      "sha256": "cf0a0762111ae13ab6890f25b3df9f465c94aa9a5c6857ec9050915c272e5014"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5308-1904-09-09.md",
+      "sha256": "edf286d255dc49e08f4d0f49987d4ed61bb2f1814ace175b6ef002f0be15b1bf"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5312-1904-09-12.md",
+      "sha256": "6a5418ad521ef0e181fde46c4cb2164cb919e5e0c6088d0bcd6cf7423d636d82"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5316-1904-09-16.md",
+      "sha256": "a7282bba11f82c7f1b8c3c37af10a6f3fe1cfa462bf20dc969ce220c24bea3e4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5317-1904-09-19.md",
+      "sha256": "d943710e06b94f2cdc054392b3c0bf8387025e02ae8bafa4c6537df6e86e3fcf"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5321-1904-09-19.md",
+      "sha256": "541ab829eab0e761260bcb440f9b7e52c4103361ea1dc4a00e40412b2c5f0db3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5322-1904-09-19.md",
+      "sha256": "2e9be59c294d07bce7fb81eb3cce789c1cd7aa795f2aeb63a4eabd5b805b9ec6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5328-1904-09-26.md",
+      "sha256": "7841fb97141b6b9ec106ca7ea1ab78aa4f7ba1a27f107388e3b83afc275082f4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5332-1904-10-03.md",
+      "sha256": "4771eacbf0f70ebff0c365d0b8e915ed544d0c3275e4f573c204a4b771cdb2c0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5334-1904-10-03.md",
+      "sha256": "f9220f41c2cf76d7d16dccc7ee45da8e90471da71e0b35a6cf83ea4901206fbc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5335-1904-10-03.md",
+      "sha256": "f963ccbb1cac14fc522a48d4489a0d3935ffe91ee5978ac7be7d3c91ea119d2f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5336-1904-10-03.md",
+      "sha256": "7d0932a2210172d218bda7c26b928cb647379c8405911129965678e54d59c362"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5337-1904-10-03.md",
+      "sha256": "d9aad0df0271e69c9bb2873ccf8c97a75852490eb72357a8a951aa0acb888295"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5338-1904-10-04.md",
+      "sha256": "3c62bf7d9f3068bfa091dceb4b9835e526c16be97c66ea57dd9afb3f1cbdac41"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5341-1904-10-10.md",
+      "sha256": "13977cf8556e0eb93aef9d3e05fdbd1c01c0c1883a7072bca28bf479586433e3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5347-1904-10-17.md",
+      "sha256": "3527e8faf792ad572dddcc6ac0e99d90f42e4401f0d7a0c213bebf8477035d89"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5348-1904-10-17.md",
+      "sha256": "3a09b54a123b9fc106967fa01977a88202984f33a6f923301e1704fa959e623d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5350-1904-10-18.md",
+      "sha256": "fff57f241bd9a44a64a1718c9d5c90d344c3d559934a74b3fc7f9879bcddab03"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5351-1904-10-18.md",
+      "sha256": "57b9d3e22f28d0e029c41505b34b375d00abc8cbccb7249b8ebaa052d6674977"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5357-1904-10-24.md",
+      "sha256": "84f756bc159a4c77bcd393ce1be0bcc851edbaa9693e1a89c7aed87b84cfc6ca"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5358-1904-10-24.md",
+      "sha256": "0ae68bb08dd5a66d0db1eeba046decd5c8019e438c8a037271733150ce0445d3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5361-1904-10-31.md",
+      "sha256": "e6f2956976f4f6906d24a745611ccd2811063f094c3b53ea09968abc9ae24578"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5362-1904-10-31.md",
+      "sha256": "89393aaf3c8fa4783255b22c940a604e35530152d2693ae63a8d96ca5a021db0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5363-1904-11-03.md",
+      "sha256": "a1ad7b7ff5772fdccebfb0454f2ab78531fae78b4ea25867696fab62d4d00739"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5366-1904-11-07.md",
+      "sha256": "805be79a473b2d2854ce37258548774a9553249bc92cccd93dad82a68690fe7a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5374-1904-11-25.md",
+      "sha256": "485be8ec883b252abc22efe53eabf795458ada75efa914b0cecef43a7de6d3cb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5380-1904-11-29.md",
+      "sha256": "e8d4a70424194768712f14b02f4f98841158f23d8086880e99b509d839ab5f78"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5381-1904-11-29.md",
+      "sha256": "c6d613dd777653246aef97a479f30c1eb0a4f73e3f9edcca40b8cf7bccd336a4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5385-1904-12-05.md",
+      "sha256": "e69c45385bc058aba5a32bc598acd5c2541cd7ebed19b04e41f3affc0592bc75"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5386-1904-12-05.md",
+      "sha256": "7cdb3f018c6239b9181c8d43b4c65b38db9234748a64c040eac38e8019ba41d1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5387-1904-12-06.md",
+      "sha256": "5d7cc90913da96310d2dbc7b723f89ed8124781095e4c74bb39541fc3ac0ea03"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5388-1904-12-06.md",
+      "sha256": "2840c9d4fc0f55a94a3a1b61a6012c1cef98a4b2eade6a443a9fa2af09501122"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5397-1904-12-19.md",
+      "sha256": "2ad2f4d365b6828a5d96fcebd1adbb56ba99bfa3e071e4c7efb0b5d810fcc8dd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5398-1904-12-19.md",
+      "sha256": "4bdeba06b9ad9da52944883a344f9b8f33f37d6f7e4d54b4a8f7435ac3a0bf1d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5402-1904-12-23.md",
+      "sha256": "655e331521ae4c772919f295acca877381a150179f62f2a98371c9fb921d583e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5403-1904-12-26.md",
+      "sha256": "ff111f59b3e38923dbab5d6023d7d93b9124790330d0d45e99e06a97281b3afb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5404-1904-12-26.md",
+      "sha256": "192a033b14583b68ee87172a9bbf9d9c4ce7ae13e43c76d305d4f77812874399"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5407-1904-12-27.md",
+      "sha256": "43343b9a6ea0cfa33272f5818adfdbc5ff0c158cabd24a05503a9587a9c23587"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5408-1904-12-27.md",
+      "sha256": "ed6ae2500e93989cfb8d437544ff1d9952fdce0b4c9d0ecc4aba3512bba62aeb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5409-1904-12-27.md",
+      "sha256": "522b1485874cf2df3e6f4697a0886447b2ebb3ce4b4eecd595ab922459a274f0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5410-1904-12-27.md",
+      "sha256": "5c13061b38e6bb8b64af2fe313bc15d8b65903aee40c7b0f6e5eb4cabb7441a8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5411-1904-12-28.md",
+      "sha256": "8ecd09f3fb4ffa5ca2fa02009c68d51d89027d8fd9fcdf1ee4386c559bab3672"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5415-1904-12-31.md",
+      "sha256": "8fc3c6a9887bf5641b8effe151398349c0df27e9d0bf05b5ad373701a4511c66"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5422-1905-01-09.md",
+      "sha256": "281df0c99c75e9d363c5ffc8e779277897b1db373dcda5fb46f2453614496879"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5428-1905-01-12.md",
+      "sha256": "0e6e557513ead20e1991b005c3102a81fae54c0351ad0d1cc7fdde12bca52180"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5429-1905-01-14.md",
+      "sha256": "7df3e2a2e3803eafe5270152eaaab365ef3ff36f2eb6433a43154925e74751a6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5434-1905-01-17.md",
+      "sha256": "e55b76e19f83684be48754c8e65385fd5d0d779dbda5d27108279ec00cbd0b14"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5436-1905-01-24.md",
+      "sha256": "9cdbcd5ba209b97103b8d97f6eb366bfce12254c992f35fc66ce4f839dc2de5d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5437-1905-01-24.md",
+      "sha256": "e34a29d89dad08d31c7c3a4d0a3b34ea6a60a7abaa4098d481297501ae2ce250"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5438-1905-01-24.md",
+      "sha256": "3ea792db44c44358348ed157636451cd76a6cdf05f44363c0ed4a8c806b42314"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5439-1905-01-24.md",
+      "sha256": "9139830082b2a9b020848f57573eca08bbe5fce5e6043dd08b5173ee85cf1556"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5440-1905-01-24.md",
+      "sha256": "6fc15d4fe97a2c51668c3a42706979eaf535fef1ae13826308ce774e05ad2c55"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5444-1905-01-30.md",
+      "sha256": "378c61b71d2001c496679c0a8ba38fcad072a105720e608949afc1338ddd23d1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5445-1905-01-30.md",
+      "sha256": "8c6057c37506ac9458d2904f64d522a275dfb7a2c390d68e9fcaee5db9292839"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5446-1905-01-30.md",
+      "sha256": "a5e6ca0dbee4ca9b2fa64ce1a82eeee6961b80434938182756a8d6e3de932ed5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5448-1905-02-01.md",
+      "sha256": "2eb04a454568d077aff7cadd87ec3b89347b4fdd35abfe9697c0613f1bec9ad1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5449-1905-02-01.md",
+      "sha256": "07698cb7f7ec7d43707b2f3798cdc5a07f35b876c6a463a25e5eba0197ae87cb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5452-1905-02-06.md",
+      "sha256": "5120f3b1e796e53cc4ae9d1eb300a7c55fc3abbdeb580363abd282ec3f231573"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5454-1905-02-08.md",
+      "sha256": "223775b0b10be2ab70d4bc2f01d8b9f53e91b8f419fb3ef092bf275b5cdd9c67"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5456-1905-02-08.md",
+      "sha256": "c713d40f27a3cd294dc2394bf2633dcb7fc72905d15768a1c162cc9b0f83db19"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5481-1905-03-16.md",
+      "sha256": "9183a3b534fc309fc6660b447e0e4f4ae9de4240ce8637d89a9d9239cba22f54"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5482-1905-03-16.md",
+      "sha256": "a76311c4f827d137bf4a8f37a17cf8dfbb4b0e726a3f5a1f54ad6cf2e6ef7ade"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5488-1905-03-20.md",
+      "sha256": "d18a95f9c34e4db47ef22b5943cbcffdb309720fd133f4421e504bfaba0773c0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5494-1905-03-27.md",
+      "sha256": "2e3b5fdd8c0f6b6bab0f9cb66f0646ec748f0efc41678e235519dd24826b791e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5495-1905-03-27.md",
+      "sha256": "036ec2f250e9ae6f58770079e87dad5f853ad07267386629e8bf4cfd9faf3183"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5496-1905-03-28.md",
+      "sha256": "d72ce6713173d5b894daac89e669f12041a22d2c4ea7c8fe11cbf1198a664a09"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5499-1905-03-30.md",
+      "sha256": "a2c2c2c12f8546160e386b5c6724bc19095735a37901afa91861a3553a433798"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5502-1905-04-03.md",
+      "sha256": "4ffe75288d71c9f9037b8cdd4209e441dfd98e40e6e553796ef2eb9a8c287215"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5503-1905-04-03.md",
+      "sha256": "2502828d807e8fcad0f1d779408c35541a128fe7df1a4b04fcc29c8dac312309"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5505-1905-04-10.md",
+      "sha256": "e5053fdfb27cbe0d1a1812381efd4b99a13b0a3862421feae2ffb0579c622a38"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5508-1905-04-14.md",
+      "sha256": "c0c5918df3e32b4ec242dc2c716476597ebe825789afb7d55aeed7bc8e69a05f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5509-1905-04-14.md",
+      "sha256": "29f83d521e59cb4bb343c11d2a88b0b45146d7323908242962b395d65a42dc15"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5517-1905-04-17.md",
+      "sha256": "48632a8f5d4c0e2be2f07eeb46821d4fce5b300adf879b978133f2ba8778e27d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5518-1905-04-17.md",
+      "sha256": "f663edfd669fc8c212e224472483b572fae79eeecc7609a241ac9471b2a09ee6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5525-1905-04-28.md",
+      "sha256": "e8665951160d978ab76532aadae3d88115692cd91fe6bd7af2d9afea24e77e03"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5527-1905-05-08.md",
+      "sha256": "bf4a4411730563ca24fdb62a08aac3e6609ccb170c8696815f590a54655aa4b3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5528-1905-05-08.md",
+      "sha256": "7e10d46c440db3583e1c0bb357274ea26b7035cf75ac0267eb7e89e48e5f5d61"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5529-1905-05-15.md",
+      "sha256": "ac890cc74d92a996f7df8518072bfe77334817a4fb5b0aad20266ce6d8a94caa"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5530-1905-05-15.md",
+      "sha256": "1989479c5db85f27642b4a0f9a620cd40cab195db6ce3edbd49fa27514638692"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5532-1905-05-20.md",
+      "sha256": "5fafd18a2dd02c96b017a5403923c0aaf5913e1938a2c9d1e1ee80058605a0b3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5535-1905-05-23.md",
+      "sha256": "fa7d9fc1c4671e45f84df043809a3174f09f5e10942da5b7e2f9029542847e8e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5537-1905-05-29.md",
+      "sha256": "7578eca81735845d265ed650afcafdc5bafca1f564172ba94093a9beec101867"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5538-1905-05-29.md",
+      "sha256": "986a568dff0afac81163862b6fcb6ad3a8abe5b1d9b8ef2ee38df2faa5383e0b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5545-1905-06-05.md",
+      "sha256": "34724600777e015e14d2f669ed09da11f40d866cd604ae1349bce88acf641d6f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5546-1905-06-05.md",
+      "sha256": "90d5915c9c071d1de20951eeb24e6e896d19c28d913e2c55e138b0a22301cb0c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5547-1905-06-06.md",
+      "sha256": "aa4b338d22b66232ded80c989b19faf0915d5555225927dcc306a82b27f7d390"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5552-1905-06-06.md",
+      "sha256": "ae30c6aecaf86e64b692e2e5465b9f83c4abcddf00d5eaab830030b584f15e77"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5553-1905-06-10.md",
+      "sha256": "5d7c23a04f0a8d5fd560f3c6e0f18c1b9c300b9c63bfcfd09858bfd9a9bc0121"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5555-1905-06-12.md",
+      "sha256": "7e218a93fb8bea44da49927145a43fa8e7510141c55415f455ed560bc8d6117c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5556-1905-06-12.md",
+      "sha256": "7d48d006db730d7e6e54e3faa1601c76e3bdeec59ad63f79fb084939600e03fd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5557-1905-06-12.md",
+      "sha256": "1315f3570d2472a9ec609f6473e51ba66fa972fac72cc134b9db7e82b6d57e33"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5558-1905-06-13.md",
+      "sha256": "bd2a870719c1e9cbd3b3777a0a28210811aef0237bf9adfa220068207e618687"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5567-1905-06-20.md",
+      "sha256": "94990d830d044841ffba62b80a02590a4c4f4f9540a1e034d8f0c0077800e1de"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5570-1905-06-26.md",
+      "sha256": "19ec47a04d4a027a3d502ca3d12f2934accebe4c1d8aeed71eae0af66b83f741"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5571-1905-06-26.md",
+      "sha256": "4e7dcd7921ff462d3fc7bfd309a2ad9f9c9b85ed35fd8f707993afc1af74185c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5574-1905-06-27.md",
+      "sha256": "a8a13f3660e9e33f06c41b38b26319ae213e81d3750f0d7276c2729b67cb5998"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5576-1905-07-03.md",
+      "sha256": "ee10408530f871f7a33b58bb975454e198281690ac75b521cb245c13906dd155"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5578-1905-07-03.md",
+      "sha256": "02ec3e0b9589191da02574d9c854b85a62c2bbbc451acb29118d1fdf6d436065"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5579-1905-07-03.md",
+      "sha256": "410b859acc1b3968a6e5a60c4e972c61a54a8484173923f127ae26c4a2f75d37"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5580-1905-07-03.md",
+      "sha256": "191f42a11c1389031143afaeae6448fa514f2f94c89ac4c0df92ef936d318323"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5581-1905-07-03.md",
+      "sha256": "9a1d268150cdbc893a427893d3e214522d7d07bdd437bd051dc5a8baa6bd94a2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5582-1905-07-04.md",
+      "sha256": "21326fc997808c24b87a43cb6cca89b24409f1290882306e979fdb59ed5dc33c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5583-1905-07-04.md",
+      "sha256": "da51ca475a74776dd501df81919cd8cfd112c74793af1b33baeea4e655ff3316"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5584-1905-07-04.md",
+      "sha256": "cfbabcf5b8a8390eaf9b9cce5d394f1c3e3dbd5a3f7deb053d0ff3c86e4c69d1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5585-1905-07-04.md",
+      "sha256": "f9b31067e2f124015858a25022211c8b190ef34bd61f3229314a153f64274e7c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5588-1905-07-10.md",
+      "sha256": "5b13eeea2f79168f28d32368a2a86a2454fa1c98a7407db2e0c4535eb520da3d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5592-1905-07-13.md",
+      "sha256": "f6519c5f71564e9dc8391044e22750e6817e041cbc883fe5ea4edf8cd9eab4cf"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5593-1905-07-13.md",
+      "sha256": "1e7646ac0a0649a8687a36e1721343fdecc9683e213a944e2adf9b21d4a71421"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5598-1905-07-17.md",
+      "sha256": "98bc7753cc6ddb5cec4472f07a24f3cb400915b3bcbd34adf125b73062f3e874"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5602-1905-07-24.md",
+      "sha256": "b07e57f4536f0e1bfa3ec71e18ee45a4d41fb8f6020ca8bd2bccf31255bf5c74"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5603-1905-07-24.md",
+      "sha256": "e49beea3580fd4f1b7ac7800100779d33f63121bcda600ad4a9d26241510974d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5604-1905-07-24.md",
+      "sha256": "8ca88cb40a0679ae56b76ba0609ae28cc413126395686edb269ce718991c06d3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5605-1905-07-24.md",
+      "sha256": "d26da6ea6bee333af28c6257c541f88b462a490ae0134e2e2d6313cb2da9cb6b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5606-1905-07-24.md",
+      "sha256": "dbb5867b500ee4d862ae996410632e30be6249a6f9cdf5926b967ed63505a019"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5607-1905-07-24.md",
+      "sha256": "02fcb0a7ea221252cae787de45161ff8c2e538ab17b6342dd811c9cea1828f05"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5608-1905-07-24.md",
+      "sha256": "e9acd7c9f83efc6d44b0f903e15d253e5ff7cfb751324d788aa61a1af4efc7c1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5618-1905-07-31.md",
+      "sha256": "e070bcd07be3d24fe953b3d7cd97cb2682dbb31c02e3ee37ce286f23fe18ec77"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5619-1905-07-31.md",
+      "sha256": "f656c4d5e6779c96f0e7795d571354cdd4b72ac745e380a137eb8b148ab2adc8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5620-1905-07-31.md",
+      "sha256": "c06f48e4a1a1638ed9dfe6621cd8bcf9cb739c5dd644e65503adc33a5cc16f8e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5621-1905-08-01.md",
+      "sha256": "f17428fec0b65f67203cff546127f7ad139ac271c18af6735901a3baab2a2814"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5624-1905-08-01.md",
+      "sha256": "71d3a88e441249867b5b880c739d77b875d627b8341e20cc25af436e27615f7d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5627-1905-08-01.md",
+      "sha256": "7fafcae7c43a4d9aded865286b9c7e5a474772b39ff7ca463b6790cb3316a523"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5631-1905-08-07.md",
+      "sha256": "b934938d36d17ce7eff5140f122b5cfbd09ad819f727dc84af961990f2fb2860"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5638-1905-08-14.md",
+      "sha256": "c0ae2acfa297368803b54d0a78bce96eb27627e652c5af71768c52ee40e46e17"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5639-1905-08-14.md",
+      "sha256": "f744bad016eece50ff16275bda15e6ddff3b27742f2dcefc933755ebc027f11a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5640-1905-08-14.md",
+      "sha256": "32b1be185bab402b4d27a1195e66564577998e768fefe036cceb50aa8cdf5aa2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5641-1905-08-14.md",
+      "sha256": "f6176a05129fb8c9f18211d5889abdbdcf356960c3d06ff633ba678e5add6742"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5642-1905-08-14.md",
+      "sha256": "827c3b51d980de17df5e8f2a8e98b3c5a98a34839721ea6ca01852b35b4bf072"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5646-1905-08-22.md",
+      "sha256": "84a732171bc586d8f9bc0964e755b8bf8237443af4915e74f0a144996be93f11"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5647-1905-08-22.md",
+      "sha256": "ce5cb7372fb3689da70c4b09f8c096e06c8df341d28f42977e973acf715dfade"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5655-1905-08-28.md",
+      "sha256": "074a1dc1b73c1533c02109d17fddea99d2e4ea3dd2252c109f584aaf57f92954"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5656-1905-08-28.md",
+      "sha256": "6fdb54d0c17de49119aa06853f19ae11d95ea7dbcf2211a83854cbf720a6a734"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5657-1905-08-28.md",
+      "sha256": "50f4b2d804f76592e0847a34e4ace4e5bf2d72bb9e416669fdd48cdaeceab8f6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5658-1905-08-28.md",
+      "sha256": "6d0c2d888613e7c6b2a4a58282dfb35843d3eac5710e58285c4f567210003aae"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5659-1905-08-28.md",
+      "sha256": "80b3d557316ff96be40266f02cb174bb6ab1217cc3faef16e7bf4e7de3147882"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5660-1905-08-28.md",
+      "sha256": "27eabe25e4c6c63ce8f8e54e9b7094a53c3e56184f48c9f18152403962bba726"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5661-1905-08-28.md",
+      "sha256": "328451d74fab6019f09e6dadab05010ee10a301b9dade59ca86a6ef1d36938b9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5662-1905-08-28.md",
+      "sha256": "80ace95e259f5a8044c0275db31e3d8b6772885f6ba853b0041022aa6d9b7186"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5663-1905-08-28.md",
+      "sha256": "bea734aac397df95c8ac1b916ee7f3497f9912ceeb39c3a18685224496ba48c9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5664-1905-08-28.md",
+      "sha256": "e250431f06bc42f5028e2a3695a4b582b52ce00f593bb070019eaca669eea384"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5665-1905-08-28.md",
+      "sha256": "1fb74d1b45ef41044332ac954da0b0280476e4bf4b9a2f4810a6264f3bd19af2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5669-1905-09-04.md",
+      "sha256": "9777acfb21831f7c6d34b06f536cbff05e9ac5ea350606ce996ed52a11c1959f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5670-1905-09-04.md",
+      "sha256": "364ef39860e9aac7678d20f6c80da76ae381ee279cb0fbc05d9191d9c91d7c46"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5671-1905-09-04.md",
+      "sha256": "6ea1366f765252173a47eb56ef7a81062ce7ebbd8b9b3f653986579e9f70ce9a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5672-1905-09-04.md",
+      "sha256": "232bc5c32ed5cd29a5de988680856ed21f67a67521814e12ca63d58ff1499ac1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5677-1905-09-11.md",
+      "sha256": "faad2566fddc760a57b418dc808e5b94aace66b58021ece3ebe5ab5dd85444f3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5678-1905-09-11.md",
+      "sha256": "d79cf1914fbad8c2e93d4999cf4dd8fa99e5abb51dac346dde88e4ad0e91617b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5679-1905-09-11.md",
+      "sha256": "db8ceae30d427c7bb688a629bd918a0e1229efa1e1f959ff0e2c42c255921aa9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5680-1905-09-11.md",
+      "sha256": "c798a11efdbce2f210637de02dea50779174ce8425a6ee3dd7f3177a45fffea9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5684-1905-09-16.md",
+      "sha256": "fb0239a71b5c5031f0dd8f48d492f090d7564fcb42edb5bf01c7923e20b762b0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5685-1905-09-16.md",
+      "sha256": "d154f33c6b4ead2db5d2af830de22095a74bbee7c5b4ea7ae4d2a993c3a808a7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5686-1905-09-16.md",
+      "sha256": "79992cfeb2cec22e8444ae3d86c0cb25bcabdf27f972b7ac5d29a2bf5bd27bdb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5687-1905-09-16.md",
+      "sha256": "e6928ab1bedc9ff1b79819a0116dd0f9dfb2af9e891f2aa8d75c5d791f256e88"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5688-1905-09-16.md",
+      "sha256": "b479478f444b514ca405ba60d479707a61b558c8abdc2e877b0104d391bfba5e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5689-1905-09-16.md",
+      "sha256": "f17b7b5197efbe840b70bdbdd96710759df096b0b7c330bd8a2ab51a12e6dc2b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5691-1905-09-21.md",
+      "sha256": "a184447f33942d49af6993cd62bd5445aef51fbda1253f0ac80f0904f4e5b934"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5710-1905-10-09.md",
+      "sha256": "602b127aabffc0cb840f6946d283eaa73cfc4aa89dd372d31a923734d67f5b9a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5711-1905-10-09.md",
+      "sha256": "9510db8d3170c4b1dad6c29c311da96d94fa03d8c85bfc94a3feeaf60b61de1d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5712-1905-10-09.md",
+      "sha256": "b9853b9ed6dc1a2a5b2fd5d74c39d32ccb75a72b762e88a35316ace8f9580c82"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5713-1905-10-09.md",
+      "sha256": "d83e564f078aac29f1443dcf337b6597f6d0a9ce883bf2b73af7ce710e97e529"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5714-1905-10-09.md",
+      "sha256": "7ecb5b99ade9bed7369a71062b8ec0194fae0af082079ed659324f454676a0ff"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5718-1905-10-10.md",
+      "sha256": "64e1fdd3a5b02c571b327a82d183dac57123c1d4a6ac760cc859fc91a6279cd9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5721-1905-10-10.md",
+      "sha256": "20753269a7a6ab1da40e9e9b2255e668f25607a2a536908400f68748e8f9e569"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5727-1905-10-16.md",
+      "sha256": "8bab2db25136b80cbfb44fd49f33de3c2320060026ff03ab0e10b5fee3385464"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5728-1905-10-16.md",
+      "sha256": "6c34cbe35793bc6c1b00167a204352d2c8de3bafa42183252d3024b2ac0d3c0b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5729-1905-10-16.md",
+      "sha256": "cb8d442b6dadebf33004d57e6add261197780aa9653e11c2ccc1642d4854b9f8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5732-1905-10-23.md",
+      "sha256": "2a187241ae3021242e87c0004ef28d280ddcd39c2d09940cc711a02ac90d69ca"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5733-1905-10-23.md",
+      "sha256": "550a6807f05161e65d7a0da75acbde357f106e456c3fb6f8e04ae73a6dcf7863"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5738-1905-10-30.md",
+      "sha256": "4c51995b361a21c0407c5560dcfb503c1a9f3dd1d3ff4df2f9dd45763160fef4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5739-1905-10-30.md",
+      "sha256": "ee10853bfd62c1fa26dea2755c6cebc64749df804ab7d4ec3912d91624381895"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5740-1905-10-30.md",
+      "sha256": "2fc4b6ab84f4d83110cc32f9c534aff063d0d76ea1aeeb0b107cfb0bb45b1805"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5748-1905-11-04.md",
+      "sha256": "629d0f4c161990007ec9479e48c79e31dbbb03e8ff77dfe47ece4b0168191ada"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5749-1905-11-04.md",
+      "sha256": "e29362f8615d1ea020083fe9784c413f550fcf3ec12be1cd1a28328c507c2de6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5751-1905-11-06.md",
+      "sha256": "7a469d6ca556f1985f64454e55e5e61bde03d22df780f0347ff1466dcac7ebaa"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5752-1905-11-06.md",
+      "sha256": "2dfa0b45da86ea986ccde96ef51f7eab1347e54409ccdf8b5fbd58bdd1180c44"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5753-1905-11-06.md",
+      "sha256": "f77178087f22eaeec8dcf5f27c98f902281ddbc0da7ad56f3c15d29d76451b1d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5754-1905-11-06.md",
+      "sha256": "452c72d168cb4eda1e0b80408111dd1743e0caafe42ef53f8303b573737fe1b8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5755-1905-11-07.md",
+      "sha256": "0ffb97af0074763b78d92b540bbf10e9c754d3ab157536ffedf54910fb75beb5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5758-1905-11-13.md",
+      "sha256": "6cd41db5bc91c503e696ef0a8156d0f804c8cfb3084772df2fe775f95003bb52"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5759-1905-11-13.md",
+      "sha256": "6b88bf7e1963bc6acb7ac0c157df44c561a71c9b704112deedb4ff5ad9a83cc8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5760-1905-11-13.md",
+      "sha256": "77c36eda21a803d770e47f6034319105bae2c58995bff1f58ce431362c963b94"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5761-1905-11-13.md",
+      "sha256": "ec7427728d6eb403a20bd2569eb9faef368af774719c5aa72af08728ffc705a8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5762-1905-11-13.md",
+      "sha256": "21f27de8563b858250910bd3e63657bfaa8ef91404ca5fca9ebc2f612d36d765"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5766-1905-11-14.md",
+      "sha256": "ddc7f7da8365d212e84514101a03049aba7f1408c2bfe86fce75eff46ab8acc1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5767-1905-11-17.md",
+      "sha256": "5b20c37598c11a2518d2f62d8908a312a9dbd1298dee738b313b1a4ebbf04d0b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5768-1905-11-20.md",
+      "sha256": "14118159204063d482aad9161b2a5b28eb5b81585465d5c25044f4e24374597d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5769-1905-11-20.md",
+      "sha256": "8ea1d4bb88d311427fc4fe17e96da1ae286150aaf1ade3bdb7d9d2f9aada2af9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5770-1905-11-20.md",
+      "sha256": "9bae5d316e83a621e8074bedd527f9776bb851b60be8f39df9217aa1096e8e69"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5776-1905-11-25.md",
+      "sha256": "7ef7dd7e6e0b28261865af76ab2d574044db7c039905fe545773e1a2e12f755d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5779-1905-11-27.md",
+      "sha256": "9a4e9fc86b57cf8da36f0b7dd3ea7c52809c09a8eec43a4a3539fcba8017376e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5781-1905-11-28.md",
+      "sha256": "ec20dd134e2443f38cd1ebbbc725a32b6265d04f7997c6673f6ad49c7fe4627c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5782-1905-11-28.md",
+      "sha256": "90c6b10712f1ad5646d04f97c23bbab72516712170aaff7fc0e02a1387db43c4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5783-1905-12-04.md",
+      "sha256": "86469413d4b4dbd1fb4324301d8edab73820041219cca0b00cc71e1f1afd4b1d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5784-1905-12-04.md",
+      "sha256": "361fec2dc9f080f15d7654c9290887d39549e48907b89e6613f122776717452a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5785-1905-12-04.md",
+      "sha256": "323add83681afdd5e3efbefdb78605c9d4bfd93b1d9690b41248b9e11090112b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5786-1905-12-04.md",
+      "sha256": "78f5cc0f124c1b9cfffcaef805412f1e3a89a7c3fbdc199ae65d3f57710c5657"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5787-1905-12-04.md",
+      "sha256": "8d0ec718aa9588efd45bb1d122ec908e4767eed943b1cb2184672207afa3cb99"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5788-1905-12-04.md",
+      "sha256": "b0fb1b0665b247d1e537c3441370abf91e478ce963df29187a22b13102751034"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5789-1905-12-05.md",
+      "sha256": "2c2d45625ada1b620f824479e63532e3709c69e5ad0bf37d56535034a541faa1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5790-1905-12-05.md",
+      "sha256": "6c4980c43b760ffa7b913fa1432b7ad1576aa739fb821bffead7f3c634ff18fb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5794-1905-12-11.md",
+      "sha256": "a87b6573c7b08fdb9cea31405861a2374153ddfa2718469343e162d80db2e145"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5795-1905-12-11.md",
+      "sha256": "76621c56eba36b46a0be4528986e9c12e91513eda14c149197f498e96abb6244"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5796-1905-12-11.md",
+      "sha256": "c51a0deb610f5acadcbec931ffad9d51c55fe866d2b3f31ee53a2cbe6990220a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5797-1905-12-11.md",
+      "sha256": "174e84da5eb3b77a6f022b5a46caed9134a10acb9683f377d6a10e5abef7bee3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5807-1905-12-22.md",
+      "sha256": "bfd5f51beeed8e85ff93aba79f3e8d71bac3138374620a2fd5f060a377eb97a7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5808-1905-12-22.md",
+      "sha256": "19fd21123c555b53aeb29f1cc85ff32e288430fad669b8c6d44362f0a6a12b81"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5809-1905-12-22.md",
+      "sha256": "5f0e7bc9d04f3d69070b0d69961d6c7f230984f33ba769885a2858ec41a1d798"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5810-1905-12-22.md",
+      "sha256": "f53a3e5a97c911038ca5650c0cb204b1db18b978781a6c86f76863c6770f3d2b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5811-1905-12-22.md",
+      "sha256": "3970c6c75d8de30719370d46bb49b8ac46f29c84e74d6f833e935db8ba602847"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5812-1905-12-22.md",
+      "sha256": "1e9331a2dc53b450a6a86ec5e179b08cdda8c2d5b6abcb2d1845bfb55feacce8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5813-1905-12-22.md",
+      "sha256": "4de86bae612ef584434b970351a6c8b3c25714d71e17706da1e5b060f6aa41f0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5814-1905-12-26.md",
+      "sha256": "5e492741f33da5c1cae6b65ffb22e80adf5b88bf5ebfeb28debf2c12620bb1b4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5815-1905-12-26.md",
+      "sha256": "640156add63ac645e13ca1da1cae486a9cd9e70175fdd877021ea315024eb425"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5816-1905-12-26.md",
+      "sha256": "d4be6f6e159b431e91019d5db04de27ae729143bce7bae1a8732b467cf8d1d45"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5817-1905-12-26.md",
+      "sha256": "01f8569c5c8e294f8fda5697c6ef4fc2de52767a3c75be96da7268b519b05816"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5818-1905-12-26.md",
+      "sha256": "30d94cc44a09596b9a63d85c41566d8f5a6bfee152dab82ddf178098a7f9e75a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5823-1905-12-30.md",
+      "sha256": "69dab2f64c7d4b692c95681450a93470cc179e50059274cbe6203af66281efb6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5833-1906-01-08.md",
+      "sha256": "58a4863959464109120c4929b0a220dfa042aaf2c57bf6fd920dd8217d5e468f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5834-1906-01-08.md",
+      "sha256": "e222234291ea23299f00487b4f017825a177c2d1cb3404234bc517a9a202c276"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5836-1906-01-08.md",
+      "sha256": "61dc74dd8cbd54af3dc404acdb70a4b4aa701f283afbddd0f5a9a9254a33f6f0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5841-1906-01-15.md",
+      "sha256": "e61ca864a7001aca855ae48696fa204fcb69fbc464df4b9e1d63d7c4463b142b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5842-1906-01-15.md",
+      "sha256": "c8142db04362451d0f5a15653a3575442f4348625f36b6b6707397c2538ab7ee"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5843-1906-01-15.md",
+      "sha256": "177dd9fcd0779838067ec509f363e82323217e509af290c64c9649893f8f20de"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5844-1906-01-15.md",
+      "sha256": "b79fd51cb1252bad2a920cf12df73d00ca64f2348469ffa3ec32e8549aa09782"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5845-1906-01-15.md",
+      "sha256": "00ef6a3d28e6c8bba96a42f2a23a7fc19a5afb4ea7fbfaf72e7ba3112f70a1ba"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5846-1906-01-15.md",
+      "sha256": "297ca38557e8145f201966eafc622ef2480959dc2b2ecd0c2e6ba26188c573bc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5847-1906-01-15.md",
+      "sha256": "f26396c632e4b5e79e11d2e49ffe17f92736347c2fa848031734e51c83157e0f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5848-1906-01-15.md",
+      "sha256": "44835598775abf20ca3f28e08028acdac41c0b21411260913376d47bb32f3e35"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5857-1906-01-22.md",
+      "sha256": "da1c9dc5f606d4b6b6e791326884e9eb74219edd5005ce7e6a7f3c35979846ea"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5858-1906-01-22.md",
+      "sha256": "c4587304c1d5d81f7aebe7ce0e11bf65c9d2ee534f329fbbf726db8f1da1a6ce"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5859-1906-01-22.md",
+      "sha256": "2cd14e9192e693baa249933928e37f4ae95187eca506db5ebf58e55c403152a6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5860-1906-01-22.md",
+      "sha256": "e00b4352291ef16177c2a2665dac4eb02c3044d90e0e2cefbfad01c755381989"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5861-1906-01-22.md",
+      "sha256": "39b7a9a5236d272a3f366c27fab8a94bd51377828d66e87b5b7c83f2d74eebb5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5862-1906-01-22.md",
+      "sha256": "ec8b1efffaf3bff4a2076629b020d67b60b6cafd1143c9ede8e0d7191daab897"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5866-1906-01-26.md",
+      "sha256": "8d010c9e86a4f95805885a236525e94b675087f9be87d492c113ab03feeadeec"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5867-1906-01-26.md",
+      "sha256": "0fd1fd231feeed61bf6666e66e4f5ae9acee30ff3159cad9f98fdd6012549d6d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5868-1906-01-26.md",
+      "sha256": "f533f222d9a0fa38b0f5e9afffa9a3548a3351e0d6b38725f7a9cbf099e28085"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5869-1906-01-26.md",
+      "sha256": "6140aa84e1c26040ca63725d9cbe06ec58d5fa6387774c73f594c06027e819b8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5870-1906-01-26.md",
+      "sha256": "ef08fdbfde72a907a13ac9dcee6caf394b7d6169a1ec112353f7dca8151fa7e3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5871-1906-01-26.md",
+      "sha256": "9c571bd6c1765a8bfaf3b346bdb14c37d54914e10291e92baf371ec93d0d1bd8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5881-1906-02-03.md",
+      "sha256": "b6f36df992e492c7f7d4a6fbd7291ffc180479832f63644135708e9a5b30ce51"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5882-1906-02-06.md",
+      "sha256": "c072459a6854593db16d7ad47ad89177bf9d60e9a884fadda587cddbc98af365"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5883-1906-02-06.md",
+      "sha256": "5f6c7ed1be29f3f5e70d5c94b5119d1e3c0eec36ceeb27ace062d18821c3c9dd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5884-1906-02-06.md",
+      "sha256": "40247478455cd648a381b0c7e10123553f7e1b2d672981d732a80a01268aba74"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5891-1906-02-12.md",
+      "sha256": "4f375c3983f187c382cf94e77fecc058bdbc3206489b55e7251bed8b984dc9f4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5895-1906-02-13.md",
+      "sha256": "ed5dc05d1641c649b93cce0d7f1b6fae0a306633d26b6c12152255a5e41bc031"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5899-1906-02-19.md",
+      "sha256": "9008531a79e5c72fc49a3d58d7743caeef6ca61cd7d363c31f88487ff27c1ded"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5900-1906-02-19.md",
+      "sha256": "7cd221e8c8c30ca77f3fba5fdf07c759d3688453c8bcba7d595c1a6b418794be"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5901-1906-02-19.md",
+      "sha256": "4a924a47331dfedfceb8c1bee1bb7c3556f32da60c7dc381a646cda960692e28"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5905-1906-02-26.md",
+      "sha256": "51808d85ad914fcb3c3a13bf6b7ab9d6f635c0e690447bf3fd525eac51047a7c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5906-1906-02-26.md",
+      "sha256": "1cbb8d19eb4c2a8826d5eeef641534ac95722065ed27325c91b8587f52f0a72c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5912-1906-03-06.md",
+      "sha256": "fe63629e52d81a39edd5b628f223f91666c495d070391f2c9059986a26dc0827"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5914-1906-03-06.md",
+      "sha256": "3157183ececfdbb24a5d0a2a7665f8a6cfc3a7b4de49246be2eb642b73b4e7f3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5915-1906-03-06.md",
+      "sha256": "a44bd797886b37f84c7763d71a098ab87ee573b1b5164e54226a1d955ab4f560"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5916-1906-03-06.md",
+      "sha256": "74d56199779cb164aebf15d0264372a3fde45a9add0a2c4f2c12031a3b135b25"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5917-1906-03-06.md",
+      "sha256": "746e9f0378c2bbb44b40a4a158e8d94faa4b056b7c2cd2cef8b357c011b6efc7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5925-1906-03-12.md",
+      "sha256": "15bd63fb2f022a3275f7d8a3d1bd18e044c9cda092faac286373b52d5b635498"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5926-1906-03-12.md",
+      "sha256": "4530b4f498cd5bfe8199ebd6f1901db64e4b2dcdfc75c7621ba3b8d9e61062a6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5934-1906-03-20.md",
+      "sha256": "ae4f55cefe00a7f2dfb49df2cf56a4f79b6578f107fe2c1a85912ccf07ed4a08"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5945-1906-03-26.md",
+      "sha256": "859c6ac1db6898b4c3d92c1cee55c00897aa0b22d51cdbb835a865be8f10decb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5946-1906-03-26.md",
+      "sha256": "8f54bd52cf67ae554b5b58e67c635e8cbdb3e522e0ebc1eec0f6c93b78fdc551"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5948-1906-03-27.md",
+      "sha256": "e8ec430986c33e8afb1863cee40849deca4d76d2a17268e9f0b3dcb7a21c8a7f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5949-1906-03-28.md",
+      "sha256": "3d66231fd4442b6f475f4fe999eba280e2f24280ca398638c8fdd1260910ee81"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5950-1906-03-28.md",
+      "sha256": "97392d87ce0bb5fe7501cf90d2bd0831f9d57dedd08e1b5a23aa817c4e9de844"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5953-1906-04-02.md",
+      "sha256": "ad15815c5d3c41c16833083d3a4d0a028f9af918f0ff6831b1cdd381cf45d291"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5954-1906-04-02.md",
+      "sha256": "95a12e8614aca2ea5ca2e9c869095943b046e9d253bbb3e09460ab123f6501d5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5955-1906-04-02.md",
+      "sha256": "bc6eb48900227d1efe7383b9c2a7b38d33a7b7d2f9ad825d2ba4e649f5bd3e02"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5959-1906-04-06.md",
+      "sha256": "53bf5bfe4d0bcf632647836c972290ae63782e788ebb242ed56a382489031c35"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5961-1906-04-09.md",
+      "sha256": "9b7c4f3f308fd357121a6c0ebe04cdbb6681c33d319bc49c74afe193d25f8fbe"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5962-1906-04-09.md",
+      "sha256": "8dc54f3fe6e712ef033f783211df2fe51e10ae83d6f9b724e40db50eb337ee37"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5966-1906-04-14.md",
+      "sha256": "17c27df00511242d0a9b73ad26f21e7b7edf9d2128e0651b1ce96604ac0be4d2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5967-1906-04-16.md",
+      "sha256": "d23517b9d8bab3c2efff1ff82a95270b2d7a9a5042da40c3c0775ea23ee367bf"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5968-1906-04-16.md",
+      "sha256": "6cecbb75cf17973b0303ce48f65397e9571c4da42445c681b3f7e9336ec8f7aa"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5969-1906-04-16.md",
+      "sha256": "ba4806a16915d6d5bd43ab212137532a211f7ae70e538f7114aff82f4d5b5060"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5970-1906-04-16.md",
+      "sha256": "cde1ca8d15863688de3eba4e3c8cb9041bf50abf9e1a3308624cb7ef59f5c699"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5971-1906-04-16.md",
+      "sha256": "6a15db344684e0b32e6774891473aea65c29e9a653f602ba7145027978dfb83d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5973-1906-04-16.md",
+      "sha256": "aa1ca9dde834e648c20c4b7d28d6ee3866ef45e2bbacfb1c368305ae43331e75"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5980-1906-04-18.md",
+      "sha256": "47e69c6d99f4913ae9d892011aaaea2a9309ce654c7973dacade0da38f8ee478"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5982-1906-04-18.md",
+      "sha256": "015699bc91190179dee40cbb935aaf93e186ec9af0f1e7ccd513eb5ac658d370"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5985-1906-04-23.md",
+      "sha256": "7f0839424d71fe92abb6d7ceec61ee976d8efd0217adb07db38df22c88c09341"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5992-1906-04-30.md",
+      "sha256": "a8dbcd4727ace11d12d2d4b0bf776c0fc4260eed49516bd4582b3a5ccc2d734e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5993-1906-04-30.md",
+      "sha256": "8dc96abf05cf674ff8f7183140819b89448f4463d7bfce3978d46dd4bb109fc4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5994-1906-04-30.md",
+      "sha256": "3c95cbda607fd63c9bad7e4d09eb011e622181adc25166589142a0ddfcdd4b2e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5995-1906-04-30.md",
+      "sha256": "1b37c54694c6313e1517ee7ee1cd00c279ab2e9494fceede5f0fa8e93a1071f1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5996-1906-04-30.md",
+      "sha256": "bdc718fd0eac076064a112e30ea96e02dfdf2abb214d5f4b43e3c4dfb1b156c1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5997-1906-04-30.md",
+      "sha256": "e347bee36eb6c1b9ffffddcc79f6b32f71dc4be1ca1fccd0c9efa6c071d975b0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5998-1906-04-30.md",
+      "sha256": "d2d1534c89c46fef06426d41f2848074cd9c3889c3ab882322260d88b6b54ffb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-5999-1906-04-30.md",
+      "sha256": "36d9be16f44f79afbb9258b5655d65b17307fecfb0a19f75b23b5c97b59ee267"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6000-1906-04-30.md",
+      "sha256": "c6e8d4a281691550d209807775cf3e0fcb14b960df27ade4ec3b6d30593c2608"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6002-1906-04-30.md",
+      "sha256": "4d7d30a0fb674f3cf98b9038878b5b7e7db71f981ef22db3d4cba5a5011a8c38"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6008-1906-05-02.md",
+      "sha256": "8f1258a73f5771808430fac5c14879a30f6aacd6bee954e1becb2c401410e945"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6009-1906-05-02.md",
+      "sha256": "8a4ef2ee12f8ecce3f585afcd5258716c066cfdf225ff7ccc5b3f0067b046ca0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6014-1906-05-09.md",
+      "sha256": "c34538e9441004fc5c7da68ff9ae5dd418658528ecb23e36cd187de80461bca6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6015-1906-05-09.md",
+      "sha256": "87916f38ea9937bb7355b122aab3ac4856afe2a7badf79a0238d377dd7694979"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6016-1906-05-09.md",
+      "sha256": "05b7732764332e495caa75f26af90f2dac038748e11c90b1ff13900d751c3211"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6017-1906-05-09.md",
+      "sha256": "6eb481b8cd75ab8ed73f0499d44b549790d4b0d6b54737c11aeece5deab64001"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6018-1906-05-09.md",
+      "sha256": "b98febf3dab1156d0816faf7f93f046e26c1c526b0796def2e0935429f303c5a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6019-1906-05-09.md",
+      "sha256": "329b01ef5c59c9e85c66407b353381afb0d6aab614fd0d7437df1f58da00f468"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6020-1906-05-09.md",
+      "sha256": "85c1ed8b926bcc5cc3319b067c4a80739f520fa7d419da022c23d46f0b4a51c1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6021-1906-05-09.md",
+      "sha256": "328ffe58ace3c8585436b602ddb85e021cd786c00665e27765fd901c8928c67d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6024-1906-05-14.md",
+      "sha256": "e4b161874cdda28cdc32291e151e1746847cd480de0ae739d70d7a5bddecdca6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6025-1906-05-14.md",
+      "sha256": "e4ef8b5dc3c7d60ed041096e320a11a9c41ae90c4215721021af399016ccc357"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6026-1906-05-14.md",
+      "sha256": "353bbc4841a098b21cc342befdbd8d69e3c628b514a50fa6e6a3f1683479dc42"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6027-1906-05-14.md",
+      "sha256": "7ed4896817689b47e58ec2c6e38f0cd9081be2eaefb4af15a4ed837305c1fcc3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6028-1906-05-14.md",
+      "sha256": "79f64892e559bf571638582e5cbd8ba3cd12853249ead1a604968f60136497c0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6029-1906-05-15.md",
+      "sha256": "2b1c413f2183824e3c3614639d24afb1848d7fc6220123ff9e2f81d983f80c49"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6031-1906-05-17.md",
+      "sha256": "4b74be26cc7ac51e9fe24c541b2645d600f839f998248f0fbb378b8e953c8df8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6032-1906-05-17.md",
+      "sha256": "02572da90dc5e39830ccfe1bcbc141cee3ebdb9d288c2267fab739f76cc31be2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6033-1906-05-17.md",
+      "sha256": "f2c682b3ccc9713e70e25032e6a147ef384d0cb30e1c64638d909812e6789c5f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6034-1906-05-17.md",
+      "sha256": "a428dc649b71d9213bd5d6e1bba11c8e49c5bc576798c4ce29d4148fc0ef4c4a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6035-1906-05-19.md",
+      "sha256": "f69a0fec5a844d52dc8f6d4579da6c602551b82780db3bc46ccd494d412ef61c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6037-1906-05-21.md",
+      "sha256": "5ffd6f751ddd29a08e9f652dd4b0fdf88b1b903be189cd968dfb46bab5cfa3f2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6038-1906-05-22.md",
+      "sha256": "17b0b1fe1117a8bc1d6308f4a74e95398349c0d89e01c0064aab31705218eccc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6040-1906-05-22.md",
+      "sha256": "ba597fe737bbb323212936db58a19a9fea1fc49911cdef4ab5ba7d85be907ec3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6041-1906-05-23.md",
+      "sha256": "0d2e713fd889762fb779d58bc9286180b7437fc1e87086cf110f3d88ae89c2a0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6042-1906-05-23.md",
+      "sha256": "a8af4afa6a7cf1870cb2d1ceebc7d4719fa249f8e410cf9d79cbd9f31608a46f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6044-1906-05-24.md",
+      "sha256": "2403e498e39c6f5db4c36a21e66df90793f4a565b85303f0ab54acff7d0daf70"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6045-1906-05-24.md",
+      "sha256": "9b0f8fdccb08d86f2298596f8c209e48c32f66615d272bc795219ade1b3a0f9d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6048-1906-05-26.md",
+      "sha256": "b0d92d0af179af68ff6b0758f80367bb7f17d0f3c7f9b033b366ebb3e9ae8eb7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6049-1906-05-26.md",
+      "sha256": "651124982e58ca6805fd43322e0dd3ad65e7934d555d528179a893b28c02d86d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6050-1906-05-26.md",
+      "sha256": "4c0358abd16ceec9d9d21a1bcada9f201a802c0e64814f70ca948b28e6fbab79"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6051-1906-05-28.md",
+      "sha256": "19b36c6f5434740c9a41766cbc4df809dadf4f2a7bdd5aeee5af4c6aa502e7b6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6053-1906-05-29.md",
+      "sha256": "139813f3a75671cfc38743294b0c9aa76b7d83ad3c3c3520c16e57ff090987d2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6056-1906-06-02.md",
+      "sha256": "d54addab44a06f29ab003c16187d1bdf4359261fbd01c186052aacc74e125d98"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6057-1906-06-04.md",
+      "sha256": "a715ac017bb1024a613bdde64bc467636f488bc64797269759c18366c3656523"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6058-1906-06-04.md",
+      "sha256": "2306bbf5105ae687c6e209524a059bced2efeb9a364aa4e9b9279a2c531c1ba3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6059-1906-06-04.md",
+      "sha256": "c1a4958456831bbec5b10b1430f82a4a9d56acd38c9d4f7727b9ce390f0e63ea"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6060-1906-06-04.md",
+      "sha256": "9c605a1e01e49547393fef49ab54ebd99373d9cd49ecc729d6a72e6ce95a68f6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6061-1906-06-04.md",
+      "sha256": "ee3e7f8e8ffb53fd19e8c7254cca8f3089399f98554b6a216b7a702a72b00246"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6065-1906-06-09.md",
+      "sha256": "6eb91063e840cd47673634ef13b144d8d836adcf200851de54a38f2a522938af"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6069-1906-06-12.md",
+      "sha256": "3bb37c487664ef76724a6add4acee89f453328e545ca3477464bfa579673b5c3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6071-1906-06-13.md",
+      "sha256": "9fa223cad6a427695850df5d9cf34850dd39a285915d60f059c5e255f70618c5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6072-1906-06-18.md",
+      "sha256": "3594cbd967c407c95f0f1b4c484bb620618d2afb0510b049f738a9d2dd84340c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6074-1906-06-19.md",
+      "sha256": "1f97906c5ae63c32d05c7df73103a5fb1dc76bc61d339991b2ddc52c787e6a32"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6076-1906-06-19.md",
+      "sha256": "48e81be49cdc10c1c13ad90fe94af87ba25397055e425387dde27ebb91feda61"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6078-1906-06-25.md",
+      "sha256": "f632a7b6ca405a086b10a7afdd675295a620a615c1dd4412a5856a162631d21b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6079-1906-06-30.md",
+      "sha256": "ba0176a3412ceaee09831054f7b6afde22d5a0116dfcdca10a1658ae0a49b4f3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6082-1906-07-09.md",
+      "sha256": "8f62c164bb77a4ce4f52aac922cce4c62d525b73aa30f740e2c2b779b37254bd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6084-1906-07-10.md",
+      "sha256": "d721ecac38b065e03233084dbd318ded95e1b795bf642d8b0318eb6eb039c8db"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6089-1906-07-19.md",
+      "sha256": "bf9c60b6f1ad4e2d4061cfe9f495be2e3fcb0b294ab2ca41f6312a061ac524a8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6091-1906-07-24.md",
+      "sha256": "fea87b9de98c683723cc7d90de00615eead34c6d0ecf50bc126b52b1b1aed4c1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6093-1906-07-25.md",
+      "sha256": "5a2547c8411517e70f654c2de18246d4bd719f451a40fa3ef20795b19c2ef227"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6094-1906-07-25.md",
+      "sha256": "8616e8408b66b9571e3a8bd68099345f9952520bff57da97f2284a161d4471a1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6096-1906-07-30.md",
+      "sha256": "65252900d84a380347c7b51702b1afe3be9c109b9189dea7b3f73e28ecf31611"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6098-1906-08-07.md",
+      "sha256": "92e4d25bb0fca79036558cb82702ed3b076af0b6f3ca6f71e1c6eb239365eafc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6099-1906-08-07.md",
+      "sha256": "58c0d11decb4d39be305ccfb72acd326d57586152abb5088d3d526c72fa0af3b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6101-1906-08-07.md",
+      "sha256": "2ee52e741dd7545caf37dcc470448322fcfdfea744c6ee01f389e25c86ba8a7f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6102-1906-08-07.md",
+      "sha256": "d2bcaadebbaf13d9bac02b9b8cbd9f6216356db7de76cc4baf57ce3ca8ac3533"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6107-1906-08-13.md",
+      "sha256": "62b5e44726d965b1d21f62ad7799de6e34efede31bf26880bb32b3876b96c7fc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6108-1906-08-13.md",
+      "sha256": "bfe11277b26f4712fce9e355eb3f6dade1cd1a70f2669c6d6f36a7d4f0bfb085"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6109-1906-08-13.md",
+      "sha256": "52f19ffd7d71b633e310213f7dced6e1ba6149694514ae76ca1bbf3e88c327ec"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6110-1906-08-13.md",
+      "sha256": "b31be2e825a14bfa611b5ce8270ca10d56698ae72fd427881d962e8167218ffe"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6111-1906-08-13.md",
+      "sha256": "d638441f685aba0659eb7d3660307dbae5a41c953e7880a5876756bad7ea99f5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6112-1906-08-13.md",
+      "sha256": "b0d0b1895c3afea73100bb555d6b3da307093ebea76069cc4d97650a14faf177"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6113-1906-08-13.md",
+      "sha256": "f9e486efdce864640478e1ef437c9314f8f51f1cfe045422804ad39fd620e650"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6115-1906-08-20.md",
+      "sha256": "ba51ff6007f8d6f4248cce7ac081b9dc82d209e3f5542ecd3b052ba4fcbd603e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6124-1906-08-28.md",
+      "sha256": "dd4612bb3e94eccc6d47d288b866f8bcd76687f94745ea47e9c5b1057528e318"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6125-1906-08-31.md",
+      "sha256": "716cea81bdcc8bfeeb36286721a0d5442a7ebe556bedd2a5d6431696d810bfec"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6130-1906-09-04.md",
+      "sha256": "97c6e4ba0fe934baca349e011cc56e5a44a0990d9787f3dc1e3c46ed8bcf38bc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6132-1906-09-04.md",
+      "sha256": "a87a57f06a00de145b7109cc167495ad3c47f4d6ba3ea8f3357f53a70c5c5672"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6134-1906-09-10.md",
+      "sha256": "71b1811d72747768d7d66de2b7946ed3483fcd0bf9f59643dfbcd0ed438f2f7a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6139-1906-09-11.md",
+      "sha256": "955459f9245d0f7797017c2d49de7b6213696e5b688bf4344942e36911c48209"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6140-1906-09-11.md",
+      "sha256": "fbf07258c23a3028ee4eb6806ffacfb637080480e50aebb517e80b1a8a17c80b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6143-1906-09-17.md",
+      "sha256": "1920d97ad0ac8a36774068367dbd9ba4814d6690fdccf2b0285a525a3bddb764"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6146-1906-09-17.md",
+      "sha256": "4a1434a2a85d580819d1279c86852445d6f50ca21233374d890841858938f56f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6147-1906-09-18.md",
+      "sha256": "78ea669ffa4ce81eeb77b52a0a054258b229a4e3fce3dc73f80bca778fe7c7dd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6148-1906-09-18.md",
+      "sha256": "0357bc64227e3144c0f823279775a250826001113ff371317fe51d75bd5edb7f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6150-1906-09-18.md",
+      "sha256": "d3dcd00e28c5a8e74bc227d670da3ebca14f9f23c57f29d491093401f6a34a98"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6153-1906-09-24.md",
+      "sha256": "b189a24e808a8149259b6beb61246fc5788fdf1749db2d7c46059222decee049"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6156-1906-09-26.md",
+      "sha256": "c3b4ca69fac901443d137f99786e1940a4948803b30bcda10849d1cc4c8db609"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6158-1906-10-01.md",
+      "sha256": "bd9752c516c2601dd2d103bc9eb6fe004e9288cf402459173a807b2486e0a5b9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6160-1906-10-02.md",
+      "sha256": "94389bd7e8bd76854418f59926155828512720e9cdb4571c2c4a6dbb0a25509c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6162-1906-10-08.md",
+      "sha256": "7db9233ebb139294baa97bd4308bb4ec4c7ff2da8932160d2d58e323e16bda41"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6163-1906-10-09.md",
+      "sha256": "39715dd908279476de7ca8363f2487595f91aa1d8f8e0bfa36262a612cc2b46b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6164-1906-10-09.md",
+      "sha256": "40db7332ea74c2aa088ed4385275325ed9590d611078929a869077d0cca6c4f7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6169-1906-10-13.md",
+      "sha256": "9ba46a70d0bb32eb45db09b41a7b00e818286a5b5e2358795d194b917c9fc5ce"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6174-1906-10-15.md",
+      "sha256": "7bebcf8a2d354e90033d8d5668e618809e2865936c8ef00c0cc35ce0124afc33"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6177-1906-10-16.md",
+      "sha256": "4a5dde1fdb948d2a71f2b1d85037cb4c64885da8e0fb963060a53c505217ef2a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6178-1906-10-16.md",
+      "sha256": "7a6fed33004bea02e509df1ea00d093e3bc13a60562a6d8d4f8a7aea7b8763a6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6184-1906-10-22.md",
+      "sha256": "13b13d169e7c3c92e74f2a1f6e5af50c036b86596188712efc099c46db07c0fe"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6185-1906-10-22.md",
+      "sha256": "1146c83c4c07c2b526a6f4c61ddf33cfff2a6192ccfdc342655b81aaf251ae30"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6186-1906-10-22.md",
+      "sha256": "48a5b4d4630665a5a8f34a66b4d6eeb08599941e9a2ff1a700ff320c5eff4d12"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6191-1906-10-23.md",
+      "sha256": "3c3432cc10fc7cc5243e41cdc935d53d541375f24b722a7700c84de44f67fc9e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6193-1906-10-23.md",
+      "sha256": "7469189f5eb7d37a0fb0f8a9e3f8ae31225568be5d4ac1d808cc8952b315d44e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6194-1906-10-23.md",
+      "sha256": "6758be2ba311c7e4abdf5cc522b798ac3d2c2948757b6c81311837e57096de10"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6197-1906-10-29.md",
+      "sha256": "522b16a629ea77bcecc48cdaeb5cf3901ddd2dc3788e0b22a1ca7f5ca1151f00"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6199-1906-10-30.md",
+      "sha256": "004807e9f77144c88bde4af9e2d3856df677033d5fc59519810440b8b386e370"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6200-1906-10-30.md",
+      "sha256": "3c88a23d1b9a9b864bdb2d907df66e44e9bf59e8c8611fabac0563d33913eceb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6202-1906-10-30.md",
+      "sha256": "a2d20fe1ef5c2e77ef30b4334f868624ba07808e7e77aceab8eec8904e646f33"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6203-1906-10-30.md",
+      "sha256": "97c9ec137dc17919d1e337f7abe764dab8a4f7845779c324d30eb8921b6f7543"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6209-1906-11-06.md",
+      "sha256": "c38d05dff35bf67edcdcde76110b4ee05773b75016ae22df8f48c50342aa030a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6211-1906-11-12.md",
+      "sha256": "56ef1332c3b1b714ddcb68d98df4ba44cf3909b21411f207bab5ea66c8707125"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6212-1906-11-12.md",
+      "sha256": "5e0e3a3710262f57f82cd26a29d3af2df238c78e4e3be00b57a1e682fd040661"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6213-1906-11-12.md",
+      "sha256": "82c6d2c089a7551c9b192301c8d803087ade6a4d313fdc6819865f7184bfd9d6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6214-1906-11-12.md",
+      "sha256": "d86e3bab8b78d5be40aba588de44ad77dc17e13e1e6b72e041d8ced3665e3224"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6215-1906-11-12.md",
+      "sha256": "ed4638cf7d140a11034dd8551dc38ccca41380c8cc71446160868faf574e17dc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6216-1906-11-12.md",
+      "sha256": "9ad451bdca4550cbbb0b543a17fe33e6419ba9daaedd7da9af140a888fe29560"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6217-1906-11-12.md",
+      "sha256": "3a46054b199b57d8335ea7ca94c2e3b0492f1b984978d5789ada3ce30b7555e2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6219-1906-11-12.md",
+      "sha256": "b39cfcacb630e36fd87a05e9df36d0c01ae1275229774c2bb221b148637a9e0d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6228-1906-11-13.md",
+      "sha256": "759256681891051da1fabbd60ea45f904129ea90965f80c5bd93f8f208bd29a1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6229-1906-11-13.md",
+      "sha256": "47a9e8801809eb3e0e696d6c167d7c308c350dc8bcc33ecac64ca81391e0945e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6230-1906-11-13.md",
+      "sha256": "81910c829dc56e32605575775c0269d1ec22d7cae1b11e53ea3d8a6311238bd1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6234-1906-11-14.md",
+      "sha256": "84bfd96f87046e30e8b6df2f69ec853714a2d4acf8fe152c9293a1551f6dba27"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6244-1906-11-22.md",
+      "sha256": "40985813fb8b375f9b961117188825b08009b77c3a37750880b84080aebe0bda"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6245-1906-11-22.md",
+      "sha256": "2c9db0fb4b3410954f369b98ed968e061ce6167afca1c1e35c31997ecba70b50"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6247-1906-11-29.md",
+      "sha256": "ea45786ddc294ef6f41c11b824d857ca784c5b814ed266d6a788e039dd007965"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6256-1906-12-06.md",
+      "sha256": "a9ce83e9b7b3f639ec6e0c1b4626d06fd431be4bd8337f448dc0632ed8686158"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6258-1906-12-06.md",
+      "sha256": "d002b50cadf9030c88993a70a2deaf808a7f1fa0f097fdc18cd75284783e8962"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6263-1906-12-13.md",
+      "sha256": "bd441f489988e37eba653327d24e010f5e0985e8a10e14fcea22bf34a2e2e88f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6266-1906-12-13.md",
+      "sha256": "dae2f62dd69b08b9bc2fdb57a32356d2e95bfffa99bec8cfe39332ae7e37da79"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6268-1906-12-13.md",
+      "sha256": "6b51c00acdad1178d84c856532ae83aece2d7b323ee07ff48ebc1929713c89bd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6272-1906-12-20.md",
+      "sha256": "102aafbebb2f9ca8ca3dcf75340b01645440fe173d46df1ecf038350a4e9ae6a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6278-1906-12-20.md",
+      "sha256": "c90b85fb7b34239decc0513e6c907d3937c390f20a6a573d8cd081e968073af8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6279-1906-12-20.md",
+      "sha256": "367b214f62527595f6255cec5cd28250acbcd29c6e2dd2a114d7aa8fd3b6a611"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6280-1906-12-20.md",
+      "sha256": "2017139da1bd703f644a9be44cc122224c5c03c1d3d4bd6fe3c619fc4abfec84"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6281-1906-12-20.md",
+      "sha256": "0b1915d62034e8bb39de4a18aca35ba7a91f83064435cca7f2389861f4b9537b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6282-1906-12-20.md",
+      "sha256": "bcd820ce4a36ea96c6c65db7176f7fc5f1b2a05268128a3035f719e2a5a25789"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6286-1906-12-21.md",
+      "sha256": "7ce17b7ab05bd343c7a8871e5d5b26e10f40da191a31e529fadf1b14f826460c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6287-1906-12-21.md",
+      "sha256": "bad938d7563be2badb4a4abe71549029a7f86570f45d308012a06d2dd297a427"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6288-1906-12-21.md",
+      "sha256": "4846c1d3e858f7167c816be0a67b7a50b90fc5374f7472e55f2438347c44034a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6289-1906-12-21.md",
+      "sha256": "7be633a8ad6783e155fe12e01bf7f15e09b0af598efac0be595d9d5cf6804d2b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6298-1906-12-29.md",
+      "sha256": "495d34fd992548ff7394afdf20f4c3e3ec5b14392b420b94c68808ed3e873aaf"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6299-1906-12-29.md",
+      "sha256": "aa76235b07c5525a7be6ec36638a5b226461b9bb3ff617177925c19cf2615252"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6312-1907-01-03.md",
+      "sha256": "f0861db41a4ae54dcac45f1f4377f38f1479c07e5ced19b4ad4f2996fd4fc8ab"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6316-1907-01-10.md",
+      "sha256": "bbffc5c5eccc727d10a5bc99f531b0c3e5d2a625dfcc806eb242b391dccb87aa"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6324-1907-01-05.md",
+      "sha256": "779dd7588e4bfc80588bc8a648014e358e9323808f400690985fc8456146c61d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6326-1907-01-12.md",
+      "sha256": "fd5bd97b6c1ea7a24fb6eab55a9c38524389a68d0769c2992361c0b8addec4aa"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6331-1907-01-17.md",
+      "sha256": "ae517e5c07d8d6d5709acb9fa900a0ec19a99e5a22a4c4a1820482c82d8de0b7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6334-1907-01-21.md",
+      "sha256": "7cdf819f3cd2a6af10774c633244c685c5184b2b200363abc0e607e7ea629561"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6335-1907-01-21.md",
+      "sha256": "c03b58095b1e8ec458aa9438e07ceb56fef2337cd0f1d8393311e66edbed6656"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6336-1907-01-21.md",
+      "sha256": "206c50ce64f616beec11094611d3c15446a4e66840b971ea2aeca1459fdb1237"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6352-1907-01-31.md",
+      "sha256": "bba93c0c1b427267cab25b0f6578ee6b83d6c1fe947287409f62a9508bce88a5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6357-1907-02-07.md",
+      "sha256": "93327ad535c50699ccd35f4465b2f6c7a39bbec217d086a9c632562c37c467ed"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6368-1907-02-14.md",
+      "sha256": "4b58f64b7ff1da60ed799c56712fb08e6b3e9f9ff609c467d1a44a68ea678022"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6370-1907-02-14.md",
+      "sha256": "96fa4dd322619fb6dc59e331e4699f14cb0c1e5b2fe8ac73d995823144d226eb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6372-1907-02-14.md",
+      "sha256": "faaa3bc27f5b521436aef97bb691470eb617f1c15ed016093e2c2fefbe495b3d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6378-1907-02-21.md",
+      "sha256": "568e6ed6968242f62650ec0babc955b20318ff9c9904797f867e63785af0545e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6379-1907-02-21.md",
+      "sha256": "743b6ae1b1d88f9803878ae421dea081549acb2d55681d4d7ff45316f2c8f1b1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6380-1907-02-21.md",
+      "sha256": "aa27ce4ab4c9a3324e3d0f38c031f37c957493b88bf599bd98902aa821b5ff0a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6384-1907-02-26.md",
+      "sha256": "5c195cb2ecddb8f2461e18f67eb09a981403044675462f4db4f84c1064a2b4c9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6389-1907-02-28.md",
+      "sha256": "19cf3304be220d4b1191de68ae476a923b0b870bec47e9435ab0493157f2dbfa"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6393-1907-02-28.md",
+      "sha256": "af6b2af0deb46c971bfa7090df14e06562bcf5a338d4a9190e8c7ee2e1f7634c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6394-1907-02-28.md",
+      "sha256": "0ce4a5954858c2bdc2e00ba0f232635de650797f30a9c4b4786561dadc3380ad"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6396-1907-02-28.md",
+      "sha256": "34ef514831d3d68f279d83f6f277caefb3d7eaeeaff72b883cd38f20f84b5485"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6398-1907-03-01.md",
+      "sha256": "be2cb6f297fd3b9fc917eb0eb8000b15da6c7805c18b39f8f9e684dad11b6238"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6399-1907-03-01.md",
+      "sha256": "357565b544c7e38a36de007b118266d03e47fbe7b322ef429a5bd76801b13aed"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6400-1907-03-07.md",
+      "sha256": "1b4c1ce1fdba9dae05df1d35eda3030aef14c9b487f48602ef4a955e5bd5312e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6401-1907-03-07.md",
+      "sha256": "b5716b528e4cfde36a07bbf1d24ccec02c23711f9f5e47b9fdd29d006d22d03c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6402-1907-03-07.md",
+      "sha256": "c0d2d1ca33cb14525c05ab57145988c88eaee7befae0bf5e15fe4a8cdc6e9689"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6407-1907-03-11.md",
+      "sha256": "334e7f8de226081f27f4f1bb2b2b0ad2a227b7e2111e2ee68665a8bb45a2a33f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6412-1907-03-14.md",
+      "sha256": "9049bec8c420161e8caf0214e953a26172817ab720524d08a964be4552cd492e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6417-1907-03-14.md",
+      "sha256": "4d3d442efd2af9b596a21a0cbeb11afc6f29a5d13bf18aa83913ce00afaf6e48"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6418-1907-03-14.md",
+      "sha256": "b2e6b2739661ad82a893531f47b98a16cc4681dbf3b2c78320a833282ada6da4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6419-1907-03-14.md",
+      "sha256": "ea9f7e5e717d3563c0b5ef93a003db5a41012b44d1055fb71490ced196856dda"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6420-1907-03-14.md",
+      "sha256": "f27355aeb79c6e71492d45e039790b28fd6f464e97dc612f3e214721ab2dee4c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6421-1907-03-14.md",
+      "sha256": "21785b4df551c11d960311aed07d1c280514622b9edf7a488ea43ba8798ff0d3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6422-1907-03-14.md",
+      "sha256": "610a473cd71eb2975b7c4b9c02908842202499d779aa220d2e77dbccdf0d66d8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6423-1907-03-21.md",
+      "sha256": "a03f6722e4a332361258687bf6af0e3bd2c3018a1889eb95ec8720ab2e729d62"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6424-1907-03-21.md",
+      "sha256": "bae5b9ecbb09f38040410263fa2b33eb4d3c80e9dc90cf413c238c3a5020059b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6427-1907-03-21.md",
+      "sha256": "592f576da255950d4f873154256c7d3b4298bc6742797b26f6ba0dae7666bba2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6433-1907-03-27.md",
+      "sha256": "6106ea606c1c1c0c72f9dc890d653967fca25e2a9ce1c44dcae5d474118e10a6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6434-1907-03-27.md",
+      "sha256": "298e55260e002db4000c3c87e676982014198acfff16f3c64518c46ef4d1a730"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6445-1907-04-04.md",
+      "sha256": "18b91684cf5e7bbd8a70a584827093a02c9781cf7b2d97bfa03890cf736f9a54"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6446-1907-04-06.md",
+      "sha256": "2d847d2d7838da7182e738ba89364ff401ee15a7ce948799fb7b9131db448a74"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6448-1907-04-11.md",
+      "sha256": "bb8f48b089becfde69fd7934ce932e782020192be827b041d52f9547b02e46b5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6449-1907-04-11.md",
+      "sha256": "d0013fab86b5946b79b4b5e5401ce6aae5f1d7c6ff4130f19e00c30e844841fc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6450-1907-04-11.md",
+      "sha256": "d62569df69e01063f72dc0126d22a72247fc3c0cf6a1d7eb42cb7149cd129fe2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6451-1907-04-11.md",
+      "sha256": "c00dd4e9dd76e6d66d580cb9ea2de75ea9239a9908a4c7b2cc54d31077a86b2e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6452-1907-04-18.md",
+      "sha256": "0e2f40e6e2c9980f1e4a164d3614f34595ed381b0687f1dcb1336f8f18d4b9f1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6455-1907-04-19.md",
+      "sha256": "3754396bfbe864947d62cdaaf1e1f3f4efa4dac9c4d21cacefdd46b6d1f0fade"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6460-1907-04-25.md",
+      "sha256": "4d803c8e36740e8676b657853d392a2c5c256f4c626826e88c259d6c286f4367"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6461-1907-04-25.md",
+      "sha256": "e1219990669450da3bee2cd11110845699cd60876fb6b6ad8c0ddbb055950155"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6462-1907-04-25.md",
+      "sha256": "326c6afef34d1a9cbd53a236de1a45529372065ea27625893a4486e7a1c2661d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6469-1907-05-02.md",
+      "sha256": "e2c6e86dde2f309a45486cb98a40ef038ea72a42f786f47f2ccc3bba171cb989"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6472-1907-05-02.md",
+      "sha256": "e0d981730c981ea544328e5e55a9ba19a2d43dddd81a22d1044ad28ae14dabb8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6478-1907-05-16.md",
+      "sha256": "b38d6bffb6f591b3b096174895d37f39eddcaec41c661c2a9a01b451a0ed84f6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6480-1907-05-16.md",
+      "sha256": "2cef70641f281d80e083149c315141f4cad77f4cc771df828ead268427e73f3d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6481-1907-05-16.md",
+      "sha256": "d22a20771b491b75f914d005a3014d50b5525061b55925df7f5d8fc32d0f2f1d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6482-1907-05-16.md",
+      "sha256": "5f577f970970f5fd29e21d60f29c5bf49341fa05181ee7a5d8c8a020c22f38d9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6483-1907-05-16.md",
+      "sha256": "9f5345884a4865c5c18f7665534b8f4e62387948c1e2dc10ca911e379af48829"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6484-1907-05-16.md",
+      "sha256": "518b7fe56228c5a2154dd642e86edb6a4a383ea54e462e079cdffc79d2447fea"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6485-1907-05-18.md",
+      "sha256": "47846c1db5a69aaeb193d3f0f901ab70060e302cdfc289b5bf522002750adcc8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6488-1907-05-23.md",
+      "sha256": "0ee45188a786855213f15fda050a504c9f806a168fbc3fecf6dd8265d36d17e3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6494-1907-05-31.md",
+      "sha256": "1e762d586b627198bf1dc69739646adafe98c5df08f7c6fa53bc98d3e6aff6ce"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6497-1907-06-06.md",
+      "sha256": "37da703d0606d3c5a2db689b7b52c1f0f8a3e313cf3e48cfa3a08a7a3b1ac3cd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6498-1907-06-06.md",
+      "sha256": "af96239f355bc0f4722823c33acdd31092ccb51e006315f5b6211f66ad43605a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6499-1907-06-06.md",
+      "sha256": "c179309a1c1c5b99b3574e68d419c4bcf8ec95bd22881d659e41f2dd55746439"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6500-1907-06-06.md",
+      "sha256": "a81acd3b706ce3dcec7bfec32f5a5b7b8db11912c12749642131483a78aeb17e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6513-1907-06-13.md",
+      "sha256": "63e6e7ab57f9912f2d865c74f50fb5838764d6773076803ae9cee647b0cbdd86"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6515-1907-06-13.md",
+      "sha256": "b5f7c2721eff8f62545a72b0c4403298390f10e99b8ecf7a186761cfd9e10c9e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6516-1907-06-13.md",
+      "sha256": "1ea0dfbda6d564c367490b2d97e8297a742a162222c19fc4919a02e13b4f7901"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6520-1907-06-13.md",
+      "sha256": "75b0593871666b3626ac6fb935690671d7c9e1e4f56d3e7d2492fc7a76e9cbf8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6521-1907-06-13.md",
+      "sha256": "afcea022f586882eebf91e5428b9f01fb08c105d404f8846ae4b7092497a4085"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6522-1907-06-13.md",
+      "sha256": "62ec14e736181dd25e548f1b1f2ca0ee705b2cc0f8aff53a70d4e15ac3737307"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6530-1907-06-20.md",
+      "sha256": "f229fa679482202951e7d006aed253142a35837823be193f3d5055b07af8e2d0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6531-1907-06-20.md",
+      "sha256": "b6c6c3c6f7920509f5c80ad17746c30b22c91e4b5848986ccb713fafbdd41257"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6532-1907-06-20.md",
+      "sha256": "1953269df1418abc897d0846a79a2e06f76d2849944c79a39f30b7e863f65fa3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6535-1907-06-27.md",
+      "sha256": "a15b0da83a5e328e9772ec7aa25e257ef44621315fed14395ec675c0c56dfe74"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6536-1907-06-27.md",
+      "sha256": "0bae39d4aa04106b39a322331324eaa6427d9c2ae9ba5a1836b7880f14300ca7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6538-1907-07-04.md",
+      "sha256": "91d8eedd761c54da08d36500212c0a3399969fd8a9215929b8c02d98329053ed"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6539-1907-07-04.md",
+      "sha256": "19a159405730e1234e6d7077c5416c86fd1f2754758c156ac6dd26819246d7ca"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6543-1907-07-04.md",
+      "sha256": "36bf42c995925d361dd81b8def92d0b7308048cd33d07a685b8b7ea65e9e174e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6544-1907-07-04.md",
+      "sha256": "5cb8727b464e1e22dba3ab28be77d54d47359d0c870e22b775e7a962721b0033"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6546-1907-07-04.md",
+      "sha256": "d8b62ed9ec7bf42e4cff190c216650d1317a4b9a182f694de379010862fb65f3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6549-1907-07-11.md",
+      "sha256": "2fede30eaae8d1fa9c2c10d51b3e2ba02dd2e9af8f438cbf7568c4f4c5a04446"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6553-1907-07-11.md",
+      "sha256": "efe7412c6cc7c732fd7b0b2aa5cbe2f652d0194b0d370922d49463f9fea2554c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6554-1907-07-11.md",
+      "sha256": "15657eec185697e725fc4df6dcb0510665653cbf0ee056b3854e437735d6d83c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6555-1907-07-11.md",
+      "sha256": "d1e2ffa3e81f32ccd0880e828f91807118f590269267702a9d50d5a6c0e06b7f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6556-1907-07-11.md",
+      "sha256": "382192912265d6b3405b8a78d2798acd91cd90c77ee6baa2bbce4f38afdc1430"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6557-1907-07-11.md",
+      "sha256": "6cedf9a0e50d118b5eaef86079e418222ac5ecfd7af19d78914beed2f55f2118"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6558-1907-07-11.md",
+      "sha256": "78bc752ef602c468d8f47dd954cd8d0ead7709a8dce1b2742052c39b79d30fac"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6566-1907-07-18.md",
+      "sha256": "746b266508270aa21105875c2c253a7bfd063222e6f4407ed6bdb34e527cd72d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6567-1907-07-18.md",
+      "sha256": "a8c8b9ef5230299ad889959df12967efc3af1a52c70978c5aed61a2b7abfd03b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6568-1907-07-18.md",
+      "sha256": "aaa3c4d629179cd534404601b02bc9dcf3ffa1903b5ad9df00ab76dd541a578f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6571-1907-07-18.md",
+      "sha256": "d591378dd5555fca78ab94340fb62979c017e3d2045acfefab5b6a48d5ab8f44"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6572-1907-07-25.md",
+      "sha256": "e06e3c4c378b23814d605e169a3773c687071e0148fc154bb2d411f6920d9cc6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/reparos_nativos_final001/dec-6574-1907-07-25.md",
+      "sha256": "a0fcfe47b93a21931c53555a1b48fcb9ddb110591f2644983ff82fa08d695491"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6575-1907-07-25.md",
+      "sha256": "a07574477e57fcd3fd94aa5517c51099020e43f3abde4ab0a1d9e0ec4c302790"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6577-1907-07-26.md",
+      "sha256": "57bf33a511b9eb5180b4c5f66ce1400c303fb0159fe78698357e9ed7f1d90b95"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6578-1907-07-26.md",
+      "sha256": "42bb2085ea682938d2e16a564f5867566f860deeef0d80c294bd8cc933610b1f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6579-1907-07-26.md",
+      "sha256": "01ccc1d8d0c368a779f7691fdadc3a36244d8cafbb185fe37ab1462983158591"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6580-1907-07-26.md",
+      "sha256": "3a07099e1fd6a4a9b484e8bf3197f4f524ec9fee962604607960bfc1357aa1a7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6585-1907-08-01.md",
+      "sha256": "cd2e732c16f0b1451aac337161c8e665173a37279149b03448bf0848fea37034"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6586-1907-08-01.md",
+      "sha256": "1134c9f9e7a91c1369262767cefd2e31e3f5bfc1dce6f49229076763476d8e73"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6589-1907-08-01.md",
+      "sha256": "a71f839908b57ff50a8856a46e63352949cbf6bcd6b989ced455f5f506ddbeda"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6591-1907-08-01.md",
+      "sha256": "fc25282fc09b2228a7d24e08f88ca10756022123d0edd09163f8462d8875da15"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6594-1907-08-08.md",
+      "sha256": "601ab3e48b6244029668f402a239ad1bcc1e3dcbf2dfa90536d4dc9c2496cc38"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6595-1907-08-08.md",
+      "sha256": "2678bbed01a5d9ea5ddb00ba370e62b736ee84ab435bd0d55aee66f53c445bf6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6597-1907-08-08.md",
+      "sha256": "68fa8046950469c4e581f535c3faf4d3a39177a700bf96c4d3d97a96fdac2ef8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6598-1907-08-08.md",
+      "sha256": "8c1b7e8659b8c4130350452e420ad560e41b7fa7b5f12c641ec8313874a76fa8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6602-1907-08-10.md",
+      "sha256": "66f4358bd2fe4ea133fb4a528f5b9ecaf621598c96f8a089ffe68d2d368afc1d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6604-1907-08-16.md",
+      "sha256": "f22053083484be2e71a062cd9c98748ef260f2aeb53aea01760a5ff47a575d12"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6606-1907-08-16.md",
+      "sha256": "e135cb9f9bfdce79323d4d1b7dd041d706ec9ad604a3e93b287b85519e340810"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6612-1907-08-22.md",
+      "sha256": "ea385c29c2cd7f53125fca3ebb6b4f396e0b4b203c44a453ff80c7eec08937ed"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6613-1907-08-22.md",
+      "sha256": "81043025870520193b67ca76aeff385c0a8b2f63188a0ebb713b3307c2ef1663"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6614-1907-08-22.md",
+      "sha256": "a490608a785d256fcd4d5d28d80a3f8423b52be32d27dfb39821ee3895befcb2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6615-1907-08-22.md",
+      "sha256": "114001e9b3f13e54ed342aec1a587c64bb4a188934b423ac0957e33d4dead142"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6618-1907-08-29.md",
+      "sha256": "19b877fc885c661a217acbee7fcbdc1aeb9c379f46a535c04707676d86a2e8fd"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6620-1907-08-29.md",
+      "sha256": "798a2df36b63a6c9c18200cbc6b63e53aa543600aaba6e1e2ab8b87b2025365e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6625-1907-08-30.md",
+      "sha256": "6393896d5a621b53e99308e4fc6e5c2ad589ded70fc0f34366eee27b738219c8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6628-1907-09-05.md",
+      "sha256": "6c8f780825524365788c30740d1e501ae760e1a76ba1fa736cea319669ae973f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6639-1907-09-12.md",
+      "sha256": "01a16a55d53a8953e230abb0a844d24f45b3e0d9d0a0359f4e949e648a5c9d57"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6642-1907-09-16.md",
+      "sha256": "5455ad9387f89b9d3eefc14079b73704dae546031f5b6b725bedfb6800dd9bfa"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6643-1907-09-16.md",
+      "sha256": "db66c6fc54098a86574b4efa31f87647cb82facf88619a80a25b82e2bdbd66fa"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6652-1907-09-19.md",
+      "sha256": "7193a1192838634022c8fb54fd935cd8ec1de43eb9bbce3f823598e76632f09e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6653-1907-09-19.md",
+      "sha256": "4dca75c6cac156989ad3a0b9d70517bfe0e07413a3f3fc41c644069a7d7c6bf3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6654-1907-09-19.md",
+      "sha256": "91e8bf64e7cecbb667451e3b352802a3aa0999405c816c5c95f6654b6726f42b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6655-1907-09-19.md",
+      "sha256": "4289eb6e53c69075d54707531f389eb20665084ed5411cf4117845090e8478f0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6661-1907-09-26.md",
+      "sha256": "59c2eb5db506760c4a76e001f394a2169a5ec23dc088307a74ed29b6f0bbdc4c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6668-1907-10-03.md",
+      "sha256": "c5734fffb993c18f7b8be763bc86b7688c779be8ac78007ee0a1791aa967249e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6672-1907-10-03.md",
+      "sha256": "6f5c24eedc618792159e60288a3d784839afaa6f9ba0a98063a9f1740a560801"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6674-1907-10-10.md",
+      "sha256": "ad1e19bdd0d1a016130a9889bd9a0ee766cc1bc8e4d4212a6bfb49b75b6608ec"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6680-1907-10-10.md",
+      "sha256": "34e4aa18c1b73a1c3cbbd5e6160b3c2892f7a0983e6c304ee52e25826420d9e1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6683-1907-10-17.md",
+      "sha256": "7cfd69098afa8559f9ae2d8439fb4376ea48e7ae5f117a8226e44bf70c410371"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6684-1907-10-17.md",
+      "sha256": "9aa7def09f1b922d348d0ee0894ca9170cc9468d4d4cb0af6f1debf7b9799375"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6685-1907-10-17.md",
+      "sha256": "6b60f5e45a0b04c377470e9c1cd38c0c63c1e3115ec975bb7e38a464c8188dd7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6686-1907-10-17.md",
+      "sha256": "d22179006d1a6448e900023782c5ebb3553903e14b2d1194cdc36f9baf8dee85"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6687-1907-10-17.md",
+      "sha256": "cebbf3da0abac3734b51783e35429d113119829f10108c6c4f9d4b4fa7c106a6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6690-1907-10-23.md",
+      "sha256": "14642878223533bee11992b1b34c570a8e390db2a3a55dd3e56b9001ea0796a5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6697-1907-10-24.md",
+      "sha256": "d81dc2b7528b9a7cd57045fe09bc6370149aa51c7c54e642482bd7ef9c524714"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6698-1907-10-24.md",
+      "sha256": "ae02e1b71191be290cfd81f9467073dff8fa94203526bf53363903066107f77b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6700-1907-10-24.md",
+      "sha256": "e5510ac61a30f16a290e4fa41e174df3bc595558854d5d3a0b64b4cfb52e283b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6701-1907-10-24.md",
+      "sha256": "882b55df1a19a0ae5a48444bd90b477e9728a0e3e7f34bfb650e2e002a4a8eb3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6702-1907-10-24.md",
+      "sha256": "633ebb3336c8318aa417cc81deddcfb49ad359f5bc90c7b51b532fa080079653"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6703-1907-10-26.md",
+      "sha256": "1b17b948ad30c429a8ae155521887f4d924e4fcdf2976d224e484745d5413769"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6707-1907-10-31.md",
+      "sha256": "040499c38280768d9bb9cdfa47c5224887b4c18f5a62a88298483c0d9e2d8994"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6708-1907-10-31.md",
+      "sha256": "5a4265e0340acb020ee8ac10e4bef6da2b41223cb84f303b1e6c524a8fad4b27"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/reparos_nativos_final001/dec-6709-1907-10-31.md",
+      "sha256": "d0ed11cf8495ad003c740bf76f909fbf4f4405ef0df9e4784b923423f6fc1757"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6730-1907-11-14.md",
+      "sha256": "90428539dab0788675bd49fc93e62446c130d3e59dfdb2f3c7be709a12f23a71"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6731-1907-11-14.md",
+      "sha256": "9f32ce9f4fe3d473fd05c77d78ea79664706c161dfb99e6f417b9be2c494bdaa"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6732-1907-11-14.md",
+      "sha256": "de11efc86557904f3ceeac74274e1d6134059457c1b4d187ee2996d32eda01c2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6737-1907-11-14.md",
+      "sha256": "d5c1182c2cdfeda3d8959674fc4de483415ab57df8a53d504e196ee77d8094bc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6744-1907-11-21.md",
+      "sha256": "4a1f179e9d50e3d2db6df8109a71282b45e3ad244b7523b6969f74917ce96f77"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6745-1907-11-21.md",
+      "sha256": "4d1b9a4dfcb01efbf04783b650608c67fc9076500f0a39d295fca60e0f050b10"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6746-1907-11-21.md",
+      "sha256": "a7c5d80fa54962b726820f5e8ea237bd48d33fd9848c33780eaf043bb82746f3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6753-1907-11-28.md",
+      "sha256": "68359d8eefa53bde8c18532c5a6b23d802d0962203409aa111f2c7fb5f8850d6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6757-1907-11-28.md",
+      "sha256": "7c10f16bb26ffb86e6793ef51f012b3183a0dfc089f71e0021a1566981eb2208"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6763-1907-12-05.md",
+      "sha256": "3b66afe77ad69aa23d77af0abd3550e127d6a765e35b9860a359f8710a15dca7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6764-1907-12-05.md",
+      "sha256": "740b5eaf778bee8179dc18623c9de4dedf33484ebac3051743d642fc80334848"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6766-1907-12-05.md",
+      "sha256": "f6df9c1240c1f212c40ae8ee17b713952c8545b33de81e94ef95f38be71e1d06"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6767-1907-12-07.md",
+      "sha256": "e0d8d6469c0da33f51164b7ad85dd6030c8badf86afb79c0790f7e2a6eb677e8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6775-1907-12-12.md",
+      "sha256": "2b627a79c682d28bfb14678ca316250b96e18f1102acbc6e5057ca2e69869a12"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6777-1907-12-12.md",
+      "sha256": "3702df10014c257ea87da236253d8097c90db41e9479c69fa3b335dfc8007964"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6780-1907-12-16.md",
+      "sha256": "95d825923ceff6b40f5170398dd0f8550f7b411170bfe861eec254991b15aa03"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6781-1907-12-16.md",
+      "sha256": "150f390ae17f99d6da95592a3c2eab21633399e77848df91490067c6cd796fe4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6784-1907-12-19.md",
+      "sha256": "ffbe9c43d60ac93702f163180ebdf37aa88c25dd9376364d8cea73a48ddae479"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6787-1907-12-19.md",
+      "sha256": "c7940a308e71954095ac303480e154317d7a87a3f2b036bed26b0e48f775c157"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6791-1907-12-20.md",
+      "sha256": "9b2170d1509b962eaa457f4ca88048914181b386c7bf61ed9ce8b42b72d6675f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6792-1907-12-20.md",
+      "sha256": "7ebddbd5baa66fa7ecc17b50d705773e24d3371e6b6bc6394980ec1fa54899bc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6793-1907-12-23.md",
+      "sha256": "26de2d1be62e7518d57531e777e291249892bd4b09946c211d2e8753a2d121e5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6795-1907-12-26.md",
+      "sha256": "ee360cec6fa9240714d759509ed26584ad983c15cbe97d8334fe90720d5f8238"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6797-1907-12-26.md",
+      "sha256": "a5ddf02c0f7d0037f0adadf1a6f83c68449ef4f566b64b92dcfe7e600f8a62be"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6798-1907-12-26.md",
+      "sha256": "2132b95985b0c66d044e0406cefb40562e382171e30c4bf05824e960069ff3eb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6801-1907-12-31.md",
+      "sha256": "35a8397779481566428ed5c58fd0ae86cba685dc87195580790c85ccebe99139"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6829-1908-01-16.md",
+      "sha256": "d663331d467d6054a5169cf2712a1b4d0354607be77b98995128eb14a7e8c0c8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6833-1908-01-28.md",
+      "sha256": "f42778f7696bc130316ca58aa80329508b5f426e851716d24e03731ad9c87f31"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6836-1908-01-30.md",
+      "sha256": "2d2938099f74b73a100057097683590a6b2c662687eedf1a1e70a21f942ba14f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6838-1908-01-30.md",
+      "sha256": "9ce4c087f337f2a57b9d777af90797f1a36ed72df6a7318b1514552885967d4e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6839-1908-01-30.md",
+      "sha256": "636fdb8dac614be6b680d2f984a8415aaf02eb964b2be661f60ac8214bf13b93"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6840-1908-01-30.md",
+      "sha256": "d6a306fb8672cd956a29477251dd6b3956bd4ce1ed1ad06398ae761e673c3a76"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6842-1908-02-03.md",
+      "sha256": "37248c809d832b91b194c516b0ea87b1440b69ca151a233e4e9e766d1f2aee58"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6844-1908-02-06.md",
+      "sha256": "729db1d31fda51bd7483998ad43754e58fd9a903161531d91a12727c62181c69"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6845-1908-02-06.md",
+      "sha256": "e076bc052c0e370c32aa603e3828372478c5b8fb671290b3d2d9dff2dd879493"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6857-1908-02-20.md",
+      "sha256": "e23455ba7f34a8d8673df0109551a0e7573479f1de925eb60d26b63777ae2eac"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6859-1908-02-20.md",
+      "sha256": "a50cbe0789ad3dbccaf3580f7c893d8fe240588e5a3820f01d943c9ab352a3ab"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6860-1908-02-20.md",
+      "sha256": "8de31efbdf6d25dfb4fd7d9e0005eb5632bf61ff34d7614df64e46aedbdfea3c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6861-1908-02-27.md",
+      "sha256": "1c480553a0c706102f65dffaa8498ce89e50cc2ff8c95730bcc8260a2c948d82"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6872-1908-03-05.md",
+      "sha256": "edea9b47371c875ce1d23a1ec95ebfd3dd2dccdb15bf46b7a9a6e962c38ef864"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6873-1908-03-07.md",
+      "sha256": "c6818fdfeb9b09a392c3eec1e7d3eb7b32464f0bd6487f68a28359da4ad99a90"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6874-1908-03-07.md",
+      "sha256": "695fac4864442d48725ffef97071e09910b09e2fa24f93affb3b099e09790109"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6875-1908-03-12.md",
+      "sha256": "3a4b676daee9d4d4144a18cfd499a719ba05cae395691315ef4b8ff3f1d65046"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6877-1908-03-12.md",
+      "sha256": "0126a8936a08416d8b2fa113105f28ced9d0bea1a3e0d4235c02b1c80f3076e8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6881-1908-03-12.md",
+      "sha256": "bd063ab124232fa7f08a3fc5d100e41c587998e0bc33b830e30e4f99af3d6e2a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6884-1908-03-17.md",
+      "sha256": "0ebc749a18987ccfcb6fe327ccb2afceb726e8c23f1f4af6d64ae7a2e623903e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6893-1908-03-19.md",
+      "sha256": "6930beaa702f0e68ede04424850dcb4100c7328ff56b9d692be8bc88570b9a28"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6894-1908-03-19.md",
+      "sha256": "d154354225460a2e41cf3a857d12aa75735d9f9fcfbd4caebd61cfd02483b2bf"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6897-1908-03-19.md",
+      "sha256": "246d2899eb0843c528d2a8b65dd6a67d9e7df32a215a45d3c4bf27f2f3db48cf"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6903-1908-03-26.md",
+      "sha256": "ca594db27617c9a3fb44e3991c876201ce9a8cba1640dcf4b3212c4e98244377"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6904-1908-03-26.md",
+      "sha256": "9895f9347eff4f2d9ef6ad108e935886a8c6e15794aa4e58ff5d3c3721b14075"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6911-1908-04-02.md",
+      "sha256": "2464e7b1292969b4443aaedc14bad9a4776f9885648b6a15246ab2196e35726c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6912-1908-04-02.md",
+      "sha256": "735ff8bddfcac8c920f6f57e44dc00101b8115d8fdc529f81dbb0a01b99bd215"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6913-1908-04-02.md",
+      "sha256": "c05755ba9e39ef23a96021029f3dd97b77a331afa3e2c3e78602a95901c3da69"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6921-1908-04-09.md",
+      "sha256": "cb352fd2434cc3fe4fcc2f3cb4ffc77d95557a3782bcdc7089a2cb712404aef5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6938-1908-04-30.md",
+      "sha256": "d53816605220c05c3a8c6f677c241a3f0d6631a5d49ad21f35c78067ea387b43"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6945-1908-05-07.md",
+      "sha256": "38b199587f501ec2fdfec1a17f16d31b1bf0166a73275a202fe198b5a4587c23"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6949-1908-05-14.md",
+      "sha256": "2729fbb7f8e817956f810060b8630ab3f8597ad491ddb01a5ca562b144ae4f2a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6963-1908-05-21.md",
+      "sha256": "9796779d43cd9d9aab34d4ad8f148000ca0db05d2e2ff41221d703995973d2ad"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6971-1908-06-04.md",
+      "sha256": "d7b69c6c1cdaf3e3408ecc936fada3189ba14c1ee7e43a607305cca34805f631"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6975-1908-06-04.md",
+      "sha256": "ad97853afcdaa4673f90f0e2d349fb05ab3c793ba8f40ab3930446b4980e21a3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6976-1908-06-04.md",
+      "sha256": "b7457c6288e50ea65d23a3b2bc5e38b259cbbbfefe29356dd3898c983c551c2b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6978-1908-06-04.md",
+      "sha256": "30f252b601aafa0aa41b326a19660337db2f6d9b2bb122f12b6fe97c650f96fb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6980-1908-06-05.md",
+      "sha256": "cc262e9da4169ffdc5cd98fde4ce256c57e2f9b7f5f0102750a293d4522c0920"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6988-1908-06-10.md",
+      "sha256": "4065bd51a80bbe61240d2c6f589a492f5cc7168313c0279612843c2730c7cb39"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-6989-1908-06-10.md",
+      "sha256": "acb53f83ea1d2eaeb442eb8e1534bef5f2f8042ec07b2db7f382ca64fa7e446e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-7002-1908-07-02.md",
+      "sha256": "ef50fab1d3796334ebb15919aad2c1aef677c06af8713935f993ea2067d1bb0c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/reparos_nativos_final001/dec-7005-1908-07-02.md",
+      "sha256": "9b9459ef2c5d45e05d88f52deeebc33c339744f86077e13149d02d58d39627a8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-7021-1908-07-09.md",
+      "sha256": "bce388d57b7667a65b1db0592fb853e3281576938d651144be20599677f49982"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-7036-1908-07-20.md",
+      "sha256": "45de3fbad69e482cb3151a9bbebff5926a8870c6c3609b62a6413e974f734112"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-7049-1908-07-30.md",
+      "sha256": "b0dddc56f7c2c9816d977fee9122f7432155d734c4680d694a0e4ab2b6aab776"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-7050-1908-07-30.md",
+      "sha256": "d08ef1941f7cfc043b8d220ae0486d7d66e227dea72a8ea9ac490db3c2075c31"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-7054-1908-08-06.md",
+      "sha256": "5514be82d24fba3770f1b0cd51086e56cfca4ef1389b34e4062dd4d2b05d7e69"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-7061-1908-08-06.md",
+      "sha256": "e8a231bbe5dce794a063cde7f6314ff96c9125639d324fb8d2fb7e55e3b1322e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-7069-1908-08-20.md",
+      "sha256": "0bea68554122a7907dd3350a8e2d30b037cc45a0625a7bfe9521b9af9c3de237"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-7075-1908-08-20.md",
+      "sha256": "719d9f5920ac2343c625a3a9efa41caec99f8b5ddbbc9f9df7ab50657a2435c6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-7088-1908-08-27.md",
+      "sha256": "31027748138b5dd5c37771e3ed170976700f518e8d80c085ca057b7cd3e14982"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-7092-1908-08-27.md",
+      "sha256": "c8e23de3b4fe20a2ef993b58bb1868b63bbf596ae6c92274fdcfbd1c255b4495"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-7099-1908-09-03.md",
+      "sha256": "de81d8bcc3a96b455a0c821c94d7242414c6d2f6617011c29d0f2f5c48957615"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-7108-1908-09-10.md",
+      "sha256": "79acee07c67639a3055a4acfcd8371a56053d544f477972832929b9f11d14d2f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qa_final_guard87/candidatos/dec-7109-1908-09-10.md",
+      "sha256": "5ef70367b35c17faf0af50ca547feaab6371209dfa52b8137207a41816b0e2c5"
+    }
+  ]
+}

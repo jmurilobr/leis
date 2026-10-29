@@ -1,0 +1,22 @@
+{
+  "hardbreaks": 3,
+  "finais_vazios": 0,
+  "criterio": "Somente três cópias SHA-idênticas da quebra intencional entre Eu e nome/assinatura do tabelião na fonte integral do Decreto11016. Nenhuma outra classe dispensada.",
+  "arquivos": {
+    "federal/_fonte/auditorias/alimentacao_normas_20261028_017/qa_final_guard87/candidatos/dec-11016-1914-07-24.md": {
+      "sha256": "40ac92c459cc802fd2cf319bc442db79ad132c08729abd9ed2d7855142a49135",
+      "linha": 50,
+      "hardbreak": "exatamente dois espaços"
+    },
+    "federal/_fonte/auditorias/promocao674_20261028_001/aplicacao_ROOT_20261028T165402424565Z/579_dec-11016-1914-07-24.md.candidato": {
+      "sha256": "40ac92c459cc802fd2cf319bc442db79ad132c08729abd9ed2d7855142a49135",
+      "linha": 50,
+      "hardbreak": "exatamente dois espaços"
+    },
+    "federal/decretos/1914/dec-11016-1914-07-24.md": {
+      "sha256": "40ac92c459cc802fd2cf319bc442db79ad132c08729abd9ed2d7855142a49135",
+      "linha": 50,
+      "hardbreak": "exatamente dois espaços"
+    }
+  }
+}

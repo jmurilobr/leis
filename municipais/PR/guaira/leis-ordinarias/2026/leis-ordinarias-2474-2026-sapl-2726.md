@@ -1,0 +1,135 @@
+---
+titulo: "Lei Ordinária nº 2.474, de 27 de abril de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2474"
+data: "2026-04-27"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2726"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/1063/text"
+sha256_fonte: "978e8f389cefa6c80ff8df13f0e6f94ba9986cbd00f286d57aa2a2916a4d47e1"
+sha256_texto: "65cc0ca239f83556626d6fce98f506bc2c9157a8d766f9fc321edd19d12f0504"
+capturado_em_fonte: "2026-10-28T13:06:08.845036-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.474, de 27 de abril de 2026
+
+Cria o PARLIM - Parlamento Internacional Municipal, formado pela Câmara Municipal de Guaíra - Paraná e Junta Municipal de Santos de Guairá - Departamento de Canindeyú e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+A Câmara Municipal de Guaíra, Paraná - Brasil, em conjunto com a Junta Municipal de Saltos del Guairá, Departamento de Canindeyú – Paraguai criam o PARLIM – Parlamento Internacional Municipal integrado por ambos Órgãos Legislativos Municipais.
+
+
+Parágrafo único
+
+O PARLIM – Parlamento Internacional Municipal terá natureza jurídica de Fórum de Cooperação Institucional, sem personalidade jurídica de direito público internacional.
+
+
+Art. 2º.
+
+O PARLIM – Parlamento Internacional Municipal tem por objetivo:
+
+
+I –
+
+Priorizar o bem-estar, o desenvolvimento cultural, social e material da população de Guaíra, Estado do Paraná e Salto del Guairá/PY, fortalecendo a solidariedade e a amizade entre as autoridades e a sociedade de ambas as cidades;
+
+
+II –
+
+Cooperar, de forma recíproca, para a apresentação de propostas aos Poderes Executivos, para o desenvolvimento de obras e serviços de interesse comum;
+
+
+III –
+
+Sugerir projetos de governança e desenvolvimento territorial para a região de fronteira;
+
+
+IV –
+
+Criar Comissões de Trabalho para alcançar os objetivos elencados neste artigo.
+
+
+Art. 3º.
+
+São atribuições do Parlamento Internacional Municipal:
+
+
+I –
+
+Incentivar o desenvolvimento econômico, o turismo e esporte em benefício das comunidades da fronteira;
+
+
+II –
+
+Apresentar proposições para regulamentação e fiscalização do transporte urbano de passageiros e demais matérias relacionadas a circulação de veículos entre as cidades fronteiriças, nos respectivos Poderes Executivos Municipais;
+
+
+III –
+
+Apresentar aos Poderes Executivos Municipais, projetos de atendimento médico e hospitalar para garantia da saúde pública de qualidade para a população, a ser implantada de forma conjunta nos Municípios;
+
+
+IV –
+
+Incentivar a consciência de solidariedade e cidadania quanto a participação da coletividade em atividades municipais de interesse recíproco;
+
+
+V –
+
+Interceder junto às autoridades Municipais, Estaduais e Federais, apresentando projetos que viabilizem o intercâmbio de bens e serviços entre as comunidades da fronteira;
+
+
+VI –
+
+Apresentar aos Poderes Executivos Municipais respectivos, projetos, convênios, contratos e compromissos para a prestação de serviços e realização de obras de interesse comum.
+
+
+Art. 4º.
+
+A Presidência do Parlamento Internacional Municipal, será exercida pelos Presidentes da Junta Municipal de Salto del Guairá e Câmara Municipal de Guaíra de forma conjunta.
+
+
+Parágrafo único
+
+Os Presidentes poderão nomear, através de documento público, um vereador para exercer a presidência do Parlim, sob sua supervisão e anuência das ações.
+
+
+Art. 5º.
+
+O Parlamento Internacional Municipal, reunir-se-á mensalmente, em Sessões Ordinárias, a realizarem-se alternadamente, nas respectivas sedes dos Poderes Legislativos, sempre na primeira sexta-feira de cada mês, a partir das 14:00 horas e terão 03 (três) horas de duração.
+
+
+Parágrafo único
+
+Os locais, datas e horários das sessões poderão ser alterados mediante a aprovação da maioria simples dos presentes na sessão.
+
+
+Art. 6º.
+
+No prazo de 30 (trinta) dias, o Parlamento Internacional Municipal deverá apresentar sua regulamentação, a ser elaborada através de estatuto próprio e aprovada em conjunto.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 27 de abril de 2026.
+
+***GILEADE GABRIEL OSTI***
+
+Prefeito Municipal
+

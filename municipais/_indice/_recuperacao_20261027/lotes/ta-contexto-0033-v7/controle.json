@@ -1,0 +1,22 @@
+{
+  "criterio": "Detecta texto e mídia normativa fora dos dispositivos contabilizados do TA.\n\nControle adicional somente leitura. Qualquer conteúdo não contabilizado é\nretido, sem presumir que se trata de navegação ou decidir vigência por aparência.\n",
+  "aprovados": 1,
+  "retidos": 0,
+  "script_sha256": "f44151983d56fd8ff3380b5ad14ad8557215b895048d6405e7563b21b6a3b066",
+  "resultados": [
+    {
+      "path": "municipais/BA/gloria/leis-ordinarias/2025/leis-ordinarias-669-2025-sapl-167.md",
+      "sha256": "5decdb6294741d1cbf2ce3a3f66bb8bc944e1272dbe59445b6a8ca9e8e7324b3",
+      "sha256_fonte": "b8dfcce4a3edd997aa94d8ff144ca5010cc278781877538d8c58c72be93fe6dd",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.gloria.ba.leg.br/39a81a4413c9265929946e2b521aba33cd0d4e4bbec8d1a75baa035a06958eb2.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    }
+  ],
+  "limite": "Texto fora do bloco pode ser histórico, alterado ou duplicado; retenção é preventiva, sem afirmar omissão antes de revisão. Os controles de seleção de vigência e de tokens por dispositivo continuam necessários."
+}

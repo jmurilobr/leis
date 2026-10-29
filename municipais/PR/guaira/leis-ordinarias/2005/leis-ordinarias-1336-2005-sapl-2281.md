@@ -1,0 +1,114 @@
+---
+titulo: "Lei Ordinária nº 1.336, de 23 de setembro de 2005"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1336"
+data: "2005-09-23"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2281"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/797/text"
+sha256_fonte: "ca71cb904ee533a3e280b9ad2a4e80c76fbb735ea5bde78e87f737f6f8ecab0b"
+sha256_texto: "7406b34da1528f05d1faad0e4f16d7f076b6e6a0520a50d7d02e56757751cbd0"
+capturado_em_fonte: "2026-10-28T13:26:57.282488-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.336, de 23 de setembro de 2005
+
+Autoriza o Poder Executivo a desenvolver ações e aporte de contrapartida municipal para implementar o Programa Carta de Crédito - Recursos do FGTS na modalidade produção de unidades habitacionais, operações coletivas, regulamentado pela Resolução do Conselho Curador do FGTS, número 460/2004, de 14 dez 04, publicada no D.O.U. em 20 dez 04 e instruções normativas do Ministério das Cidades e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou e eu Prefeito Municipal, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a desenvolver todas as ações necessárias para a construção de unidades habitacionais para atendimento aos munícipes necessitados, implementadas por intermédio do Programa Carta de Crédito - Recursos FGTS na modalidade produção de unidades habitacionais, operações coletivas, criado pela Resolução 460/04 do Conselho Curador do FGTS e Instruções Normativas do Ministério das Cidades.
+
+
+Art. 2º.
+
+Para a implementação do programa, fica o Poder Executivo autorizado a celebrar termo de cooperação com a Caixa Econômica Federal - CAIXA.
+
+
+Parágrafo único
+
+O Poder Executivo poderá celebrar aditamentos ao Termo de Cooperação de que trata este artigo, os quais deverão ter por objeto ajustes e adequações direcionadas para a consecução das finalidades do programa.
+
+
+Art. 3º.
+
+O Poder Público Municipal fica autorizado a disponibilizar áreas pertencentes ao patrimônio público municipal para neles construir moradias para a população a ser beneficiada no Programa e a aliená-las previamente, a qualquer título, quando da concessão dos financiamentos habitacionais de que tratam os dispositivos legais mencionados no artigo 1º desta Lei, ou após a construção das unidades residenciais, aos beneficiários do programa.
+
+
+§ 1º
+
+As áreas a serem utilizadas no Programa deverão fazer frente para a via pública existente, contar com a infra- estrutura básica necessária, de acordo com as posturas municipais.
+
+
+§ 2º
+
+O Poder Público municipal também poderá desenvolver todas as ações para estimular o programa nas áreas rurais.
+
+
+§ 3º
+
+Os projetos de habitação popular serão desenvolvidos mediante planejamento global, podendo envolver a Coordenadoria do Programa Especial de Desenvolvimento de Ações Comunitárias, Secretarias Municipais de Planejamento, Ação Social, Infra Estrutura, Fazenda, além da COHAPAR.
+
+
+§ 4º
+
+Poderão ser integradas ao projeto outras entidades, mediante convênio, desde que tragam ganhos para a produção, condução e gestão deste processo, o qual tem por finalidade a produção imediata de unidades habitacionais, regularizando-se, sempre que possível, as áreas invadidas e ocupações irregulares, propiciando o atendimento às famílias mais carentes do Município.
+
+
+§ 5º
+
+Os custos relativos a cada unidade, integralizados pelo Poder Público Municipal a título de contrapartida, necessários para a viabilização e produção das unidades habitacionais, poderão ou não ser ressarcidos pelos beneficiários, mediante pagamentos de encargos mensais, de forma análoga às parcelas e prazos já definidos pela Resolução CCFGTS 460/04, permitindo a viabilização para a produção de novas unidades habitacionais.
+
+
+§ 6º
+
+Os beneficiários, atendendo as normas do programa, não poderão ser proprietários de imóveis residenciais no município e nem detentores de financiamento ativo no SFH em qualquer parte do país.
+
+
+Art. 4º.
+
+A participação do Município poderá se dar também mediante a concessão de contrapartida consistente em destinação de recursos financeiros, sendo que o valor do desconto somente é liberado após o aporte pelo município, na obra, de valor equivalente à caução de sua responsabilidade.
+
+
+Art. 5º.
+
+Fica o Poder Público autorizado a conceder garantia do pagamento das prestações relativas aos financiamentos contratados pelos beneficiários do programa consistente em caução dos recursos recebidos daqueles beneficiários em pagamento de terrenos, obras e/ou serviços fornecidos pelo Município.
+
+
+§ 1º
+
+O valor relativo à garantia dos financiamentos ficará depositado em conta caução remunerada mensalmente com base na taxa SELIC e será utilizado para pagamento das prestações não pagas pelos mutuários.
+
+
+§ 2º
+
+Ao final do prazo de vigência do contrato de financiamento o remanescente do valor relativo à garantia dos financiamentos, após deduzidas as parcelas não pagas pelos mutuários, os impostos devidos e os custos devidos ao Banco credor pela administração dos recursos, se houver, será devolvido ao Município.
+
+
+Art. 6º.
+
+As despesas com a execução da presente lei, de responsabilidade do Município, correrão por conta de dotação orçamentária específica.
+
+
+Art. 7º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Guaíra, em 23 de setembro de 2005.  
+  
+Fabian Persi Vendruscolo  
+Prefeito Municipal.
+

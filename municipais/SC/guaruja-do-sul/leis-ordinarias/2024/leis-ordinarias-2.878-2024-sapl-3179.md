@@ -1,0 +1,299 @@
+---
+titulo: "Lei Ordinária-GPREF nº 2.878, de 10 de dezembro de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2.878"
+data: "2024-12-10"
+municipio: "Guarujá do Sul"
+uf: "SC"
+codigo_ibge: "4206603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guarujadosul.sc.leg.br/norma/3179"
+fonte_texto: "https://sapl.guarujadosul.sc.leg.br/ta/1794/text"
+sha256_fonte: "90f002c12e1dea33481e8c2745a5fc81869841475b553a7181da3ae4c1fd2511"
+sha256_texto: "d94a714ba80f6f69fe10b0b02c1711f920e22e9ce8992261afd00e066d12d58b"
+capturado_em_fonte: "2026-10-28T13:33:17.404153-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-GPREF nº 2.878, de 10 de dezembro de 2024
+
+O Prefeito Municipal de Guarujá do Sul, Claudio Júnior Weschenfelder, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:
+
+
+#### CAPÍTULO I
+
+
+Art. 1º.
+
+Fica aprovado e instituído o Plano Municipal de Cultura de Guarujá do Sul – PMCGS, em conformidade com os art. 215 e 216 da Constituição Federal e a Lei Orgânica do Município, com duração de 10 (dez) anos e regido pelos seguintes princípios:
+
+
+I –
+
+reconhecimento e valorização da diversidade cultural do município;
+
+
+II –
+
+cooperação entre os agentes públicos e privados atuantes na área da cultura;
+
+
+III –
+
+complementaridade nos papéis dos agentes culturais;
+
+
+IV –
+
+cultura como política pública transversal e qualificadora do desenvolvimento;
+
+
+V –
+
+autonomia dos entes federados e das instituições da sociedade civil;
+
+
+VI –
+
+democratização dos processos decisórios e do acesso ao fomento, aos bens e serviços;
+
+
+VII –
+
+integração e interação das políticas, programas, projetos e ações desenvolvidas;
+
+
+VIII –
+
+cultura como direito e valor simbólico, econômico e de cidadania;
+
+
+IX –
+
+liberdade de criação e expressão como elementos indissociáveis do desenvolvimento cultural;
+
+
+X –
+
+territorialização, descentralização e participação como estratégias de gestão.
+
+
+Art. 2º.
+
+São diretrizes prioritárias do Plano Municipal de Cultura de Guarujá do Sul – PMCGS:
+
+
+I –
+
+Consolidar o Sistema Municipal de Cultura de Guarujá do Sul de forma efetiva, participativa e democrática;
+
+
+II –
+
+Debater e recomendar a revisão de elementos que afetem o acesso à cultura e à arte, enfrentando desigualdades e assimetrias e criando dinâmicas de participação social e acesso à cultura;
+
+
+III –
+
+Direito à memória, ao patrimônio cultural, valorizando as múltiplas identidades que compõem a sociedade local e os bens culturais expressivos da diversidade étnica;
+
+
+IV –
+
+Criação de mecanismos que garantam o reconhecimento da diversidade das expressões culturais e a valorização e promoção da identidade dos territórios culturais de Guarujá do Sul;
+
+
+V –
+
+Ressaltar a importância da cultura para o desenvolvimento socioeconômico local, por meio de políticas que fortaleçam as cadeias produtivas e as expressões artísticas e culturais, potencializem a geração de trabalho, emprego e renda, e ampliem a participação dos setores culturais e criativos no PIB local;
+
+
+VI –
+
+Criação de espaços de diálogo, reflexão e construção coletiva acerca do papel das artes em sua diversidade de fazeres, territórios e agentes, e do acesso às linguagens artísticas e digitais no fortalecimento da democracia na contemporaneidade.
+
+
+Art. 3º.
+
+São objetivos do Plano Municipal de Cultura de Guarujá do Sul – PMCGS:
+
+
+I –
+
+Objetivo geral:
+
+
+a)
+
+Desenvolvimento cultural de Guarujá do Sul de forma integral, integrada e sustentável, valorizando a cultura local, priorizando a preservação de seus patrimônios culturais.
+
+
+II –
+
+Objetivos estratégicos:
+
+
+a)
+
+Revisar políticas públicas estruturantes já existentes e estabelecer demais políticas necessárias para a área cultural e sua gestão em Guarujá do Sul;
+
+
+b)
+
+Ampliar o acesso e a participação da comunidade local em ações culturais de formação e circulação de produtos;
+
+
+c)
+
+Criar meios de preservação, valorização, difusão e reconhecimento dos bens e fazeres culturais locais;
+
+
+d)
+
+Promover a diversidade cultural, a transversalidade da cultura e a acessibilidade nas ações culturais;
+
+
+e)
+
+Estreitar distâncias físicas, sociais e culturais entre as comunidades e suas produções;
+
+
+f)
+
+Criação de espaços de diálogo e construção de oportunidade de acesso digital e à arte.
+
+
+#### CAPÍTULO II — DAS ATRIBUIÇÕES DO PODER PÚBLICO
+
+
+Art. 4º.
+
+Compete ao Poder Público, nos termos desta Lei:
+
+
+I –
+
+formular políticas públicas e programas que conduzam à efetivação dos objetivos, diretrizes e metas do plano;
+
+
+II –
+
+garantir a avaliação e a mensuração do desempenho do PMCGS/Guarujá do Sul-SC e assegurar sua efetivação pelos órgãos responsáveis;
+
+
+III –
+
+fomentar a cultura de forma ampla, por meio da promoção e difusão, da realização de editais e seleções públicas para o estímulo a projetos e processos culturais, entre outros incentivos, nos termos da lei;
+
+
+IV –
+
+proteger e promover a diversidade cultural, a criação artística e suas manifestações e as expressões culturais, individuais ou coletivas;
+
+
+V –
+
+promover e estimular o acesso à produção e ao empreendimento cultural, a circulação e o intercâmbio de bens, serviços e conteúdos culturais, e o contato e a fruição do público com a arte e a cultura de forma universal;
+
+
+VI –
+
+garantir a preservação do patrimônio cultural local, resguardando os bens de natureza material e imaterial, os documentos históricos, acervos e coleções, as formações urbanas e rurais, as obras de arte, tomados individualmente ou em conjunto, portadores de referência aos valores, identidades, ações e memórias dos diferentes grupos formadores da sociedade guarujaense;
+
+
+VII –
+
+articular as políticas públicas de cultura e promover a organização de redes e consórcios para a sua implantação, de forma integrada com as políticas públicas de educação, comunicação, ciência e tecnologia, direitos humanos, meio ambiente, turismo, planejamento urbano e cidades, desenvolvimento econômico e social, indústria e comércio, relações exteriores, dentre outras;
+
+
+VIII –
+
+dinamizar as políticas de intercâmbio artístico-cultural guarujaense, facilitando a exibição de bens culturais e criações artísticas nos ambientes regional, estadual e nacional, bem como dar suporte à presença desses produtos nos mercados de interesse econômico do município e na região;
+
+
+IX –
+
+organizar instâncias consultivas e de participação da sociedade para contribuir na formulação e debater estratégias de execução das políticas públicas de cultura;
+
+
+X –
+
+estimular o mercado de produtos culturais guarujaense com o objetivo de reduzir desigualdades culturais, regionais e setoriais, fomentando a profissionalização dos agentes culturais, formalizando o mercado e qualificando as relações de trabalho na cultura, fortalecendo redes de colaboração e valorizando empreendimentos da economia local;
+
+
+XI –
+
+coordenar o processo de elaboração de bases setoriais para as diferentes áreas artísticas, respeitando seus desdobramentos e segmentações, e também para os demais campos de manifestação simbólica identificados entre as diversas expressões culturais locais e regionais;
+
+
+XII –
+
+incentivar a adesão de organizações e instituições do setor privado e entidades da sociedade civil às diretrizes e metas do PMCGS/Guarujá do Sul-SC por meio de ações próprias, parcerias e participação em programas.
+
+
+#### CAPÍTULO III — DO FINANCIAMENTO
+
+
+Art. 5º.
+
+Os planos plurianuais, as leis de diretrizes orçamentárias e as leis orçamentárias do Município disporão sobre os recursos a serem destinados à execução das ações constantes desta Lei.
+
+
+Art. 6º.
+
+O órgão gestor de Cultura, na condição de coordenador executivo do PMCGS/Guarujá do Sul-SC, deverá estimular a diversificação dos mecanismos de financiamento para a cultura de forma a atender aos objetivos desta lei e elevar o total de recursos destinados ao setor para garantir o seu cumprimento.
+
+
+#### CAPÍTULO IV — DO SISTEMA DE MONITORAMENTO E AVALIAÇÃO
+
+
+Art. 7º.
+
+Compete ao órgão gestor de Cultura de Guarujá do Sul monitorar e avaliar periodicamente o alcance das diretrizes e eficácia das metas do PMCGS/ Guarujá do Sul-SC com base em indicadores locais que quantifiquem a oferta e a demanda por bens, serviços e conteúdos, os níveis de trabalho, renda e acesso à cultura, de institucionalização e gestão cultural, de desenvolvimento econômico-cultural e de implantação sustentável de equipamentos culturais.
+
+
+§ 1º
+
+Compõe o PMCGS/Guarujá do Sul-SC o anexo único elaborado pelos eixos setoriais norteadores da 4ª Conferência Nacional de Cultura.
+
+
+§ 2º
+
+O processo de monitoramento e avaliação do PMCGS/Guarujá do Sul-SC contará com a participação do Conselho Municipal de Política Cultural.
+
+
+#### CAPÍTULO V — DISPOSIÇÕES FINAIS
+
+
+Art. 8º.
+
+O PMCGS/Guarujá do Sul-SC deverá ser atualizado periodicamente ou sempre que se façam necessárias modificações e complementações que assegurem a eficácia e atendimento às demandas culturais do município.
+
+
+Parágrafo único
+
+As atualizações podem ocorrer a qualquer tempo ou da ocorrência do sistema de monitoramento e avaliação a cada dois anos, por solicitação do órgão gestor com apoio do Conselho Municipal de Política Cultural.
+
+
+Art. 9º.
+
+Para cobrir as despesas decorrentes da execução da presente Lei serão utilizados recursos do orçamento municipal.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data da sua publicação.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE GUARUJÁ DO SUL, SC, em 10 de dezembro de 2024.
+
+73º ano da Fundação e 62º ano de Instalação. Certifique-se. Registre-se. Cumpra-se.
+
+**Claudio Junior Weschenfelder**
+
+**Prefeito Municipal**
+

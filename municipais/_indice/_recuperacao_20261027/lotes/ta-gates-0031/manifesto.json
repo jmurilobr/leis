@@ -1,0 +1,37 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 1260,
+  "aprovados_nestes_gates": 432,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0031/sapl.formosa.go.leg.br.prefixo.jsonl",
+      "sha256": "92fcf492a1ba8b444a9122e4bb75206ad1db3b836068730fb3c37ddc21114559",
+      "bytes": 1982357
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0031/sapl.formosa.go.leg.br.tipos.json",
+      "url": "https://sapl.formosa.go.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "29dc0d94137aba1af54249808ce584f5ee07c34d47f8767281042f93ab39eaf2"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0031/sapl.formosa.go.leg.br.anexos.json",
+      "sha256": "76f0c4859418f13104f1739412ffb0015355b7b9789149237640646aa1957b0e"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0031/sapl.fozdoiguacu.pr.leg.br.prefixo.jsonl",
+      "sha256": "5c72a84fdabf6dd1a74dfdb2880ed48626399efdb3bdac04c7cb82c81835a93e",
+      "bytes": 2212637
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0031/sapl.fozdoiguacu.pr.leg.br.tipos.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "019735e6af9acd43aaea6437243c606667e2918b16db1e38773626db476e5853"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0031/sapl.fozdoiguacu.pr.leg.br.anexos.json",
+      "sha256": "15ebc695ed0e3495addad2359c21e5ba1a91bb3e1b690a73d88d0dbd23f3c18d"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

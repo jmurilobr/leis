@@ -1,0 +1,116 @@
+---
+titulo: "Lei Ordinária nº 1.155, de 20 de dezembro de 1999"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1155"
+data: "1999-12-20"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2031"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/591/text"
+sha256_fonte: "4cd46d959bc64ac5080aadc2409bfa06640aa980ca3728ac9dd041ce01f95c6f"
+sha256_texto: "b395326a9a0595a38301f016247648be44a7b334da86dec54c47edaf37dd1b3d"
+capturado_em_fonte: "2026-10-28T13:32:28.295167-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.155, de 20 de dezembro de 1999
+
+Concede incentivo à Coalhopar - Coalhos do Paraná Ltda., para implantação de indústria de unidade produtora.
+
+
+A Câmara Municipal de Guaíra, estado do Paraná, aprovou, e eu, Prefeito Municipal sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Executivo autorizado a conceder a COALHOPAR - Coalhos do Paraná Ltda., inscrita no C.N.P.J. nº 02 249 583/0001-14, incentivo até o valor de R$ 80.000,00 (oitenta mil reais), para implantação de sua unidade produtora, no ramo de agroindústria.
+
+
+Parágrafo único
+
+O incentivo consistirá em:
+
+
+I –
+
+execução dos serviços de melhorias de acesso;
+
+
+II –
+
+fornecimento de 2.800 m2. (dois mil e oitocentos metros quadrados) de cobertura;
+
+
+III –
+
+telefone, água, luz e esgoto;
+
+
+IV –
+
+implantação das lagoas de decantação e tratamento de esgoto;
+
+
+V –
+
+isenção do Imposto Sobre Serviços de Qualquer Natureza/ISS e Alvará de Construção sobre as obras de instalações;
+
+
+VI –
+
+isenção de tributos municipais, pelo prazo de cinco anos a contar de 1º de janeiro do exercício subseqüente ao início das atividades.
+
+
+Art. 2º.
+
+Os recursos para cumprimento do artigo 1º desta lei correrão por conta da dotação Secretaria Municipal de Indústria e Comércio/Departamento de Indústria/4.1 .1.1.0 - Obras e Instalações.
+
+
+Art. 3º.
+
+São encargos da COALHOPAR - Coalhos do Paraná Ltda.:
+
+
+I –
+
+manter suas atividades industriais, sem qualquer interrupção;
+
+
+II –
+
+não efetuar alienação da empresa ou mudança de atividades sem ouvir o Poder Público Municipal e órgãos ambientais;
+
+
+III –
+
+priorizar a contratação de mão de obra, especializada ou não, para as pessoas residentes em Guaíra, salvo a inexistência de interessados com capacitação técnico profissional à determinada funções;
+
+
+IV –
+
+investir na qualificação técnico profissional dos trabalhadores ligados às atividade favorecidas;
+
+
+V –
+
+iniciar as atividades da indústria até o mês de setembro do ano 2.000.
+
+
+Art. 4º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal em dezembro de 1999.  
+  
+DR. MANOEL KUBA  
+Prefeito Municipal
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

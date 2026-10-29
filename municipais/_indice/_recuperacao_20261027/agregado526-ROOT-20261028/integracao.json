@@ -1,0 +1,12 @@
+{
+  "HEAD": "95bdeb8d1882566cc8be3c5624b187833c92379a",
+  "novas_normas": 526,
+  "manifesto_publicacao": "municipais/_indice/_recuperacao_20261027/publicacao-agregado526-v7-20261028/manifesto.json",
+  "sha256_manifesto": "24cb5c79f63ee9fc88a4c178adc47b6d266d205e60ca4781403350d3d9c3bb2e",
+  "baseline_efetivo": "municipais/_indice/_recuperacao_20261027/agregado526-v7-20261028/baseline-com-reservas47/manifesto.json",
+  "sha256_baseline": "c97f94595a91f07cccee19dbfefb228c31915b11f53a245d6138cc29887b3b0f",
+  "normas_HEAD": 37655,
+  "reservas_agora_publicadas": 1010,
+  "reservas_restantes": 0,
+  "criterio": "Replay V3 ROOT526 integral; conjunto exato37655 blobs HEAD lidos integralmente por OID/SHA/tamanho/cabecalho. Reserva1010 reconciliada ao HEAD byte idêntico, dedup repetida sem colisões, destinos ausentes. Baselines históricos preservados sem reescrita. Componentes não publicados separadamente; sem certificar vigência ou CSS externo."
+}

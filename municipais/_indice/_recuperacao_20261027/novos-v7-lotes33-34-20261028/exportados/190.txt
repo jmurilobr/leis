@@ -1,0 +1,119 @@
+---
+titulo: "Lei Ordinária nº 581, de 04 de abril de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "581"
+data: "2023-04-04"
+municipio: "Guadalupe"
+uf: "PI"
+codigo_ibge: "2204501"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guadalupe.pi.leg.br/norma/591"
+fonte_texto: "https://sapl.guadalupe.pi.leg.br/ta/588/text"
+sha256_fonte: "24f98eb6d9e1d755eae794a6e9815bac0b29d23c1bb8ba4529ab22a018dbd7a8"
+sha256_texto: "4d498ebb375bf83cbb94a4fb186e139c5526c7d16b535c5529bae622b6ed301e"
+capturado_em_fonte: "2026-10-28T12:44:45.500904-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 581, de 04 de abril de 2023
+
+Institui a Política Municipal do Controle de Natalidade de Cães e Gatos e dá outras providências
+
+
+A PREFEITA MUNICIPAL DE GUADALUPE, ESTADO DO PIAUÍ, faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte lei.
+
+
+Art. 1º.
+
+Fica instituída no Município de Guadalupe, o controle de natalidade de cães e gatos em situação de rua, que será regido de acordo com o estabelecido nesta Lei, mediante o emprego de esterilização cirúrgica ou outra forma de interrupção da fertilidade ou de controle de reprodução de animais, vedada a prática de outros procedimentos veterinários.
+
+
+Art. 2º.
+
+Está proibida de extermínio de cães e gatos como método de controle populacional e sanitário, exceto em caso de risco à saúde pública.
+
+
+Art. 3º.
+
+A população deverá ser conscientizada, constantemente, pelo Poder Público Municipal, mediante ações de publicidade vinculadas em meios de comunicação e mídias sociais, sobre a necessidade de esterilizar os seus animais, além de impulsionar a castração nos animais em situação de rua.
+
+
+Art. 4º.
+
+Fica autorizado a(o) gestor (a) do executivo municipal, a contratar, através de processo licitatório, clínica ou consultório veterinários para castração de cães e gatos, machos e fêmeas, pertencentes a pessoas de baixa renda e indicados por representantes de entidades protetora desses animais devidamente cadastradas no setor de zoonoses;
+
+
+Art. 5º.
+
+As castrações serão realizadas nas dependências da clínica ou consultório veterinário contratado ou em locais apropriados pertencentes ao poder público municipal, estadual ou federal.
+
+
+Art. 6º.
+
+Além da castração, vacinação, vermifugação, como também na educação no trato com animais deverão ser promovidos pelo executivo e, consequentemente, pelo zoonoses.
+
+
+Art. 7º.
+
+No dia e horário marcados para castração, a clínica ou consultório veterinário fará uma prévia avaliação das condições físicas do animal inscrito, a fim de concluir se o mesmo está em condições de ser castrado.
+
+
+§ 1º
+
+Verificando-se algum impedimento para a castração, o médico veterinário responsável pela avaliação, deverá esclarecer suas conclusões sobre as condições do animal para seu proprietário.
+
+
+§ 2º
+
+O médico veterinário responsável pela cirurgia de esterilização, deverá fornecer ao proprietário do animal instruções padronizadas sobre o pós-operatório e, se entender oportuno, em receituário próprio, as informações que achar convenientes, marcando data para avaliação ou outros procedimentos que julgar necessário.
+
+
+Art. 8º.
+
+Deverá ser desencadeado pelo setor de zoonoses, um programa de campanhas educativas, através dos meios de comunicação adequados, que propiciem à população a assimilação de noções de ética da guarda responsável de animais domésticos.
+
+
+Art. 9º.
+
+Fica o Poder Público autorizado a celebrar convênio e/ou parcerias com entidades de proteção animal e outras organizações não governamentais, universidades, estabelecimentos veterinários, empresas públicas ou privadas e entidades de classe, para a consecução dos objetivos desta Lei.
+
+
+Art. 10.
+
+É proibido soltar ou abandonar cães e gatos em vias publicas e logradouros públicos e privados, sob pena de multa por flagrante ou denúncia comprovada, no valor de 20% (vinte por cento) do salário mínimo nacional, vigentç nà data do ocorrido.
+
+
+Parágrafo único
+
+Os valores arrecadados a título de multa serão destinados para o Órgão Municipal responsável pelo controle de zooncses do Município.
+
+
+Art. 11.
+
+Determina ao setor de zoonoses do Município a proceder o registro ou cadastramento de todos os cães e gatos, além de cadastrar os cuidadores e líderes de ONGs e Abrigos para que tenham prioridade na fila de castração nas campanhas.
+
+
+Art. 12.
+
+Todos os cães e gatos, saudáveis, que se encontram abandonados, deverão ser castrados.
+
+
+Art. 13.
+
+As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, consignadas no orçamento, suplementadas se necessário.
+
+
+Art. 14.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete da Prefeita Municipal de Guadalupe aos quatro dias do mês de abril de dois mil e vinte e três.
+
+Maria Jozeneide Fernandes Lima  
+Prefeita Municipal
+

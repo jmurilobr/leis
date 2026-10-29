@@ -1,0 +1,440 @@
+---
+titulo: "Lei Ordinária nº 1.200, de 23 de junho de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1200"
+data: "2026-06-23"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/6119"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/2605/text"
+sha256_fonte: "50630f971dd5980047d71b47b8e96413eb61b26fe764624fb0a851a44652d1cd"
+sha256_texto: "abe1c2e0407390bcaa3130df625b49c701f5c9fc9e4eea97ace2fa18040d67e3"
+capturado_em_fonte: "2026-10-28T11:00:27.237026-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.200, de 23 de junho de 2026
+
+Institui a Política Municipal de Monitoramento Hidrometeorológico, Sistema de Alerta Precoce e Gestão de Riscos de Desastres “Formosa em Alerta e Mais Segura”, e dá outras providências.
+
+
+Projeto de Lei Ordinária nº 88/26, de autoria do Vereador Flavio Rodrigues Pacheco, aprovado em 10 de junho de 2026.
+
+A PREFEITA MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais conferidas pela Constituição Federal e nos termos do Inciso III do art. 69 da Lei Orgânica Municipal, de 5 de abril de 1990, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Fica instituída a Política Municipal de Monitoramento Hidrometeorológico, Sistema de Alerta Precoce e Gestão de Riscos de Desastres, denominada “Formosa em Alerta e Mais Segura”, com a finalidade de:
+
+
+I –
+
+prevenir, mitigar e reduzir riscos de desastres naturais e tecnológicos;
+
+
+II –
+
+proteger a vida, o patrimônio público e privado e o meio ambiente;
+
+
+III –
+
+aumentar a capacidade de resposta do Município frente a eventos adversos;
+
+
+IV –
+
+promover a cultura de prevenção e resiliência no território municipal.
+
+
+Art. 2º.
+
+Para fins desta Lei, consideram-se:
+
+
+I –
+
+monitoramento hidrometeorológico: coleta contínua de dados de chuva, nível de cursos d’água e variáveis ambientais;
+
+
+II –
+
+alerta precoce: comunicação antecipada de risco à população e aos órgãos públicos;
+
+
+III –
+
+evento adverso: ocorrência natural ou induzida que possa causar danos humanos, materiais ou ambientais;
+
+
+IV –
+
+áreas de risco: locais sujeitos a alagamentos, inundações, enxurradas, deslizamentos ou outros desastres.
+
+
+#### CAPÍTULO II — DOS PRINCÍPIOS E DIRETRIZES
+
+
+Art. 3º.
+
+A Política Municipal reger-se-á pelos seguintes princípios:
+
+
+I –
+
+prevenção e precaução;
+
+
+II –
+
+proteção da vida como prioridade absoluta;
+
+
+III –
+
+transparência e acesso à informação;
+
+
+IV –
+
+integração interinstitucional;
+
+
+V –
+
+participação comunitária;
+
+
+VI –
+
+eficiência e economicidade na gestão pública.
+
+
+Art. 4º.
+
+São diretrizes:
+
+
+I –
+
+implantação de rede integrada de monitoramento hidrometeorológico;
+
+
+II –
+
+utilização de tecnologias modernas, inclusive Internet das Coisas (IoT), sensoriamento remoto e geoprocessamento;
+
+
+III –
+
+integração com a Coordenadoria Municipal de Proteção e Defesa Civil (COMPDEC);
+
+
+IV –
+
+emissão de alertas por múltiplos canais (SMS, aplicativos, sirenes, rádios, redes sociais e outros);
+
+
+V –
+
+priorização de áreas vulneráveis conforme mapeamento de risco;
+
+
+VI –
+
+cooperação com órgãos estaduais, federais e instituições científicas;
+
+
+VII –
+
+educação preventiva e capacitação da população.
+
+
+#### CAPÍTULO III — DO SISTEMA MUNICIPAL DE MONITORAMENTO E ALERTA
+
+
+Art. 5º.
+
+Fica criado o Sistema Municipal de Monitoramento Hidrometeorológico e Alerta Precoce, composto por:
+
+
+I –
+
+sensores de nível de rios, córregos e barragens;
+
+
+II –
+
+pluviômetros automáticos;
+
+
+III –
+
+estações meteorológicas;
+
+
+IV –
+
+câmeras de monitoramento em pontos críticos;
+
+
+V –
+
+plataforma digital integrada de dados;
+
+
+VI –
+
+central de monitoramento e operação.
+
+
+Art. 6º.
+
+O sistema deverá operar de forma contínua, com capacidade de:
+
+
+I –
+
+coleta, armazenamento e processamento de dados em tempo real;
+
+
+II –
+
+geração de indicadores de risco;
+
+
+III –
+
+emissão automática de alertas;
+
+
+IV –
+
+integração com sistemas estaduais e federais.
+
+
+#### CAPÍTULO IV — DA TRANSPARÊNCIA E ACESSO À INFORMAÇÃO
+
+
+Art. 7º.
+
+O Poder Executivo disponibilizará Painel Municipal de Monitoramento, de acesso público, contendo:
+
+
+I –
+
+níveis de rios e córregos;
+
+
+II –
+
+índices pluviométricos;
+
+
+III –
+
+áreas de risco monitoradas;
+
+
+IV –
+
+alertas ativos e históricos;
+
+
+V –
+
+orientações à população.
+
+
+#### CAPÍTULO V — DAS ÁREAS PRIORITÁRIAS
+
+
+Art. 8º.
+
+O monitoramento priorizará áreas com histórico de ocorrências, especialmente:
+
+
+I –
+
+bacia do Córrego Josefa Gomes;
+
+
+II –
+
+região da Praça da Feira;
+
+
+III –
+
+Avenida Anhanguera (proximidades da Academia Evolve);
+
+
+IV –
+
+Avenida Brasília;
+
+
+V –
+
+cruzamento da Avenida Lagoa Feia com Avenida Ivone Saad;
+
+
+VI –
+
+outras áreas definidas em estudos técnicos e no Plano Municipal de Redução de Riscos (PMRR).
+
+
+#### CAPÍTULO VI — DA COMPETÊNCIA E GESTÃO
+
+
+Art. 9º.
+
+Compete ao Poder Executivo:
+
+
+I –
+
+regulamentar e implementar esta Lei;
+
+
+II –
+
+definir o órgão gestor, preferencialmente a Defesa Civil Municipal;
+
+
+III –
+
+manter e operar o sistema;
+
+
+IV –
+
+emitir alertas e coordenar ações de resposta;
+
+
+V –
+
+atualizar periodicamente o mapeamento de risco.
+
+
+#### CAPÍTULO VII — DAS PARCERIAS E COOPERAÇÃO
+
+
+Art. 10.
+
+O Município poderá firmar parcerias com:
+
+
+I –
+
+órgãos federais e estaduais;
+
+
+II –
+
+universidades e institutos de pesquisa;
+
+
+III –
+
+instituições privadas e organizações da sociedade civil;
+
+
+IV –
+
+empresas de tecnologia.
+
+
+Parágrafo único.
+
+As parcerias poderão envolver transferência de tecnologia, capacitação e apoio financeiro.
+
+
+#### CAPÍTULO VIII — DA EDUCAÇÃO E CAPACITAÇÃO
+
+
+Art. 11.
+
+O Poder Executivo promoverá:
+
+
+I –
+
+campanhas educativas sobre prevenção de desastres;
+
+
+II –
+
+capacitação de agentes públicos e voluntários;
+
+
+III –
+
+treinamentos simulados com a população em áreas de risco.
+
+
+#### CAPÍTULO IX — DOS RECURSOS FINANCEIROS
+
+
+Art. 12.
+
+As despesas correrão por conta de:
+
+
+I –
+
+dotações orçamentárias próprias;
+
+
+II –
+
+transferências voluntárias da União e do Estado;
+
+
+III –
+
+convênios e parcerias;
+
+
+IV –
+
+recursos de fundos municipais, estaduais e federais.
+
+
+#### CAPÍTULO X — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 13.
+
+O Poder Executivo regulamentará esta Lei no prazo de até 90 (noventa) dias.
+
+
+Art. 14.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete da Prefeita, 23 de junho de 2026.
+
+SIMONE DIAS RIBEIRO DE MELO  
+Prefeita Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra
+
+Camila Silva Pimentel  
+Subprocuradora II,  
+na Subprocuradoria em demandas de RH  
+Decreto nº 3078, de 24 de abril de 2026
+

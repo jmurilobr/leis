@@ -1,0 +1,306 @@
+---
+titulo: "Lei Ordinária nº 1.339, de 23 de setembro de 2005"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1339"
+data: "2005-09-23"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2284"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/800/text"
+sha256_fonte: "7bb5d7c71e0cc61fcfb6c26094af449fb6c358374c01968a34ccb1ee28d82248"
+sha256_texto: "54f94b2cffb9574127cb16ab8a31a7afb629d85db25cb05542b047e51876909c"
+capturado_em_fonte: "2026-10-28T13:26:51.324555-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.339, de 23 de setembro de 2005
+
+Cria o Conselho Municipal de Educação e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou e eu Prefeito Municipal, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+O Conselho Municipal de Educação, órgão colegiado representativo da comunidade, previsto no Art. 175 da Lei Orgânica Municipal, tem competência normativa e as funções consultiva, propositiva, mobilizadora, deliberativa, fiscalizadora, mediador entre a sociedade civil e o Poder Público Municipal na discussão, elaboração e implementação das políticas municipais de educação, da gestão democrática do ensino público e na defesa da educação de qualidade para todos os munícipes.
+
+
+Art. 2º.
+
+O Conselho Municipal tem como objetivo assegurar aos grupos representativos da comunidade o direito de participar das definições das diretrizes da educação no âmbito do Município, contribuindo para elevar a qualidade dos serviços educacionais.
+
+
+Art. 3º.
+
+São competências do Conselho Municipal de Educação:
+
+
+I –
+
+elaborar o seu regimento interno, a ser aprovado, por Decreto pelo Prefeito Municipal;
+
+
+II –
+
+eleger o Presidente e Vice-presidente;
+
+
+III –
+
+declarar a perda de mandato do conselheiro que, sem motivo justificado, deixar de comparecer a mais 03 (três) reuniões consecutivas, do conselho Pleno o da Câmara da qual faz parte;
+
+
+IV –
+
+constituir Comissões: permanentes ou temporárias;
+
+
+V –
+
+assessorar o Secretário Municipal de Educação em todos os assuntos relativos ao Ensino Fundamental e Educação Infantil;
+
+
+VI –
+
+fixar normas nos termos da Lei para:
+
+
+a)
+
+Ensino fundamental e Educação Infantil;
+
+
+b)
+
+Funcionamento, credenciamento, avaliação e a supervisão das instituições de ensino de competência municipal;
+
+
+c)
+
+Educação Infantil e Ensino Fundamental destinados aos alunos de Educação Especial;
+
+
+d)
+
+Ensino Fundamental, destinado ao EJA, jovens e adultos que não tiveram acesso a escolaridade em idade própria.
+
+
+VII –
+
+acompanhar avaliar a proposta pedagógica e o currículo dos estabelecimentos de ensino municipal;
+
+
+VIII –
+
+fiscalizar, acompanhar, manifestar, sobre os projetos de cursos de aperfeiçoamento e capacitações dos professores da rede municipal de ensino;
+
+
+IX –
+
+analisar e propor alternativas para destinação e aplicação de recursos destinados à educação do Município;
+
+
+X –
+
+analisar e propor alternativas para a destinação e aplicação de recursos relacionados aos espaços físicos, equipamentos e material didático;
+
+
+XI –
+
+estabelecer diretrizes para a elaboração de regimentos escolares;
+
+
+XII –
+
+emitir parecer sobre a validade de estudos realizados em escolas não autorizadas;
+
+
+XIII –
+
+Manifestar-se sobre o sistema de matrículas, transferências, sistema de promoção e aproveitamento de estudos;
+
+
+XIV –
+
+fiscalizar e zelar pelo cumprimento das disposições constitucionais, legais e normativas em matéria de educação, representando junto às autoridades competentes quando for o caso;
+
+
+XV –
+
+emitir pareceres sobre assuntos educacionais e questões de natureza pedagógica que lhe forem submetidas pelo executivo e legislativo municipal por entidades ou profissionais da educação de âmbito municipal;
+
+
+XVI –
+
+analisar e emitir pareceres sobre os resultados de estudos, pesquisas e estatísticas sobre a situação do ensino municipal encaminhados pela Secretaria Municipal de Educação;
+
+
+XVII –
+
+acolher denúncias de irregularidades no âmbito da educação municipal, apurando fatos propondo sindicâncias em qualquer das unidades educacionais da jurisdição municipal;
+
+
+XVIII –
+
+manter intercâmbios com os demais Conselhos Municipais para a elaboração de trabalhos conjuntos quando necessários;
+
+
+XIX –
+
+aprovar o Plano Municipal de Educação, nos termos da legislação vigente;
+
+
+XX –
+
+fiscalizar os procedimentos para a oferta de educação escolar regular dos jovens e adultos, com características e modalidades adequadas às suas necessidades e disponibilidade aos que forem trabalhadores;
+
+
+XXI –
+
+as deliberações e pronunciamentos do Conselho Municipal de Educação deverão serem homologadas pelo Secretário Municipal de Educação e terão validade após sua publicação no Diário Oficial do Município;
+
+
+XXII –
+
+o Conselho Municipal de Educação elegerá, dentre os seus membros, o Presidente e Vice - Presidente.
+
+
+Art. 4º.
+
+O Conselho Municipal será constituído por onze conselheiros, nomeados pelo Prefeito Municipal, tendo a seguinte composição:
+
+
+a)
+
+um conselheiro titular e um conselheiro suplente representante do Poder Executivo;
+
+
+b)
+
+um conselheiro titular e um conselheiro suplente representante do Poder Legislativo;
+
+
+c)
+
+um conselheiro titular e um conselheiro suplente representante das Instituições de Ensino Estadual;
+
+
+d)
+
+um conselheiro titular e um conselheiro suplente representante das Instituições de Ensino Privadas;
+
+
+e)
+
+um conselheiro titular e um conselheiro suplente representante dos professores municipais de Guaíra;
+
+
+f)
+
+um conselheiro titular e um conselheiro suplente representante da UNIPAR;
+
+
+g)
+
+um conselheiro titular e um conselheiro suplente representante do Sindicato dos Servidores Municipais de Guaíra;
+
+
+h)
+
+um conselheiro titular e um conselheiro suplente representante das Associações de Pais e Mestres das Escolas Municipais de Guaíra;
+
+
+i)
+
+um conselheiro titular e um conselheiro suplente representante da Secretaria da Saúde;
+
+
+j)
+
+um conselheiro titular e um conselheiro suplente representante do Conselho Tutelar.
+
+
+l) um conselheiro titular e um conselheiro suplente representante da Ação Social.
+
+
+I - A escolha dos representantes da sociedade civil será feita mediante consulta as entidades que indicarão seus membros que prestem serviços relevantes a educação.
+
+
+II - A Secretaria Municipal de Educação preparará lista única contendo os nomes indicados, com as respectivas entidades indicadoras, que serão submetidos a apreciação popular feita através de Assembléia.
+
+
+III - Concluído o processo, a Secretaria Municipal de Educação preparará a lista definitiva do resultado da indicação dos representantes dos órgãos públicos e, entidades da sociedade civil que será encaminhada apo Prefeito Municipal, para nomeação dos Conselheiros.
+
+
+Art. 5º.
+
+Os conselheiros terão mandatos de dois anos, permitidas a recondução para o período subseqüente.
+
+
+Art. 6º.
+
+Os membros do Conselho não receberão qualquer remuneração, sendo seus serviços considerados como de relevância pública.
+
+
+Art. 7º.
+
+O Conselho Municipal de Educação será estruturado com:
+
+
+a)
+
+Conselho Pleno;
+
+
+b)
+
+Câmaras;
+
+
+c)
+
+Comissões;
+
+
+d)
+
+Presidência;
+
+
+e)
+
+Secretaria Geral.
+
+
+Art. 8º.
+
+A organização interna do Conselho e dos seus serviços, o funcionamento, as formas sob as quais serão baixados os atos de sua competência, as relações com os demais órgãos da administração e execução das atividades e determinações do Conselho será elaborado pelo próprio Conselho mediante um Regimento Interno.
+
+
+Art. 9º.
+
+As despesas decorrentes da execução desta Lei correrão à conta de dotações orçamentárias próprias, vinculadas à Secretaria Municipal de Educação.
+
+
+Art. 10.
+
+O Chefe do Poder Executivo regulamentará a presente Lei por Decreto, no que for necessário.
+
+
+Art. 11.
+
+Esta Lei entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Guaíra, em 23 de setembro de 2005.  
+  
+Fabian Persi Vendruscolo  
+Prefeito Municipal.
+

@@ -1,0 +1,89 @@
+---
+titulo: "Lei Ordinária-GPREF nº 2.749, de 22 de março de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2.749"
+data: "2022-03-22"
+municipio: "Guarujá do Sul"
+uf: "SC"
+codigo_ibge: "4206603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guarujadosul.sc.leg.br/norma/2980"
+fonte_texto: "https://sapl.guarujadosul.sc.leg.br/ta/1590/text"
+sha256_fonte: "aa2818b05fbf2064064f795cd1f6ec87eb222e1234b3fd7cf80d482dd887f493"
+sha256_texto: "30bf150b2aa58bc39900a9c5fc1529a2c5ab4cbf3f16a689c8f485420dc5292b"
+capturado_em_fonte: "2026-10-28T13:39:00.217748-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-GPREF nº 2.749, de 22 de março de 2022
+
+Art. 1º.
+
+Fica aprovado em toda sua integra, forma e teor, o desmembramento da CHÁCARA NÚMERO 63 (sessenta e três), com área de 37.308,90m² (trinta e sete mil e trezentos e oito metros e noventa decímetros quadrados), sem benfeitorias, de propriedade de Amélio Mattuella e Leonirce Dominga Simionato Mattuella, situados no perímetro urbano do Município de Guarujá do Sul, Estado de Santa Catarina, sob matrícula número 13.921, que com base no Memorial Descritivo e Planta do Imóvel, partes integrantes da presente Lei, assinados pelo Engenheiro Civil Alessandro Arconti, CREA/SC 053717-0, ficando o imóvel assim constituído:
+
+
+Com os desmembramentos resultarão duas áreas de com 27.027,518m² e 10.281,378m².
+
+
+ÁREA PRIMITIVA
+
+
+CHÁCARA NÚMERO 63 (sessenta e três), com área de 37.308,90m² (trinta e sete mil e trezentos e oito metros e noventa decímetros quadrados), sem benfeitorias, situado no perímetro urbano do Município de Guarujá do Sul, Estado de Santa Catarina, sob matrícula número 13.921, com as seguintes confrontações georreferenciadas:
+
+
+Inicia-se a descrição deste perímetro no vértice 1, de coordenadas N 7.078.456,2801m e E 247.504,9115m, deste, segue com o seguinte azimute e distância 121°49'34" e 80,00m(ao Nordeste), confrontando com a Rua Eugênio Waschburger, por linha seca, até o vértice 2; de coordenadas N 7.078.414,0926m e E 247.572,8838m; deste, segue com o seguinte azimute e distância 211°44'25" e 457,69m(ao sudeste), confrontando com a Chácara número 62, de propriedade de Elisandro Freddi e outros, sob matrícula número 1.977, por linha seca, até o vértice 3; de coordenadas N 7.078.024,8505m e E 247.332,1050m, deste, segue com o seguinte azimute e distância 286°23'47" e 41,98m(ao sudoeste), confrontando com Parte do Lote Rural número 01, de propriedade de Alirio Gräf, sob matrícula número 9.899, por linha uma Sanga, até o vértice 4, de coordenadas N 7.078.036,7014m e E 247.291,8297m, deste, segue com o seguinte azimute e distância 299°55'32" e 39,53m(ainda pelo sudoeste), confrontando com a mesma Parte do Lote Rural número 01, de propriedade de Alirio Gräf, sob matrícula número 9.899, por linha uma Sanga, até o vértice 5; de coordenadas N 7.078.056,4237m e E 247.257,5669m, deste, segue com o seguinte azimute e distância 31°44'25" e 470,17m(ao noroeste), confrontando com Parte da Chácara número 64, de propriedade de Cleusa Regina Fritzen, sob matrícula número 8.287, por linha seca, até o vértice 1, ponto inicial da descrição deste perímetro.
+
+
+ÁREA DESMEMBRADA
+
+
+PARTE DA CHÁCARA NÚMERO 63 (sessenta e três), com área de 27.027,518m² (vinte e sete mil, vinte e sete metros e quinhentos e dezoito decímetros quadrados), sem benfeitorias, situado no perímetro urbano do Município de Guarujá do Sul, Estado de Santa Catarina, sob matrícula número 13.921, com perímetro de 847,78 metros, com as seguintes confrontações georreferenciadas:
+
+
+Inicia-se a descrição deste perímetro no vértice 1 de coordenadas N 7.078.456,2801m e E 247.504,9115m, com os seguintes azimutes e distâncias 121°49'34" e 80,00m, (ao nordeste), confrontando com a Rua Eugênio Waschburger até o vértice 2, de coordenadas N 7.078.414,0926m e E 247.572,8838m; deste, segue com azimute e distância 211°44'25" e 357,989 m, (ao sudeste), confrontando com parte da Chácara número 62, de propriedade de Elisandro Freddi e outros, sob matrícula número 1.977; por linha seca, até o vértice 8, de coordenadas N 7.078.109,6438m e E 247.384,5568m; deste, segue com azimute e distância 148°42'18" e 82,178 m(ao sudoeste), confrontando com parte da Chácara 63, matrícula 13.921, de propriedade de Amélio Mattuella; por linha seca, até o vértice 7, de coordenadas N 7.078.179,8655m e E 247.341,8699m; deste, segue com azimute e distância 121°44'25" e 6,756 m(ainda ao sudoeste), confrontando com parte a mesma Chácara 63, matrícula 13.921, de propriedade de Amélio Mattuella; por linha seca, até o vértice 6, de coordenadas N 7.078.183,4195m e E 247.336,1244m; deste, segue com azimute e distância 31°44'25" e 320,846 m (ao noroeste), confrontando com Parte da Chácara número 64, por linha seca, de propriedade de Cleusa Regina Fritzen, sob matrícula número 8.287, até o vértice 1 de coordenadas N 7.078.456,2801m e E 247.504,9115m, ponto inicial da descrição deste perímetro.
+
+
+ÁREA REMANESCENTE
+
+
+PARTE DA CHÁCARA NÚMERO 63 (sessenta e três), com área de 10.281,378m² (dez mil, duzentos e oitenta e um metros e trezentos e setenta e oito decímetros quadrados), sem benfeitorias, situado no perímetro urbano do Município de Guarujá do Sul, Estado de Santa Catarina, sob matrícula número 13.921, com perímetro de 419,485 metros, com as seguintes confrontações georreferenciadas:
+
+
+Inicia-se a descrição deste perímetro no vértice 6, de coordenadas N 7.078.183,4195m e E 247.336,1244m; deste, segue com os seguintes azimutes e distâncias: 121°44'25" e 6,756 m, (ao nordeste), confrontando com parte da Chácara 63, matrícula 13.921, de propriedade de Amélio Mattuella; por linha seca, até o vértice 7, de coordenadas N 7.078.179,8655m e E 247.341,8699m; deste, segue com os seguintes azimutes e distâncias ; 148°42'18" e 82,178 m, (ainda ao nordeste), confrontando com parte da mesma Chácara 63, matrícula 13.921, de propriedade de Amélio Mattuella; por linha seca, até o vértice 8, de coordenadas N 7.078.109,6438m e E 247.384,5568m, deste, segue com os seguintes azimute e distância 211°44'25" e 99,705m, (ao sudeste), confrontando com a Chácara número 62, de propriedade de Elisandro Freddi e outros, sob matrícula número 1.977; por linha seca, até o vértice 3, de coordenadas N 7.078.024,8505m e E 247.332,1050m; deste, segue com os seguintes azimute e distância 286°23'47" e 41,983m, (ao sudoeste), confrontando com Parte do Lote Rural número 01, de propriedade de Alirio Gräf, sob matrícula número 9.899, por linha uma Sanga, até o vértice 4, de coordenadas N 7.078.036,7014m e E 247.291,8297m; deste, segue com os seguintes azimute e distância 299°55'32" e 39,534 m, (ainda ao sudoeste), confrontando com a mesma Parte do Lote Rural número 01, de propriedade de Alirio Gräf, sob matrícula número 9.899, por linha uma Sanga, até o vértice 5, de coordenadas N 7.078.056,4237m e E 247.257,5669m; deste, segue com os seguintes azimute e distância 31°44'25" e 149,329 m, (ao noroeste), confrontando com Parte da Chácara número 64, por linha seca, de propriedade de Cleusa Regina Fritzen, sob matrícula número 8.287, por linha seca, até o vértice 6, de coordenadas N 7.078.183,4195m e E 247.336,1244m ponto inicial da descrição deste perímetro.
+
+
+Todas as coordenadas aqui descritas estão georreferenciadas ao Sistema Geodésico Brasileiro.
+
+
+Art. 2º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE GUARUJÁ DO SUL – SC
+
+
+22 de março de 2022
+
+
+70º ano da Fundação e 60º ano da Instalação.
+
+
+Claudio Júnior Weschenfelder
+
+
+Prefeito Municipal.
+
+
+Certifico que a Presente Lei foi publicada e registrada nesta Secretaria em data supra.
+
+
+Julio Cesar Della Flora
+
+
+Secretário da Administração e Fazenda
+

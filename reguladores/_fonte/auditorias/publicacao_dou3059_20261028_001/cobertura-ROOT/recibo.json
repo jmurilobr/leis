@@ -1,0 +1,31 @@
+{
+  "HEAD": "457a42434e94573b8e48a9a0155fdb1769690b31",
+  "HEAD_declarado_nos_indices": "077968150543f097dbbf9c3a50a7f6fe59102ba1",
+  "indices_SHA": {
+    "indice_federal_HEAD_reservas.json.gz": "cc1ed0d878154dcbfaa4747405e095d01ea308d383def94631fa6fb0dc28af24",
+    "baseline_reguladores_HEAD_reservas.json.gz": "709f5719b36aabaca7e52fe970ed23c51bca7f84220129b09b855a95451644d8"
+  },
+  "blobs_integrais_por_OID": {
+    "federal": 190834,
+    "reguladores": 270389
+  },
+  "canonicos_exatos_total": 461223,
+  "campos_reguladores_conferidos": 1398097,
+  "federais_com_chave": 176219,
+  "reservas_sem_chave": 14615,
+  "reservas_privadas_federais_agora_no_HEAD": 1246,
+  "reservas_reguladores_restantes": 0,
+  "arquivos_prova": [
+    {
+      "path": "_fonte/operacao_root_20261027/cobertura-continuacao-DOU-ROOT/federal-blobs.jsonl.gz",
+      "sha256": "c95e0e30f554a2ea67d8dd4b0a8184cfbb056ee3c3556d2f2fba8a853a28b66b",
+      "bytes": 21825041
+    },
+    {
+      "path": "_fonte/operacao_root_20261027/cobertura-continuacao-DOU-ROOT/reguladores-blobs.jsonl.gz",
+      "sha256": "3b0744ac7041459c60f445cefe98fcac70a63a8a228c32834069580ba8812f79",
+      "bytes": 32117321
+    }
+  ],
+  "criterio": "ROOT conferiu conjunto exato dos dois corpora HEAD e leu integralmente todos461223 blobs por OID. Metadados de todos reguladores comparados campo a campo ao índice; OIDs/SHA/metadados/URN/URL federais quando declarados conferidos, incluindo reservas futuras agora publicadas. Estatísticas antigas189008/174393 do índice são antecedentes; cobertura efetiva190834/176219/14615. Nenhum candidato selecionado é aprovado por esta prova de cobertura; replay e dedup separados continuam necessários. Não é dedup universal ou certificado de vigência."
+}

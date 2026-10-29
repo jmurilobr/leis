@@ -1,0 +1,37 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 190,
+  "aprovados_nestes_gates": 121,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0041/sapl.guaira.pr.leg.br.prefixo.jsonl",
+      "sha256": "01e5ff6df6efb5e8a06a93a50f4cb1b220e71fd296a2458edc454ddd4622f0d6",
+      "bytes": 288338
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0041/sapl.guaira.pr.leg.br.tipos.json",
+      "url": "https://sapl.guaira.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "67206e250a33513801023c4668463a89de86ac0dad2cbffa0ddd5b4a7421fedb"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0041/sapl.guaira.pr.leg.br.anexos.json",
+      "sha256": "5cab55b620d8f7860e85e63f8da1c059b152190269d0b4a34b1aa0ef2a774cbd"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0041/sapl.guarujadosul.sc.leg.br.prefixo.jsonl",
+      "sha256": "58ad0f56289dd2e4453d7c7fb793c72c46a9389d86f817abe396c6ed2c93ffe7",
+      "bytes": 324835
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0041/sapl.guarujadosul.sc.leg.br.tipos.json",
+      "url": "https://sapl.guarujadosul.sc.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "27950c0519e15ed6d7532b499f3fed83fbba3d70cbf66cf187532c7756693cde"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0041/sapl.guarujadosul.sc.leg.br.anexos.json",
+      "sha256": "bd6032d2df3f7ac6ecbd1349bddabcf7553ad32bb2f2d759455796286c11d459"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

@@ -1,0 +1,9 @@
+{
+  "sha256_replay_exportado": "55de140e707b6b4d43b3452f0e9587cc307208196523ab2ae1f998cb89f5224e",
+  "sha256_promotor_exportado": "5a24968f525ac322be877ac8a17325db785ac522b4c3e041af11c1ea1693b2ed",
+  "sha256_resolvedor": "e34d1403e0129770cab4dcc2e8a9b7398e43f03b0a80e67ecb42dde4d1a2433c",
+  "sha256_mapa_versoes": "a776294bed68e9b83cf627075e5a8203a1627bc7d6d9ec3d46ee440b4ee76aa2",
+  "sha256_recibo730_original": "612460a0d97d3ab6c4bff0f339f1307b4057d3e4ce78302720a1bff2ba644ca3",
+  "sha256_recibo_promocao730_original": "798a408de14cf5e7236692bbe56538a3613ef8588978858ffa9d81ec4d751951",
+  "limites": "Adaptação de IO/importações e mapeamento de bytes, sem trocar SHA antecedente ou relaxar comparadores. Default dry-run; --apply exclusivo ROOT, nunca executado pelo agente."
+}

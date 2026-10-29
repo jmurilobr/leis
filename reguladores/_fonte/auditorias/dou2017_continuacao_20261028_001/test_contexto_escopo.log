@@ -1,0 +1,18 @@
+test_artigo_omitido (__main__.Escopo.test_artigo_omitido) ... ok
+test_cargo_assinatura_e_aviso_preservados (__main__.Escopo.test_cargo_assinatura_e_aviso_preservados) ... ok
+test_decimal_nao_colapsa (__main__.Escopo.test_decimal_nao_colapsa) ... ok
+test_irmao_externo_nao_administrativo_retido (__main__.Escopo.test_irmao_externo_nao_administrativo_retido) ... ok
+test_lista_inicio_muda (__main__.Escopo.test_lista_inicio_muda) ... ok
+test_span_de_tabela_muda (__main__.Escopo.test_span_de_tabela_muda) ... ok
+test_substring_falsa_nao_e_raiz (__main__.Escopo.test_substring_falsa_nao_e_raiz) ... ok
+test_autoridade_SECEX_diverge (__main__.Orgao.test_autoridade_SECEX_diverge) ... ok
+test_controle_CRSS (__main__.Orgao.test_controle_CRSS) ... ok
+test_ministerios_intercalados_retidos (__main__.Orgao.test_ministerios_intercalados_retidos) ... ok
+test_referencia_historica_nao_e_autoridade (__main__.Orgao.test_referencia_historica_nao_e_autoridade) ... ok
+test_tres_casos_reais (__main__.Orgao.test_tres_casos_reais) ... ok
+test_universidade_na_cadeia_normal_controle (__main__.Orgao.test_universidade_na_cadeia_normal_controle) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.015s
+
+OK

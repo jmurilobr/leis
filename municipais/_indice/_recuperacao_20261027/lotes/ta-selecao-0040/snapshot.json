@@ -1,0 +1,1422 @@
+{
+  "criterio": "Congela o próximo lote de candidatos TA, sem repetir identidades já examinadas.\n\nVersão 2: exporta diários/anexos apenas de portais selecionados, evitando exigir\nmetadados de tipos de portais sem candidatos neste lote.\n\nO limite é somente o tamanho do lote de trabalho. A coleta de portais continua;\nreexecuções com as exclusões anteriores cobrem os candidatos seguintes.\n",
+  "selecionados": 219,
+  "disponiveis_apos_exclusoes": 219,
+  "exclusoes": [
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0001/resultados.jsonl",
+      "sha256": "cb49d44c92fe2e8f0102be164a449805bff97fcee62248f3da16a5563bc74148"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0002-v2/resultados.jsonl",
+      "sha256": "2b2730a051cb96a4ff159162e98366a0a4bfc431290aacaa9f15b0b1897e4472"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0003/resultados.jsonl",
+      "sha256": "fe9d893e621397986d9cb3b0f264d70cf401d36db5f8ee4947e8f9a0a33082fe"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0004/resultados.jsonl",
+      "sha256": "727700d434820dcd22f5ec9fb9aed079e99e58450a3c18b98cd15eed1a711c32"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0005/resultados.jsonl",
+      "sha256": "3235bf84baef24f08e4bc7ebf5803fbe3ddab23c3aae882926bc66e7885e2570"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0006/resultados.jsonl",
+      "sha256": "1d067d4f848aa353b30e6884798f35b5aa9b55f5a9ba3e897367d48dce75ffb1"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0007/resultados.jsonl",
+      "sha256": "7e9065d204ef26054f26dbb6118b997c2ca789b8fd83286ea74c57a2ff2361a2"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-piloto-gates-0001/resultados.jsonl",
+      "sha256": "2f3d2a94ffd99335a5c9d782692aaa5b865570ef4f8cced270c94073e15278ae"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/formas-gates-0001/resultados.jsonl",
+      "sha256": "60c71f5205eb437a4c42f289d873ae3b9d4bea6b13a7c00e79337939feb73dfa"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/resultados.jsonl",
+      "sha256": "e02a8d1e15f881485d78bfb6bac0b0a0a7f13ebc35875898b06f22e12fcf9969"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0002/resultados.jsonl",
+      "sha256": "4a236a292f92deb5da31a24f10e313f93187a130772028803738532174987183"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0003/resultados.jsonl",
+      "sha256": "a30f0beb3bcdf6410883449224177c20241655bccee8cb845e917c42cfb9a508"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0004/resultados.jsonl",
+      "sha256": "c4742688d9d15e5c8c53d8dbf43547d565f377bdbabef622fe3e42574678ac28"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0005/resultados.jsonl",
+      "sha256": "34d785b4180b63f7b735c3cf221ac2e905b01ac6570e8175a4d0c666323e8d6e"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0006/resultados.jsonl",
+      "sha256": "2df97b04e59b5977127005a710a9cea7d04d81a4b4a4d4f135b218bfffacabd0"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0007/resultados.jsonl",
+      "sha256": "4c4930cc4e19e5b0c912835b33b61d56c821e718f40a415d39038cf6f31a82b1"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0008/resultados.jsonl",
+      "sha256": "d92d281e8e8ac10320c86127535c065cd8b5cba4f0f33877d803d6802efb4c16"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/resultados.jsonl",
+      "sha256": "f4039cccc51c6f8b48a556c23e804cb037c8ba55d047e4cd38a573959eb45632"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0010/resultados.jsonl",
+      "sha256": "747062b23203a4330bc86d01a35a53c94dd3330f717513ab3ed5321bcceca306"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/resultados.jsonl",
+      "sha256": "d00e56bac03cf106f7ee2182c4797a2b188f1ad73a42d28571c1c7b5a376db3e"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0012/resultados.jsonl",
+      "sha256": "411f9a9e76c09ec62ef5f3e4f58714de8ab0c32097980ef2097c2b96667ade58"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0013/resultados.jsonl",
+      "sha256": "e81b1d45cc85bdd1d2f95b63c21e9ba574c6daa2380a27e7495ec9a591118470"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0014/resultados.jsonl",
+      "sha256": "7ae08befcd3728cdaf5ae4b1c0a123506b7fa25479026b75df5a3a68ace88701"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0015/resultados.jsonl",
+      "sha256": "27a69317ef9cf93fb11eaf0bda63267183a6c1a44c2d28cdc8d1550564ec7bc7"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0016/resultados.jsonl",
+      "sha256": "b2d842b5108e0e4d20c7a45d28f80e7d91cab96fed43d2278e036c4d7e87fa22"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0017/resultados.jsonl",
+      "sha256": "434043a3daaed4f634f5ae038bc07e30e1931a2394968249da6a326408867380"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/resultados.jsonl",
+      "sha256": "36305a676ed16ad48e6c4bd81ff4dce30d0d70e885cd9472c790b594930a8e35"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/tabelas-gates-0003/resultados.jsonl",
+      "sha256": "2401e2e10b5b5525b1f74ca700bd6ed3afdd76f8b26a8d58b7910dcda58642c5"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0001/resultados.jsonl",
+      "sha256": "5932a21d2f981ad60fb193e59905cb200a864ba63fdc6c6b82cdcb2fb4c8a803"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0002/resultados.jsonl",
+      "sha256": "743684bf7245afe2ce980a1c69e9b9f710145ee757458699075004a2ab54c59b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0003/resultados.jsonl",
+      "sha256": "fec8db37da0df80f24d140744fd160a69d7d54e524757678db4fe532b8d32c6b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0004/resultados.jsonl",
+      "sha256": "973a23f5b8058ae80a9bc8e50f72f6c139658c2e4e278d5e8ed3b678aecc4eb2"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0005/resultados.jsonl",
+      "sha256": "c94f3121369d1d538755aa1db82b139844dd2c059620913a05e6672657ac08a7"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/resultados.jsonl",
+      "sha256": "07d2def1265a88da175c93cce49b1cb0b6e614a39392a8b34298c5077ec67933"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0002/resultados.jsonl",
+      "sha256": "00b0379793a8cefcc6856103200a894027cc12b4ebaa00a0888624acdeb77924"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0003/resultados.jsonl",
+      "sha256": "703972bf99466f32af3ea505376726e60953103c80bfcb015b138b322027bada"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/resultados.jsonl",
+      "sha256": "839b37cdab75de94ecc9f5cb8edaa0a2e6170edb8ef80efcbbe64922b10dee5e"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001-v2/resultados.jsonl",
+      "sha256": "a4757881e0f7c5cc09735b4607fb9436a2681fc6bbdc9bdc884942ba269b02d0"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0002/resultados.jsonl",
+      "sha256": "353d1230a0e13fe4e46b88fdb81aff47a12838c7fbb380c8261269e3df03f5ea"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0006/resultados.jsonl",
+      "sha256": "77fa0bfd91207f69ce1f69b8f288d536fd309260252cbb69eba7992069ea63cc"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0007/resultados.jsonl",
+      "sha256": "17d885bf36143f9de9ba0b2affb3df2e32a291901a3f825be96461c575a3cbf1"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0008/resultados.jsonl",
+      "sha256": "40710202641b46c142de773af6e360358bc0ebc342f005fa9ab2ee5efa6b4d53"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0009/resultados.jsonl",
+      "sha256": "1b47ce849a273d4dc8867137c695a57e05a09daaf1395142e0223a5948143689"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "sha256": "07c28b7649ab8d2b66e5457dc4a91e301c0ad10f207e14d5f8d5386d9d0f922d"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "sha256": "88151915faa9eee309d14b21682d66e7df027ce2c06a26be1c4bcb4d1e715400"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "sha256": "4163cc2ede430d59996828d6c55032be7055f8ac96f55dc7500b36b0bdadecb3"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/resultados.jsonl",
+      "sha256": "e2da31dfcdbbbf388ec02f9b311e85f5c88669fc7cd3efda03355694394576ac"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012-v3/resultados.jsonl",
+      "sha256": "96f11eb8a39c3f95785207414dcb951cd09e7e6775509a143cd97824a18c9d2c"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0013/resultados.jsonl",
+      "sha256": "938def4e7698e31c7415a6981465ed65dbc789793350b359b499e3381d0fa10b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0014/resultados.jsonl",
+      "sha256": "4c3cfeeb0a05b2bb00c0f4cb762fd4f7488aedd8d6f71ab7357ff5b1213ff27b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0015/resultados.jsonl",
+      "sha256": "bbf88caafca24ef2881e3c07118ac25262b4c48173aefe57d0e074929364e301"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0016/resultados.jsonl",
+      "sha256": "b0e76b22e26e2be97db8a67c9bb2d972208287c115aa662250b186ff6f07df9b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0017/resultados.jsonl",
+      "sha256": "9579a7eb8988886a89e1ba1c778264f2ce53ce9dab591885b5201ba8a8badf16"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/resultados.jsonl",
+      "sha256": "64be15e2213da7eafa32b6022b3449299796aa668f859ff87dcd78e55f046a17"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0008/resultados.jsonl",
+      "sha256": "d133cfa0c781a2b375502106a50242648deba0b8263a90c94014904644345766"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0020/resultados.jsonl",
+      "sha256": "31acff44e532afca9c66e424f5af09e5a42b2c6a1acf6ce0b5a41ce038815cee"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0021/resultados.jsonl",
+      "sha256": "2936b9ed3b45a6130e00bb401a7eb8c084819b1bb3f0eeeab28bb47539b70c65"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/resultados.jsonl",
+      "sha256": "98e1f8df5a1ea8e884d0d231fb8d87eca21986891c7db424842bd5c596a5714e"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0023/resultados.jsonl",
+      "sha256": "bd2fbc5eef79e6113f6d60fa70a02a9890c1f0586cd9749525d9d94701775fdf"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0024/resultados.jsonl",
+      "sha256": "dc997b3f0bd5badb44d2bae4136bb9fcee0839612546ffd28037e10322665423"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/resultados.jsonl",
+      "sha256": "912667ccaf650893caca595d8d38645ad7df94ba36fdcfc4a7c562d152b26821"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0026/resultados.jsonl",
+      "sha256": "7d270076ac2608b3dfb811b0b59ecd6b730bc68705a66bf56ece0d08eb78ee7e"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0027/resultados.jsonl",
+      "sha256": "2b7ea3d036192533270787e36572131fb853e2964e50ab1770d61e63841b11e8"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0028/resultados.jsonl",
+      "sha256": "5eaf05578c3c3273f7919509db9ee678c73f3743c80dea0fcad4fc0b1197ff28"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0029/resultados.jsonl",
+      "sha256": "8628afd6a9ce9f3c5f1fa22c290fa48800224a3c5e29eaa3d45df854110f2b53"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0030/resultados.jsonl",
+      "sha256": "80d261f03819ee626f5ab656a377a0c85b62dc2dc19098c82807b19c6c6825f1"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0031/resultados.jsonl",
+      "sha256": "6c5591f0fe02aadf4462a4797ba8e94d78a112ad062fc19d784b2ce59180239b"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0032/resultados.jsonl",
+      "sha256": "944894c487facea06e1347cd4c380cceac3e5dcd2207a32f7a0e0afb6f88a975"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0033/resultados.jsonl",
+      "sha256": "7edf190fd0128d62f3c63f2d722edea9627bea350c759a0949e236a4c3f83275"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0034/resultados.jsonl",
+      "sha256": "f6691ffe9a0a7d22bc1b96cca5c5d0ca5a76f8eca1a8adea2ab9872dcad72b2c"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0035/resultados.jsonl",
+      "sha256": "43ceee154d0a7adc54372a538f885e412a992836339b8439f4b699768b6a7022"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0036/resultados.jsonl",
+      "sha256": "ce415ca158cb52c3c428aabf96c0d3718fcf160ad65d15541e66fa160d3bb4ae"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0037/resultados.jsonl",
+      "sha256": "4a1d16263c08973602dc33e77c36c8e46dc3b2fba2e5bdb1f286b517fefe001d"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0038/resultados.jsonl",
+      "sha256": "69cebb5e21e0de589b62134bd86ed7c76e43a4a45a90b47a15f762f67949ac72"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0039/resultados.jsonl",
+      "sha256": "bd90ad5de4e71d3ef70f98961870ebe219950c43a760fe8e9c899822120bb62d"
+    }
+  ],
+  "prefixos_origem": [
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0040/sapl.guaira.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "e6c23b9ff9e68566fe36db77bd08c878bafb006826e01be771ac8d74999eb067",
+      "bytes_prefixo": 345732
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0040/sapl.guariba.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "0c5b7bee2b1fd5a986677bdf56372eb0d138f9ed0f0c160608519e5bb5302815",
+      "bytes_prefixo": 141178
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0040/sapl.guarujadosul.sc.leg.br/resultados.jsonl",
+      "sha256_prefixo": "ede1f0ae8f294af4968c4beb3d9135f1c4ddaa6ae9703d3342e62a2185248515",
+      "bytes_prefixo": 210363
+    }
+  ],
+  "script_sha256": "ed1f0a1eaeda7c9c3f1271ecdbbae4634b92e070bb936d4d89f3e5d2ac57f520",
+  "identidades": [
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 786,
+      "norma_id": 2270
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 80,
+      "norma_id": 4823
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1916,
+      "norma_id": 3295
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 785,
+      "norma_id": 2269
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 79,
+      "norma_id": 4822
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1917,
+      "norma_id": 3293
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 784,
+      "norma_id": 2268
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 78,
+      "norma_id": 4821
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1914,
+      "norma_id": 3292
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 783,
+      "norma_id": 2267
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 65,
+      "norma_id": 4696
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1911,
+      "norma_id": 3289
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 782,
+      "norma_id": 2266
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 77,
+      "norma_id": 4820
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1913,
+      "norma_id": 3291
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 781,
+      "norma_id": 2265
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 76,
+      "norma_id": 4819
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1912,
+      "norma_id": 3290
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 487,
+      "norma_id": 1957
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 75,
+      "norma_id": 4818
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1910,
+      "norma_id": 3288
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 780,
+      "norma_id": 2264
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 74,
+      "norma_id": 4817
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1909,
+      "norma_id": 3287
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 779,
+      "norma_id": 2263
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 64,
+      "norma_id": 4695
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1907,
+      "norma_id": 3285
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 778,
+      "norma_id": 2262
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 73,
+      "norma_id": 4816
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1908,
+      "norma_id": 3286
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 777,
+      "norma_id": 2261
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 72,
+      "norma_id": 4815
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1903,
+      "norma_id": 3282
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 776,
+      "norma_id": 2260
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 63,
+      "norma_id": 4694
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1894,
+      "norma_id": 3273
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 773,
+      "norma_id": 2257
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 62,
+      "norma_id": 4693
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1901,
+      "norma_id": 3280
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 772,
+      "norma_id": 2256
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 39,
+      "norma_id": 4324
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1900,
+      "norma_id": 3279
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 771,
+      "norma_id": 2255
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 61,
+      "norma_id": 4692
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1899,
+      "norma_id": 3278
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 770,
+      "norma_id": 2254
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 38,
+      "norma_id": 4323
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1898,
+      "norma_id": 3277
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 769,
+      "norma_id": 2253
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 60,
+      "norma_id": 4691
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1895,
+      "norma_id": 3274
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 768,
+      "norma_id": 2252
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 36,
+      "norma_id": 4321
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1897,
+      "norma_id": 3276
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 767,
+      "norma_id": 2251
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 59,
+      "norma_id": 4690
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1896,
+      "norma_id": 3275
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 766,
+      "norma_id": 2250
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 58,
+      "norma_id": 4680
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1906,
+      "norma_id": 3284
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 661,
+      "norma_id": 2137
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 34,
+      "norma_id": 4319
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1890,
+      "norma_id": 3270
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 765,
+      "norma_id": 2249
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 57,
+      "norma_id": 4679
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1889,
+      "norma_id": 3269
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 764,
+      "norma_id": 2248
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 32,
+      "norma_id": 4317
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1888,
+      "norma_id": 3268
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 763,
+      "norma_id": 2247
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 55,
+      "norma_id": 4677
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1892,
+      "norma_id": 3272
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 762,
+      "norma_id": 2246
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 31,
+      "norma_id": 4316
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1885,
+      "norma_id": 3267
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 761,
+      "norma_id": 2245
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 54,
+      "norma_id": 4676
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1891,
+      "norma_id": 3271
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 759,
+      "norma_id": 2243
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 53,
+      "norma_id": 4675
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1882,
+      "norma_id": 3262
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 758,
+      "norma_id": 2242
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 52,
+      "norma_id": 4674
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1884,
+      "norma_id": 3264
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 757,
+      "norma_id": 2241
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 51,
+      "norma_id": 4673
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1883,
+      "norma_id": 3263
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 397,
+      "norma_id": 1516
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 29,
+      "norma_id": 4314
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1879,
+      "norma_id": 3259
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 756,
+      "norma_id": 2240
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 28,
+      "norma_id": 4313
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1878,
+      "norma_id": 3258
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 755,
+      "norma_id": 2239
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 27,
+      "norma_id": 4312
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1876,
+      "norma_id": 3256
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 754,
+      "norma_id": 2238
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 26,
+      "norma_id": 4311
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1875,
+      "norma_id": 3255
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 753,
+      "norma_id": 2237
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 25,
+      "norma_id": 4310
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1874,
+      "norma_id": 3254
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 752,
+      "norma_id": 2236
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 24,
+      "norma_id": 4309
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1872,
+      "norma_id": 3252
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 750,
+      "norma_id": 2234
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 23,
+      "norma_id": 4308
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1873,
+      "norma_id": 3253
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 749,
+      "norma_id": 2233
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 22,
+      "norma_id": 4307
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1871,
+      "norma_id": 3251
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 748,
+      "norma_id": 2232
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 20,
+      "norma_id": 4305
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1870,
+      "norma_id": 3250
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 572,
+      "norma_id": 2016
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 50,
+      "norma_id": 4672
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1869,
+      "norma_id": 3249
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 747,
+      "norma_id": 2231
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 21,
+      "norma_id": 4306
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1866,
+      "norma_id": 3246
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 746,
+      "norma_id": 2230
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 49,
+      "norma_id": 4671
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1867,
+      "norma_id": 3247
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 745,
+      "norma_id": 2229
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 47,
+      "norma_id": 4669
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1865,
+      "norma_id": 3245
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 744,
+      "norma_id": 2228
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 18,
+      "norma_id": 4302
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1864,
+      "norma_id": 3244
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 743,
+      "norma_id": 2227
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 17,
+      "norma_id": 4301
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1863,
+      "norma_id": 3243
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 740,
+      "norma_id": 2224
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 46,
+      "norma_id": 4668
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1880,
+      "norma_id": 3260
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 739,
+      "norma_id": 2223
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 16,
+      "norma_id": 4300
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1862,
+      "norma_id": 3242
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 738,
+      "norma_id": 2222
+    },
+    {
+      "host": "sapl.guariba.sp.leg.br",
+      "ta_id": 13,
+      "norma_id": 4294
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1860,
+      "norma_id": 3240
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 276,
+      "norma_id": 1780
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1852,
+      "norma_id": 3233
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 737,
+      "norma_id": 2221
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1855,
+      "norma_id": 3236
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 736,
+      "norma_id": 2220
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1854,
+      "norma_id": 3235
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 735,
+      "norma_id": 2219
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1853,
+      "norma_id": 3234
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 734,
+      "norma_id": 2218
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1858,
+      "norma_id": 3238
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 733,
+      "norma_id": 2217
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1851,
+      "norma_id": 3232
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 486,
+      "norma_id": 1956
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1859,
+      "norma_id": 3239
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 732,
+      "norma_id": 2216
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1850,
+      "norma_id": 3231
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 731,
+      "norma_id": 2215
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1849,
+      "norma_id": 3230
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 730,
+      "norma_id": 2214
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1848,
+      "norma_id": 3229
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 729,
+      "norma_id": 2213
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1847,
+      "norma_id": 3228
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 690,
+      "norma_id": 2171
+    },
+    {
+      "host": "sapl.guarujadosul.sc.leg.br",
+      "ta_id": 1846,
+      "norma_id": 3227
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 728,
+      "norma_id": 2211
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 727,
+      "norma_id": 2210
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 689,
+      "norma_id": 2170
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 725,
+      "norma_id": 2209
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 724,
+      "norma_id": 2208
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 723,
+      "norma_id": 2207
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 396,
+      "norma_id": 1515
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 722,
+      "norma_id": 2206
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 721,
+      "norma_id": 2205
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 720,
+      "norma_id": 2204
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 719,
+      "norma_id": 2203
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 718,
+      "norma_id": 2202
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 717,
+      "norma_id": 2201
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 716,
+      "norma_id": 2200
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 715,
+      "norma_id": 2198
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 714,
+      "norma_id": 2197
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 713,
+      "norma_id": 2196
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 712,
+      "norma_id": 2195
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 274,
+      "norma_id": 1779
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 150,
+      "norma_id": 1684
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 711,
+      "norma_id": 2194
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 600,
+      "norma_id": 2040
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 710,
+      "norma_id": 2193
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 709,
+      "norma_id": 2192
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 708,
+      "norma_id": 2191
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 706,
+      "norma_id": 2189
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 705,
+      "norma_id": 2188
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 703,
+      "norma_id": 2186
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 702,
+      "norma_id": 2185
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 701,
+      "norma_id": 2184
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 699,
+      "norma_id": 2181
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 698,
+      "norma_id": 2180
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 697,
+      "norma_id": 2179
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 696,
+      "norma_id": 2178
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 695,
+      "norma_id": 2177
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 693,
+      "norma_id": 2175
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 347,
+      "norma_id": 1836
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 692,
+      "norma_id": 2174
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 691,
+      "norma_id": 2173
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 688,
+      "norma_id": 2168
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 687,
+      "norma_id": 2166
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 664,
+      "norma_id": 2140
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 686,
+      "norma_id": 2165
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 685,
+      "norma_id": 2164
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 684,
+      "norma_id": 2163
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 683,
+      "norma_id": 2162
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 682,
+      "norma_id": 2161
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 681,
+      "norma_id": 2160
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 680,
+      "norma_id": 2159
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 679,
+      "norma_id": 2158
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 678,
+      "norma_id": 2157
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 677,
+      "norma_id": 2156
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 676,
+      "norma_id": 2155
+    },
+    {
+      "host": "sapl.guaira.pr.leg.br",
+      "ta_id": 675,
+      "norma_id": 2154
+    }
+  ]
+}

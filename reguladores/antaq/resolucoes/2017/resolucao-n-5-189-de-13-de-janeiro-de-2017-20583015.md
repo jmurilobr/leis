@@ -1,0 +1,30 @@
+---
+titulo: "RESOLUÇÃO Nº 5.189, DE 13 DE JANEIRO DE 2017"
+orgao: "Ministério dos Transportes, Portos e Aviação Civil/AGÊNCIA NACIONAL DE TRANSPORTES AQUAVIÁRIOS"
+tipo: "Resolução"
+numero: "5189"
+data: 2017-01-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 16/01/2017, seção 1, p. 61"
+data_publicacao: 2017-01-16
+edicao: "11"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-5-189-de-13-de-janeiro-de-2017-20583015"
+sha256_html_fonte: c77474484434b44ace1d4c6edc5259cd154e897e20df09de1fd2f610deb0de62
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO Nº 5.189, DE 13 DE JANEIRO DE 2017
+
+RESOLUÇÃO Nº 5.189, DE 13 DE JANEIRO DE 2017
+
+O DIRETOR-GERAL SUBSTITUTO DA AGÊNCIA NACIONALDE TRANSPORTES AQUAVIÁRIOS - ANTAQ, no usoda competência que lhe é conferida pelo art. 20 inciso IV do RegimentoInterno, com base no que dispõe o art. 27 inciso XV e o art.34-A § 1º, ambos da Lei nº 10.233, de 2001, com as alteraçõespromovidas pela Lei nº 12.815, de 2013, considerando o que constado Processo nº 50300.010149/2016-66, ad referendum da DiretoriaColegiada, resolve:
+
+**Art. 1º** Autorizar a realização de Consulta e Audiência Públicas,no período de 16/01/2017 à 24/03/2017, visando a obtenção desubsídios para aprimoramento das minutas de edital, de contrato dearrendamento e dos documentos técnicos relativos à realização decertame licitatório referente ao arrendamento do terminal portuário deveículos no porto organizado de Paranaguá, no Estado do Paraná,denominado PAR12.
+
+**Art. 2º** Esta Resolução entrará em vigor na data de suapublicação no Diário Oficial da União.
+
+MÁRIO POVIA
+
+MÁRIO POVIA
+
+Este conteúdo não substitui o publicado na versão certificada.

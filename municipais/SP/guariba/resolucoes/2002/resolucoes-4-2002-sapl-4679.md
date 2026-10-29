@@ -1,0 +1,92 @@
+---
+titulo: "Resolução nº 4, de 15 de março de 2002"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "4"
+data: "2002-03-15"
+municipio: "Guariba"
+uf: "SP"
+codigo_ibge: "3518602"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guariba.sp.leg.br/norma/4679"
+fonte_texto: "https://sapl.guariba.sp.leg.br/ta/57/text"
+sha256_fonte: "99efa1b5e27c1f11ac901c2933d937c74995c416702952102649d1d5fe5f032b"
+sha256_texto: "22a6c3994020008ee56f8fb2242eb8aa569c72c47949e088caa7a02197b31b2b"
+capturado_em_fonte: "2026-10-28T13:27:48.849014-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Resolução nº 4, de 15 de março de 2002
+
+**RESOLUÇÃO N.º 004/2002**
+
+
+**“ALTERA DISPOSIÇÕES DO REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE GUARIBA”**
+
+
+A Câmara Municipal de Guariba, Estado de São Paulo, faz saber que o Plenário APROVOU na Sessão Extraordinária de 14 de Março de 2002, e eu, Marcos Henrique Osti, Presidente da Mesa, promulgo a seguinte...
+
+
+**RESOLUÇÃO**
+
+
+Art. 1º.
+
+O inciso II, do artigo 8º, contido no Título II - dos Órgãos da Câmara, no seu Capítulo I - da Mesa Diretora, contido no Regimento Interno da Câmara Municipal de Guariba, passará a vigorar com a seguinte redação:
+
+“Artigo 8º - A Mesa da Câmara Municipal, com mandato de dois anos, compor-se-á do Presidente, Vice-Presidente, 1º e 2º Secretários e a ela compete privativamente:
+
+II - propor projetos de resolução que criem ou extingam cargos dos serviços da Câmara e fixem os respectivos vencimentos”.
+
+
+Art. 2º.
+
+A letra “a”, do inciso III, do artigo 22, na Seção IV - do Presidente, contido no Regimento Interno da Câmara Municipal, passa a vigorar com a seguinte redação:
+
+“Artigo 22 - O Presidente é o representante legal da Câmara nas suas relações externas, cabendo-lhe as funções administrativas e diretivas de todas as atividades internas competindo-lhe privativamente:
+
+III - Quanto à administração da Câmara Municipal:
+
+a) Nomear, exonerar, promover, remover, admitir, suspender e demitir funcionários da Câmara, conceder-lhes férias, licenças, abono de faltas, aposentadoria e acréscimo de vencimentos determinados por resolução e promover-lhes a responsabilidade administrativa, civil e criminal.
+
+
+Art. 3º.
+
+O artigo 72, do Capítulo IV - Da Secretaria Administrativa, contido no Regimento Interno da Câmara Municipal de Guariba, passa a vigorar com a seguinte redação:
+
+“Artigo 72 - Todos os serviços da Câmara, que integram a Scretaria Administrativa, serão criados, modificados ou extintos por resolução. A criação ou extinção de seus cargos, bem como a fixação de seus respectivos vencimentos, também serão por resolução de iniciativa privativa da Câmara”.
+
+
+Art. 4º.
+
+O Parágrafo Único, do Artigo 88, do Regimento Interno da Câmara Municipal de Guariba, passa a vigorar com a seguinte redação:
+
+“Artigo 88 - Os subsídios dos Vereadores será fixado por Lei de iniciativa da Câmara Municipal, obedecido os limites e critérios estabelecidos na Lei Orgânica do Município de Guariba”.
+
+Parágrafo Único - Caberá à Mesa Diretora, qualquer comissão ou qualquer Vereador propor Projeto de Lei nesse sentido, bem como, propor Projeto de Resolução visando atualização dos valores fixados.
+
+
+Art. 5º.
+
+A Letra “e”, do parágrafo 1º, do artigo 162, que está inserido na Seção IV - Dos Projetos de Resolução - do Regimento Interno da Câmara Municipal de Guariba, passa a vigorar com a seguinte redação:
+
+**Artigo 162** - Projeto de Resolução é a propositura destinada a regular assuntos de economia interna da Câmara, de natureza político-administrativa e versará sobre a sua Secretaria Administrativa, a Mesa e os Vereadores”.
+
+**§ 1º** - Constitui matéria de Projeto de Resolução:
+
+e) - Organização dos serviços administrativos, incluindo a criação de cargos.
+
+
+Art. 6º.
+
+Esta Resolução entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Guariba, 15 de Março de 2002.
+
+Marcos Henrique Osti  
+Presidente
+

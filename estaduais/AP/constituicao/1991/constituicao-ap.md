@@ -5,10 +5,19 @@ tipo: "Constituição Estadual"
 numero: ""
 data: 1991-12-20
 ementa: ""
-versao_texto: "Edição de 2025; atualizada até EC 71, de 17/06/2025"
+versao_texto: "Compilação oficial de 2025 até EC 71/2025; histórico tachado preservado, vigência posterior não certificada"
 publicacao: ""
 fonte: "http://silegis.al.ap.leg.br/proposicaopdf/2CEatualizadaeconsolidadaateEC071comSumario.pdf"
-baixado_em: 2026-10-13
+arquivo: "https://silegis.al.ap.leg.br/proposicaopdf/2CEatualizadaeconsolidadaateEC071comSumario.pdf"
+baixado_em: "2026-10-28"
+representacao_corpo: "md-compilacao-pdf-com-historico-tachado-ap-v1"
+sha256_fonte: "653e0e3fd73f516ae936d7f27b8cbb09f1d7d91e70bc11f578b203ceda6e3777"
+sha256_corpo: "105b79379ff1a8ad531ab60c282d951ba4ffbecfbc0b771a83653bf5f1b64bbc"
+arquivo_local: "estaduais/AP/constituicao/1991/anexos/constituicao-ap-compilacao-2025-ec71.pdf"
+edicao: "Compilação oficial de 2025 atualizada até EC 71, de 17/06/2025. Textos riscados no PDF são preservados como histórico em del e excluídos pelo extrator explícito de material não tachado. Notas não riscadas ficam. Apêndices das 71 emendas permanecem integrais como documentação histórica; não são atos novos nem afirmação de vigência de suas redações. Nenhuma revogação integral ou vigência global em 2026 foi inferida."
+captura_anterior_registrada: "2026-10-13, data do coletor original; horário/recibo HTTP original indisponível"
+captura_pdf_comprovada_em: "2026-10-28T13:42:58.859404-03:00"
+partes_documento: {"compilacao_paginas": [1, 146], "apendices_historicos_paginas": [147, 271], "limite_apendices": "EMENDAS CONSTITUCIONAIS", "sha256_apendices": "95664000a6cc42ecd6719b5a6dd116b84eff784e69286f7ce6466a5ffd911b89"}
 ---
 # Constituição do Estado do Amapá
 
@@ -420,7 +429,7 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 9
 
 ### TÍTULO I Dos Princípios Fundamentais
 
-**Art. 1º** O Estado do Amapá, integrante da República Federativa do Brasil, rege-se por esta Constituição e pelas leis que adotar, nos limites de sua autonomia e do território sob sua jurisdição.
+<del>**Art. 1º** O Estado do Amapá, integrante da República Federativa do Brasil, rege-se por esta Constituição e pelas leis que adotar, nos limites de sua autonomia e do território sob sua jurisdição.</del>
 
 **Art. 1º** O Estado do Amapá, integrante da República Federativa do Brasil, rege-se por esta Constituição e pelas Leis que adotar, observado os princípios da Constituição Federal, nos limites de sua autonomia e no território sob sua jurisdição. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
@@ -438,7 +447,7 @@ II - a defesa dos direitos humanos;
 
 III - defesa da igualdade;
 
-IV - respeito à moralidade e à probidade administrativas;
+<del>IV - respeito à moralidade e à probidade administrativas;</del>
 
 IV - respeito aos princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência; (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
@@ -454,25 +463,25 @@ IX - nos processos administrativos, qualquer que seja seu objeto, observar-se-ã
 
 X - erradicar a pobreza e reduzir as desigualdades sociais e regionais. (incluído pela Emenda Constitucional n. 69, de 12.06.2024)
 
-**Art. 3º** A soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto, nos termos desta Constituição e da Lei, mediante: (revogado pela
+<del>**Art. 3º** A soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto, nos termos desta Constituição e da Lei, mediante:</del> (revogado pela
 
 Emenda Constitucional nº 35, de 21.03.2006)
 
-I - plebiscito; CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 10
+<del>I - plebiscito;</del> CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 10
 
-II - referendo;
+<del>II - referendo;</del>
 
-III - iniciativa popular. TÍTULO II
+<del>III - iniciativa popular.</del> TÍTULO II
 
 Direitos e Garantias Fundamentais
 
 #### CAPÍTULO I Dos Direitos e Deveres Individuais e Coletivos
 
-**Art. 4º** É mantida a integridade territorial do Estado, que só poderá ser alterada mediante aprovação de sua população, por meio de plebiscito, e por lei complementar federal.
+<del>**Art. 4º** É mantida a integridade territorial do Estado, que só poderá ser alterada mediante aprovação de sua população, por meio de plebiscito, e por lei complementar federal.</del>
 
 **Art. 4º** É mantida a integridade territorial do Estado do Amapá que só poderá ser alterada mediante aprovação de sua população, através de plebiscito, e pelo Congresso Nacional, por lei complementar. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**Art. 5º** Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no Estado a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos da Constituição Federal e nos seguintes:
+<del>**Art. 5º** Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no Estado a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos da Constituição Federal e nos seguintes:</del>
 
 **Art. 5º** Todos são iguais perante a lei, sem distinção de qualquer natureza, nos termos do art. 5º da Constituição Federal: (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -496,7 +505,7 @@ VII - cabe ao Estado propiciar assistência jurídica gratuita e defensor aos ne
 
 VIII - constitui infração disciplinar, punível com a pena de demissão a bem do serviço público, a prática de violência, tortura ou coação contra o cidadão, pelos agentes do Poder Público;
 
-IX - qualquer cidadão poderá apresentar queixa à autoridade policial civil ou militar que promover atos que atentem contra a integridade física ou moral das pessoas, sendo obrigatória a apuração dos fatos e das responsabilidades decorrentes, no prazo de sessenta dias, a partir da data da denúncia;
+<del>IX - qualquer cidadão poderá apresentar queixa à autoridade policial civil ou militar que promover atos que atentem contra a integridade física ou moral das pessoas, sendo obrigatória a apuração dos fatos e das responsabilidades decorrentes, no prazo de sessenta dias, a partir da data da denúncia;</del>
 
 IX - qualquer cidadão poderá apresentar queixa à autoridade policial civil, penal ou militar que promover atos que atentem contra a integridade física ou moral das pessoas, sendo obrigatória a apuração dos fatos e das responsabilidades
 
@@ -524,7 +533,7 @@ XIII - ninguém será internado compulsoriamente, em razão de doença mental, s
 
 XV - é assegurado o livre exercício dos cultos religiosos e garantida à proteção aos locais de cultos e ás suas liturgias;
 
-XVI - é livre o acesso de ministros e de membros de confissão religiosa para a prestação de assistência espiritual nas entidades civis e militares de internação coletiva.
+<del>XVI - é livre o acesso de ministros e de membros de confissão religiosa para a prestação de assistência espiritual nas entidades civis e militares de internação coletiva.</del>
 
 XVI - é livre o acesso de Ministros e de membros de confissão religiosa para a prestação de assistência espiritual nas entidades civis e militares de internação coletiva, respeitada a proporcionalidade confessional, vedadas todas as formas de proselitismo e atos que possam incomodar os outros internos. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -564,7 +573,7 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 12
 
 **Art. 5º-E** Fica assegurada a presença da sociedade civil, na forma da lei, por meio de suas entidades representativas, nos Conselhos Estaduais e demais órgãos de composição colegiada, de caráter deliberativo, consultivo, normativo e fiscalizador.
 
-**Parágrafo único.** O orçamento do Estado alocará para cada Secretaria Estadual os recursos necessários para o custeio das atividades dos respectivos Conselhos.
+<del>**Parágrafo único.** O orçamento do Estado alocará para cada Secretaria Estadual os recursos necessários para o custeio das atividades dos respectivos Conselhos.</del>
 
 **§ 1º** O orçamento do Estado alocará para cada Secretaria Estadual os recursos necessários para o custeio das atividades dos respectivos conselhos. (anterior parágrafo único, transformado em § 1º pela Emenda Constitucional n. 65, de 30.08.2022)
 
@@ -682,7 +691,7 @@ XIV - proteção e integração social dos portadores de deficiência;
 
 XV - proteção à infância e à juventude;
 
-XVI - organização, garantias, direitos e deveres da polícia civil;
+<del>XVI - organização, garantias, direitos e deveres da polícia civil;</del>
 
 XVI - organização, garantias, direitos e deveres da polícia civil e da polícia penal; (redação dada pela Emenda Constitucional nº 61, de 04.03.2020)
 
@@ -712,7 +721,7 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 15
 
 **Art. 15.** Para execução de suas leis, serviços ou decisões, os Municípios poderão celebrar convênios com a União, o Estado ou outros Municípios.
 
-**Art. 16.** Os Municípios que não possuírem sistema previdenciário próprio poderão vincular-se ao sistema previdenciário estadual, nos termos da lei, ou associar-se a outros Municípios para tal fim.
+<del>**Art. 16.** Os Municípios que não possuírem sistema previdenciário próprio poderão vincular-se ao sistema previdenciário estadual, nos termos da lei, ou associar-se a outros Municípios para tal fim.</del>
 
 **Art. 16.** Os Municípios poderão instituir regime próprio de previdência para seus servidores, observados os princípios e normas estabelecidos pela Constituição Federal e por esta Constituição. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -728,7 +737,7 @@ III - instituir e arrecadar os tributos de sua competência, bem como aplicar su
 
 IV - adquirir bens, inclusive por meio de desapropriação por necessidade ou por utilidade pública, nos termos da legislação federal;
 
-V - organizar e prestar, diretamente ou sob regime de concessão ou permissão, os serviços públicos de interesse local, incluído o de transporte coletivo, que tem caráter essencial e que poderá ser explorado, se diretamente, por empresa pública ou sociedade de economia mista, submetidas ao regime jurídico das empresas privadas;
+<del>V - organizar e prestar, diretamente ou sob regime de concessão ou permissão, os serviços públicos de interesse local, incluído o de transporte coletivo, que tem caráter essencial e que poderá ser explorado, se diretamente, por empresa pública ou sociedade de economia mista, submetidas ao regime jurídico das empresas privadas;</del>
 
 V - organizar e prestar, diretamente ou sob regime de concessão ou permissão, os serviços públicos de interesse local, incluído o de transporte coletivo que tem caráter essencial, o de táxi convencional e o transporte alternativo de moto- táxi, que poderão ser explorados diretamente, por empresas públicas, sociedade de economia mista ou entidade de classe, submetidas ao regime jurídico das empresas privadas; (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
@@ -746,7 +755,7 @@ X - garantir a defesa do meio ambiente e da qualidade de vida, no âmbito de seu
 
 XI - instituir fundos municipais de desenvolvimento para executar as funções públicas de interesse comum;
 
-XII - criar, através de lei, guardas municipais destinadas à proteção de seus bens, serviços, instalações e fiscalização das atividades que envolvam o meio ambiente, respeitadas as competências estadual e federal;
+<del>XII - criar, através de lei, guardas municipais destinadas à proteção de seus bens, serviços, instalações e fiscalização das atividades que envolvam o meio ambiente, respeitadas as competências estadual e federal;</del>
 
 XII - constituir guardas municipais destinadas à proteção de seus bens, serviços e instalações, conforme dispuser a lei, bem como a colaborar com o Estado no policiamento ostensivo e preventivo, de acordo com disposições legais e acordos estabelecidos, respeitadas as competências federal e estadual; (redação dada pela
 
@@ -754,7 +763,7 @@ Emenda Constitucional nº 35, de 21.03.2006)
 
 XIII - criar, organizar e manter o Arquivo Público Municipal.
 
-XIV - conceder, com a colaboração técnica e financeira de entidades representativas do transporte coletivo, transporte gratuito a estudantes de estabelecimentos de ensino situado no Município, na forma da lei. (incluído pela Emenda Constitucional nº 14, de 20.12.1999)
+<del>XIV - conceder, com a colaboração técnica e financeira de entidades representativas do transporte coletivo, transporte gratuito a estudantes de estabelecimentos de ensino situado no Município, na forma da lei. (incluído pela Emenda Constitucional nº 14, de 20.12.1999)</del>
 
 XIV - garantir, com a colaboração técnica e financeira do Estado, gratuidade nos transportes coletivos urbanos aos estudantes dos estabelecimentos de ensino situados nas sedes municipais, na forma estabelecida em lei complementar. (redação dada pela Emenda Constitucional nº 32, de 23.03.2004)
 
@@ -762,7 +771,7 @@ XIV - garantir, com a colaboração técnica e financeira do Estado, gratuidade 
 
 **Art. 18.** O Poder Legislativo, nos Municípios, é exercido pela Câmara Municipal, composta de Vereadores eleitos pelo povo para mandato de quatro anos, observado o disposto no art. 29 da Constituição Federal.
 
-**Art. 19.** A administração financeira da Câmara Municipal será exercida pela Mesa Executiva, conforme a Lei Orgânica do Município.
+<del>**Art. 19.** A administração financeira da Câmara Municipal será exercida pela Mesa Executiva, conforme a Lei Orgânica do Município.</del>
 
 **Art. 19.** O total da despesa do Poder Legislativo Municipal, incluídos os subsídios dos Vereadores e excluídos os gastos com inativos, não poderá ultrapassar os percentuais previstos nos incisos I a IV do art. 29-A da Constituição Federal, relativos ao somatório da receita tributária e das transferências previstas no § 5º do
 
@@ -770,17 +779,17 @@ art. 153 e nos arts. 158 e 159, efetivamente realizado no exercício anterior. (
 
 **Parágrafo único.** A Câmara Municipal não gastará mais de 70% (setenta por cento) de sua receita com folha de pagamento, incluído o gasto com o subsídio de seus Vereadores. (incluído pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**Art. 20.** Mediante requerimento de um terço de seus membros, a Câmara Municipal poderá criar Comissão Parlamentar de Inquérito para apurar fato determinado, por prazo definido, com poderes de investigação próprios das
+<del>**Art. 20.** Mediante requerimento de um terço de seus membros, a Câmara Municipal poderá criar Comissão Parlamentar de Inquérito para apurar fato determinado, por prazo definido, com poderes de investigação próprios das</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 17
 
-autoridades judiciais, além de outros previstos na Lei Orgânica respectiva, sendo suas conclusões encaminhadas ou não ao Ministério Público, para que este promova a responsabilidade civil ou criminal dos infratores.
+<del>autoridades judiciais, além de outros previstos na Lei Orgânica respectiva, sendo suas conclusões encaminhadas ou não ao Ministério Público, para que este promova a responsabilidade civil ou criminal dos infratores.</del>
 
 **Art. 20.** Mediante requerimento de um terço de seus membros, a Câmara Municipal poderá criar Comissão Parlamentar de Inquérito para apurar fato determinado, por prazo definido, com poderes de investigação próprios das autoridades judiciais, além de outros previstos na Lei Orgânica respectiva, sendo suas conclusões encaminhadas ou não ao Ministério Público, para que este promova a responsabilidade civil ou criminal dos infratores.
 
 **Parágrafo único.** Compete à Câmara Municipal processar e julgar originariamente o Prefeito nos crimes de responsabilidade. (incluído pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**Art. 21.** As contas da Mesa Executiva da Câmara Municipal, após o parecer prévio emitido pelo Tribunal de Contas do Estado, serão apreciadas pelo plenário da Câmara Municipal.
+<del>**Art. 21.** As contas da Mesa Executiva da Câmara Municipal, após o parecer prévio emitido pelo Tribunal de Contas do Estado, serão apreciadas pelo plenário da Câmara Municipal.</del>
 
 **Art. 21.** As contas da Mesa Diretora das Câmaras Municipais serão julgadas pelo Tribunal de Contas do Estado. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -788,13 +797,13 @@ autoridades judiciais, além de outros previstos na Lei Orgânica respectiva, se
 
 **Art. 23.** Os Vereadores estão sujeitos às mesmas proibições e incompatibilidades previstas nesta Constituição para os membros da Assembleia Legislativa, no que couber, observado o previsto no art. 38, inciso III, da Constituição Federal.
 
-**Art. 24.** Os recursos correspondentes às dotações orçamentárias, compreendidos os créditos suplementares e especiais, destinados ao Poder Legislativo municipal, ser-lhe-ão entregues até o dia vinte de cada mês.
+<del>**Art. 24.** Os recursos correspondentes às dotações orçamentárias, compreendidos os créditos suplementares e especiais, destinados ao Poder Legislativo municipal, ser-lhe-ão entregues até o dia vinte de cada mês.</del>
 
 **Art. 24.** Os recursos correspondentes às dotações previstas no orçamento anual, compreendidos os créditos suplementares e especiais, destinadas ao Poder Legislativo Municipal, ser-lhes-ão entregues até o dia vinte de cada mês, sob pena de crime de responsabilidade do Prefeito Municipal. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
 **Art. 25.** A fiscalização do Município será exercida pelo Poder Legislativo Municipal, mediante controle externo, e pelos sistemas de controle interno do Poder Executivo Municipal, na forma da lei.
 
-**§ 1º** O controle externo da Câmara Municipal será exercido com o auxílio do Tribunal de Contas do Estado.
+<del>**§ 1º** O controle externo da Câmara Municipal será exercido com o auxílio do Tribunal de Contas do Estado.</del>
 
 **§ 1º** O controle externo, a cargo da Câmara Municipal, será exercido com o auxílio do Tribunal de Contas. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -802,49 +811,49 @@ autoridades judiciais, além de outros previstos na Lei Orgânica respectiva, se
 
 **§ 3º** É vedada a criação de Tribunais, Conselhos ou órgãos de contas municipais.
 
-**Art. 26.** A remuneração do Prefeito, do Vice-Prefeito e dos Vereadores será fixada antes da data das eleições do último ano de uma legislatura, para vigorar na subsequente, observado o disposto na Constituição Federal.
+<del>**Art. 26.** A remuneração do Prefeito, do Vice-Prefeito e dos Vereadores será fixada antes da data das eleições do último ano de uma legislatura, para vigorar na subsequente, observado o disposto na Constituição Federal.</del>
 
-**Art. 26.** Os subsídios do Prefeito, do Vice-Prefeito e dos Secretários Municipais serão fixados por lei de iniciativa da Câmara Municipal, observado o que
+<del>**Art. 26.** Os subsídios do Prefeito, do Vice-Prefeito e dos Secretários Municipais serão fixados por lei de iniciativa da Câmara Municipal, observado o que</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 18
 
-dispõe os Arts. 42, XI, 47, § 4º, desta Constituição e os Arts. 150, II,153, II e 153, § 2º, I da constituição Federal. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
+<del>dispõe os Arts. 42, XI, 47, § 4º, desta Constituição e os Arts. 150, II,153, II e 153, § 2º, I da constituição Federal. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)</del>
 
 **Art. 26.** Os subsídios do Prefeito, do Vice-Prefeito e dos Secretários Municipais serão fixados por lei de iniciativa da Câmara Municipal, observado o que dispõem os arts. 42, XI e 47, § 4º desta Constituição e os arts. 150, II, 153, III e 153,
 
 § 2º, I da Constituição Federal. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 1º** Não tendo sido fixada a remuneração na legislatura anterior, ficam mantidos os valores vigentes em dezembro do último ano da legislatura anterior, permitido o reajuste equivalente ao que for concedido ao funcionalismo municipal.
+<del>**§ 1º** Não tendo sido fixada a remuneração na legislatura anterior, ficam mantidos os valores vigentes em dezembro do último ano da legislatura anterior, permitido o reajuste equivalente ao que for concedido ao funcionalismo municipal.</del>
 
-**§ 1º** Os subsídios dos Vereadores serão fixados por lei de iniciativa da Câmara Municipal, nos limites estabelecidos pela Constituição Federal. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
+<del>**§ 1º** Os subsídios dos Vereadores serão fixados por lei de iniciativa da Câmara Municipal, nos limites estabelecidos pela Constituição Federal. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)</del>
 
 **§ 1º** O subsídio dos vereadores será fixado por lei de iniciativa das respectivas Câmaras Municipais, observado o que dispõe a Constituição Federal, os critérios estabelecidos na respectiva Lei Orgânica e os limites máximos fixados no inciso VI do art. 29 da Constituição Federal. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 2º** Tratando-se de Município novo, a primeira remuneração será fixada pela Câmara Municipal.
+<del>**§ 2º** Tratando-se de Município novo, a primeira remuneração será fixada pela Câmara Municipal.</del>
 
-**§ 2º** A remuneração dos servidores municipais e os subsídios a que trata este artigo, somente poderão ser fixados ou alterados por Lei específica, observada iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
+<del>**§ 2º** A remuneração dos servidores municipais e os subsídios a que trata este artigo, somente poderão ser fixados ou alterados por Lei específica, observada iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)</del>
 
 **§ 2º** A lei a que se referem o caput deste artigo e o § 1º deverá ser aprovada e publicada antes da data das eleições municipais. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**Art. 27.** As Câmaras Municipais terão o número de Vereadores proporcional à população do Município, observados os seguintes limites:
+<del>**Art. 27.** As Câmaras Municipais terão o número de Vereadores proporcional à população do Município, observados os seguintes limites:</del>
 
-I - até vinte mil habitantes, nove Vereadores;
+<del>I - até vinte mil habitantes, nove Vereadores;</del>
 
-II - de vinte mil e um a sessenta mil habitantes, onze Vereadores;
+<del>II - de vinte mil e um a sessenta mil habitantes, onze Vereadores;</del>
 
-III - de sessenta mil e um a cento e vinte mil habitantes, treze Vereadores;
+<del>III - de sessenta mil e um a cento e vinte mil habitantes, treze Vereadores;</del>
 
-IV - de cento e vinte mil e um a duzentos mil habitantes, quinze Vereadores
+<del>IV - de cento e vinte mil e um a duzentos mil habitantes, quinze Vereadores</del>
 
-V - de duzentos mil e um a quatrocentos mil habitantes, dezessete Vereadores;
+<del>V - de duzentos mil e um a quatrocentos mil habitantes, dezessete Vereadores;</del>
 
-VI - de quatrocentos mil e um a oitocentos mil habitantes, dezenove Vereadores;
+<del>VI - de quatrocentos mil e um a oitocentos mil habitantes, dezenove Vereadores;</del>
 
-VII - de oitocentos mil e um a um milhão de habitantes, vinte e um Vereadores;
+<del>VII - de oitocentos mil e um a um milhão de habitantes, vinte e um Vereadores;</del>
 
 VIII - acima de um milhão de habitantes, trinta e três vereadores.
 
-**Art. 27.** As Câmaras municipais terão o número de Vereadores proporcional à população do Município, observados os seguintes limites: (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
+<del>**Art. 27.** As Câmaras municipais terão o número de Vereadores proporcional à população do Município, observados os seguintes limites: (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)</del>
 
 **Art. 27.** O número de Vereadores das Câmaras Municipais será fixado nas respectivas Leis Orgânicas proporcionalmente à população do Município, observados os limites estabelecidos no inciso IV do art. 29 da Constituição Federal. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -882,7 +891,7 @@ VII - de duzentos e cinquenta mil e um a um milhão de habitantes, vinte e um Ve
 
 **Art. 31.** Vagando os cargos de Prefeito e Vice-Prefeito, far-se-á nova eleição noventa dias após aberta a última vaga.
 
-**Parágrafo único.** Ocorrendo vacância de ambos os cargos no último ano do mandato, o cargo será exercido pelo Presidente da Câmara Municipal.
+<del>**Parágrafo único.** Ocorrendo vacância de ambos os cargos no último ano do mandato, o cargo será exercido pelo Presidente da Câmara Municipal.</del>
 
 **§ 1º** Ocorrendo a vacância nos últimos dois anos do mandato do Prefeito, a eleição para ambos os cargos será feita trinta dias depois da última vaga, pela Câmara Municipal, na forma da lei. (incluído pela Emenda Constitucional nº 14, de 20.12.1999)
 
@@ -894,21 +903,21 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 20
 
 **Art. 33.** As proibições e incompatibilidades dos Vereadores aplicam-se no que couber, ao Prefeito e ao Vice-Prefeito.
 
-**Art. 34.** São crimes de responsabilidade os atos do Prefeito que atentem contra as Constituições Federal e do Estado, a Lei Orgânica do Município e, especialmente, contra:
+<del>**Art. 34.** São crimes de responsabilidade os atos do Prefeito que atentem contra as Constituições Federal e do Estado, a Lei Orgânica do Município e, especialmente, contra:</del>
 
-I - a existência do Município;
+<del>I - a existência do Município;</del>
 
-II - o livre exercício do Poder Legislativo estadual ou municipal, do Poder Judiciário e do Ministério Público;
+<del>II - o livre exercício do Poder Legislativo estadual ou municipal, do Poder Judiciário e do Ministério Público;</del>
 
-III - o livre exercício dos direitos políticos, individuais e sociais;
+<del>III - o livre exercício dos direitos políticos, individuais e sociais;</del>
 
-IV - - a segurança interna do Município;
+<del>IV - - a segurança interna do Município;</del>
 
-V - a probidade na administração;
+<del>V - a probidade na administração;</del>
 
-VI - a Lei Orçamentária;
+<del>VI - a Lei Orçamentária;</del>
 
-VII - o cumprimento das leis e das decisões judiciais.
+<del>VII - o cumprimento das leis e das decisões judiciais.</del>
 
 **Art. 34.** Constitui crime de responsabilidade do Prefeito Municipal: (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -924,11 +933,11 @@ III - enviá-lo a menor em relação à proporção fixada na Lei Orçamentária
 
 ##### SEÇÃO V Da Criação, Incorporação, Fusão e Desmembramento dos Municípios
 
-**Art. 35.** Além de outras exigências previstas em lei complementar estadual, a criação, a incorporação, a fusão e o desmembramento de Municípios far- se-ão por lei estadual, obedecendo aos seguintes requisitos:
+<del>**Art. 35.** Além de outras exigências previstas em lei complementar estadual, a criação, a incorporação, a fusão e o desmembramento de Municípios far- se-ão por lei estadual, obedecendo aos seguintes requisitos:</del>
 
 **Art. 35.** A criação, a incorporação, a fusão e o desmembramento de municípios far-se-á por lei estadual, dentro do período determinado por lei complementar federal, obedecendo aos seguintes requisitos: (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
-I - consulta prévia, mediante plebiscito, aos eleitores domiciliados na área a ser incorporada, fundida ou desmembrada;
+<del>I - consulta prévia, mediante plebiscito, aos eleitores domiciliados na área a ser incorporada, fundida ou desmembrada;</del>
 
 I - consulta prévia, mediante plebiscito, às populações dos municípios envolvidos, após divulgação dos estudos de viabilidade Municipal, apresentados e publicados na forma da lei; (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
@@ -970,7 +979,7 @@ I - deixar de ser paga, sem motivo de força maior, por dois anos consecutivos, 
 
 II - não forem prestadas contas devidas, na forma da lei;
 
-III - não tiver sido aplicado o mínimo exigido da receita municipal na manutenção e desenvolvimento do ensino;
+<del>III - não tiver sido aplicado o mínimo exigido da receita municipal na manutenção e desenvolvimento do ensino;</del>
 
 III - não tiver sido aplicado o mínimo exigido da receita municipal na manutenção e desenvolvimento do ensino e nas ações e serviços públicos de saúde; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -1020,15 +1029,15 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 23
 
 ##### SEÇÃO I Disposições Gerais
 
-**Art. 42.** A administração pública direta, indireta ou fundacional, de qualquer dos Poderes do Estado e dos Municípios, obedecerá aos princípios de legalidade, impessoalidade' moralidade, publicidade e, também, ao seguinte:
+<del>**Art. 42.** A administração pública direta, indireta ou fundacional, de qualquer dos Poderes do Estado e dos Municípios, obedecerá aos princípios de legalidade, impessoalidade' moralidade, publicidade e, também, ao seguinte:</del>
 
 **Art. 42.** A administração pública direta e indireta de qualquer dos Poderes do Estado e dos Municípios, obedecerá aos princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, o seguinte: (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
-I - os cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei;
+<del>I - os cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei;</del>
 
 I - os cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da Lei; (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
-II - a investidura em cargo público depende de aprovação prévia, em concurso público de provas ou de provas e títulos, ressalvadas as nomeações para cargo em comissão, declarado em lei, de livre nomeação e exoneração;
+<del>II - a investidura em cargo público depende de aprovação prévia, em concurso público de provas ou de provas e títulos, ressalvadas as nomeações para cargo em comissão, declarado em lei, de livre nomeação e exoneração;</del>
 
 II - a investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração; (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
@@ -1036,13 +1045,13 @@ III - o prazo de validade do concurso público será de até dois anos, prorrog�
 
 IV - durante o prazo improrrogável previsto no edital de convocação, o aprovado em concurso público de provas ou de provas e títulos será convocado com prioridade sobre novos concursados para assumir cargo ou emprego, na carreira;
 
-V - os cargos em comissão e as funções de confiança serão exercidos, preferencialmente, por servidores ocupantes de cargo de carreira técnica ou profissional, nos casos e condições previstos em lei;
+<del>V - os cargos em comissão e as funções de confiança serão exercidos, preferencialmente, por servidores ocupantes de cargo de carreira técnica ou profissional, nos casos e condições previstos em lei;</del>
 
 V - As funções de confiança, exercidas exclusivamente por servidores ocupantes de cargo efetivo, e os cargos em comissão, a serem preenchidos por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei, destina-se apenas às atribuições de direção, chefia e assessoramento; (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
 VI - é garantida ao servidor público civil a livre associação sindical;
 
-VII - o direito de greve será exercido nos termos e nos limites definidos em lei complementar federal;
+<del>VII - o direito de greve será exercido nos termos e nos limites definidos em lei complementar federal;</del>
 
 VII - o direito de greve será exercido nos termos e nos limites definidos em lei específica; (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
@@ -1052,27 +1061,27 @@ IX - a lei estabelecerá os casos de contratação por tempo determinado, para a
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 24
 
-X – revisão geral da remuneração dos servidores públicos, sem distinção de índices entre servidores civis e militares, far-se-á sempre na mesma data;
+<del>X – revisão geral da remuneração dos servidores públicos, sem distinção de índices entre servidores civis e militares, far-se-á sempre na mesma data;</del>
 
-X - a remuneração dos servidores públicos estaduais e o subsídio de que trata o § 4º do Art. 47, somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices; (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
+<del>X - a remuneração dos servidores públicos estaduais e o subsídio de que trata o § 4º do Art. 47, somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices; (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)</del>
 
 X - a remuneração dos servidores públicos estaduais e o subsídio de que trata o § 4º do art. 47, somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre no dia 1º do mês de abril e sem distinção de índices; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-XI - a lei fixara o limite máximo e a relação de valores entre a maior e menor remuneração dos servidores públicos observados, como limites máximos e no âmbito dos respectivos Poderes, os valores percebidos como remuneração em espécie a qualquer titulo, por membros dos Poderes Legislativo, Judiciário Procurador-Geral de Justiça e Secretários de Estado;
+<del>XI - a lei fixara o limite máximo e a relação de valores entre a maior e menor remuneração dos servidores públicos observados, como limites máximos e no âmbito dos respectivos Poderes, os valores percebidos como remuneração em espécie a qualquer titulo, por membros dos Poderes Legislativo, Judiciário Procurador-Geral de Justiça e Secretários de Estado;</del>
 
-XI - a remuneração e o subsídio dos ocupantes de cargos, funções e empregos públicos da administração direta, autárquica e fundacional, dos membros de qualquer dos Poderes do Estado e dos Municípios, dos detentores de mandato eletivo e dos demais agentes políticos e os proventos, pensões ou outra espécie remuneratória, percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer outra natureza, não poderão exceder o subsídio mensal, em espécie, dos Desembargadores do Tribunal de Justiça do Estado; (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
+<del>XI - a remuneração e o subsídio dos ocupantes de cargos, funções e empregos públicos da administração direta, autárquica e fundacional, dos membros de qualquer dos Poderes do Estado e dos Municípios, dos detentores de mandato eletivo e dos demais agentes políticos e os proventos, pensões ou outra espécie remuneratória, percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer outra natureza, não poderão exceder o subsídio mensal, em espécie, dos Desembargadores do Tribunal de Justiça do Estado; (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)</del>
 
 XI - a remuneração e o subsídio dos ocupantes de cargos, funções e empregos públicos da administração direta, autárquica e fundacional, dos membros de qualquer dos Poderes do Estado e dos Municípios e os proventos, pensões ou outra espécie remuneratória, percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer outra natureza, não poderão exceder o subsídio mensal, em espécie, dos Desembargadores do Tribunal de Justiça, limitado a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal, ressalvada a exceção prevista no § 12 do art. 37 da Constituição Federal; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-XII - é vedada a vinculação ou equiparação de vencimentos, de remuneração de pessoal do serviço público, para efeito de remuneração de pessoal de serviço público, ressalvado o disposto no art. 39, § 1º, da Constituição Federal;
+<del>XII - é vedada a vinculação ou equiparação de vencimentos, de remuneração de pessoal do serviço público, para efeito de remuneração de pessoal de serviço público, ressalvado o disposto no art. 39, § 1º, da Constituição Federal;</del>
 
 XII - é vedada a vinculação ou equiparação de quaisquer espécies remuneratórias para efeito de remuneração de pessoal do serviço público; (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
-XIII - os acréscimos pecuniários percebidos por servidor não serão computados nem acumulados para fins de concessão de acréscimos ulteriores sob o mesmo título ou idêntico fundamento;
+<del>XIII - os acréscimos pecuniários percebidos por servidor não serão computados nem acumulados para fins de concessão de acréscimos ulteriores sob o mesmo título ou idêntico fundamento;</del>
 
 XIII - os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados para fim de concessão de acréscimos ulteriores; (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
-XIV - os vencimentos dos servidores públicos, civis e militares, são irredutíveis e a remuneração observará o que dispõem os arts. 37, XI, XII, 150, II, 153, III e 153, § 2º, I, da Constituição Federal;
+<del>XIV - os vencimentos dos servidores públicos, civis e militares, são irredutíveis e a remuneração observará o que dispõem os arts. 37, XI, XII, 150, II, 153, III e 153, § 2º, I, da Constituição Federal;</del>
 
 XIV - o subsídio e os vencimentos dos ocupantes de cargos e empregos públicos são irredutíveis, ressalvado o disposto nos incisos XI e XIII deste artigo, no §
 
@@ -1080,7 +1089,7 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 25
 
 4º do art. 47 e nos arts. 150, II, 153, III e 153, § 2º, I, da Constituição Federal; (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
-XV - é vedada a acumulação remunerada de cargos públicos, exceto quando houver compatibilidade de horários:
+<del>XV - é vedada a acumulação remunerada de cargos públicos, exceto quando houver compatibilidade de horários:</del>
 
 XV - é vedada a acumulação remunerada de cargos públicos, exceto quando houver compatibilidade de horários, observado em qualquer caso o disposto no inciso XI: (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
@@ -1088,17 +1097,17 @@ a) a de dois cargos de professor;
 
 b) a de um cargo de professor com outro técnico ou científico;
 
-c) de dois cargos privativos de médico;
+<del>c) de dois cargos privativos de médico;</del>
 
 c) a de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-XVI - a proibição de acumular, a que se refere o inciso anterior, estende- se a empregos e funções e abrange autarquias, empresas públicas, sociedades de economia mista e fundações instituídas ou mantidas pelo Poder Público;
+<del>XVI - a proibição de acumular, a que se refere o inciso anterior, estende- se a empregos e funções e abrange autarquias, empresas públicas, sociedades de economia mista e fundações instituídas ou mantidas pelo Poder Público;</del>
 
 XVI - a proibição de acumular estende-se a empregos e funções e abrange autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias, e sociedades controladas, direta ou indiretamente, pelo Poder Público; (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
 XVII - a administração fazendária e seus agentes fiscais de rendas, aos quais compete exercer, privativamente, a fiscalização de tributos estaduais, terão, dentro de suas áreas de competência e jurisdição, precedência sobre os demais setores administrativos, na forma da lei;
 
-XVIII - a criação, transformação, fusão, cisão, incorporação, privatização ou extinção das sociedades de economia mista, autarquias, fundações e empresas públicas dependem de prévia aprovação da Assembleia Legislativa;
+<del>XVIII - a criação, transformação, fusão, cisão, incorporação, privatização ou extinção das sociedades de economia mista, autarquias, fundações e empresas públicas dependem de prévia aprovação da Assembleia Legislativa;</del>
 
 XVIII - somente por lei específica poderá ser criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar, neste último caso, definir as áreas de sua atuação; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -1122,7 +1131,7 @@ XXVI - lei estadual assegurará e disciplinará a prestação de serviços extra
 
 XXVII - os vencimentos dos cargos do Poder Legislativo e do Poder Judiciário não poderão ser superiores aos pagos pelo Poder Executivo;
 
-XXVIII - ao Estado é vedado celebrar contratos com empresas que, comprovadamente, desrespeitaram normas de segurança, de medicina do trabalho e de preservação do meio ambiente.
+<del>XXVIII - ao Estado é vedado celebrar contratos com empresas que, comprovadamente, desrespeitaram normas de segurança, de medicina do trabalho e de preservação do meio ambiente.</del>
 
 XXVIII - ao Estado é vedado celebrar contratos com empresas ou pessoas físicas que, comprovadamente, desrespeitem normas de segurança, de medicina do trabalho, de preservação do meio ambiente e, em especial, os direitos e garantias fundamentais estabelecidos na Constituição Federal; (redação dada pela
 
@@ -1140,15 +1149,15 @@ Emenda Constitucional nº 35, de 21.03.2006)
 
 **§ 4º** Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública e a indisponibilidade de bens até o ressarcimento ao erário, na forma e gradação previstas em lei federal, sem prejuízo da ação penal cabível.
 
-**§ 5º** O servidor aposentado, no exercício de mandato eletivo ou de cargo em comissão, ou quando contratado para prestação de serviços públicos, poderá perceber a remuneração dessas atividades cumulada com os proventos da aposentadoria.
+<del>**§ 5º** O servidor aposentado, no exercício de mandato eletivo ou de cargo em comissão, ou quando contratado para prestação de serviços públicos, poderá perceber a remuneração dessas atividades cumulada com os proventos da aposentadoria.</del>
 
-**§ 5º** O servidor aposentado, no exercício de mandato eletivo ou de cargo em comissão ou quando contratado para prestação de serviços públicos, poderá perceber a remuneração dessas atividades acumulada com os proventos da
+<del>**§ 5º** O servidor aposentado, no exercício de mandato eletivo ou de cargo em comissão ou quando contratado para prestação de serviços públicos, poderá perceber a remuneração dessas atividades acumulada com os proventos da</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 27
 
-aposentadoria, respeitado o limite previsto no inciso XI, do art. 42. (redação dada pela
+<del>aposentadoria, respeitado o limite previsto no inciso XI, do art. 42. (redação dada pela</del>
 
-Emenda Constitucional nº 14, de 20.12.1999)
+<del>Emenda Constitucional nº 14, de 20.12.1999)</del>
 
 **§ 5º** É vedada a percepção simultânea de proventos de aposentadoria decorrentes do art. 40 ou dos arts. 42 e 142 da Constituição Federal com a remuneração de cargo, emprego ou função pública, ressalvados os cargos acumuláveis na forma da Constituição Federal, os cargos eletivos e os cargos em comissão declarados em lei de livre nomeação e exoneração. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -1162,11 +1171,11 @@ II - o acesso dos usuários a registros administrativos e à informação sobre 
 
 III - a disciplina da representação contra o exercício negligente ou abusivo de cargo, emprego ou função na administração pública. (incluído pela Emenda Constitucional nº 14, de 20.12.1999)
 
-**Art. 43.** As leis e atos administrativos de efeitos externos serão publicados no órgão oficial do Estado, para que produzam os seus efeitos regulares, podendo ser resumida a publicação dos atos não normativos.
+<del>**Art. 43.** As leis e atos administrativos de efeitos externos serão publicados no órgão oficial do Estado, para que produzam os seus efeitos regulares, podendo ser resumida a publicação dos atos não normativos.</del>
 
-**Art. 43.** As leis e os atos administrativos de efeitos externos, do Poder Executivo e do Poder Legislativo, serão obrigatórios e gratuitamente publicados no órgão oficial do Estado, para que produzam os seus efeitos regulares, podendo ser resumida a publicação dos atos normativos. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
+<del>**Art. 43.** As leis e os atos administrativos de efeitos externos, do Poder Executivo e do Poder Legislativo, serão obrigatórios e gratuitamente publicados no órgão oficial do Estado, para que produzam os seus efeitos regulares, podendo ser resumida a publicação dos atos normativos. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)</del>
 
-**Art. 43.** As leis e atos administrativos de efeitos externos serão publicados no órgão oficial do Estado, para que produzam os seus efeitos regulares, podendo ser resumida a publicação dos atos não normativos.
+<del>**Art. 43.** As leis e atos administrativos de efeitos externos serão publicados no órgão oficial do Estado, para que produzam os seus efeitos regulares, podendo ser resumida a publicação dos atos não normativos.</del>
 
 **Art. 43.** As leis, os atos normativos e administrativos dos Poderes Executivo, Legislativo, Judiciário e Ministério Público serão, obrigatória e gratuitamente, publicados no Diário Oficial do Estado, para que produzam seus regulares e legais efeitos. (redação dada pela Emenda Constitucional nº 17, de 03.07.2000)
 
@@ -1182,11 +1191,11 @@ III - a disciplina da representação contra o exercício negligente ou abusivo 
 
 ##### SEÇÃO II Dos Servidores Públicos Civis
 
-**Art. 47.** O Estado e os Municípios instituirão, no âmbito de sua competência, regime jurídico único e planos de carreira para os servidores da administração pública direta, das autarquias e das fundações públicas.
+<del>**Art. 47.** O Estado e os Municípios instituirão, no âmbito de sua competência, regime jurídico único e planos de carreira para os servidores da administração pública direta, das autarquias e das fundações públicas.</del>
 
 **Art. 47.** O Estado e os Municípios instituirão conselho de política de administração e remuneração de pessoal integrado por servidores designados pelos respectivos Poderes. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
-**§ 1º** O regime jurídico único, de que trata este artigo, poderá ser o estatutário ou o celetista, adotando-se o que melhor atender às necessidades da administração direta, das autarquias e das fundações, podendo ser um ou outro em cada um dos três setores, desde que seja único no setor respectivo.
+<del>**§ 1º** O regime jurídico único, de que trata este artigo, poderá ser o estatutário ou o celetista, adotando-se o que melhor atender às necessidades da administração direta, das autarquias e das fundações, podendo ser um ou outro em cada um dos três setores, desde que seja único no setor respectivo.</del>
 
 **§ 1º** A fixação dos padrões de vencimentos e dos demais componentes do sistema remuneratório observará: (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
@@ -1196,9 +1205,9 @@ II - os requisitos para investidura; (incluído pela Emenda Constitucional nº 1
 
 III - a peculiaridade dos cargos. (incluído pela Emenda Constitucional nº 14, de 20.12.1999)
 
-**§ 2º** A lei assegurará aos servidores da administração direta isonomia de vencimentos para cargos de atribuições iguais ou assemelhadas do mesmo Poder, ou entre servidores dos Poderes Executivo, Legislativo e Judiciário, ressalvadas as vantagens de caráter individual e as relativas à natureza ou local de trabalho.
+<del>**§ 2º** A lei assegurará aos servidores da administração direta isonomia de vencimentos para cargos de atribuições iguais ou assemelhadas do mesmo Poder, ou entre servidores dos Poderes Executivo, Legislativo e Judiciário, ressalvadas as vantagens de caráter individual e as relativas à natureza ou local de trabalho.</del>
 
-**§ 2º** O Estado manterá escolas de governo para a formação e o aperfeiçoamento dos servidores públicos, constituindo-se a participação nos cursos um dos requisitos para promoção na carreira, facultada, para isso, a celebração de convênios ou contratos entre os entes federados. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
+<del>**§ 2º** O Estado manterá escolas de governo para a formação e o aperfeiçoamento dos servidores públicos, constituindo-se a participação nos cursos um dos requisitos para promoção na carreira, facultada, para isso, a celebração de convênios ou contratos entre os entes federados. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)</del>
 
 **§ 2º** O Estado manterá escolas de governo para formação e o aperfeiçoamento dos servidores públicos, constituindo-se a participação nos cursos um dos requisitos para promoção na carreira, facultada, para isso, a celebração de convênios ou contratos com os demais entes federados, ou entre o Estado e os Municípios com instituições de ensino superior que ofereçam cursos afins. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -1224,7 +1233,7 @@ obedecido em qualquer caso, o disposto no art. 42, XI. (incluído pela Emenda Co
 
 **§ 11** A garantia prevista no §9º deste artigo será exercida no mínimo por 2 (dois) representantes do sindicato, sendo acrescida de mais um representante por cada 1000 (mil) servidores em atividade, não podendo ultrapassar a 6 (seis) membros, devidamente indicados pela entidade. (incluído pela Emenda Constitucional nº 67, de 25.10.2023)
 
-**Art. 48.** O Estado e os Municípios deverão dotar seus planos de cargos e salários objetivando o atendimento à demanda de técnicos de nível médio e superior, de acordo com as necessidades locais, vedado o desvio de função e garantida a ascensão funcional imediata, constatada a existência de vaga e mediante concurso, sempre que o servidor comprovar qualificação de nível superior ao da função que exerce.
+<del>**Art. 48.** O Estado e os Municípios deverão dotar seus planos de cargos e salários objetivando o atendimento à demanda de técnicos de nível médio e superior, de acordo com as necessidades locais, vedado o desvio de função e garantida a ascensão funcional imediata, constatada a existência de vaga e mediante concurso, sempre que o servidor comprovar qualificação de nível superior ao da função que exerce.</del>
 
 **Art. 48.** O Estado e os Municípios deverão dotar seus planos de cargos e salários objetivando o atendimento à demanda de técnicos de nível médio e superior, de acordo com as necessidades locais, vedado o desvio de função. (redação dada pela
 
@@ -1250,35 +1259,35 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 30
 
 **Parágrafo único.** O disposto neste artigo aplica-se ao titular do mandato eletivo federal ou estadual ou municipal.
 
-**Art. 54.** O tempo de serviço público federal, estadual ou municipal será computado integralmente para os efeitos de aposentadoria e de disponibilidade.
+<del>**Art. 54.** O tempo de serviço público federal, estadual ou municipal será computado integralmente para os efeitos de aposentadoria e de disponibilidade.</del>
 
 **Art. 54.** O tempo de contribuição federal, estadual ou municipal será contado para efeito de aposentadoria e o tempo de serviço correspondente para efeito de disponibilidade. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**Art. 55.** O servidor será aposentado:
+<del>**Art. 55.** O servidor será aposentado:</del>
 
-I - por invalidez permanente, percebendo proventos integrais, se ela for decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, a serem especificadas em lei, recebendo, nos demais casos, proventos proporcionais;
+<del>I - por invalidez permanente, percebendo proventos integrais, se ela for decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, a serem especificadas em lei, recebendo, nos demais casos, proventos proporcionais;</del>
 
-II - compulsoriamente, aos setenta anos de idade, com proventos proporcionais ao tempo de serviço;
+<del>II - compulsoriamente, aos setenta anos de idade, com proventos proporcionais ao tempo de serviço;</del>
 
-III - voluntariamente:
+<del>III - voluntariamente:</del>
 
-a) aos trinta e cinco anos de serviço, se homem, e aos trinta anos, se mulher, com proventos integrais;
+<del>a) aos trinta e cinco anos de serviço, se homem, e aos trinta anos, se mulher, com proventos integrais;</del>
 
-b) aos trinta anos de efetivo exercício em funções de magistério, se professor, e vinte e cinco, se professora, com proventos integrais, acrescidos das vantagens e gratificações conquistadas, satisfeito o requisito de tempo de ,•'< serviço, independentemente da natureza da sua investidura;
+<del>b) aos trinta anos de efetivo exercício em funções de magistério, se professor, e vinte e cinco, se professora, com proventos integrais, acrescidos das vantagens e gratificações conquistadas, satisfeito o requisito de tempo de ,•'< serviço, independentemente da natureza da sua investidura;</del>
 
-c) aos trinta anos de serviço, se homem, e aos vinte e cinco anos, se mulher, com proventos proporcionais ao tempo de serviço;
+<del>c) aos trinta anos de serviço, se homem, e aos vinte e cinco anos, se mulher, com proventos proporcionais ao tempo de serviço;</del>
 
-d) aos sessenta e cinco anos de idade, se homem, e aos sessenta anos, se mulher, com proventos proporcionais ao tempo de serviço.
+<del>d) aos sessenta e cinco anos de idade, se homem, e aos sessenta anos, se mulher, com proventos proporcionais ao tempo de serviço.</del>
 
-**§ 1º** A lei disporá sobre a aposentadoria em cargos ou empregos temporários.
+<del>**§ 1º** A lei disporá sobre a aposentadoria em cargos ou empregos temporários.</del>
 
-**§ 2º** Os proventos da aposentadoria serão revistos, na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, sendo também estendidos aos inativos quaisquer benefícios ou vantagens posteriormente concedidos aos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria, na forma da lei.
+<del>**§ 2º** Os proventos da aposentadoria serão revistos, na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, sendo também estendidos aos inativos quaisquer benefícios ou vantagens posteriormente concedidos aos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria, na forma da lei.</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 31
 
-**§ 3º** O benefício da pensão por morte corresponderá à totalidade dos vencimentos ou proventos do servidor falecido, até o limite estabelecido em lei, observado o disposto no parágrafo anterior.
+<del>**§ 3º** O benefício da pensão por morte corresponderá à totalidade dos vencimentos ou proventos do servidor falecido, até o limite estabelecido em lei, observado o disposto no parágrafo anterior.</del>
 
-**Art. 55.** Aplicam-se aos servidores estaduais, para efeito do regime de previdência e aposentadoria, o disposto no art. 40 e seus parágrafos, da Constituição Federal. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
+<del>**Art. 55.** Aplicam-se aos servidores estaduais, para efeito do regime de previdência e aposentadoria, o disposto no art. 40 e seus parágrafos, da Constituição Federal. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)</del>
 
 **Art. 55.** Aplica-se aos servidores públicos estaduais, titulares de cargos de provimento efetivo, para efeito do regime de previdência e aposentadoria, o disposto no art. 40 e seus parágrafos, da Constituição Federal. (redação dada pela
 
@@ -1294,13 +1303,13 @@ Emenda Constitucional nº 35, de 21.03.2006)
 
 **Art. 59.** Nenhuma pensão, globalmente ou pelo somatório das cotas individuais componentes, poderá ser inferior ao menor nível da escala de vencimentos do funcionalismo estadual.
 
-**Art. 60.** A previdência estadual poderá instituir, através de lei, pensão especial, de caráter facultativo e complementar, custeada por contribuições adicionais dos instituidores.
+<del>**Art. 60.** A previdência estadual poderá instituir, através de lei, pensão especial, de caráter facultativo e complementar, custeada por contribuições adicionais dos instituidores.</del>
 
 **Art. 60.** O Estado e os Municípios, desde que instituam regime de previdência complementar para os seus respectivos servidores titulares de cargo efetivo, poderão fixar, para o valor das aposentadorias e pensões a serem concedidas pelo regime de que trata este artigo, o limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o artigo 201 da Constituição Federal. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
 **Parágrafo único.** O regime de previdência complementar de que trata este artigo será instituído por lei de iniciativa do Poder Executivo, observado o disposto no art. 202 e seus parágrafos da Constituição Federal, no que couber, por intermédio de entidades fechadas de previdência complementar, de natureza pública, que oferecerão aos respectivos participantes planos de benefícios somente na modalidade de contribuição definida. (incluído pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**Art. 61.** O benefício da pensão por morte será concedido, atendendo-se ao prescrito no §§ 4º e 5º do art. 40 da Constituição Federal.
+<del>**Art. 61.** O benefício da pensão por morte será concedido, atendendo-se ao prescrito no §§ 4º e 5º do art. 40 da Constituição Federal.</del>
 
 **Art. 61.** O benefício da pensão por morte será concedido, atendendo-se ao prescrito no § 7 º, do art. 40 da Constituição Federal. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
@@ -1318,9 +1327,9 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 32
 
 **Parágrafo único.** O pagamento da gratificação natalina será efetuado até o dia vinte do mês de dezembro.
 
-**Art. 65.** Aplica-se, aos servidores públicos civis do Estado, o disposto no
+<del>**Art. 65.** Aplica-se, aos servidores públicos civis do Estado, o disposto no</del>
 
-**§ 1º** do art. 40 da Constituição Federal.
+<del>**§ 1º** do art. 40 da Constituição Federal.</del>
 
 **Art. 65.** Os servidores estaduais e municipais que ocupavam empregos transformados em cargos públicos por lei estadual ou municipal, passaram automaticamente à condição de servidores públicos estatutários, na data da publicação das respectivas leis, usufruindo, desde então, de todos os direitos e vantagens inerentes ao novo regime. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
@@ -1346,11 +1355,11 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 33
 
 **§ 6º** O direito do servidor militar de ser transferido para a reserva ou ser reformado será assegurado, ainda que respondendo a inquérito ou processo em qualquer jurisdição, nos casos previstos em lei específica.
 
-**§ 7º** Será transferido "ex-officio" para a reserva remunerada e promovido ao posto imediatamente superior o oficial que tiver exercido o cargo de Comandante- Geral da Polícia Militar e do Corpo de Bombeiros Militar, em caráter efetivo, no prazo mínimo de dezoito meses, com todos os direitos e vantagens do cargo.
+<del>**§ 7º** Será transferido "ex-officio" para a reserva remunerada e promovido ao posto imediatamente superior o oficial que tiver exercido o cargo de Comandante- Geral da Polícia Militar e do Corpo de Bombeiros Militar, em caráter efetivo, no prazo mínimo de dezoito meses, com todos os direitos e vantagens do cargo.</del>
 
-**§ 7º** Será transferido para a reserva remunerada o Comandante Geral da Polícia Militar e do Corpo de Bombeiro Militar, com todos os direitos e vantagens do cargo, na forma da Lei. (redação dada pela Emenda Constitucional nº 16, de 20.06.2000)
+<del>**§ 7º** Será transferido para a reserva remunerada o Comandante Geral da Polícia Militar e do Corpo de Bombeiro Militar, com todos os direitos e vantagens do cargo, na forma da Lei. (redação dada pela Emenda Constitucional nº 16, de 20.06.2000)</del>
 
-**§ 7º** Serão transferidos para reserva remunerada o Comandante Geral da Polícia Militar, o Comandante Geral do Corpo de Bombeiros Militar, os Chefes dos Gabinetes Militares dos Poderes e do Ministério Público Estadual, que possuam o tempo de serviço para inatividade, com todos os direitos e vantagens pecuniárias do cargo e que tenham exercido os respectivos cargos pelo período mínimo de 18 meses, ininterruptos ou alternados, preservados os direitos e vantagens concedidos aos Oficiais já transferidos para a reserva remunerada. (redação dada pela Emenda Constitucional nº 49, de 22.12.2014) (revogado pela Emenda Constitucional nº 54, de 12.04.2017)
+<del>**§ 7º** Serão transferidos para reserva remunerada o Comandante Geral da Polícia Militar, o Comandante Geral do Corpo de Bombeiros Militar, os Chefes dos Gabinetes Militares dos Poderes e do Ministério Público Estadual, que possuam o tempo de serviço para inatividade, com todos os direitos e vantagens pecuniárias do cargo e que tenham exercido os respectivos cargos pelo período mínimo de 18 meses, ininterruptos ou alternados, preservados os direitos e vantagens concedidos aos Oficiais já transferidos para a reserva remunerada. (redação dada pela Emenda Constitucional nº 49, de 22.12.2014)</del> (revogado pela Emenda Constitucional nº 54, de 12.04.2017)
 
 **§ 8º** A lei disporá sobre os limites de idade, a estabilidade, e outras condições de transferência do servidor militar para a inatividade.
 
@@ -1362,25 +1371,25 @@ art. 40, §§ 7º e 8º, da Constituição Federal. (Redação dada pela Emenda 
 
 art. 7º, VIII, XII, XVII, XVIII, e XIX, da constituição Federal.
 
-**§ 11** O soldado, cabo, sargento ou subtenente da Polícia Militar e do Corpo de Bombeiros Militar que tenha o segundo grau completo ou equivalente poderá submeter-se à seleção para a formação de oficiais. (revogado pela Emenda Constitucional nº 64, de 31.03.2022)
+<del>**§ 11** O soldado, cabo, sargento ou subtenente da Polícia Militar e do Corpo de Bombeiros Militar que tenha o segundo grau completo ou equivalente poderá submeter-se à seleção para a formação de oficiais</del>. (revogado pela Emenda Constitucional nº 64, de 31.03.2022)
 
-**§ 12** A transferência para a reserva remunerada a pedido será concedida mediante requerimento do servidor militar que conte mais de 25 (vinte e cinco) anos de serviço, se mulher, assegurado à promoção ao posto ou graduação imediatamente
+<del>**§ 12** A transferência para a reserva remunerada a pedido será concedida mediante requerimento do servidor militar que conte mais de 25 (vinte e cinco) anos de serviço, se mulher, assegurado à promoção ao posto ou graduação imediatamente</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 34
 
-superior ao seu, por ocasião da passagem à inatividade. (incluído pela Emenda Constitucional nº 26, de 27.02.2002)
+<del>superior ao seu, por ocasião da passagem à inatividade. (incluído pela Emenda Constitucional nº 26, de 27.02.2002)</del>
 
 **§ 12** A transferência para a reserva remunerada a pedido será concedida mediante requerimento do servidor militar estadual que conte mais de 25 (vinte e cinco) anos de serviço, assegurada a promoção ao posto ou graduação imediatamente superior ao seu, por ocasião da passagem à inatividade. (redação dada pela Emenda Constitucional nº 49, de 22.12.2014)
 
 **§ 13** Ficam assegurados aos militares da ativa que se encontrem nomeados até a data de promulgação desta Emenda ou que tenham exercido mediante nomeação os cargos de Comandante Geral da Polícia Militar, Comandante Geral do Corpo de Bombeiros Militar, Chefes de Gabinetes Militares dos Poderes e do Ministério Público Estadual, os direitos e vantagens pecuniárias, no ato da passagem à inatividade, desde que completem o requisito mínimo de 18 meses ininterruptos ou alternados, sendo preservados os direitos e vantagens concedidos aos Oficiais já transferidos para a reserva remunerada. (incluído pela Emenda Constitucional nº 54, de 12.04.2017)
 
-**Art. 68.** O acesso ao Quadro de Oficiais da Polícia Militar é privativo e exclusivo de brasileiro nato que tenham concluído, com aproveitamento, o curso de formação de oficiais PM e BM, nas academias de Polícia Militar e de Bombeiros Militar.
+<del>**Art. 68.** O acesso ao Quadro de Oficiais da Polícia Militar é privativo e exclusivo de brasileiro nato que tenham concluído, com aproveitamento, o curso de formação de oficiais PM e BM, nas academias de Polícia Militar e de Bombeiros Militar.</del>
 
-**Art. 68.** Os Quadros de Oficiais da Polícia Militar do Amapá – PMAP e do Corpo de Bombeiros Militar do Amapá – CBMAP deverão ser formados pelos seguintes Quadros: Quadro de Oficiais Combatentes (QOC), Quadro de Oficiais da Administração (QOA), Quadro de Oficiais de Saúde (QOS), Quadro de Oficiais Complementares (QOC), Quadro de Oficiais Músicos (QOM) e Quadro Especial de Oficiais (QEO). (redação dada pela Emenda Constitucional n. 65, de 30.08.2022)
+<del>**Art. 68.** Os Quadros de Oficiais da Polícia Militar do Amapá – PMAP e do Corpo de Bombeiros Militar do Amapá – CBMAP deverão ser formados pelos seguintes Quadros: Quadro de Oficiais Combatentes (QOC), Quadro de Oficiais da Administração (QOA), Quadro de Oficiais de Saúde (QOS), Quadro de Oficiais Complementares (QOC), Quadro de Oficiais Músicos (QOM) e Quadro Especial de Oficiais (QEO). (redação dada pela Emenda Constitucional n. 65, de 30.08.2022)</del>
 
-**§ 1º** Os integrantes dos Quadros Oficiais Combatentes, de Saúde, Complementares, Oficiais da Administração e de Músicos poderão alcançar até o posto de Coronel; e os do Quadro Especial de Oficiais até o posto de Major, com acesso privativo e exclusivo aos referidos Quadros de Oficiais aos brasileiros natos que preencham os requisitos e tenham concluído os cursos de formação previstos no Estatuto dos Militares do Estado do Amapá. (incluído pela Emenda Constitucional n. 65, de 30.08.2022) (revogado pela Emenda Constitucional n. 68, de 11.04.2024)
+<del>**§ 1º** Os integrantes dos Quadros Oficiais Combatentes, de Saúde, Complementares, Oficiais da Administração e de Músicos poderão alcançar até o posto de Coronel; e os do Quadro Especial de Oficiais até o posto de Major, com acesso privativo e exclusivo aos referidos Quadros de Oficiais aos brasileiros natos que preencham os requisitos e tenham concluído os cursos de formação previstos no Estatuto dos Militares do Estado do Amapá. (incluído pela Emenda Constitucional n. 65, de 30.08.2022)</del> (revogado pela Emenda Constitucional n. 68, de 11.04.2024)
 
-**§ 2º** Não poderá haver distinção de idade para o ingresso nos Quadros de Praças e Oficiais da Polícia Militar e Corpo de Bombeiros Militar do Estado do Amapá. (incluído pela Emenda Constitucional n. 65, de 30.08.2022) (revogado pela
+<del>**§ 2º** Não poderá haver distinção de idade para o ingresso nos Quadros de Praças e Oficiais da Polícia Militar e Corpo de Bombeiros Militar do Estado do Amapá. (incluído pela Emenda Constitucional n. 65, de 30.08.2022)</del> (revogado pela
 
 Emenda Constitucional n. 68, de 11.04.2024)
 
@@ -1416,7 +1425,7 @@ III - Corpo de Bombeiros Militar;
 
 IV - Polícia Técnico-Científica;
 
-V - Superintendência de Administração Penitenciária do Estado do Amapá - SUAP. (incluído pela Emenda Constitucional nº 50, de 30.12.2014)
+<del>V - Superintendência de Administração Penitenciária do Estado do Amapá - SUAP. (incluído pela Emenda Constitucional nº 50, de 30.12.2014)</del>
 
 V – Polícia Penal. (incluído pela Emenda Constitucional nº 50, de 30.12.2014) (redação dada pela Emenda Constitucional nº 61, de 04.03.2020)
 
@@ -1424,9 +1433,9 @@ V – Polícia Penal. (incluído pela Emenda Constitucional nº 50, de 30.12.201
 
 **Art. 76.** A lei disciplinará a organização e o funcionamento dos órgãos responsáveis pela segurança pública, de maneira a garantir a eficiência de suas atividades, definindo suas competências, estruturando suas carreiras e fixando direitos, deveres, vantagens e regime de trabalho de seus integrantes.
 
-**§ 1º** É dever dos órgãos responsáveis pela segurança pública dar aos policiais civis e militares, formação, capacitação e treinamentos especializados para o trato das questões relativas à criança e ao adolescente.
+<del>**§ 1º** É dever dos órgãos responsáveis pela segurança pública dar aos policiais civis e militares, formação, capacitação e treinamentos especializados para o trato das questões relativas à criança e ao adolescente.</del>
 
-**§ 1º** É dever dos órgãos responsáveis pela segurança pública dar aos policiais civis e militares, formação, capacitação e treinamento especializados para o trato das questões relativas ao idoso, à criança e ao adolescente e a mulher. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**§ 1º** É dever dos órgãos responsáveis pela segurança pública dar aos policiais civis e militares, formação, capacitação e treinamento especializados para o trato das questões relativas ao idoso, à criança e ao adolescente e a mulher. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 36
 
@@ -1436,13 +1445,13 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 36
 
 **§ 3º** A Polícia Técnica terá seu quadro organizado em carreira, cujo ingresso depende de concurso público de provas e títulos.
 
-**§ 4º** Fica assegurada isonomia de remuneração dos peritos e médicos legistas com os delegados de polícia, na mesma classe e padrão. (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**§ 4º** Fica assegurada isonomia de remuneração dos peritos e médicos legistas com os delegados de polícia, na mesma classe e padrão.</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
 **§ 5º** O Poder Executivo promoverá a instalação, progressivamente, em todos os municípios do Estado, de delegacias de polícia especializadas em assuntos relativos às pessoas relacionadas no § 1º deste artigo. (incluído pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 6º** A Superintendência de Administração Penitenciária do Estado do Amapá – SUAP, órgão permanente, assegurada a autonomia administrativa, atividade exclusiva do Estado essencial à função jurisdicional dirigida por agente, por educador de execução penal, de carreira, conforme requisitos a que se refere o art. 75 da Lei nº 7.210, de 11 de julho de 1984, destina-se, além das atribuições definidas em lei, a custódia dos apenados pela Justiça do Estado do Amapá, à segurança interna e externa das unidades penais, à escolta penal, a recaptura de foragidos das unidades penais, ao serviço de inteligência penal, à intervenção em conflitos das unidades penais, à fiscalização do cumprimento das penas alternativas e condicionais, à ressocialização do apenado e às medidas de reinserção social ao egresso. (incluído pela Emenda Constitucional nº 50, de 30.12.2014) (Revogado pela Emenda Constitucional nº 61, de 04.03.2020)
+<del>**§ 6º** A Superintendência de Administração Penitenciária do Estado do Amapá – SUAP, órgão permanente, assegurada a autonomia administrativa, atividade exclusiva do Estado essencial à função jurisdicional dirigida por agente, por educador de execução penal, de carreira, conforme requisitos a que se refere o art. 75 da Lei nº 7.210, de 11 de julho de 1984, destina-se, além das atribuições definidas em lei, a custódia dos apenados pela Justiça do Estado do Amapá, à segurança interna e externa das unidades penais, à escolta penal, a recaptura de foragidos das unidades penais, ao serviço de inteligência penal, à intervenção em conflitos das unidades penais, à fiscalização do cumprimento das penas alternativas e condicionais, à ressocialização do apenado e às medidas de reinserção social ao egresso. (incluído pela Emenda Constitucional nº 50, de 30.12.2014)</del> (Revogado pela Emenda Constitucional nº 61, de 04.03.2020)
 
-**Art. 77.** O policial civil ou militar denunciado por crime de abuso de autoridade, será imediatamente afastado de seu cargo ou função, até a sentença transitada em julgado.
+<del>**Art. 77.** O policial civil ou militar denunciado por crime de abuso de autoridade, será imediatamente afastado de seu cargo ou função, até a sentença transitada em julgado.</del>
 
 **Art. 77.** O policial civil, penal ou militar denunciado por crime de abuso de autoridade, será imediatamente afastado de seu cargo ou função, até a sentença transitada em julgado. (redação dada pela Emenda Constitucional nº 61, de 04.03.2020)
 
@@ -1456,15 +1465,15 @@ III - as entidades classistas, assistenciais, clubes de serviços, autoridades e
 
 #### CAPÍTULO II Da Polícia Civil
 
-**Art. 79.** À Polícia Civil, órgão permanente, dirigida pelo Delegado-Geral, subordinado ao Secretário de Estado de Justiça e Segurança Pública, de livre escolha, nomeação e exoneração pelo Governador do Estado, entre os delegados de polícia de carreira, bacharéis em Direito, incumbe, ressalvada a competência da União, as funções de Polícia Judiciária e a apuração das infrações penais, exceto as militares.
+<del>**Art. 79.** À Polícia Civil, órgão permanente, dirigida pelo Delegado-Geral, subordinado ao Secretário de Estado de Justiça e Segurança Pública, de livre escolha, nomeação e exoneração pelo Governador do Estado, entre os delegados de polícia de carreira, bacharéis em Direito, incumbe, ressalvada a competência da União, as funções de Polícia Judiciária e a apuração das infrações penais, exceto as militares.</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 37
 
 **Art. 79.** À polícia civil, instituição permanente, com autonomia administrativa e financeira, orientada com base na hierarquia, disciplina e respeito aos direitos humanos, dirigida por delegado de polícia de carreira da classe especial, de livre nomeação e exoneração pelo Governador do Estado, incumbe, ressalvada a competência da União, exercer com exclusividade, as funções de polícia judiciária e a apuração de infrações penais, exceto as militares. (incluído pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**Parágrafo único.** Aos integrantes da carreira de delegados de polícia fica assegurada, nos termos do art. 241 da Constituição Federal, isonomia de vencimentos.
+<del>**Parágrafo único.** Aos integrantes da carreira de delegados de polícia fica assegurada, nos termos do art. 241 da Constituição Federal, isonomia de vencimentos.</del>
 
-**Parágrafo único.** Os vencimentos dos Delegados de Polícia Civil não serão inferiores aos percebidos pelas carreiras a que se refere o art. 135 da Constituição Federal, observada, para esse efeito, a correlação entre as respectivas classes e entrâncias e assegurada a revisão de remuneração, em igual percentual, sempre que forem revistos aqueles. (redação dada pela Emenda Constitucional nº 9, de 28.08.1997) (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**Parágrafo único.** Os vencimentos dos Delegados de Polícia Civil não serão inferiores aos percebidos pelas carreiras a que se refere o art. 135 da Constituição Federal, observada, para esse efeito, a correlação entre as respectivas classes e entrâncias e assegurada a revisão de remuneração, em igual percentual, sempre que forem revistos aqueles. (redação dada pela Emenda Constitucional nº 9, de 28.08.1997)</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
 **§ 1º** O titular da polícia civil será nomeado pelo Governador do Estado dentre os delegados integrantes da classe especial da carreira. (incluído pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -1478,7 +1487,7 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 37
 
 #### CAPÍTULO III Da Polícia Militar
 
-**Art. 82.** A Polícia Militar, órgão permanente e regular, força auxiliar e reserva do Exército, é dirigida por Comandante-Geral, nomeado pelo Governador do Estado, dentre oficiais da Corporação, do último posto.
+<del>**Art. 82.** A Polícia Militar, órgão permanente e regular, força auxiliar e reserva do Exército, é dirigida por Comandante-Geral,</del> nomeado pelo Governador do Estado, dentre oficiais da Corporação, do último posto.
 
 **Art. 82.** A Polícia Militar, órgão permanente e regular, força auxiliar e reserva do Exército, é dirigida por Comandante-Geral, nomeado pelo Governador do Estado, dentre os oficiais da ativa do Quadro de Oficiais de Estado-Maior (ǪOEM) pertencente ao último posto da corporação. (redação dada pela Emenda Constitucional n. 68, de 11.04.2024)
 
@@ -1514,7 +1523,7 @@ IX - embargar, interditar obras, serviços, habitações e locais de diversões 
 
 **Parágrafo único.** O Corpo de Bombeiros Militar, sob a sua orientação pedagógica e operacional, promoverá a formação de grupos de voluntários de combate a incêndios, organizando-os em repartições públicas, empresas privadas, edifícios e em locais dos diversos bairros das cidades.
 
-**Art. 87.** O Comandante-Geral do Corpo de Bombeiros Militar será nomeado pelo Governador do Estado, escolhido dentre oficiais da ativa da Corporação, do último posto do quadro de combatentes, observado o disposto na legislação federal.
+<del>**Art. 87.** O Comandante-Geral do Corpo de Bombeiros Militar será nomeado pelo Governador do Estado, escolhido dentre oficiais da ativa da Corporação, do último posto do quadro de combatentes, observado o disposto na legislação federal.</del>
 
 **Art. 87.** O Comandante-Geral do Corpo de Bombeiros Militar será nomeado pelo Governador do Estado, escolhido dentre os oficiais da ativa do Quadro de Oficiais de Estado-Maior (ǪOEM) pertencente ao último posto da corporação.(redação dada pela
 
@@ -1526,13 +1535,13 @@ Emenda Constitucional n. 68, de 11.04.2024)
 
 **Art. 89.** A Polícia Técnico-Científica, dirigida por perito, com notório conhecimento científico e experiência funcional, de livre escolha, nomeação e exoneração pelo Governador do Estado, terá seu quadro de pessoal organizado através de estatuto próprio.
 
-**Art. 90.** O cargo de perito é privativo de médico, dentista, farmacêutico, químico, engenheiro, biólogo e contador, dependendo o respectivo ingresso de
+<del>**Art. 90.** O cargo de perito é privativo de médico, dentista, farmacêutico, químico, engenheiro, biólogo e contador, dependendo o respectivo ingresso de</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 39
 
-provimento condicionado à: habilitação por concurso público de provas ou de provas e títulos.
+<del>provimento condicionado à: habilitação por concurso público de provas ou de provas e títulos.</del>
 
-**Art. 90.** O cargo de perito é privativo de médico, dentista, farmacêutico, químico, engenheiro, biólogo, enfermeiro e contador, dependendo o respectivo ingresso de provimento condicionado à habilitação por concurso público de provas ou de provas e títulos. (redação dada pela Emenda Constitucional nº 33, de 30.03.2005)
+<del>**Art. 90.** O cargo de perito é privativo de médico, dentista, farmacêutico, químico, engenheiro, biólogo, enfermeiro e contador, dependendo o respectivo ingresso de provimento condicionado à habilitação por concurso público de provas ou de provas e títulos. (redação dada pela Emenda Constitucional nº 33, de 30.03.2005)</del>
 
 **Art. 90.** O cargo de perito é privativo de pessoas portadoras de diploma de nível superior, obtido em curso devidamente reconhecido pelo Ministério da Educação e Cultura, dependendo o ingresso na carreira de aprovação em concurso público de provas e títulos. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -1550,9 +1559,9 @@ provimento condicionado à: habilitação por concurso público de provas ou de 
 
 **Parágrafo único.** O número de Deputados Estaduais corresponderá ao triplo da representação do Estado na Câmara Federal e, atingindo o número de trinta e seis, será acrescido de tantos quantos forem os Deputados Federais acima de doze.
 
-**Art. 92.** A Assembleia Legislativa funcionará em sessões públicas, presente pelo menos um terço de seus membros.
+<del>**Art. 92.** A Assembleia Legislativa funcionará em sessões públicas, presente pelo menos um terço de seus membros.</del>
 
-**Parágrafo único.** O direito de opção de que trata o presente artigo, esgotar-se-á em cento e vinte dias da data da promulgação da Constituição.
+<del>**Parágrafo único.** O direito de opção de que trata o presente artigo, esgotar-se-á em cento e vinte dias da data da promulgação da Constituição.</del>
 
 **Art. 92.** A Assembleia Legislativa funcionará em sessões públicas, presentes pelos menos um quarto de seus membros. (redação dada pela Emenda Constitucional nº 39, de 11.09.2007)
 
@@ -1596,7 +1605,7 @@ VII - criação, incorporação, fusão e desmembramento de Municípios;
 
 VIII - bens de domínio do Estado e normas gerais sobre alienação, concessão, cessão, permuta, arrendamento e aquisição dos mesmos;
 
-IX - organização administrativa e judiciária do Ministério Público, da Procuradoria-Geral do Estado, da Defensoria Pública e do Tribunal de Contas;
+<del>IX - organização administrativa e judiciária do Ministério Público, da Procuradoria-Geral do Estado, da Defensoria Pública e do Tribunal de Contas;</del>
 
 IX - organização administrativa e judiciária do Ministério Público, da Procuradoria-Geral do Estado, e da Defensoria Pública; (redação dada pela Emenda Constitucional nº 22, de 18.01.2001)
 
@@ -1606,7 +1615,7 @@ XI - limites do território estadual, bens do domínio do Estado e proteção do
 
 XII - matéria de legislação concorrente, na forma do art. 24 da Constituição Federal;
 
-XIII - fixação e alteração da remuneração dos membros do Poder Judiciário, do Ministério Público e dos servidores auxiliares, respeitados os princípios de isonomia previstos na Constituição Federal e nesta Constituição;
+<del>XIII - fixação e alteração da remuneração dos membros do Poder Judiciário, do Ministério Público e dos servidores auxiliares, respeitados os princípios de isonomia previstos na Constituição Federal e nesta Constituição;</del>
 
 XIII - fixação dos subsídios dos membros do Poder Judiciário, do Ministério Público e dos servidores auxiliares, observado o que dispõe os art. 42, XI e 47, § 4º, desta Constituição e 150, II, 152, III e 153, § 2º, I, da Constituição Federal; (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
@@ -1618,19 +1627,19 @@ XVI - disciplinar a restrição à participação em concorrências públicas e 
 
 **Art. 95.** Compete privativamente à Assembleia Legislativa: CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 41
 
-I - eleger sua Mesa e constituir suas comissões;
+<del>I - eleger sua Mesa e constituir suas comissões;</del>
 
-I - eleger os membros da Mesa Diretora, com mandato de dois anos, permitida a reeleição e constituir suas comissões. (redação dada pela Emenda Constitucional nº 7, de 31.10.1996)
+<del>I - eleger os membros da Mesa Diretora, com mandato de dois anos, permitida a reeleição e constituir suas comissões. (redação dada pela Emenda Constitucional nº 7, de 31.10.1996)</del>
 
-I - eleger os membros da Mesa Diretora e constituir suas comissões; (redação dada pela Emenda Constitucional nº 28, de 30.12.2003)
+<del>I - eleger os membros da Mesa Diretora e constituir suas comissões; (redação dada pela Emenda Constitucional nº 28, de 30.12.2003)</del>
 
 I - eleger os membros da Mesa Diretora, com mandato de dois anos, permitida a reeleição e constituir suas comissões. (redação dada pela Emenda Constitucional nº 31, de 07.05.2003)
 
-II - dispor, através de resolução, sobre a organização, funcionamento, polícia, criação, transformação ou extinção de cargos, empregos e funções de seus serviços e fixação ou alteração da respectiva remuneração, observados os parâmetros estabelecidos na lei de diretrizes orçamentárias;
+<del>II - dispor, através de resolução, sobre a organização, funcionamento, polícia, criação, transformação ou extinção de cargos, empregos e funções de seus serviços e fixação ou alteração da respectiva remuneração, observados os parâmetros estabelecidos na lei de diretrizes orçamentárias;</del>
 
-II - dispor, através de Resolução, sobre sua organização, funcionamento, polícia, criação, transformação ou extinção dos cargos, empregos e funções de seus serviços, e a iniciativa de lei para a fixação da respectiva remuneração, observados os parâmetros estabelecidos na Lei de Diretrizes Orçamentárias. (redação dada pela
+<del>II - dispor, através de Resolução, sobre sua organização, funcionamento, polícia, criação, transformação ou extinção dos cargos, empregos e funções de seus serviços, e a iniciativa de lei para a fixação da respectiva remuneração, observados os parâmetros estabelecidos na Lei de Diretrizes Orçamentárias. (redação dada pela</del>
 
-Emenda Constitucional nº 14, de 20.12.1999)
+<del>Emenda Constitucional nº 14, de 20.12.1999)</del>
 
 II - Dispor através de Lei, sobre sua organização, funcionamento, polícia, criação, transformação ou extinção dos cargos, empregos e funções de seus serviços, e a iniciativa de lei para a fixação da respectiva remuneração, observados os parâmetros estabelecidos na Lei de Diretrizes Orçamentárias. (redação dada pela Emenda Constitucional nº 53, 24.08.de 2015)
 
@@ -1650,7 +1659,7 @@ IX - sustar os atos normativos do Poder Executivo que exorbitem do Poder regulam
 
 X - convocar Secretários de Estado para prestarem informações, pessoalmente, no prazo de trinta dias, sobre assuntos de suas pastas, previamente determinados, importando em crime de responsabilidade a ausência sem justificação adequada;
 
-XI - processar e julgar o Governador do Estado nos crimes de responsabilidade, e o Vice-Governador do Estado nos crimes de mesma natureza conexos com os daquele;
+<del>XI - processar e julgar o Governador do Estado nos crimes de responsabilidade, e o Vice-Governador do Estado nos crimes de mesma natureza conexos com os daquele;</del>
 
 XI - processar e julgar: (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -1660,11 +1669,11 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 42
 
 b) o Procurador Geral de Justiça e o Procurador-Geral do Estado nos crimes de responsabilidade. (incluída pela Emenda Constitucional nº 35, de 21.03.2006)
 
-XII - fixar a remuneração:
+<del>XII - fixar a remuneração:</del>
 
-a) do Governador e do Vice-Governador do Estado para cada exercício financeiro, sendo a do Vice-Governador equivalente à dos Deputados Estaduais;
+<del>a) do Governador e do Vice-Governador do Estado para cada exercício financeiro, sendo a do Vice-Governador equivalente à dos Deputados Estaduais;</del>
 
-b) dos Deputados Estaduais, em cada legislatura, para vigorar na subsequente.
+<del>b) dos Deputados Estaduais, em cada legislatura, para vigorar na subsequente.</del>
 
 XII - fixar através de lei específica, os subsídios: (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
@@ -1680,11 +1689,11 @@ XIV - declarar a perda de mandato de Deputado;
 
 XV - apreciar e deliberar os vetos do Governador do Estado;
 
-XVI - aprovar, por maioria absoluta e voto secreto, a indicação ou a destituição do Procurador-Geral de Justiça;
+<del>XVI - aprovar, por maioria absoluta e voto secreto, a indicação ou a destituição do Procurador-Geral de Justiça;</del>
 
 XVI - aprovar, por maioria absoluta e voto secreto, a destituição do Procurador-Geral de Justiça; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-XVII - julgar, anualmente, as contas da Mesa da Assembleia Legislativa, do Tribunal de Justiça, do Ministério Público e do Tribunal de Contas, aplicando-se, em cada caso, o disposto no inciso VI, deste artigo;
+<del>XVII - julgar, anualmente, as contas da Mesa da Assembleia Legislativa, do Tribunal de Justiça, do Ministério Público e do Tribunal de Contas, aplicando-se, em cada caso, o disposto no inciso VI, deste artigo;</del>
 
 XVII - julgar, anualmente, as contas do Tribunal de Contas do Estado, aplicando-se, quando for o caso, o previsto no inciso VI deste artigo; (redação dada pela
 
@@ -1694,11 +1703,11 @@ XVIII - mudar temporariamente sua sede;
 
 XIX - solicitar ao Governador do Estado, na forma do Regimento Interno, informações sobre atos de sua competência privativa;
 
-XX - autorizar ou aprovar convênios, acordos ou contratos com os governos federal, estadual ou municipal, entidades de direito público ou privado, de que resultem para o Estado quaisquer encargos não estabelecidos na lei orçamentária.
+<del>XX - autorizar ou aprovar convênios, acordos ou contratos com os governos federal, estadual ou municipal, entidades de direito público ou privado, de que resultem para o Estado quaisquer encargos não estabelecidos na lei orçamentária.</del>
 
 XX - Aprovar convênios, acordos ou contratos com os Governos federal, estaduais ou municipais e com entidades de direito público ou privado, de que resultem para o Estado quaisquer encargos não estabelecidos na lei orçamentária; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-XXI - aprovar previamente, por voto secreto, após arguição pública, o nome do Presidente do Banco do Estado indicado pelo Governador.
+<del>XXI - aprovar previamente, por voto secreto, após arguição pública, o nome do Presidente do Banco do Estado indicado pelo Governador.</del>
 
 XXI - apreciar, trimestralmente os relatórios das atividades do Tribunal de Contas do Estado; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -1706,17 +1715,17 @@ XXII - elaborar o seu Regimento Interno;
 
 XXIII - solicitar, pelo voto da maioria absoluta de seus membros, intervenção federal no Estado, quando houver coação ou impedimento do livre exercício do Poder Legislativo;
 
-XXIV - aprovar, após arguição, pelo voto secreto da maioria de seus membros, os nomes dos presidentes de empresas estatais e fundacionais;
+<del>XXIV - aprovar, após arguição, pelo voto secreto da maioria de seus membros, os nomes dos presidentes de empresas estatais e fundacionais;</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 43
 
-XXIV - aprovar, após arguição, pelo voto secreto da maioria de seus membros, os nomes dos presidentes de fundações públicas; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>XXIV - aprovar, após arguição, pelo voto secreto da maioria de seus membros, os nomes dos presidentes de fundações públicas; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)</del>
 
-XXIV - aprovar, após arguição, pela maioria de seus membros, os nomes dos Procuradores Gerais de Justiça, dos presidentes de fundações estaduais, agências de fomento, sociedades de economia mista e empresas públicas. (redação dada pela Emenda Constitucional nº 53, 24.08.de 2015) (expressão tachada foi declarada inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal, no julgamento da ADIN nº 6.608).
+XXIV - aprovar, após arguição, pela maioria de seus membros, os nomes <del>dos Procuradores Gerais de Justiça</del>, dos presidentes de fundações estaduais, agências de fomento, sociedades de economia mista e empresas públicas. (redação dada pela Emenda Constitucional nº 53, 24.08.de 2015) (expressão tachada foi declarada inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal, no julgamento da ADIN nº 6.608).
 
 XXV - convocar o Procurador-Geral de justiça, o Procurador-Geral do Estado e o Defensor Público Geral, para prestarem informações sobre assuntos previamente determinados, no prazo de 30 dias, sujeitando-se estes às penas da lei, na ausência sem justificativa;
 
-XXVI - requisitar informações dos Secretários de Estados e do Procurador-Geral de justiça sobre assuntos relacionados com suas pastas ou instituições, importando crime de responsabilidade a recusa ou não atendimento, no prazo de trinta dias, e o fornecimento de informações falsas; (expressão tachada foi declarada inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal, no julgamento da ADIN nº 5.300)
+XXVI - requisitar informações dos Secretários de Estados <del>e do Procurador-Geral de justiça</del> sobre assuntos relacionados com suas pastas ou instituições, importando crime de responsabilidade a recusa ou não atendimento, no prazo de trinta dias, e o fornecimento de informações falsas; (expressão tachada foi declarada inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal, no julgamento da ADIN nº 5.300)
 
 XXVII - zelar pela preservação de sua competência legislativa em face da atribuição normativa de outros Poderes;
 
@@ -1728,23 +1737,23 @@ XXX - avaliar periodicamente a funcionalidade do Sistema Tributário Estadual, e
 
 ##### SEÇÃO III Dos Direitos e Deveres dos Deputados
 
-**Art. 96.** Os Deputados são invioláveis por suas opiniões, palavras e votos.
+<del>**Art. 96.** Os Deputados são invioláveis por suas opiniões, palavras e votos.</del>
 
-**§ 1º** Desde a expedição do diploma, os Deputados não poderão ser presos, salvo em flagrante de crime inafiançável, nem processados criminalmente, sem prévia licença da Assembleia Legislativa;
+<del>**§ 1º** Desde a expedição do diploma, os Deputados não poderão ser presos, salvo em flagrante de crime inafiançável, nem processados criminalmente, sem prévia licença da Assembleia Legislativa;</del>
 
-**§ 2º** O indeferimento do pedido de licença ou a ausência de deliberação suspende a prescrição enquanto durar o mandato;
+<del>**§ 2º** O indeferimento do pedido de licença ou a ausência de deliberação suspende a prescrição enquanto durar o mandato;</del>
 
-**§ 3º** No caso de flagrante de crime inafiançável, os autos serão remetidos, dentro de vinte e quatro horas, à Assembleia Legislativa, para que ela, pelo voto secreto da maioria de seus membros, resolva sobre a prisão e autorize, ou não, a formação de culpa;
+<del>**§ 3º** No caso de flagrante de crime inafiançável, os autos serão remetidos, dentro de vinte e quatro horas, à Assembleia Legislativa, para que ela, pelo voto secreto da maioria de seus membros, resolva sobre a prisão e autorize, ou não, a formação de culpa;</del>
 
-**§ 4º** Os Deputados serão submetidos a julgamento perante o Tribunal de Justiça do Estado;
+<del>**§ 4º** Os Deputados serão submetidos a julgamento perante o Tribunal de Justiça do Estado;</del>
 
-**§ 5º** Os Deputados não serão obrigados a testemunhar sobre informações recebidas ou prestadas em razão do exercício do mandato, nem sobre as pessoas que lhes confiaram ou deles receberam informações;
+<del>**§ 5º** Os Deputados não serão obrigados a testemunhar sobre informações recebidas ou prestadas em razão do exercício do mandato, nem sobre as pessoas que lhes confiaram ou deles receberam informações;</del>
 
-**§ 6º** A incorporação às Forças Armadas de Deputados, embora militares e ainda que em tempo de guerra, dependerá de prévia licença da Assembleia Legislativa;
+<del>**§ 6º** A incorporação às Forças Armadas de Deputados, embora militares e ainda que em tempo de guerra, dependerá de prévia licença da Assembleia Legislativa;</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 44
 
-**§ 7º** As imunidades de Deputados subsistirão durante o estado de sítio, só podendo ser suspensas mediante o voto de dois terços dos membros da Assembleia Legislativa, nos casos de atos praticados fora do seu recinto que sejam incompatíveis com a execução da medida.
+<del>**§ 7º** As imunidades de Deputados subsistirão durante o estado de sítio, só podendo ser suspensas mediante o voto de dois terços dos membros da Assembleia Legislativa, nos casos de atos praticados fora do seu recinto que sejam incompatíveis com a execução da medida.</del>
 
 **Art. 96.** Os Deputados são invioláveis, civil e penalmente, por quaisquer de suas opiniões, palavras e votos. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -1806,7 +1815,7 @@ VI - que sofrer condenação criminal em sentença transitada em julgado.
 
 **§ 1º** Além de outros casos a serem definidos no regimento Interno, considerar-se-á incompatível com o decoro parlamentar o abuso das prerrogativas asseguradas ao Deputado, ou a percepção, no exercício do cargo, de vantagens indevidas, e o envolvimento em crimes definidos como hediondos e a tráfico ilícito de entorpecentes e drogas afins.
 
-**§ 2º** Nos casos dos incisos I, II e VI, a perda de mandato será decidida pela Assembleia Legislativa, por voto secreto e maioria absoluta, mediante provocação da Mesa ou de partido político representado na Assembleia, assegurada ampla defesa.
+<del>**§ 2º** Nos casos dos incisos I, II e VI, a perda de mandato será decidida pela Assembleia Legislativa, por voto secreto e maioria absoluta, mediante provocação da Mesa ou de partido político representado na Assembleia, assegurada ampla defesa.</del>
 
 **§ 2º** Nos casos dos incisos I, II e VI, a perda de mandato será decidida pela Assembleia Legislativa por maioria absoluta, mediante provocação da Mesa ou de partido politico representado na Assembleia assegurada ampla defesa. (redação dada pela Emenda Constitucional nº 56, de 03.05.2017)
 
@@ -1830,37 +1839,37 @@ II - licenciado pela Assembleia Legislativa por motivo de doença, ou para trata
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 46
 
-**Art. 100.** A Assembleia Legislativa reunir-se-á, anualmente, na Capital do Estado, independentemente de convocação, de 15 de fevereiro a 30 de junho e de l2 de agosto a 15 de dezembro.
+<del>**Art. 100.** A Assembleia Legislativa reunir-se-á, anualmente, na Capital do Estado, independentemente de convocação, de 15 de fevereiro a 30 de junho e de l2 de agosto a 15 de dezembro.</del>
 
-**Art. 100.** A Assembleia Legislativa reunir-se-á, anualmente, na Capital do Estado, de 02 de fevereiro a 17 de julho e de 1º de agosto a 22 de dezembro. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**Art. 100.** A Assembleia Legislativa reunir-se-á, anualmente, na Capital do Estado, de 02 de fevereiro a 17 de julho e de 1º de agosto a 22 de dezembro. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)</del>
 
 **Art. 100.** A Assembleia Legislativa reunir-se-á, anualmente, na capital do Estado, de 02 de fevereiro a 30 de junho e de 1º de agosto a 22 de dezembro. (redação dada pela Emenda Constitucional nº 41, de 27.05.2008)
 
 **§ 1º** As reuniões marcadas para essas datas serão transferidas para o primeiro dia útil subsequente, quando recaírem em sábados, domingos ou feriados.
 
-**§ 2º** A sessão legislativa não será interrompida sem a aprovação do projeto de lei de diretrizes orçamentárias.
+<del>**§ 2º** A sessão legislativa não será interrompida sem a aprovação do projeto de lei de diretrizes orçamentárias.</del>
 
 **§ 2º** A sessão legislativa não será interrompida sem a aprovação do projeto de lei de diretrizes orçamentárias, exceto no caso previsto no § 12 do Art. 175. (redação dada pela Emenda Constitucional nº 30, de 29.04.2003)
 
-**§ 3º** A Assembleia Legislativa reunir-se-á, em sessão preparatória, a partir de 1º de fevereiro, no primeiro ano da legislatura, para a posse de seus membros e eleição da Mesa, para mandato de dois anos, vedada a recondução para o mesmo cargo na eleição imediatamente subsequente.
+<del>**§ 3º** A Assembleia Legislativa reunir-se-á, em sessão preparatória, a partir de 1º de fevereiro, no primeiro ano da legislatura, para a posse de seus membros e eleição da Mesa, para mandato de dois anos, vedada a recondução para o mesmo cargo na eleição imediatamente subsequente.</del>
 
-**§ 3º** A Assembleia Legislativa reunir-se-á, em Sessão Preparatória, a partir de 1º de fevereiro, no primeiro ano de Legislatura, para a posse de seus membros e eleição da Mesa Diretora, para mandato de dois anos, permitida a reeleição. (redação dada pela Emenda Constitucional nº 7, de 31.10.1996)
+<del>**§ 3º** A Assembleia Legislativa reunir-se-á, em Sessão Preparatória, a partir de 1º de fevereiro, no primeiro ano de Legislatura, para a posse de seus membros e eleição da Mesa Diretora, para mandato de dois anos, permitida a reeleição. (redação dada pela Emenda Constitucional nº 7, de 31.10.1996)</del>
 
-**§ 3º** A Assembleia Legislativa reunir-se-á, em Sessão Preparatória, a partir de 1º de fevereiro, no primeiro ano de Legislatura, para a posse de seus membros e eleição da Mesa Diretora, para mandato de dois anos, vedada a recondução para o mesmo cargo na eleição imediatamente subsequente. (redação dada pela Emenda Constitucional nº 28, de 30.12.2003)
+<del>**§ 3º** A Assembleia Legislativa reunir-se-á, em Sessão Preparatória, a partir de 1º de fevereiro, no primeiro ano de Legislatura, para a posse de seus membros e eleição da Mesa Diretora, para mandato de dois anos, vedada a recondução para o mesmo cargo na eleição imediatamente subsequente. (redação dada pela Emenda Constitucional nº 28, de 30.12.2003)</del>
 
 **§ 3º** A Assembleia Legislativa reunir-se-á, em Sessão Preparatória, a partir de 1º de fevereiro, no primeiro ano de Legislatura, para a posse de seus membros e eleição da Mesa Diretora, para mandato de dois anos, permitida a reeleição. (redação dada pela Emenda Constitucional nº 31, de 07.05.2003)
 
-**§ 4º** A convocação extraordinária da Assembleia Legislativa poderá ser feita:
+<del>**§ 4º** A convocação extraordinária da Assembleia Legislativa poderá ser feita:</del>
 
 **§ 4º** A convocação extraordinária da Assembleia Legislativa far-se-á: (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
 I - pelo seu Presidente, para o compromisso e a posse do Governador e Vice-Governador do Estado, bem assim em caso de intervenção federal;
 
-II - pelo seu Presidente, ou a requerimento da maioria de seus membros, ou ainda pelo Governador do Estado, em caso de urgência ou interesse público relevante.
+<del>II - pelo seu Presidente, ou a requerimento da maioria de seus membros, ou ainda pelo Governador do Estado, em caso de urgência ou interesse público relevante.</del>
 
 II - pelo seu Presidente, a requerimento da maioria de seus membros ou pelo Governador do Estado, em caso de urgência ou interesse público relevante, em todas as hipóteses deste inciso com a aprovação da maioria absoluta dos seus membros. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 5º** Na sessão legislativa extraordinária, a Assembleia Legislativa somente deliberará sobre a matéria para a qual foi convocada.
+<del>**§ 5º** Na sessão legislativa extraordinária, a Assembleia Legislativa somente deliberará sobre a matéria para a qual foi convocada.</del>
 
 **§ 5º** Na sessão legislativa extraordinária, a Assembleia Legislativa somente deliberará sobre matéria para qual foi convocada, vedado o pagamento de
 
@@ -2004,13 +2013,13 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 50
 
 **§ 7º** Se o veto não for mantido, será o projeto enviado para promulgação, ao Governador do Estado.
 
-**§ 8º** Se a lei não for promulgada dentro de quarenta e oito horas pelo Governador do Estado, no caso do § 7º, o Presidente da Assembleia Legislativa a promulgará e, se este não o fizer em igual prazo, caberá ao Vice-Presidente fazê-lo.
+<del>**§ 8º** Se a lei não for promulgada dentro de quarenta e oito horas pelo Governador do Estado, no caso do § 7º, o Presidente da Assembleia Legislativa a promulgará e, se este não o fizer em igual prazo, caberá ao Vice-Presidente fazê-lo.</del>
 
 **§ 8º** Se a lei não for promulgada dentro de quarenta e oito horas pelo Governador do Estado, nos casos dos §§ 4º e 7º, o Presidente da Assembleia Legislativa a promulgará, e, se este, não o fizer em igual prazo, caberá ao Vice- Presidente fazê-lo. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006) .Art. 109. Além de outros casos previstos nesta Constituição serão complementares as leis que dispuserem sobre:
 
 I - organização e divisão judiciária;
 
-II - organização do Ministério Público, da Procuradoria-Geral do Estado, da Defensoria Pública, do Tribunal de Contas do Estado e da Polícia Militar.
+<del>II - organização do Ministério Público, da Procuradoria-Geral do Estado, da Defensoria Pública, do Tribunal de Contas do Estado e da Polícia Militar.</del>
 
 II - organização do Ministério Público, da Procuradoria-Geral do Estado, da Defensoria Pública e da Polícia Militar; (redação dada pela Emenda Constitucional nº 22, de 18.01.2001)
 
@@ -2020,13 +2029,13 @@ IV - organização do sistema estadual de educação;
 
 V - código de proteção ao meio ambiente.
 
-**Parágrafo único.** As leis complementares terão numeração distinta da numeração das leis ordinárias.
+<del>**Parágrafo único.** As leis complementares terão numeração distinta da numeração das leis ordinárias.</del>
 
 **Parágrafo único.** As leis complementares serão aprovadas por maioria absoluta e terão numeração distinta da numeração das leis ordinárias. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
 ###### SUBSEÇÃO IV Da Iniciativa Popular
 
-**Art. 110.** A iniciativa popular pode ser exercida pela apresentação à Assembleia Legislativa de projeto de lei ou proposta de emenda à Constituição, devidamente articulados e subscritos por, no mínimo, um por cento do eleitorado estadual, distribuídos em, pelo menos, cinco Municípios, com um mínimo de dois por cento dos eleitores de cada um dos Municípios.
+<del>**Art. 110.** A iniciativa popular pode ser exercida pela apresentação à Assembleia Legislativa de projeto de lei ou proposta de emenda à Constituição, devidamente articulados e subscritos por, no mínimo, um por cento do eleitorado estadual, distribuídos em, pelo menos, cinco Municípios, com um mínimo de dois por cento dos eleitores de cada um dos Municípios.</del>
 
 **Art. 110.** A iniciativa popular pode ser exercida pela apresentação à Assembleia Legislativa de projeto de lei, subscrito por, no mínimo, um por cento do eleitorado estadual, distribuído pelo menos por cinco Municípios, com um mínimo de dois por cento dos eleitores de cada um deles, e de proposta de emenda à Constituição na forma do inciso IV do art. 103. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -2040,17 +2049,17 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 51
 
 **§ 1º** O controle externo, a cargo da Assembleia Legislativa, será exercido com auxílio do Tribunal de Contas do Estado.
 
-**§ 2º** Prestará contas qualquer pessoa física, jurídica, empresa de cujo capital social o Estado ou Município participe, de forma direta ou indireta, ou entidade pública que arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais o Estado ou Município responda, ou em nome destes assuma obrigações de natureza pecuniária.
+<del>**§ 2º** Prestará contas qualquer pessoa física, jurídica, empresa de cujo capital social o Estado ou Município participe, de forma direta ou indireta, ou entidade pública que arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais o Estado ou Município responda, ou em nome destes assuma obrigações de natureza pecuniária.</del>
 
 **§ 2º** Prestará contas qualquer pessoa física ou jurídica, pública ou privada que utilize, arrecade, guarde, gerencie ou administre dinheiro, bens e valores públicos ou pelos quais o Estado responda, ou que, em nome deste, assuma obrigações de natureza pecuniária. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
-**Art. 112.** Ao Tribunal de Contas compete:
+<del>**Art. 112.** Ao Tribunal de Contas compete:</del>
 
 **Art. 112.** O controle externo, a cargo da Assembleia Legislativa, será exercido com o auxílio do Tribunal de Contas do Estado, ao qual compete: (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
 I - apreciar as contas prestadas anualmente pelo Governador do Estado, mediante parecer prévio que deverá ser elaborado em sessenta dias, a contar de seu recebimento;
 
-II - apreciar as contas anuais dos Prefeitos e Presidentes de Câmaras Municipais, emitindo parecer prévio dentro do exercício em que forem prestadas;
+<del>II - apreciar as contas anuais dos Prefeitos e Presidentes de Câmaras Municipais, emitindo parecer prévio dentro do exercício em que forem prestadas;</del>
 
 II - apreciar as contas dos Prefeitos e julgar as contas da Mesa Diretora das Câmaras Municipais, dentro do exercício em que forem prestadas; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -2058,7 +2067,7 @@ III - julgar as contas dos administradores e demais responsáveis por dinheiros,
 
 IV - apreciar, para fins de registro, a legalidade dos atos de admissão de pessoal, a qualquer título, na administração direta e indireta, incluídas as fundações instituídas e mantidas pelo Poder Público, excetuadas as nomeações para cargos de provimento em comissão, bem como a das concessões de aposentadorias, reformas e pensões, ressalvadas as melhorias posteriores que não alterem o fundamento legal do ato concessório;
 
-V - realizar, por iniciativa própria, da Assembleia Legislativa, de comissão técnica ou de inquérito, inspeções e auditorias de natureza contábil, financeira, orçamentária, operacional e patrimonial, nas unidades administrativas dos Poderes Legislativo, Executivo e Judiciário, e demais entidades referidas no inciso II;
+<del>V - realizar, por iniciativa própria, da Assembleia Legislativa, de comissão técnica ou de inquérito, inspeções e auditorias de natureza contábil, financeira, orçamentária, operacional e patrimonial, nas unidades administrativas dos Poderes Legislativo, Executivo e Judiciário, e demais entidades referidas no inciso II;</del>
 
 V - realizar, por iniciativa própria, da Assembleia Legislativa, de Comissão técnica ou de inquérito, inspeções e auditorias de natureza contábil, financeira, orçamentária, operacional e patrimonial, nas unidades administrativas dos
 
@@ -2080,7 +2089,7 @@ XI - representar ao Poder competente sobre irregularidade ou abusos apurados;
 
 XII - propor, em caso de irregularidade comprovada, a sustação de contrato, à Assembleia Legislativa ou às Câmaras Municipais, que solicitarão, de imediato, respectivamente, ao Poder Executivo estadual ou Municipal, conforme o caso, as medidas cabíveis;
 
-XIII - adotar as medidas legais cabíveis, se, no prazo de trinta dias, os Poderes Legislativos e Executivos estaduais ou municipais, não adotarem as providências previstas no inciso anterior; (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>XIII - adotar as medidas legais cabíveis, se, no prazo de trinta dias, os Poderes Legislativos e Executivos estaduais ou municipais, não adotarem as providências previstas no inciso anterior;</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
 XIV - comunicar à Assembleia Legislativa ou a Câmara Municipal, para fins de direito, a falta de remessa, dentro do prazo legal, das contas anuais do governo estadual e das Prefeituras Municipais;
 
@@ -2096,7 +2105,7 @@ XIX - elaborar sua proposta orçamentária dentro dos limites estipulados na lei
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 53
 
-**§ 1º** No caso de contrato, o ato de sustação será adotado diretamente pela Assembleia Legislativa, que solicitará, de imediato, ao Poder Executivo as medidas cabíveis.
+<del>**§ 1º** No caso de contrato, o ato de sustação será adotado diretamente pela Assembleia Legislativa, que solicitará, de imediato, ao Poder Executivo as medidas cabíveis.</del>
 
 **§ 1º** No caso de contrato, o ato de sustação será adotado diretamente pela Assembleia Legislativa ou pelas Câmaras Municipais que solicitarão, de imediato, ao Poder Executivo as medidas cabíveis. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -2106,17 +2115,17 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 53
 
 **§ 4º** O Tribunal encaminhará à Assembleia Legislativa, trimestralmente e anualmente, relatório de suas atividades.
 
-**§ 5º** Compete, ainda, ao Tribunal de Contas: (incluído pela Emenda Constitucional nº 20, 12.12.2000) (Revogado pela Emenda Constitucional 22, de 18.01.2001)
+<del>**§ 5º** Compete, ainda, ao Tribunal de Contas: (incluído pela Emenda Constitucional nº 20, 12.12.2000)</del> (Revogado pela Emenda Constitucional 22, de 18.01.2001)
 
-I – eleger seus órgãos diretivos 30 (trinta) dias antes do término dos respectivos mandatos, assim o Presidente e o Vice-Presidente, que serão sempre de dois anos, contados do dia 1º de março logo seguinte ao mandato extinto. A Corregedoria será exercida pelo Vice-Presidente; (incluído pela Emenda Constitucional nº 20, 12.12.2000) (Revogado pela Emenda Constitucional 22, de 18.01.2001)
+<del>I – eleger seus órgãos diretivos 30 (trinta) dias antes do término dos respectivos mandatos, assim o Presidente e o Vice-Presidente, que serão sempre de dois anos, contados do dia 1º de março logo seguinte ao mandato extinto. A Corregedoria será exercida pelo Vice-Presidente; (incluído pela Emenda Constitucional nº 20, 12.12.2000)</del> (Revogado pela Emenda Constitucional 22, de 18.01.2001)
 
-II – elaborar seu Regimento Interno, com observância às normas desta Constituição, às leis e às normas de processo e garantias das partes, onde deverão ficar dispostas as matérias atinentes à competência e funcionamento de seus órgãos administrativos, assim também a organização de sua secretária, câmaras e serviços internos. (incluído pela Emenda Constitucional nº 20, 12.12.2000) (Revogado pela Emenda Constitucional 22, de 18.01.2001)
+<del>II – elaborar seu Regimento Interno, com observância às normas desta Constituição, às leis e às normas de processo e garantias das partes, onde deverão ficar dispostas as matérias atinentes à competência e funcionamento de seus órgãos administrativos, assim também a organização de sua secretária, câmaras e serviços internos. (incluído pela Emenda Constitucional nº 20, 12.12.2000)</del> (Revogado pela Emenda Constitucional 22, de 18.01.2001)
 
-**Art. 113.** O Tribunal de Contas do Estado, órgão auxiliar do Poder Legislativo, integrado por sete conselheiros, tem sede na Capital do Estado, autonomia administrativa e financeira, quadro próprio de pessoal e jurisdição em todo o território estadual, exercendo no que couber, as atribuições previstas no art. 133 desta Constituição.
+<del>**Art. 113.** O Tribunal de Contas do Estado, órgão auxiliar do Poder Legislativo, integrado por sete conselheiros, tem sede na Capital do Estado, autonomia administrativa e financeira, quadro próprio de pessoal e jurisdição em todo o território estadual, exercendo no que couber, as atribuições previstas no art. 133 desta Constituição.</del>
 
-**Art. 113.** O Tribunal de Contas do Estado, órgão auxiliar do Poder Legislativo, integrado por sete Conselheiros, tem sede na capital do Estado, autonomia administrativa e financeira, quadro próprio de pessoal e jurisdição em todo o território estadual, exercendo, no que couber, as atribuições previstas no art. 133 desta Constituição. (redação dada pela Emenda Constitucional nº 5, 14.03.1996)
+<del>**Art. 113.** O Tribunal de Contas do Estado, órgão auxiliar do Poder Legislativo, integrado por sete Conselheiros, tem sede na capital do Estado, autonomia administrativa e financeira, quadro próprio de pessoal e jurisdição em todo o território estadual, exercendo, no que couber, as atribuições previstas no art. 133 desta Constituição. (redação dada pela Emenda Constitucional nº 5, 14.03.1996)</del>
 
-**Art. 113.** O Tribunal de Contas do Estado, órgão auxiliar do Poder Legislativo, integrado por sete Conselheiros, tem sede na capital do Estado, autonomia administrativa e financeira, quadro próprio de pessoal e jurisdição em todo o território estadual, exercendo, no que couber, as atribuições do art. 133 desta Constituição. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**Art. 113.** O Tribunal de Contas do Estado, órgão auxiliar do Poder Legislativo, integrado por sete Conselheiros, tem sede na capital do Estado, autonomia administrativa e financeira, quadro próprio de pessoal e jurisdição em todo o território estadual, exercendo, no que couber, as atribuições do art. 133 desta Constituição. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)</del>
 
 **Art. 113.** O Tribunal de Contas do Estado, integrado por sete Conselheiros, tem sede na capital do Estado, autonomia funcional, administrativa e financeira, quadro próprio de pessoal e jurisdição em todo o território estadual, exercendo, no que couber, as atribuições do art. 96 da Constituição Federal. (redação dada pela Emenda Constitucional nº 37, de 04.06.2007)
 
@@ -2132,31 +2141,31 @@ III - notórios conhecimentos jurídicos, contábeis, econômicos e financeiros 
 
 IV - mais de dez anos de exercício de função ou de efetiva atividade profissional que exija os conhecimentos mencionados no inciso anterior.
 
-**§ 2º** Os cargos de conselheiros do Tribunal de Contas necessários para completar a composição que o órgão terá serão preenchidos por indicação da Assembleia Legislativa, dentre os brasileiros que preencham os requisitos do parágrafo anterior.
+<del>**§ 2º** Os cargos de conselheiros do Tribunal de Contas necessários para completar a composição que o órgão terá serão preenchidos por indicação da Assembleia Legislativa, dentre os brasileiros que preencham os requisitos do parágrafo anterior.</del>
 
 **§ 2º** Os Conselheiros do Tribunal de Contas do Estado serão escolhidos. (redação dada pela Emenda Constitucional nº 5, de 1996)
 
-I - um terço pelo Governador do Estado, com aprovação da Assembleia Legislativa, sendo um alternadamente dentre auditores e membros do Ministério Público junto ao tribunal, indicados em lista tríplice pelo Tribunal, segundo os critérios de antiguidade e merecimento; (incluído pela Emenda Constitucional nº 5, de 1996)
+<del>I - um terço pelo Governador do Estado, com aprovação da Assembleia Legislativa, sendo um alternadamente dentre auditores e membros do Ministério Público junto ao tribunal, indicados em lista tríplice pelo Tribunal, segundo os critérios de antiguidade e merecimento; (incluído pela Emenda Constitucional nº 5, de 1996)</del>
 
 I - um terço pelo Governador do Estado, com aprovação da Assembleia Legislativa, sendo dois alternadamente dentre auditores e membros do Ministério Público junto ao Tribunal, indicados em lista tríplice pelo Tribunal, segundo os critérios de antiguidade e merecimento; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
 II - dois terços pela Assembleia Legislativa. (incluído pela Emenda Constitucional nº 5, de 1996)
 
-**§ 3º** Na vacância do cargo de conselheiro, a escolha far-se-á por indicação da Assembleia Legislativa, atendidos os requisitos do § 1º deste artigo.
+<del>**§ 3º** Na vacância do cargo de conselheiro, a escolha far-se-á por indicação da Assembleia Legislativa, atendidos os requisitos do § 1º deste artigo.</del>
 
-**§ 3º** Os Conselheiros do Tribunal de Contas terão as mesmas garantias, prerrogativas, impedimentos, vencimentos e vantagens dos Desembargadores do Tribunal de Justiça do Estado, e somente poderão aposentar-se com as vantagens do cargo quando o tiverem exercido efetivamente por mais de cinco anos. (redação dada pela Emenda Constitucional nº 5, de 1996)
+<del>**§ 3º** Os Conselheiros do Tribunal de Contas terão as mesmas garantias, prerrogativas, impedimentos, vencimentos e vantagens dos Desembargadores do Tribunal de Justiça do Estado, e somente poderão aposentar-se com as vantagens do cargo quando o tiverem exercido efetivamente por mais de cinco anos. (redação dada pela Emenda Constitucional nº 5, de 1996)</del>
 
 **§ 3º** Os Conselheiros do Tribunal de Contas terão as mesmas garantias, prerrogativas, impedimentos, vencimentos e vantagens dos Desembargadores do Tribunal de Justiça do Estado, aplicando-se-lhes, quanto à aposentadoria e pensão, as normas constantes do art. 40 da Constituição Federal. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 4º** Após passar o Tribunal de Contas a ter sete conselheiros, as vagas que a partir de então se abrirem em suas composições serão preenchidas de modo a se garantir, sempre, ao Poder Legislativo a proporcionalidade de indicação de cinco sétimos dos membros daquele órgão, observados os critérios seguintes:
+<del>**§ 4º** Após passar o Tribunal de Contas a ter sete conselheiros, as vagas que a partir de então se abrirem em suas composições serão preenchidas de modo a se garantir, sempre, ao Poder Legislativo a proporcionalidade de indicação de cinco sétimos dos membros daquele órgão, observados os critérios seguintes:</del>
 
-I - cinco dos conselheiros serão escolhidos pela Assembleia Legislativa;
+<del>I - cinco dos conselheiros serão escolhidos pela Assembleia Legislativa;</del>
 
-II - dois dos conselheiros serão escolhidos pelo Governador do Estado, com aprovação da Assembleia Legislativa, dentre auditores do Tribunal de Contas, segundo os critérios de antiguidade e merecimento, indicados, em caso de merecimento, em lista tríplice.
+<del>II - dois dos conselheiros serão escolhidos pelo Governador do Estado, com aprovação da Assembleia Legislativa, dentre auditores do Tribunal de Contas, segundo os critérios de antiguidade e merecimento, indicados, em caso de merecimento, em lista tríplice.</del>
 
 **§ 4º** Os Conselheiros, nas suas faltas e impedimentos serão substituídos pelos auditores. (redação dada pela Emenda Constitucional nº 5, de 1996)
 
-**§ 5º** Os conselheiros do Tribunal de Contas terão as mesmas garantias e prerrogativas, impedimentos, vencimentos, direitos e vantagens dos desembargadores do Tribunal de Justiça do Estado e somente poderão aposentar-se com as vantagens do cargo quando o tiverem exercido efetivamente por mais de cinco anos.
+<del>**§ 5º** Os conselheiros do Tribunal de Contas terão as mesmas garantias e prerrogativas, impedimentos, vencimentos, direitos e vantagens dos desembargadores do Tribunal de Justiça do Estado e somente poderão aposentar-se com as vantagens do cargo quando o tiverem exercido efetivamente por mais de cinco anos.</del>
 
 **§ 5º** O auditor, quando em substituição a Conselheiro, terá as mesmas garantias e impedimentos do titular e, quando no exercício das demais atribuições, as
 
@@ -2164,7 +2173,7 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 55
 
 de juiz de direito da mais elevada entrância do Estado. (redação dada pela Emenda Constitucional nº 5, de 1996)
 
-**§ 6º** Os conselheiros, nas suas faltas e impedimentos, serão substituídos pelos auditores.
+<del>**§ 6º** Os conselheiros, nas suas faltas e impedimentos, serão substituídos pelos auditores.</del>
 
 **§ 6º** Os auditores do Tribunal de Contas serão nomeados após concurso público de provas ou de provas e títulos, observada a classificação, cumpridos, ainda, os seguintes requisitos: (redação dada pela Emenda Constitucional nº 5, de 1996)
 
@@ -2172,29 +2181,29 @@ I - título de curso superior em direito, ciências contábeis, econômicas ou a
 
 II - idoneidade moral e reputação ilibada. (incluído pela Emenda Constitucional nº 5, de 1996)
 
-**§ 7º** O auditor, quando em substituição a conselheiro, terá as mesmas garantias, vencimento e impedimentos do titular e, quando no exercício das demais atribuições, as de juiz de direito da mais elevada entrância do Estado.
+<del>**§ 7º** O auditor, quando em substituição a conselheiro, terá as mesmas garantias, vencimento e impedimentos do titular e, quando no exercício das demais atribuições, as de juiz de direito da mais elevada entrância do Estado.</del>
 
 **§ 7º** O auditor somente poderá aposentar-se com as vantagens do cargo, quando o tiver exercido efetivamente, no Tribunal de Contas, por mais de cinco anos. (redação dada pela Emenda Constitucional nº 5, de 1996)
 
-**§ 8º** Os auditores do Tribunal de Contas serão nomeados com base em concurso público de provas ou de provas e títulos, observada a classificação, cumpridos, ainda, os seguintes requisitos:
+<del>**§ 8º** Os auditores do Tribunal de Contas serão nomeados com base em concurso público de provas ou de provas e títulos, observada a classificação, cumpridos, ainda, os seguintes requisitos:</del>
 
-I - título de curso superior de Direito, Ciências Contábeis, Econômicas ou Administrativa;
+<del>I - título de curso superior de Direito, Ciências Contábeis, Econômicas ou Administrativa;</del>
 
-II - idoneidade moral e reputação ilibada.
+<del>II - idoneidade moral e reputação ilibada.</del>
 
-**§ 8º** O Tribunal de Contas do Estado do Amapá será administrado pelo Presidente e Vice-Presidente, com mandato de dois anos, eleitos pelos Conselheiros, a ter início em 1º de março, cuja escolha dar-se-á dez dias antes do início do mandato. (redação dada pela Emenda Constitucional nº 19, de 22.11.2000)
+<del>**§ 8º** O Tribunal de Contas do Estado do Amapá será administrado pelo Presidente e Vice-Presidente, com mandato de dois anos, eleitos pelos Conselheiros, a ter início em 1º de março, cuja escolha dar-se-á dez dias antes do início do mandato. (redação dada pela Emenda Constitucional nº 19, de 22.11.2000)</del>
 
-**§ 8º** A fiscalização contábil, financeira, orçamentária, operacional e patrimonial do Tribunal de Contas do Estado será exercida pela Assembleia Legislativa, na forma definida no seu Regimento Interno. (redação dada pela Emenda Constitucional nº 20, 12.12.2000)
+<del>**§ 8º** A fiscalização contábil, financeira, orçamentária, operacional e patrimonial do Tribunal de Contas do Estado será exercida pela Assembleia Legislativa, na forma definida no seu Regimento Interno. (redação dada pela Emenda Constitucional nº 20, 12.12.2000)</del>
 
-**§ 8º** Os Conselheiros elegerão o Presidente e o Vice-Presidente do Tribunal de Contas do Estado do Amapá, para mandato de dois anos, a ter início no dia 15 de março, cuja escolha dar-se-á até quinze dias antes do início do mandato. (redação dada pela Emenda Constitucional nº 22, 18.01.2001)
+<del>**§ 8º** Os Conselheiros elegerão o Presidente e o Vice-Presidente do Tribunal de Contas do Estado do Amapá, para mandato de dois anos, a ter início no dia 15 de março, cuja escolha dar-se-á até quinze dias antes do início do mandato. (redação dada pela Emenda Constitucional nº 22, 18.01.2001)</del>
 
-I - No período compreendido entre o término do mandato da atual administração do Tribunal e o início da próxima, o Tribunal de Contas do Estado do Amapá, será dirigido pelo Conselheiro mais antigo no cargo. (incluído pela Emenda Constitucional nº 22, 18.01.2001)
+<del>I - No período compreendido entre o término do mandato da atual administração do Tribunal e o início da próxima, o Tribunal de Contas do Estado do Amapá, será dirigido pelo Conselheiro mais antigo no cargo. (incluído pela Emenda Constitucional nº 22, 18.01.2001)</del>
 
-**§ 8º** Os conselheiros elegerão o Presidente, o 1º e o 2º Vice-Presidentes do Tribunal de Contas, para mandato de dois anos, vedada a reeleição. (redação dada pela Emenda Constitucional nº 27, de 09.09.2002)
+<del>**§ 8º** Os conselheiros elegerão o Presidente, o 1º e o 2º Vice-Presidentes do Tribunal de Contas, para mandato de dois anos, vedada a reeleição.</del> (redação dada pela Emenda Constitucional nº 27, de 09.09.2002)
 
 **§ 8º** Os conselheiros elegerão o Presidente, o 1º e o 2º Vice-Presidentes do Tribunal de Contas, para mandato de dois anos, permitida a reeleição. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 9º** O auditor somente poderá aposentar-se com as vantagens de cargo quando o tiver exercido, efetivamente, no Tribunal de Contas, por mais de cinco anos.
+<del>**§ 9º** O auditor somente poderá aposentar-se com as vantagens de cargo quando o tiver exercido, efetivamente, no Tribunal de Contas, por mais de cinco anos.</del>
 
 **§ 9º** Considerar-se-á eleita a chapa que obtiver a maioria de votos. (redação dada pela Emenda Constitucional nº 27, de 09.09.2002)
 
@@ -2206,21 +2215,21 @@ quarenta e oito horas que se seguirem ao recebimento da comunicação, o mesmo s
 
 **Art. 114.** Os Poderes Legislativo, Executivo e Judiciário manterão, de forma integrada, sistema de controle interno com a finalidade de:
 
-I - avaliar o cumprimento das metas previstas no plano plurianual, a execução dos programas de governo e dos orçamentos do Estado;
+<del>I - avaliar o cumprimento das metas previstas no plano plurianual, a execução dos programas de governo e dos orçamentos do Estado;</del>
 
 I - avaliar o cumprimento das metas previstas no plano plurianual, a execução dos programas de governo e dos orçamentos do Estado e dos Municípios; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-II - comprovar a legalidade e avaliar os resultados, quanto à eficácia das gestões orçamentária, financeira e patrimonial nos órgãos e entidades da administração estadual, bem como da aplicação de recursos públicos por entidade de direito privado;
+<del>II - comprovar a legalidade e avaliar os resultados, quanto à eficácia das gestões orçamentária, financeira e patrimonial nos órgãos e entidades da administração estadual, bem como da aplicação de recursos públicos por entidade de direito privado;</del>
 
 II - comprovar a legalidade e avaliar os resultados, quanto à eficácia e eficiência, da gestão orçamentária, financeira e patrimonial nos órgãos e entidades das administrações estadual e municipal, bem como da aplicação de recursos públicos por entidades de direito privado; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-III - exercer o controle das operações de crédito, avais e garantias, e dos direitos e haveres do Estado;
+<del>III - exercer o controle das operações de crédito, avais e garantias, e dos direitos e haveres do Estado;</del>
 
 III - exercer o controle das operações de crédito, avais e garantias, bem como dos direitos e haveres do Estado e dos Municípios; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
 IV - apoiar o controle externo no exercício de sua missão institucional.
 
-**§ 1º** Os responsáveis pelo controle interno darão ciência ao Chefe do Poder a que estiverem subordinados, e este ao Tribunal de Contas do Estado, sob pena de responsabilidade solidária, de qualquer irregularidade ou ilegalidade de que tiverem conhecimento.
+<del>**§ 1º** Os responsáveis pelo controle interno darão ciência ao Chefe do Poder a que estiverem subordinados, e este ao Tribunal de Contas do Estado, sob pena de responsabilidade solidária, de qualquer irregularidade ou ilegalidade de que tiverem conhecimento.</del>
 
 **§ 1º** Os responsáveis pelo controle interno, ao tomarem conhecimento de qualquer irregularidade ou ilegalidade, dela darão ciência ao Tribunal de Contas da União, sob pena de responsabilidade solidária. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -2230,7 +2239,7 @@ IV - apoiar o controle externo no exercício de sua missão institucional.
 
 **Art. 115.** A Procuradoria da Assembleia compete exercer a representação judicial do Poder Legislativo nas ações em que este for parte, ativa ou passiva, sem prejuízo das atribuições da Procuradoria-Geral do Estado.
 
-**Parágrafo único.** Resolução de inciativa da Mesa da Assembleia Legislativa, observando os princípios e regras pertinentes à Constituição Federal e a esta Constituição, disciplinará sua competência e disporá sobre o ingresso na classe inicial, mediante concurso de provas ou de provas e títulos.
+<del>**Parágrafo único.** Resolução de inciativa da Mesa da Assembleia Legislativa, observando os princípios e regras pertinentes à Constituição Federal e a esta Constituição, disciplinará sua competência e disporá sobre o ingresso na classe inicial, mediante concurso de provas ou de provas e títulos.</del>
 
 **Parágrafo único.** Lei, de iniciativa da Assembleia Legislativa, disciplinará sua competência e o ingresso na classe inicial da carreira, que para todos os fins integra a Advocacia Pública do Estado do Amapá, mediante concurso de provas ou de provas e títulos. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -2242,7 +2251,7 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 57
 
 **Art. 116.** O Poder Executivo estadual é exercido pelo Governador do Estado, com o auxílio dos Secretários de Estado.
 
-**Art. 117.** O Governador e o Vice-Governador do Estado serão eleitos simultaneamente, noventa dias antes do término do mandato de seus antecessores, e a posse ocorrerá no dia primeiro de janeiro do ano subsequente, observado, quanto ao mais, o disposto no art. 77 da Constituição Federal.
+<del>**Art. 117.** O Governador e o Vice-Governador do Estado serão eleitos simultaneamente, noventa dias antes do término do mandato de seus antecessores, e a posse ocorrerá no dia primeiro de janeiro do ano subsequente, observado, quanto ao mais, o disposto no art. 77 da Constituição Federal.</del>
 
 **Art. 117.** A eleição do Governador e do Vice-Governador do Estado, para mandato de 4 (quatro) anos realizar-se-á no primeiro Domingo de outubro, em primeiro turno, e no último Domingo de outubro, em segundo turno, se houver, do ano anterior ao término do mandato de seus antecessores, e a posse ocorrerá em primeiro de janeiro do ano subsequente, observado, quanto ao mais, o disposto no art. 77, da Constituição Federal. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
@@ -2252,11 +2261,11 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 57
 
 **§ 3º** Os subsídios do Governador e do Vice-Governador do Estado serão fixados por lei de iniciativa da Assembleia Legislativa, que deverá ser aprovada e publicada antes da data das eleições estaduais, observado o que dispõem os arts. 42, XI e 47, § 4º desta Constituição e os arts. 150, II, 153, III e 153, § 2º, I da Constituição Federal. (incluído pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**Art. 118.** É de quatro anos o mandato do Governador e do Vice- Governador, vedada a reeleição no período subsequente.
+<del>**Art. 118.** É de quatro anos o mandato do Governador e do Vice- Governador, vedada a reeleição no período subsequente.</del>
 
 **Art. 118.** O Governador e o Vice–Governador do Estado e quem os houver sucedido ou substituído no curso do mandato poderão ser reeleitos para único período subsequente de quatro anos. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
-**§ 1º** O Governador e o Vice-Governador residirão na Capital do Estado e não poderão, sem prévia permissão da Assembleia Legislativa, ausentar-se do País, por qualquer tempo, ou do Estado por mais de quinze dias, sob pena de perda do cargo.
+<del>**§ 1º** O Governador e o Vice-Governador residirão na Capital do Estado e não poderão, sem prévia permissão da Assembleia Legislativa, ausentar-se do País, por qualquer tempo, ou do Estado por mais de quinze dias, sob pena de perda do cargo.</del>
 
 **§ 1º** O Governador e o Vice-Governador residirão na Capital do Estado e não poderão, sem prévia permissão da Assembleia Legislativa, ausentar-se do País ou do Estado por mais de quinze dias, sob pena de perda do cargo. (redação dada pela
 
@@ -2264,13 +2273,13 @@ Emenda Constitucional nº 35, de 21.03.2006)
 
 **§ 2º** Substituirá o Governador no caso de impedimento, e suceder-lhe-á, no de vaga, o Vice-Governador.
 
-**§ 3º** Consideram-se impedimentos do Governador, quando em gozo de férias ou por motivo de doença, que o impeça de exercer efetivamente a função. (dispositivo declarado inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal, no julgamento da ADIN nº 887).
+<del>**§ 3º** Consideram-se impedimentos do Governador, quando em gozo de férias ou por motivo de doença, que o impeça de exercer efetivamente a função.</del> (dispositivo declarado inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal, no julgamento da ADIN nº 887).
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 58
 
 **§ 4º** Em caso de impedimento simultâneo do Governador e do Vice- Govenador ou de vacância de ambos os cargos, serão sucessivamente chamados a exercer o cargo de Governador o Presidente da Assembleia Legislativa e o Presidente do Tribunal de Justiça do Estado.
 
-**§ 5º** Em caso da vacância, o Governador interino comunicará o fato ao Tribunal Regional Eleitoral, que fará nova eleição no prazo de noventa dias, devendo os eleitos completar os períodos de seus antecessores, salvo se a segunda vaga ocorrer a menos de um ano do término do quatriênio, hipótese em que se continuará observando o disposto no parágrafo anterior.
+<del>**§ 5º** Em caso da vacância, o Governador interino comunicará o fato ao Tribunal Regional Eleitoral, que fará nova eleição no prazo de noventa dias, devendo os eleitos completar os períodos de seus antecessores, salvo se a segunda vaga ocorrer a menos de um ano do término do quatriênio, hipótese em que se continuará observando o disposto no parágrafo anterior.</del>
 
 **§ 5º** Vagando os cargos de Governador e Vice–Governador, far-se-á eleição noventa dias de aberta a última vaga. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
@@ -2310,7 +2319,7 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 59
 
 XIII - enviar à Assembleia o plano plurianual, o projeto de lei das diretrizes orçamentárias e as propostas de orçamento previstos nesta Constituição;
 
-XIV - prestar informações solicitadas pelos Poderes Legislativo e Judiciário, nos casos e prazos fixados em lei;
+<del>XIV - prestar informações solicitadas pelos Poderes Legislativo e Judiciário, nos casos e prazos fixados em lei;</del>
 
 XIV - prestar, por escrito, as informações solicitadas pelos Poderes Legislativo e Judiciário, no prazo de trinta dias, salvo se outro for determinado por Lei Federal; (redação dada pela Emenda Constitucional nº 15, de 24.05.2000)
 
@@ -2328,7 +2337,7 @@ XX - expedir leis delegadas, na forma prevista nesta Constituição;
 
 XXI - decretar situação de emergência e estado de calamidade pública;
 
-XXII - prover e extinguir cargos públicos estaduais, na forma de lei, com as restrições, e usar do poder disciplinar sobre todos os servidores do Poder Executivo;
+<del>XXII - prover e extinguir cargos públicos estaduais, na forma de lei, com as restrições, e usar do poder disciplinar sobre todos os servidores do Poder Executivo;</del>
 
 XXII - prover e extinguir os cargos públicos estaduais na forma da lei; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -2336,7 +2345,7 @@ XXIII - determinar o Procurador-Geral do Estado o oferecimento da representaçã
 
 XXIV - delegar por decreto, a autoridade do Executivo, funções administrativas que não sejam de sua exclusiva competência;
 
-XXV - dispor sobre a organização e o funcionamento da administração estadual;
+<del>XXV - dispor sobre a organização e o funcionamento da administração estadual;</del>
 
 XXV - dispor, mediante decreto, sobre: (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -2358,23 +2367,23 @@ XXVIII - O prazo para expedir decreto regulamentador de lei, aprovada ou promulg
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 60
 
-**Art. 120.** São crimes de responsabilidade os atos do Governador que atentem contra a Constituição Federal, contra a Constituição Estadual e, especialmente contra:
+<del>**Art. 120.** São crimes de responsabilidade os atos do Governador que atentem contra a Constituição Federal, contra a Constituição Estadual e, especialmente contra:</del>
 
-I - a existência da União, Estado ou Município;
+<del>I - a existência da União, Estado ou Município;</del>
 
-II - o livre exercício do Poder Legislativo, do Poder Judiciário, do Ministério Público e dos Poderes constitucionais;
+<del>II - o livre exercício do Poder Legislativo, do Poder Judiciário, do Ministério Público e dos Poderes constitucionais;</del>
 
-III - o exercício dos direitos políticos, individuais e sociais;
+<del>III - o exercício dos direitos políticos, individuais e sociais;</del>
 
-IV - a segurança interna do Estado e do País;
+<del>IV - a segurança interna do Estado e do País;</del>
 
-V - a probidade na administração;
+<del>V - a probidade na administração;</del>
 
-VI - a lei orçamentária;
+<del>VI - a lei orçamentária;</del>
 
-VII - o cumprimento das leis e das decisões judiciais.
+<del>VII - o cumprimento das leis e das decisões judiciais.</del>
 
-**Parágrafo único.** As normas de processo e julgamento de crimes serão definidos em lei.
+<del>**Parágrafo único.** As normas de processo e julgamento de crimes serão definidos em lei.</del>
 
 **Art. 120.** São crimes de responsabilidade do Governador do Estado, os definidos no art. 85 da Constituição Federal e os previstos na legislação federal. (redação dada pela Emenda Constitucional nº 18, de 04.07.2000)
 
@@ -2418,9 +2427,9 @@ IV - praticar os atos para os quais receber delegação de competência do Gover
 
 V - apresentar declaração de bens no ato da posse e no término do exercício do cargo;
 
-VI - dar resposta, nos termos e prazos estabelecidos no inciso XXVI do
+<del>VI - dar resposta, nos termos e prazos estabelecidos no inciso XXVI do</del>
 
-Art. 95, às solicitações de serviços e obras impetradas pelos Poderes Legislativo e Judiciário; (incluído pela Emenda Constitucional nº 15, de 24.05.2000)
+<del>Art. 95, às solicitações de serviços e obras impetradas pelos Poderes Legislativo e Judiciário; (incluído pela Emenda Constitucional nº 15, de 24.05.2000)</del>
 
 VI - responder, no prazo fixado no inciso XXVI do art. 95 desta Constituição, aos pedidos de informações da Assembleia Legislativa. (incluído pela
 
@@ -2450,21 +2459,21 @@ VII - outros Tribunais e Juízos instituídos por lei.
 
 **§ 2º** São assegurados, na forma do art. 99 da Constituição Federal, ao Poder Judiciário, recursos suficientes para manutenção, expansão e aperfeiçoamento de suas atividades jurisdicionais, visando o acesso de todos à Justiça.
 
-**Art. 125.** Ao Poder Judiciário é assegurada autonomia administrativa e financeira, competindo-lhe participar, em conjunto com os demais Poderes, da elaboração da lei de diretrizes orçamentárias, nos termos do art. 99 e seu § 1º da Constituição Federal.
+<del>**Art. 125.** Ao Poder Judiciário é assegurada autonomia administrativa e financeira, competindo-lhe participar, em conjunto com os demais Poderes, da elaboração da lei de diretrizes orçamentárias, nos termos do art. 99 e seu § 1º da Constituição Federal.</del>
 
-**Art. 125.** Ao Poder Judiciário é assegurada autonomia administrativa e financeira, competindo-lhe, participar, por convocação obrigatória de seu Presidente, de reunião conjunta com os demais Poderes, para a determinação dos índices a serem incluídos na Lei de Diretrizes Orçamentárias, nos termos do art. 99, § 1º, da Constituição Federal, sendo que essa reunião deverá realizar-se até 30 (trinta dias) antes do prazo previsto no § 5º, do art. 175. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
+<del>**Art. 125.** Ao Poder Judiciário é assegurada autonomia administrativa e financeira, competindo-lhe, participar, por convocação obrigatória de seu Presidente, de reunião conjunta com os demais Poderes, para a determinação dos índices a serem incluídos na Lei de Diretrizes Orçamentárias, nos termos do art. 99, § 1º, da Constituição Federal, sendo que essa reunião deverá realizar-se até 30 (trinta dias) antes do prazo previsto no § 5º, do art. 175. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)</del>
 
 **Art. 125.** Ao Poder Judiciário é assegurada autonomia administrativa e financeira. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 1º** O Tribunal de Justiça, para os fins deste artigo, elaborará proposta orçamentária relativa ao Poder Judiciário dentro dos limites estabelecidos na lei de diretrizes orçamentárias, que, submetida à aprovação pelo seu plenário, será encaminhada ao Poder Executivo. CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 62
+<del>**§ 1º** O Tribunal de Justiça, para os fins deste artigo, elaborará proposta orçamentária relativa ao Poder Judiciário dentro dos limites estabelecidos na lei de diretrizes orçamentárias, que, submetida à aprovação pelo seu plenário, será encaminhada ao Poder Executivo.</del> CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 62
 
 **§ 1º** O Tribunal de Justiça elaborará sua proposta orçamentária dentro dos limites estipulados conjuntamente com os demais Poderes na lei de diretrizes orçamentárias. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 2º** À exceção dos créditos de natureza alimentícia, os pagamentos devidos pela Fazenda Estadual ou Municipal, em virtude de condenação judicial, serão feitos exclusivamente na ordem cronológica da apresentação dos precatórios e à conta dos respectivos créditos, proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para esse fim.
+<del>**§ 2º** À exceção dos créditos de natureza alimentícia, os pagamentos devidos pela Fazenda Estadual ou Municipal, em virtude de condenação judicial, serão feitos exclusivamente na ordem cronológica da apresentação dos precatórios e à conta dos respectivos créditos, proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para esse fim.</del>
 
 **§ 2º** O encaminhamento da proposta, aprovada pelo Tribunal, compete ao Presidente do Tribunal de Justiça. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 3º** É obrigatória a inclusão, no orçamento das entidades de direito público, de verba necessária aos pagamentos de seus débitos constantes de precatórios judiciais apresentados até primeiro de julho, data em que seus valores serão atualizados, fazendo-se o pagamento até o final do exercício seguinte.
+<del>**§ 3º** É obrigatória a inclusão, no orçamento das entidades de direito público, de verba necessária aos pagamentos de seus débitos constantes de precatórios judiciais apresentados até primeiro de julho, data em que seus valores serão atualizados, fazendo-se o pagamento até o final do exercício seguinte.</del>
 
 **§ 3º** Se o Tribunal não encaminhar sua proposta orçamentária dentro do prazo estabelecido na lei de diretrizes orçamentárias, o Poder Executivo considerará, para fins de consolidação da proposta orçamentária anual, os valores aprovados na
 
@@ -2472,11 +2481,11 @@ lei orçamentária vigente, ajustados de acordo com os limites estipulados na fo
 
 **§ 1º** deste artigo. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 4º** As dotações orçamentárias e os créditos abertos a que aludem os §§ 2º e 3º deste artigo serão consignados ao Poder Judiciário, recolhendo-se as importâncias respectivas à repartição competente, cabendo ao Presidente do Tribunal de Justiça determinar o pagamento, segundo as possibilidades do depósito, e autorizar, a requerimento do credor e exclusivamente para o caso de preterição de seu direito de precedência o sequestro da quantia necessária à satisfação do débito.
+<del>**§ 4º** As dotações orçamentárias e os créditos abertos a que aludem os §§ 2º e 3º deste artigo serão consignados ao Poder Judiciário, recolhendo-se as importâncias respectivas à repartição competente, cabendo ao Presidente do Tribunal de Justiça determinar o pagamento, segundo as possibilidades do depósito, e autorizar, a requerimento do credor e exclusivamente para o caso de preterição de seu direito de precedência o sequestro da quantia necessária à satisfação do débito.</del>
 
 **§ 4º** Se a proposta orçamentária de que trata este artigo for encaminhada em desacordo com os limites estipulados na forma do § 1º, o Poder Executivo procederá aos ajustes necessários para fins de consolidação da proposta orçamentária anual. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 5º** Se o descumprimento das disposições deste artigo comprometer, a qualquer título, o regular exercício das funções do Poder Judiciário, caberá ao Tribunal de Justiça, pela maioria de seus membros, solicitar, ao Supremo Tribunal Federal, intervenção da União no Estado.
+<del>**§ 5º** Se o descumprimento das disposições deste artigo comprometer, a qualquer título, o regular exercício das funções do Poder Judiciário, caberá ao Tribunal de Justiça, pela maioria de seus membros, solicitar, ao Supremo Tribunal Federal, intervenção da União no Estado.</del>
 
 **§ 5º** Durante a execução orçamentária do exercício, não poderá haver a realização de despesas ou a assunção de obrigações que extrapolem os limites estabelecidos na lei de diretrizes orçamentárias, exceto se previamente autorizadas, mediante a abertura de créditos suplementares ou especiais. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -2504,49 +2513,49 @@ Emenda Constitucional nº 35, de 21.03.2006)
 
 **Art. 126.** Compete ao Tribunal de Justiça a iniciativa da Lei de Organização e Divisão Judiciárias do Estado e de suas alterações, observados os seguintes princípios:
 
-I - ingresso na carreira, cujo cargo inicial é o de juiz de direito substituto, mediante concurso público de provas e títulos, com a participação da Ordem dos Advogados do Brasil, Secção do Amapá, em todas as suas fases, obedecendo-se, nas nomeações, à respectiva ordem de classificação;
+<del>I - ingresso na carreira, cujo cargo inicial é o de juiz de direito substituto, mediante concurso público de provas e títulos, com a participação da Ordem dos Advogados do Brasil, Secção do Amapá, em todas as suas fases, obedecendo-se, nas nomeações, à respectiva ordem de classificação;</del>
 
 I - ingresso na carreira, cujo cargo inicial será o de juiz substituto, mediante concurso público de provas e títulos, com a participação da Ordem dos Advogados do Brasil em todas as fases, exigindo-se do bacharel em direito, no mínimo, três anos de atividade jurídica e obedecendo-se, nas nomeações, à ordem de classificação; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-II - promoção de entrância a entrância, por antiguidade e merecimento, observado o seguinte:
+<del>II - promoção de entrância a entrância, por antiguidade e merecimento, observado o seguinte:</del>
 
 II - promoção de entrância para entrância, alternadamente, por antiguidade e merecimento, atendidas as normas fixadas no inciso II do art. 93 da Constituição Federal. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-a) na apuração da antiguidade, o Tribunal de Justiça poderá recusar o juiz de direito mais antigo pelo voto motivado de dois terços de seus membros, conforme procedimento próprio, disciplinado no seu regimento interno, repetindo-se a votação até se fixar a indicação; (revogada pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>a) na apuração da antiguidade, o Tribunal de Justiça poderá recusar o juiz de direito mais antigo pelo voto motivado de dois terços de seus membros, conforme procedimento próprio, disciplinado no seu regimento interno, repetindo-se a votação até se fixar a indicação;</del> (revogada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-b) preexistência de dois anos de exercício na respectiva entrância e integração do juiz de direito na primeira quinta parte da lista de antiguidade desta, salvo inexistindo quem, dentre os que disponham desses requisitos, aceite o lugar vago, caso em que concorrerão os integrantes da segunda quinta parte, em idêntico
+<del>b) preexistência de dois anos de exercício na respectiva entrância e integração do juiz de direito na primeira quinta parte da lista de antiguidade desta, salvo inexistindo quem, dentre os que disponham desses requisitos, aceite o lugar vago, caso em que concorrerão os integrantes da segunda quinta parte, em idêntico</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 64
 
-procedimento, e assim sucessivamente. (revogada pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>procedimento, e assim sucessivamente.</del> (revogada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-c) a promoção por merecimento, atendido o disposto na alínea anterior, resultará de lista tríplice organizada pelo Tribunal de Justiça, composta pelos nomes mais votados dentre os que tenham obtido maioria de votos dos membros do órgão, e se procederá, para alcançá-la, a até três votações, examinados, em primeiro lugar, os remanescentes de lista anterior; (revogada pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>c) a promoção por merecimento, atendido o disposto na alínea anterior, resultará de lista tríplice organizada pelo Tribunal de Justiça, composta pelos nomes mais votados dentre os que tenham obtido maioria de votos dos membros do órgão, e se procederá, para alcançá-la, a até três votações, examinados, em primeiro lugar, os remanescentes de lista anterior;</del> (revogada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-d) adotar-se-ão, como critério de aferição do merecimento, a presteza e a segurança no exercício da jurisdição, a frequência e o aproveitamento em cursos de aperfeiçoamento reconhecidos, e a regularidade e atualização dos serviços judiciais pelos quais seja o juiz de direito responsável; (revogada pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>d) adotar-se-ão, como critério de aferição do merecimento, a presteza e a segurança no exercício da jurisdição, a frequência e o aproveitamento em cursos de aperfeiçoamento reconhecidos, e a regularidade e atualização dos serviços judiciais pelos quais seja o juiz de direito responsável;</del> (revogada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-e) obrigatoriedade da promoção do juiz de direito que figurar, por três vezes consecutivas, ou cinco alternadamente, em listas tríplices de merecimento; (revogada pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>e) obrigatoriedade da promoção do juiz de direito que figurar, por três vezes consecutivas, ou cinco alternadamente, em listas tríplices de merecimento;</del> (revogada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-f) nenhum juiz de direito poderá ser promovido ou removido enquanto existir processo paralisado, pendente de despacho, decisão ou sentença de sua competência, conforme se correição promovida pela Corregedoria de Justiça. (revogada pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>f) nenhum juiz de direito poderá ser promovido ou removido enquanto existir processo paralisado, pendente de despacho, decisão ou sentença de sua competência, conforme se correição promovida pela Corregedoria de Justiça.</del> (revogada pela Emenda Constitucional nº 35, de 21.03.2006)
 
 III - o acesso ao Tribunal de Justiça, em vaga destinada a magistrado, se fará por antiguidade e merecimento, alternadamente, apurados na última entrância;
 
-IV - a instituição de cursos oficiais de preparação e aperfeiçoamento de magistrados e comprovação de obtenção, neles, de nível satisfatório de frequência e aproveitamento como requisitos para ingresso e promoção na carreita;
+<del>IV - a instituição de cursos oficiais de preparação e aperfeiçoamento de magistrados e comprovação de obtenção, neles, de nível satisfatório de frequência e aproveitamento como requisitos para ingresso e promoção na carreita;</del>
 
 IV - previsão de cursos oficiais de preparação, aperfeiçoamento e promoção de magistrados, constituindo etapa obrigatória do processo de vitaliciamento a participação em curso oficial ou reconhecido por escola nacional de formação e aperfeiçoamento de magistrados; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-V - aposentadoria com vencimentos integrais, compulsória por invalidez ou aos setenta anos de idade, e facultativa aos trinta anos de serviço, após cinco anos de efetivo exercício na judicatura;
+<del>V - aposentadoria com vencimentos integrais, compulsória por invalidez ou aos setenta anos de idade, e facultativa aos trinta anos de serviço, após cinco anos de efetivo exercício na judicatura;</del>
 
 V - os subsídios dos Desembargadores do Tribunal de Justiça e dos demais magistrados serão fixados com observância do disposto no inciso V do art. 93 da Constituição Federal; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
 V-A - a aposentadoria dos magistrados e a pensão de seus dependentes observarão o disposto no art. 40 da Constituição Federal; (incluído pela Emenda Constitucional nº 35, de 21.03.2006)
 
-VI - o juiz de direito titular residirá na respectiva comarca;
+<del>VI - o juiz de direito titular residirá na respectiva comarca;</del>
 
 VI - o juiz titular residirá na respectiva comarca, salvo autorização do Tribunal de Justiça; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
 VII - a criação ou restauração e a instalação de comarca ou vara se darão conforme dispuserem a Lei de Organização e Divisão Judiciárias e o Regimento Interno do Tribunal de Justiça, importando a previsão das respectivas estruturas administrativas, judiciárias, notarial e de registro, definidas naquela lei;
 
-VIII - o ato de remoção, disponibilidade e aposentadoria de magistrado, por interesse público, fundar-se-á em decisão por voto de dois terços do Tribunal de Justiça, assegurada ampla defesa, com os meios e recursos a ela inerentes;
+<del>VIII - o ato de remoção, disponibilidade e aposentadoria de magistrado, por interesse público, fundar-se-á em decisão por voto de dois terços do Tribunal de Justiça, assegurada ampla defesa, com os meios e recursos a ela inerentes;</del>
 
 VIII - o ato de remoção, disponibilidade e aposentadoria do magistrado, por interesse público, fundar-se-á em decisão por voto da maioria absoluta do Tribunal de Justiça ou do Conselho Nacional de Justiça, assegurada ampla defesa; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -2554,11 +2563,11 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 65
 
 VIII-A - a remoção a pedido ou a permuta de magistrados de comarca de igual entrância atenderá, no que couber, ao disposto nas alíneas a, b, c e e, do inciso II, do art. 93 da Constituição Federal; (incluído pela Emenda Constitucional nº 35, de 21.03.2006)
 
-IX - todos os julgamentos dos órgãos do Poder Judiciário serão públicos, e fundamentadas todas as suas decisões, sob pena de nulidade, podendo a lei, por exigência do interesse público, limitar a presença, em determinados atos, às próprias partes e as seus advogados, ou somente a estes;
+<del>IX - todos os julgamentos dos órgãos do Poder Judiciário serão públicos, e fundamentadas todas as suas decisões, sob pena de nulidade, podendo a lei, por exigência do interesse público, limitar a presença, em determinados atos, às próprias partes e as seus advogados, ou somente a estes;</del>
 
 IX - todos os julgamentos dos órgãos do Poder Judiciário serão públicos, e fundamentadas todas as decisões, sob pena de nulidade, podendo a lei limitar a presença, em determinados atos, às próprias partes e a seus advogados, ou somente a estes, em casos nos quais a preservação do direito à intimidade do interessado no sigilo não prejudique o interesse público à informação; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-X - as decisões administrativas do Tribunal de Justiça serão sempre motivadas e, as disciplinares, tomadas pelo voto da maioria absoluta de seus membros, ressalvado o disposto no inciso VIII deste artigo.
+<del>X - as decisões administrativas do Tribunal de Justiça serão sempre motivadas e, as disciplinares, tomadas pelo voto da maioria absoluta de seus membros, ressalvado o disposto no inciso VIII deste artigo.</del>
 
 X - as decisões administrativas do Tribunal de Justiça serão motivadas e em sessão pública, sendo as disciplinares tomadas pelo voto da maioria absoluta de seus membros; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -2574,7 +2583,7 @@ XIV - a distribuição de processos será imediata, em todos os graus de jurisdi
 
 **Art. 128.** Um quinto do Tribunal de Justiça será composto de membros do Ministério Público com mais de dez anos de carreira e de advogados de notório saber jurídico e de reputação ilibada, com mais de dez anos de efetiva atividade profissional, indicados em listas sêxtuplas, pelos órgãos de representação das respectivas classes.
 
-**Parágrafo único.** Recebidas as indicações, na hipótese deste artigo, o Tribunal de Justiça formará lista tríplice, em sessão secreta, enviando-a ao Governador do Estado, que, nos cinco dias subsequentes, escolherá e nomeará um de seus integrantes.
+<del>**Parágrafo único.** Recebidas as indicações, na hipótese deste artigo, o Tribunal de Justiça formará lista tríplice, em sessão secreta, enviando-a ao Governador do Estado, que, nos cinco dias subsequentes, escolherá e nomeará um de seus integrantes.</del>
 
 **Parágrafo único.** Recebidas as indicações, o Tribunal de Justiça formará lista tríplice, enviando-a ao Poder Executivo, que, nos vinte dias subsequentes, escolherá um de seus integrantes para nomeação. (redação dada pela
 
@@ -2582,7 +2591,7 @@ Emenda Constitucional nº 35, de 21.03.2006)
 
 **Art. 129.** Os magistrados gozam das seguintes garantias:
 
-I - vitaliciedade adquirida;
+<del>I - vitaliciedade adquirida;</del>
 
 I - vitaliciedade, que, no primeiro grau, só será adquirida após dois anos de exercício, dependendo a perda do cargo, nesse período, de deliberação do
 
@@ -2590,21 +2599,21 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 66
 
 Tribunal de Justiça, e, nos demais casos, de sentença judicial transitada em julgado; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-a) pelos desembargadores, a partir da posse; (revogada pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>a) pelos desembargadores, a partir da posse;</del> (revogada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-b) pelos juízes de direito, após dois anos de efetivo exercício do cargo. (revogada pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>b) pelos juízes de direito, após dois anos de efetivo exercício do cargo.</del> (revogada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-II - inamovibilidade, salvo nas hipóteses de remoção compulsória, por interesse público, ou de movimentação voluntária de juiz de uma para outra vara da mesma comarca, ou de uma para outra comarca da mesma entrância, se o interesse da prestação jurisdicional assim o recomendar;
+<del>II - inamovibilidade, salvo nas hipóteses de remoção compulsória, por interesse público, ou de movimentação voluntária de juiz de uma para outra vara da mesma comarca, ou de uma para outra comarca da mesma entrância, se o interesse da prestação jurisdicional assim o recomendar;</del>
 
 II - inamovibilidade, salvo por motivo de interesse público, na forma do artigo 93, VIII, da Constituição Federal; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-III - irredutibilidade de vencimentos, nos termos da Constituição Federal.
+<del>III - irredutibilidade de vencimentos, nos termos da Constituição Federal.</del>
 
 III - irredutibilidade de subsídio, ressalvado o disposto nos artigos 37, X e XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I da Constituição Federal. (redação dada pela
 
 Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 1º** O magistrado vitalício somente perderá o cargo em decorrência de sentença judicial transitada em julgado. (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**§ 1º** O magistrado vitalício somente perderá o cargo em decorrência de sentença judicial transitada em julgado.</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
 **§ 2º** O Tribunal de Justiça poderá, pelo voto de dois terços de seus membros, assegurada ampla defesa, com os meios e recursos a ela inerentes, por ato ou omissão verificados durante o biênio de estágio probatório, decidir pela exoneração do juiz:
 
@@ -2616,19 +2625,19 @@ III - de insuficiente capacidade de trabalho ou cujo proceder funcional seja inc
 
 **§ 3º** Dar-se-á exoneração, com automático afastamento do magistrado de suas funções, ainda que o ato respectivo seja publicado após o biênio.
 
-**§ 4º** Em caso de extinção da comarca, ou mudança de sede do juízo, será facultado ao magistrado requerer remoção para outra comarca de igual entrância, ou obter a disponibilidade com vencimentos integrais, até seu aproveitamento na judicatura, por decisão do Tribunal de Justiça. (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**§ 4º** Em caso de extinção da comarca, ou mudança de sede do juízo, será facultado ao magistrado requerer remoção para outra comarca de igual entrância, ou obter a disponibilidade com vencimentos integrais, até seu aproveitamento na judicatura, por decisão do Tribunal de Justiça.</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**Art. 130.** Os vencimentos dos magistrados serão fixados com diferença não superior a dez por cento de uma para outra das categorias da carreira, devendo os dos Desembargadores manter isonomia com os dos Deputados Estaduais. (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**Art. 130.** Os vencimentos dos magistrados serão fixados com diferença não superior a dez por cento de uma para outra das categorias da carreira, devendo os dos Desembargadores manter isonomia com os dos Deputados Estaduais.</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 1º** Os vencimentos dos membros do Tribunal de Justiça do Estado manterão sempre a equivalência resultante do art. 37, XI, da Constituição Federal. (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**§ 1º** Os vencimentos dos membros do Tribunal de Justiça do Estado manterão sempre a equivalência resultante do art. 37, XI, da Constituição Federal.</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 2º** Alterada a remuneração dos membros e servidores dos demais Poderes, o Tribunal de Justiça promoverá, mediante resolução, o reajustamento dos vencimentos de seus magistrados e servidores, nos mesmos índices, observados e dispostos neste artigo. (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**§ 2º** Alterada a remuneração dos membros e servidores dos demais Poderes, o Tribunal de Justiça promoverá, mediante resolução, o reajustamento dos vencimentos de seus magistrados e servidores, nos mesmos índices, observados e dispostos neste artigo.</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 3º** os magistrados se sujeitam aos impostos gerais inclusive ao de renda, aos extraordinários e aos descontos fixados em lei, observada a isonomia com os membros dos demais Poderes. (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**§ 3º** os magistrados se sujeitam aos impostos gerais inclusive ao de renda, aos extraordinários e aos descontos fixados em lei, observada a isonomia com os membros dos demais Poderes.</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 67
 
-**§ 4º** Os proventos dos magistrados na inatividade serão pagos na mesma data e revistos segundo os mesmos índices dos vencimentos dos magistrados em atividade. (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**§ 4º** Os proventos dos magistrados na inatividade serão pagos na mesma data e revistos segundo os mesmos índices dos vencimentos dos magistrados em atividade.</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
 **Art. 131.** Aos magistrados é vedado:
 
@@ -2644,23 +2653,23 @@ V - exercer a advocacia no juízo ou tribunal do qual se afastou, antes de decor
 
 ##### SEÇÃO II Do Tribunal de Justiça
 
-**Art. 132.** O Tribunal de Justiça, com sede na Capital e jurisdição em todo o território do Estado, compõe-se de sete desembargadores.
+<del>**Art. 132.** O Tribunal de Justiça, com sede na Capital e jurisdição em todo o território do Estado, compõe-se de sete desembargadores.</del>
 
-**Art. 132.** O Tribunal de Justiça, com sede na Capital e jurisdição em todo o Território do Estado, compõe-se de, no mínimo, sete desembargadores. (redação dada pela Emenda Constitucional nº 11, de 11.11.1998)
+<del>**Art. 132.** O Tribunal de Justiça, com sede na Capital e jurisdição em todo o Território do Estado, compõe-se de, no mínimo, sete desembargadores.</del> (redação dada pela Emenda Constitucional nº 11, de 11.11.1998)
 
 **Art. 132.** O Tribunal de Justiça, com sede na capital e jurisdição em todo território do Estado, compõe-se de, no mínimo, nove Desembargadores. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**Art. 133.** Compete privativamente ao Tribunal de Justiça:
+<del>**Art. 133.** Compete privativamente ao Tribunal de Justiça:</del>
 
 **Art. 133.** Compete privativamente ao Tribunal de Justiça, além das competências elencadas no inciso I do art. 96 da Constituição Federal: (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-I - propor ao Poder Legislativo, observados os parâmetros desta Constituição:
+<del>I - propor ao Poder Legislativo, observados os parâmetros desta Constituição:</del>
 
 I - propor ao Poder Legislativo, observado o disposto no art. 169 da Constituição Federal: (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
 a) a alteração do número de seus membros;
 
-b) a criação, a extinção de cargos e a fixação de vencimentos dos servidores de seus serviços auxiliares e os dos juízes que lhe forem vinculados;
+<del>b) a criação, a extinção de cargos e a fixação de vencimentos dos servidores de seus serviços auxiliares e os dos juízes que lhe forem vinculados;</del>
 
 b) a criação e a extinção de cargos e a remuneração dos seus serviços auxiliares e dos juízos que lhes forem vinculados, bem como a fixação do subsídio de seus membros e dos juízes; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -2668,15 +2677,15 @@ c) a criação e a extinção de tribunais inferiores;
 
 d) a criação da Justiça Militar estadual, na forma do art. 125, §3º, da Constituição Federal;
 
-e) a regulamentação da Justiça de Paz e a eleição dos respectivos juízes;
+<del>e) a regulamentação da Justiça de Paz e a eleição dos respectivos juízes;</del>
 
 e) a criação da Justiça de Paz e a eleição dos respectivos juízes; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-f) a criação do Juizado de Pequenas Causas;
+<del>f) a criação do Juizado de Pequenas Causas;</del>
 
 f) a criação dos juizados especiais; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-g) a revisão da organização e da divisão judiciárias, bienalmente; CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 68
+<del>g) a revisão da organização e da divisão judiciárias, bienalmente;</del> CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 68
 
 g) a alteração da organização e da divisão judiciárias; (redação dada pela
 
@@ -2686,7 +2695,7 @@ h) a criação de novas varas e respectivos cargos.
 
 II - processar e julgar, originariamente:
 
-a) o Vice-Governador e os Secretários de Estado, nos crimes comuns e de responsabilidade, exceto, em relação a estes, quando forem os atos conexos com delito imputado ao Governador do Estado, os Prefeitos Municipais, os juízes de direito estaduais e os membros do Ministério Público estadual, com exceção do Procurador- Geral da Justiça, nos crimes de responsabilidade, ressalvada a competência da Justiça Eleitoral;
+<del>a) o Vice-Governador e os Secretários de Estado, nos crimes comuns e de responsabilidade, exceto, em relação a estes, quando forem os atos conexos com delito imputado ao Governador do Estado, os Prefeitos Municipais, os juízes de direito estaduais e os membros do Ministério Público estadual, com exceção do Procurador- Geral da Justiça, nos crimes de responsabilidade, ressalvada a competência da Justiça Eleitoral;</del>
 
 a) o Vice-Governador, os Secretários de Estado, ressalvado o disposto no art. 95, XI, a, os Juízes Estaduais e os membros do Ministério Público, ressalvado o disposto no art. 95, XI, b, nos crimes comuns e de responsabilidade, e os Prefeitos nos crimes comuns, ressalvada a competência da Justiça Eleitoral; (redação dada pela
 
@@ -2694,13 +2703,13 @@ Emenda Constitucional nº 35, de 21.03.2006)
 
 b) nos crimes comuns, o Procurador-Geral do Estado e os Deputados Estaduais;
 
-c) o mandado de segurança contra atos do Governador do Estado, da Mesa e do Presidente da Assembleia Legislativa, do próprio Tribunal ou de seus órgãos diretivos e colegiados, dos Secretários de Estado e do Tribunal de Contas do Estado, inclusive de seus respectivos Presidentes, e do Procurador-Geral do Estado;
+<del>c) o mandado de segurança contra atos do Governador do Estado, da Mesa e do Presidente da Assembleia Legislativa, do próprio Tribunal ou de seus órgãos diretivos e colegiados, dos Secretários de Estado e do Tribunal de Contas do Estado, inclusive de seus respectivos Presidentes, e do Procurador-Geral do Estado;</del>
 
 c) o mandado de segurança contra atos do Governador, Mesa e da Presidência da Assembleia, do próprio Tribunal ou de algum de seus membros, dos Secretários de Estado, do Presidente ou dos Conselheiros do Tribunal de Contas, do Procurador Geral de Justiça, dos Prefeitos Municipais e do Presidente da Câmara Municipal da Capital; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
 d) o habeas-corpus, quando o coator ou paciente for autoridade que goze de foro especial junto ao próprio Tribunal de Justiça, em razão de prerrogativa da função, ou sujeita à sua jurisdição, ou se trate de ação penal de sua competência originária, ressalvada a competência da Justiça Eleitoral;
 
-e) o "habeas-data" contra atos de autoridades diretamente submetidas à sua jurisdição;
+<del>e) o "habeas-data" contra atos de autoridades diretamente submetidas à sua jurisdição;</del>
 
 e) o habeas-data contra atos das autoridades referidas na alínea “c”; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -2716,11 +2725,11 @@ j) os conflitos de competência entre juízes de direito do Estado;
 
 l) os conflitos de atribuições entre autoridades judiciais e administrativas estaduais, quando forem suscitantes ou suscitados o Governador do Estado e o Procurador-Geral de Justiça.
 
-m) a ação direta de inconstitucionalidade de leis ou atos normativos estaduais ou municipais que afrontem a Constituição Estadual, e de leis ou atos
+<del>m) a ação direta de inconstitucionalidade de leis ou atos normativos estaduais ou municipais que afrontem a Constituição Estadual, e de leis ou atos</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 69
 
-normativos municipais em choque com a Constituição Federal, observado o disposto no art. 97 desta;
+<del>normativos municipais em choque com a Constituição Federal, observado o disposto no art. 97 desta;</del>
 
 m) a ação direta de inconstitucionalidade e a ação declaratória de constitucionalidade de leis ou atos normativos estaduais ou municipais em face da Constituição Estadual e de leis ou atos normativos municipais em face da Constituição Federal, observado o disposto no art. 97 desta última; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -2786,13 +2795,13 @@ XIX - outras atribuições que lhe sejam conferidas pela legislação vigente ou
 
 **Art. 136.** O Tribunal de Justiça avaliará, periodicamente, as comarcas e o volume dos trabalhos forenses e proporá, se necessário, a reavaliação das entrâncias e a criação ou supressão de varas.
 
-**Art. 137.** Para dirimir conflitos fundiários, o Tribunal de Justiça, através de seu Presidente, designará juiz de direito auxiliar, com competência exclusiva para questões agrárias.
+<del>**Art. 137.** Para dirimir conflitos fundiários, o Tribunal de Justiça, através de seu Presidente, designará juiz de direito auxiliar, com competência exclusiva para questões agrárias.</del>
 
-**§ 1º** A designação prevista neste artigo só poderá ser revogada a pedido do juiz ou por deliberação da maioria absoluta dos membros do Tribunal. CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 71
+<del>**§ 1º** A designação prevista neste artigo só poderá ser revogada a pedido do juiz ou por deliberação da maioria absoluta dos membros do Tribunal.</del> CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 71
 
-**§ 2º** Sempre que necessário à eficiente prestação jurisdicional, o juiz far- se-á presente ao local do litígio.
+<del>**§ 2º** Sempre que necessário à eficiente prestação jurisdicional, o juiz far- se-á presente ao local do litígio.</del>
 
-**§ 3º** A Lei de Organização e Divisão Judiciárias definirá a competência do juiz referido neste artigo, ressalvada a competência privativa da Justiça Federal.
+<del>**§ 3º** A Lei de Organização e Divisão Judiciárias definirá a competência do juiz referido neste artigo, ressalvada a competência privativa da Justiça Federal.</del>
 
 **Art. 137.** Para dirimir conflitos fundiários, o Tribunal de Justiça proporá a criação de varas especializadas, com competência exclusiva para questões agrárias. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -2802,17 +2811,17 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 72
 
 ##### SEÇÃO V Da Justiça Militar
 
-**Art. 138.** A Justiça Militar é competente para o processo e julgamento dos integrantes das organizações militares estaduais nos crimes militares definidos em lei, sendo composta, em primeiro grau de jurisdição, pelo Conselho da Justiça Militar e, em segundo grau, pelo Tribunal de Justiça do Estado.
+<del>**Art. 138.** A Justiça Militar é competente para o processo e julgamento dos integrantes das organizações militares estaduais nos crimes militares definidos em lei, sendo composta, em primeiro grau de jurisdição, pelo Conselho da Justiça Militar e, em segundo grau, pelo Tribunal de Justiça do Estado.</del>
 
 **Art. 138.** A Justiça Militar do Estado do Amapá é competente para processar e julgar os militares estaduais, nos crimes militares definidos em lei e as ações judiciais contra atos disciplinares militares, ressalvada a competência do júri quando a vítima for civil, cabendo ao Tribunal de Justiça decidir sobre a perda do posto e da patente dos oficiais e da graduação de praças. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**Parágrafo único.** Enquanto não for criado o Conselho de Justiça Militar, o processo e julgamento dos crimes militares se farão: (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**Parágrafo único.** Enquanto não for criado o Conselho de Justiça Militar, o processo e julgamento dos crimes militares se farão:</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-a) em primeiro grau, pelos juízes de direito das varas criminais; (revogada pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>a) em primeiro grau, pelos juízes de direito das varas criminais;</del> (revogada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-b) em segundo grau, pelo Tribunal de Justiça, ao qual caberá também decidir sobre a perda do posto e patente dos oficiais e da graduação das praças. (revogada pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>b) em segundo grau, pelo Tribunal de Justiça, ao qual caberá também decidir sobre a perda do posto e patente dos oficiais e da graduação das praças.</del> (revogada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**Art. 139.** A lei poderá criar, mediante proposta do Tribunal de Justiça, o Tribunal de Justiça Militar, quando cumprido o requisito previsto no art. 125, § 3a, da Constituição Federal.
+<del>**Art. 139.** A lei poderá criar, mediante proposta do Tribunal de Justiça, o Tribunal de Justiça Militar, quando cumprido o requisito previsto no art. 125, § 3a, da Constituição Federal.</del>
 
 **Art. 139.** Compete aos juízes de direito do juízo militar processar e julgar, singularmente, os crimes militares cometidos contra civis e as ações judiciais contra atos disciplinares militares, cabendo ao Conselho de Justiça, sob a presidência de juiz de direito, processar e julgar os demais crimes militares. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -2832,7 +2841,7 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 73
 
 ##### SEÇÃO VIII Do Controle da Constitucionalidade
 
-**Art. 142.** São partes legítimas para propor, perante Tribunal de Justiça do Estado, ação direta inconstitucionalidade de lei ou ato normativo municipal, em da Constituição Federal, e de lei estadual ou municipal em desta Constituição:
+<del>**Art. 142.** São partes legítimas para propor, perante Tribunal de Justiça do Estado, ação direta inconstitucionalidade de lei ou ato normativo municipal, em da Constituição Federal, e de lei estadual ou municipal em desta Constituição:</del>
 
 **Art. 142.** Podem propor a ação direita de inconstitucionalidade e a ação declaratória de constitucionalidade de que trata a alínea m do inciso II do art. 133 desta Constituição: (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -2866,15 +2875,15 @@ VII - entidades sindical ou de classes com base territorial no Estado.
 
 **Art. 143.** Os serviços notariais e de registro, no âmbito estadual, são exercidos em caráter privado, por delegação do Poder Público.
 
-**§ 1º** Lei estadual, de iniciativa do Poder Judiciário, regulará as atividades, disciplinará a responsabilidade civil e criminal dos notários, dos oficiais de
+<del>**§ 1º** Lei estadual, de iniciativa do Poder Judiciário, regulará as atividades, disciplinará a responsabilidade civil e criminal dos notários, dos oficiais de</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 74
 
-registro e de seus prepostos, e definirá a fiscalização de seus atos pelo Poder Judiciário.
+<del>registro e de seus prepostos, e definirá a fiscalização de seus atos pelo Poder Judiciário.</del>
 
 **§ 1º** Lei federal regulará as atividades, disciplinará a responsabilidade civil e criminal dos notários, dos oficiais de registro e de seus prepostos, e definirá a fiscalização de seus atos pelo Poder Judiciário. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 2º** As normas gerais para a fixação de custas e emolumentos relativos aos atos praticados pelos serviços notariais e de registro obedecerão ao que dispuser a lei federal, na forma do art. 236, § 2º, da Constituição Federal.
+<del>**§ 2º** As normas gerais para a fixação de custas e emolumentos relativos aos atos praticados pelos serviços notariais e de registro obedecerão ao que dispuser a lei federal, na forma do art. 236, § 2º, da Constituição Federal.</del>
 
 **§ 2º** A fixação de emolumentos relativos aos atos praticados pelos serviços notariais e de registro observará as normas gerais fixadas em lei federal. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -2888,17 +2897,17 @@ registro e de seus prepostos, e definirá a fiscalização de seus atos pelo Pod
 
 **Parágrafo único.** São princípios institucionais do Ministério Público a unidade, a indivisibilidade e a independência funcionais.
 
-**Art. 145.** Ao Ministério Público é assegurada autonomia financeira, funcional e administrativa, podendo propor ao Poder Legislativo a criação e extinção de seus cargos e serviços auxiliares, provendo-os por concurso público de provas e de provas e títulos, bem como a fixação de seus vencimentos; a lei disporá sobre sua organização e funcionamento.
+<del>**Art. 145.** Ao Ministério Público é assegurada autonomia financeira, funcional e administrativa, podendo propor ao Poder Legislativo a criação e extinção de seus cargos e serviços auxiliares, provendo-os por concurso público de provas e de provas e títulos, bem como a fixação de seus vencimentos; a lei disporá sobre sua organização e funcionamento.</del>
 
 **Art. 145.** Ao Ministério Público é assegurada autonomia funcional e administrativa, podendo, observado o disposto no artigo 169 da Constituição Federal, propor ao Poder Legislativo a criação e extinção de seus cargos e serviços auxiliares, provendo-os por concurso público de provas ou de provas e títulos, a política remuneratória e os planos de carreira; a lei disporá sobre sua organização e funcionamento. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
 **§ 1º** As decisões do Ministério Público, fundadas em sua autonomia, obedecidas as formalidades legais, têm eficácia plena e executoriedade imediata, ressalvada a competência constitucional do Poder Judiciário e do Tribunal de Contas do Estado.
 
-**§ 2º** O Ministério Público elaborará sua proposta orçamentária dentro dos limites estabelecidos na lei de diretrizes orçamentárias.
+<del>**§ 2º** O Ministério Público elaborará sua proposta orçamentária dentro dos limites estabelecidos na lei de diretrizes orçamentárias.</del>
 
 **§ 2º** O Ministério Público elaborará sua proposta orçamentária dentro dos limites estabelecidos na lei de diretrizes orçamentárias. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 3º** O recursos próprios, não originários do Tesouro Estadual, serão utilizados em programas vinculados às finalidades da instituição.
+<del>**§ 3º** O recursos próprios, não originários do Tesouro Estadual, serão utilizados em programas vinculados às finalidades da instituição.</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 75
 
@@ -2912,17 +2921,17 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 75
 
 Emenda Constitucional nº 35, de 21.03.2006)
 
-**Art. 146.** O Ministério Público do Estado tem como Chefe o Procurador- Geral de Justiça, nomeado pelo Governador do Estado, após a aprovação de seu nome pela maioria absoluta dos membros do Poder Legislativo, dentre os Procuradores de Justiça integrantes da carreira, indicados em lista tríplice, na forma prevista na lei respectiva, para mandato de dois anos, permitida uma recondução.
+<del>**Art. 146.** O Ministério Público do Estado tem como Chefe o Procurador- Geral de Justiça, nomeado pelo Governador do Estado, após a aprovação de seu nome pela maioria absoluta dos membros do Poder Legislativo, dentre os Procuradores de Justiça integrantes da carreira, indicados em lista tríplice, na forma prevista na lei respectiva, para mandato de dois anos, permitida uma recondução.</del>
 
-**Art. 146.** O Ministério Público do Estado tem como Chefe o Procurador Geral de Justiça, nomeado pelo Governador do Estado, dentre integrantes da carreira, indicados em lista tríplice, para mandato de dois anos, permitida a recondução. (redação dada pela Emenda Constitucional nº 21, de 12.12.2000)
+<del>**Art. 146.** O Ministério Público do Estado tem como Chefe o Procurador Geral de Justiça, nomeado pelo Governador do Estado, dentre integrantes da carreira, indicados em lista tríplice, para mandato de dois anos, permitida a recondução. (redação dada pela Emenda Constitucional nº 21, de 12.12.2000)</del>
 
 **Art. 146.** O Ministério Público do Estado tem como Chefe o Procurador- Geral de Justiça, nomeado pelo Governador do Estado, dentre Procuradores ou Promotores de Justiça com mais de trinta e cinco anos de idade, que gozem de vitaliciedade, indicados em lista tríplice, para mandato de dois anos, permitida uma recondução. (redação dada pela Emenda Constitucional nº 40, de 04.03.2008)
 
-**Art. 146.** O Ministério Público do Estado tem como Chefe o Procurador- Geral de Justiça, nomeado pelo Governador do Estado, dentre Procuradores com mais de trinta e cinco anos de idade, que gozem de vitaliciedade, indicados em lista tríplice, para mandato de dois anos, permitida uma recondução. (redação dada pela
+<del>**Art. 146.** O Ministério Público do Estado tem como Chefe o Procurador- Geral de Justiça, nomeado pelo Governador do Estado, dentre Procuradores com mais de trinta e cinco anos de idade, que gozem de vitaliciedade, indicados em lista tríplice, para mandato de dois anos, permitida uma recondução. (redação dada pela</del>
 
-Emenda Constitucional nº 48, de 13.10.2014) (Declarada inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal, no julgamento da ADIN nº 5.171)
+<del>Emenda Constitucional nº 48, de 13.10.2014)</del> (Declarada inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal, no julgamento da ADIN nº 5.171)
 
-**Parágrafo único.** A eleição do Procurador-Geral de Justiça do Estado, para cada biênio subsequente, será realizada sempre no dia 15 (quinze) de janeiro (incluído pela Emenda Constitucional nº 48, de 13.10.2014) (Declarada inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal, no julgamento da ADIN nº 5.171)
+<del>**Parágrafo único.** A eleição do Procurador-Geral de Justiça do Estado, para cada biênio subsequente, será realizada sempre no dia 15 (quinze) de janeiro (incluído pela Emenda Constitucional nº 48, de 13.10.2014)</del> (Declarada inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal, no julgamento da ADIN nº 5.171)
 
 **Art. 147.** A destituição do Procurador-Geral de Justiça, em casos de abuso de poder ou de omissão grave no cumprimento de dever, poderá ocorrer por deliberação do Poder Legislativo ou por indicação de dois terços do Colégio de Procuradores de Justiça, dependendo, em ambos os casos, de aprovação da maioria absoluta dos membros da Assembleia Legislativa, na forma da lei complementar.
 
@@ -2934,11 +2943,11 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 76
 
 a) vitaliciedade, após dois anos de exercício, não podendo perder o cargo senão por sentença judicial transitada em julgado;
 
-b) inamovibilidade, salvo por motivo de interesse público, mediante decisão do órgão colegiado competente do Ministério Público, por voto de dois terços de seus membros, assegurada ampla defesa;
+<del>b) inamovibilidade, salvo por motivo de interesse público, mediante decisão do órgão colegiado competente do Ministério Público, por voto de dois terços de seus membros, assegurada ampla defesa;</del>
 
 b) inamovibilidade, salvo por motivo de interesse público, mediante decisão do órgão colegiado competente do Ministério Público, por voto da maioria absoluta de seus membros, assegurada ampla defesa; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-c) irredutibilidade de vencimentos, observado quanto à remuneração o que dispõem os arts. 37, XI, 150, II, 153, III, e 153, § 2º, I, da Constituição Federal.
+<del>c) irredutibilidade de vencimentos, observado quanto à remuneração o que dispõem os arts. 37, XI, 150, II, 153, III, e 153, § 2º, I, da Constituição Federal.</del>
 
 c) irredutibilidade de subsídio, fixado na forma do art. 39, § 4º, e ressalvado o disposto nos arts. 37, X e XI, 150, II, 153, III e 153, § 2º, I, todos da Constituição Federal. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -2952,7 +2961,7 @@ c) participar de sociedade comercial, na forma da lei;
 
 d) exercer, ainda que em disponibilidade, qualquer outra função pública, salvo uma de magistério;
 
-e) exercer atividade político-partidária, ressalvadas as exceções previstas em lei.
+<del>e) exercer atividade político-partidária, ressalvadas as exceções previstas em lei.</del>
 
 e) exercer atividade político partidária; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -2962,33 +2971,33 @@ f) receber, a qualquer título ou pretexto, auxílios ou contribuições de pess
 
 **Art. 149.** O ingresso na carreira do Ministério Público far-se-á mediante concurso público de provas e títulos, assegurada a participação da Ordem dos Advogados do Brasil em sua realização, exigindo-se do bacharel em direito, no mínimo, três anos de atividade jurídica e observando-se, nas nomeações, a ordem de classificação. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 1º** Lei complementar observará ainda, em relação a seus membros, os seguintes princípios: (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**§ 1º** Lei complementar observará ainda, em relação a seus membros, os seguintes princípios:</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-I - promoção de entrância a entrância, alternadamente, por antiguidade e merecimento, atendidas as seguintes normas: (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>I - promoção de entrância a entrância, alternadamente, por antiguidade e merecimento, atendidas as seguintes normas:</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-a) é obrigatória a promoção do membro do Ministério Público que figure por três vezes consecutivas ou cinco alternadas em lista de merecimento; (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>a) é obrigatória a promoção do membro do Ministério Público que figure por três vezes consecutivas ou cinco alternadas em lista de merecimento;</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-b) a promoção por merecimento pressupõe dois anos de exercício na respectiva entrância e integrar o membro do Ministério Público a primeira quinta parte da lista de antiguidade desta, salvo se não houver com tais requisitos quem aceite o lugar vago. (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>b) a promoção por merecimento pressupõe dois anos de exercício na respectiva entrância e integrar o membro do Ministério Público a primeira quinta parte da lista de antiguidade desta, salvo se não houver com tais requisitos quem aceite o lugar vago.</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-c) aferição do merecimento pelos critérios de presteza e segurança no exercício do cargo e, ainda, pela frequência e aproveitamento em cursos reconhecidos de aperfeiçoamento; (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>c) aferição do merecimento pelos critérios de presteza e segurança no exercício do cargo e, ainda, pela frequência e aproveitamento em cursos reconhecidos de aperfeiçoamento;</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-d) na apuração da antiguidade, o Colégio de Procuradores de Justiça somente poderá recusar o promotor de justiça mais antigo, pelo voto de dois terços
+<del>d) na apuração da antiguidade, o Colégio de Procuradores de Justiça somente poderá recusar o promotor de justiça mais antigo, pelo voto de dois terços</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 77
 
-de seus membros, conforme procedimento próprio, repetindo-se a votação até a indicação; (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>de seus membros, conforme procedimento próprio, repetindo-se a votação até a indicação;</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-II - o acesso à entrância superior far-se-á por antiguidade e merecimento, alternadamente, apurados na última entrância , observando-se as normas do inciso anterior; (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>II - o acesso à entrância superior far-se-á por antiguidade e merecimento, alternadamente, apurados na última entrância , observando-se as normas do inciso anterior;</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-III - vencimentos fixados com diferença não superior a dez por cento de uma para outra das categorias de carreira, não podendo exceder os dos magistrados da mesma entrância; (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>III - vencimentos fixados com diferença não superior a dez por cento de uma para outra das categorias de carreira, não podendo exceder os dos magistrados da mesma entrância;</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-IV - o ato de remoção, disponibilidade e aposentadoria do membro do Ministério Público será decidido pelo voto de dois terços dos membros do órgão colegiado, assegurada ampla defesa. (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>IV - o ato de remoção, disponibilidade e aposentadoria do membro do Ministério Público será decidido pelo voto de dois terços dos membros do órgão colegiado, assegurada ampla defesa.</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 2º** Aplica-se ao Ministério Público estadual o disposto no art. 126, V, desta Constituição.
+<del>**§ 2º** Aplica-se ao Ministério Público estadual o disposto no art. 126, V, desta Constituição.</del>
 
 **§ 2º** Aplica-se ao Ministério Público, no que couber, o disposto no art. 93, da Constituição Federal. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 3º** Os cargos da carreira do Ministério Público, para todos os efeitos legais, são assemelhados aos da magistratura nos termos do art. 39, § Ia, da Constituição Federal.
+<del>**§ 3º** Os cargos da carreira do Ministério Público, para todos os efeitos legais, são assemelhados aos da magistratura nos termos do art. 39, § Ia, da Constituição Federal.</del>
 
 **§ 3º** A distribuição dos processos no Ministério Público será imediata. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -3040,7 +3049,7 @@ g) receber petições, reclamações ou queixas de qualquer pessoa por desrespei
 
 **§ 2º** A legitimação do Ministério Público para as ações civis previstas neste artigo não impede a de terceiros, nas mesmas hipóteses, segundo o disposto nesta Constituição e na lei.
 
-**§ 3º** As funções do Ministério Público só podem ser exercidas por integrantes da carreira, que deverão residir na comarca da respectiva lotação.
+<del>**§ 3º** As funções do Ministério Público só podem ser exercidas por integrantes da carreira, que deverão residir na comarca da respectiva lotação.</del>
 
 **§ 3º** As funções do Ministério Público só podem ser exercidas por integrantes da carreira, que deverão residir na comarca da respectiva lotação, salvo autorização do chefe da instituição. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -3050,27 +3059,27 @@ g) receber petições, reclamações ou queixas de qualquer pessoa por desrespei
 
 Emenda Constitucional nº 35, de 21.03.2006)
 
-**Art. 151.** Aos membros do Ministério Público junto ao Tribunal de Contas do Estado aplicam-se as disposições desta seção pertinentes a direitos, vedações e forma de investidura.
+<del>**Art. 151.** Aos membros do Ministério Público junto ao Tribunal de Contas do Estado aplicam-se as disposições desta seção pertinentes a direitos, vedações e forma de investidura.</del>
 
-**Parágrafo único.** O Ministério Público junto ao Tribunal de Contas será exercido pelo Procurador-Geral da Justiça ou por procuradores de justiça por ele designados, com funções de procuradores de contas, na forma da lei complementar.
+<del>**Parágrafo único.** O Ministério Público junto ao Tribunal de Contas será exercido pelo Procurador-Geral da Justiça ou por procuradores de justiça por ele designados, com funções de procuradores de contas, na forma da lei complementar.</del>
 
 **Art. 151.** Para fiscalizar e superintender a atuação do Ministério Público, bem como zelar pelos princípios institucionais, haverá um Conselho Superior, CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 79
 
 estruturado na forma de lei complementar. (redação dada pela Emenda Constitucional nº 8, de 06.11.1996)
 
-**Art. 152.** Para fiscalizar e superintender a atuação do Ministério Público, bem como para zelar pelos princípios institucionais, haverá um Conselho Superior, estruturado na forma da lei complementar.
+<del>**Art. 152.** Para fiscalizar e superintender a atuação do Ministério Público, bem como para zelar pelos princípios institucionais, haverá um Conselho Superior, estruturado na forma da lei complementar.</del>
 
 ###### SUBSEÇÃO I Do Ministério Público Junto ao Tribunal de Contas (incluída pela Emenda Constitucional nº 8, de 06.11.1996)
 
 **Art. 152.** O Ministério Público junto ao Tribunal de Contas do Estado, ao qual se aplicam os princípios institucionais da unidade, indivisibilidade e da independência funcional, tendo como Chefe o Procurador-Geral de Contas, compõem-se de Procuradores de Contas. (incluída pela Emenda Constitucional nº 8, de 06.11.1996)
 
-**§ 1º** O Procurador Geral de Contas será nomeado pelo Governador do Estado, sob critério de livre escolha, dentre os integrantes do quadro. (incluído pela
+<del>**§ 1º** O Procurador Geral de Contas será nomeado pelo Governador do Estado, sob critério de livre escolha, dentre os integrantes do quadro. (incluído pela</del>
 
-Emenda Constitucional nº 8, de 06.11.1996)
+<del>Emenda Constitucional nº 8, de 06.11.1996)</del>
 
-**§ 1º** O Procurador-Geral de Contas será nomeado pelo Presidente da Assembleia Legislativa dentre os integrantes do quadro, após aprovação pelo Plenário do Tribunal, para mandato de dois anos. (redação dada pela Emenda Constitucional nº 20, 12.12.2000)
+<del>**§ 1º** O Procurador-Geral de Contas será nomeado pelo Presidente da Assembleia Legislativa dentre os integrantes do quadro, após aprovação pelo Plenário do Tribunal, para mandato de dois anos. (redação dada pela Emenda Constitucional nº 20, 12.12.2000)</del>
 
-**§ 1º** O Procurador-Geral de Contas será nomeado pelo Presidente da Assembleia Legislativa por livre escolha, dentre os integrantes do quadro, para mandato de dois anos. (redação dada pela Emenda Constitucional nº 22, 18.01.2001)
+<del>**§ 1º** O Procurador-Geral de Contas será nomeado pelo Presidente da Assembleia Legislativa por livre escolha, dentre os integrantes do quadro, para mandato de dois anos. (redação dada pela Emenda Constitucional nº 22, 18.01.2001)</del>
 
 **§ 1º** O Procurador Geral de Contas será nomeado pelo Presidente do Tribunal de Contas do Estado, dentre os integrantes da carreira, indicados em lista tríplice na forma da lei respectiva, para mandato de dois anos, permitida uma recondução. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -3078,33 +3087,33 @@ Emenda Constitucional nº 8, de 06.11.1996)
 
 ##### SEÇÃO II Da Procuradoria-Geral do Estado
 
-**Art. 153.** A Procuradoria-Geral do Estado é instituição essencial à administração pública estadual que, diretamente ou através de órgão vinculado, representa o Estado judicial e extrajudicialmente, cabendo-lhe a defesa de seus direitos e interesses na área judicial e administrativa, as atividades de consultoria e assessoramento jurídico do Poder Executivo, bem como exercer outras funções que lhe forem conferidas por Lei.
+<del>**Art. 153.** A Procuradoria-Geral do Estado é instituição essencial à administração pública estadual que, diretamente ou através de órgão vinculado, representa o Estado judicial e extrajudicialmente, cabendo-lhe a defesa de seus direitos e interesses na área judicial e administrativa, as atividades de consultoria e assessoramento jurídico do Poder Executivo, bem como exercer outras funções que lhe forem conferidas por Lei.</del>
 
 **Art. 153.** A Procuradoria Geral do Estado do Amapá é instituição essencial à justiça e à administração pública estadual, que representa o Estado judicial e extrajudicialmente, cabendo-lhe, com exclusividade, a defesa dos direitos e interesses estaduais na área judicial e administrativa e as atividades de consultoria e assessoramento jurídico do Poder Executivo, bem como exercer outras funções que lhe forem conferidas por lei. (redação dada pela Emenda Constitucional nº 47, de 03.07.2012)
 
-**§ 1º** A Procuradoria-Geral do Estado será chefiada pelo Procurador- Geral do Estado, com prerrogativas de Secretário de Estado, sendo o cargo provido em comissão, pelo Governador preferencialmente, dentre membros da carreira,
+<del>**§ 1º** A Procuradoria-Geral do Estado será chefiada pelo Procurador- Geral do Estado, com prerrogativas de Secretário de Estado, sendo o cargo provido em comissão, pelo Governador preferencialmente, dentre membros da carreira,</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 80
 
-devendo o nomeado apresentar declaração pública de bens no ato da posse e quando for exonerado.
+<del>devendo o nomeado apresentar declaração pública de bens no ato da posse e quando for exonerado.</del>
 
 **§ 1º** São fundamentos da Procuradoria Geral do Estado do Amapá a autonomia institucional, a fiel observância aos princípios gerais da administração, a lealdade ao ente público que representa e a independência técnica de seus membros, sendo esta última regulada pelo poder normativo do Conselho Superior e será exercida de forma a manter a harmonia, coerência, eficiência e agilidade em atuação. (redação dada pela Emenda Constitucional nº 47, de 03.07.2012)
 
-**§ 2º** Lei complementar disporá sobre a organização e o funcionamento da Procuradoria-Geral do Estado e sobre o Estatuto dos Procuradores do Estado, com observância do seguinte:
+<del>**§ 2º** Lei complementar disporá sobre a organização e o funcionamento da Procuradoria-Geral do Estado e sobre o Estatuto dos Procuradores do Estado, com observância do seguinte:</del>
 
-**§ 2º** A Procuradoria-Geral do Estado será chefiada pelo Procurador- Geral do Estado, com prerrogativas de Secretário de Estado, sendo o cargo provido em comissão, pelo Governador, dentre cidadãos maiores de 35 (trinta e cinco) anos, notável saber jurídico e reputação ilibada, preferencialmente dentre membros da carreira, devendo o nomeado apresentar declaração pública de bens no ato da posse e quando for exonerado. (redação dada pela Emenda Constitucional nº 47, de 03.07.2012)
+<del>**§ 2º** A Procuradoria-Geral do Estado será chefiada pelo Procurador- Geral do Estado, com prerrogativas de Secretário de Estado, sendo o cargo provido em comissão, pelo Governador, dentre cidadãos maiores de 35 (trinta e cinco) anos, notável saber jurídico e reputação ilibada, preferencialmente dentre membros da carreira, devendo o nomeado apresentar declaração pública de bens no ato da posse e quando for exonerado. (redação dada pela Emenda Constitucional nº 47, de 03.07.2012)</del>
 
 **§ 2º** A Procuradoria-Geral do Estado será chefiada pelo Procurador- Geral do Estado, com prerrogativas de Secretário de Estado, sendo o cargo provido em comissão pelo Governador, dentre membros do último nível da carreira, com idade superior a trinta e cinco anos, devendo apresentar declaração pública de bens no ato da posse e quando for exonerado. (redação dada pela Emenda Constitucional nº 58, de 27.11.2018)
 
-I - ingresso nos casos iniciais da carreira de procurador do Estado, através de concurso público de provas e títulos, realizado pela Procuradoria-Geral do Estado, assegurada a participação da Ordem do Advogados do Brasil, Secção do Amapá, na sua realização e observada a ordem de classificação;
+<del>I - ingresso nos casos iniciais da carreira de procurador do Estado, através de concurso público de provas e títulos, realizado pela Procuradoria-Geral do Estado, assegurada a participação da Ordem do Advogados do Brasil, Secção do Amapá, na sua realização e observada a ordem de classificação;</del>
 
 I – ingresso nos cargos iniciais da carreira de procurador do Estado, através de concurso público de provas e títulos, realizado por comissão nomeada e presidida pelo Governador do Estado, assegurado a participação da Ordem dos Advogados do Brasil, Secção do Amapá e de membro do Ministério Público na sua realização e observada a ordem de classificação. (incluído pela Emenda Constitucional nº 25, de 03.10.2001)
 
-II - isonomia de vencimentos em relação aos cargos do Ministério Público e dos Poderes Legislativo e Judiciário, nos termos do art. 135 da Constituição Federal.
+<del>II - isonomia de vencimentos em relação aos cargos do Ministério Público e dos Poderes Legislativo e Judiciário, nos termos do art. 135 da Constituição Federal.</del>
 
 II - estabilidade após 3 (três) anos de efetivo exercício, mediante avaliação de desempenho perante os órgãos próprios, após relatório circunstanciado da corregedoria. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 3º** Nos processos judiciais que versarem sobre atos praticados pelo Poder Legislativo, ou por sua administração, a representação do Estado caberá à Procuradoria Geral da Assembleia Legislativa, observado o que dispõe a parte final do caput do art. 115. (incluído pela Emenda Constitucional nº 24, de 15.08.2001)
+<del>**§ 3º** Nos processos judiciais que versarem sobre atos praticados pelo Poder Legislativo, ou por sua administração, a representação do Estado caberá à Procuradoria Geral da Assembleia Legislativa, observado o que dispõe a parte final do caput do art. 115. (incluído pela Emenda Constitucional nº 24, de 15.08.2001)</del>
 
 **§ 3º** Ingresso na carreira de Procurador do Estado far-se-á mediante concurso público de provas e títulos, assegurada a participação em todas as etapas da Ordem dos Advogados do Brasil, seccional do Amapá, e de membro do Ministério Público, exigindo-se do bacharel em direito, no mínimo, três anos de atividade jurídica e observando-se, nas nomeações, a ordem de classificação. (redação dada pela Emenda Constitucional nº 47, de 03.07.2012)
 
@@ -3112,15 +3121,15 @@ II - estabilidade após 3 (três) anos de efetivo exercício, mediante avaliaç�
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 81
 
-**§ 5º** O subsídio da última classe dos Procuradores do Estado do Amapá corresponderá a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, fixado para os Ministros do Supremo Tribunal Federal, e os subsídios dos demais integrantes da carreira de Procurador de Estado serão fixados em lei e escalonados, não podendo a diferença entre uma e outra classe ser superior a dez por cento ou inferior a cinco por cento, observado, em qualquer caso, o disposto nos arts. 37, XI e 39, § 4º da Constituição Federal. (incluído pela Emenda Constitucional nº 47, de 03.07.2012) (a primeira parte do § 5º foi declarada inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal, no julgamento da ADIN n. 4898).
+**§ 5º** <del>O subsídio da última classe dos Procuradores do Estado do Amapá corresponderá a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, fixado para os Ministros do Supremo Tribunal Federal</del>, e os subsídios dos demais integrantes da carreira de Procurador de Estado serão fixados em lei e escalonados, não podendo a diferença entre uma e outra classe ser superior a dez por cento ou inferior a cinco por cento, observado, em qualquer caso, o disposto nos arts. 37, XI e 39, § 4º da Constituição Federal. (incluído pela Emenda Constitucional nº 47, de 03.07.2012) (a primeira parte do § 5º foi declarada inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal, no julgamento da ADIN n. 4898).
 
 **§ 6º** Nos processos judiciais que versarem sobre atos praticados pelo Poder Legislativo ou por sua Administração, a representação do Estado cabe à Procuradoria Geral da Assembleia Legislativa, observado, no que couber, o que dispõe a parte final do caput do art. 115. (incluído pela Emenda Constitucional nº 47, de 03.07.2012)
 
 ##### SEÇÃO III Da Defensoria Pública
 
-**Art. 154.** A Defensoria Pública é instituição essencial à função jurisdicional do Estado, incumbindo-lhe a orientação jurídica integral e gratuita, a postulação e a defesa, em todos os graus e instâncias judiciais e extrajudiciais, dos direitos, interesses e garantias individuais e coletivos dos necessitados, na forma do
+<del>**Art. 154.** A Defensoria Pública é instituição essencial à função jurisdicional do Estado, incumbindo-lhe a orientação jurídica integral e gratuita, a postulação e a defesa, em todos os graus e instâncias judiciais e extrajudiciais, dos direitos, interesses e garantias individuais e coletivos dos necessitados, na forma do</del>
 
-art. 134 da Constituição Federal.
+<del>art. 134 da Constituição Federal.</del>
 
 **Art. 154.** A Defensoria Pública é instituição essencial à função jurisdicional do Estado, incumbindo-lhe a orientação jurídica e a defesa, em todos os graus, dos necessitados, na forma do art. 5º LXXIV da Constituição Federal. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -3132,7 +3141,7 @@ art. 134 da Constituição Federal.
 
 **Art. 155.** São princípios institucionais da Defensoria Pública a unidade, indivisibilidade e a independência funcionais.
 
-**Art. 156.** Lei complementar organizará a Defensoria Pública do Estado, dispondo sobre sua competência, estrutura e funcionamento, bem assim a carreira de seus membros, observadas as normas previstas na legislação federal.
+<del>**Art. 156.** Lei complementar organizará a Defensoria Pública do Estado, dispondo sobre sua competência, estrutura e funcionamento, bem assim a carreira de seus membros, observadas as normas previstas na legislação federal.</del>
 
 **Art. 156.** Lei complementar organizará a Defensoria Pública, observadas as normas gerais a que se refere o § 1º do art. 134 da Constituição Federal, assegurada aos seus integrantes a garantia da inamovibilidade e vedado o exercício da advocacia fora das atribuições institucionais. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -3144,7 +3153,7 @@ Público na sua realização e observada a ordem de classificação. (incluído 
 
 **Art. 157.** Os serviços da Defensoria Pública estender-se-ão por todas as comarcas do Estado, de acordo com as necessidades e na forma prevista na lei complementar que dispuser sobre sua organização.
 
-**Art. 158.** Os membros da carreira de que trata este artigo terão seus vencimentos e vantagens fixados e pagos segundo o disposto no art. 135 da Constituição Federal.
+<del>**Art. 158.** Os membros da carreira de que trata este artigo terão seus vencimentos e vantagens fixados e pagos segundo o disposto no art. 135 da Constituição Federal.</del>
 
 **Art. 158.** Os servidores integrantes das carreiras disciplinadas nesta
 
@@ -3370,29 +3379,29 @@ II - as diretrizes orçamentárias anuais;
 
 III - os orçamentos anuais.
 
-**§ 1º** A lei que instituir o plano plurianual estabelecerá de forma regionalizada, as diretrizes, objetivos e metas da administração pública estadual direta e indireta, para as despesas de capital e outras delas decorrentes e para as relativas aos programas de duração continuada.
+<del>**§ 1º** A lei que instituir o plano plurianual estabelecerá de forma regionalizada, as diretrizes, objetivos e metas da administração pública estadual direta e indireta, para as despesas de capital e outras delas decorrentes e para as relativas aos programas de duração continuada.</del>
 
 **§ 1º** A lei que instituir o plano plurianual estabelecerá, de forma setorizada e regionalizada, as Diretrizes, objetivos e metas da administração pública estadual direta e indireta, para as despesas de capital e outras delas decorrentes e para as relativas aos programas de duração continuada. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
-**§ 2º** Nenhum investimento cuja execução ultrapasse um exercício financeiro poderá ser iniciado sem prévia inclusão no plano plurianual, ou sem lei que autorize sua inclusão, sob pena de crime de responsabilidade.
+<del>**§ 2º** Nenhum investimento cuja execução ultrapasse um exercício financeiro poderá ser iniciado sem prévia inclusão no plano plurianual, ou sem lei que autorize sua inclusão, sob pena de crime de responsabilidade.</del>
 
-**§ 2º** O Projeto de Lei do Plano Plurianual, para vigência até o final do primeiro exercício financeiro do mandato do Governador do Estado, subsequente, será encaminhado até 04 (quatro) meses antes do encerramento do primeiro exercício financeiro e devolvido para sanção até o encerramento da Sessão Legislativa. (redação dada pela Emenda Constitucional nº 12, de 24.09.1999)
+<del>**§ 2º** O Projeto de Lei do Plano Plurianual, para vigência até o final do primeiro exercício financeiro do mandato do Governador do Estado, subsequente, será encaminhado até 04 (quatro) meses antes do encerramento do primeiro exercício financeiro e devolvido para sanção até o encerramento da Sessão Legislativa. (redação dada pela Emenda Constitucional nº 12, de 24.09.1999)</del>
 
 **§ 2º** O Plano Plurianual, cuja elaboração contará com a participação de entidades representativas da sociedade civil organizada e dos Municípios, será aprovado no primeiro ano de cada período de governo, submetido à apreciação da Assembleia Legislativa até o dia trinta e um de agosto, sob pena de crime de responsabilidade do Governador do Estado. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
-**§ 3º** A lei de diretrizes orçamentárias, de caráter anual, compreenderá:
+<del>**§ 3º** A lei de diretrizes orçamentárias, de caráter anual, compreenderá:</del>
 
-I - as metas e prioridades da administração pública estadual direta e indireta;
+<del>I - as metas e prioridades da administração pública estadual direta e indireta;</del>
 
-II - as orientações para elaboração da lei orçamentária anual;
+<del>II - as orientações para elaboração da lei orçamentária anual;</del>
 
-III - as disposições sobre as alterações na legislação tributária;
+<del>III - as disposições sobre as alterações na legislação tributária;</del>
 
-IV - as políticas de aplicações dos agentes financeiros oficiais de fomento, apresentando o plano de prioridade das aplicações financeiras e destacando os projetos de maior relevância;
+<del>IV - as políticas de aplicações dos agentes financeiros oficiais de fomento, apresentando o plano de prioridade das aplicações financeiras e destacando os projetos de maior relevância;</del>
 
-V - os limites para a elaboração das propostas orçamentárias dos Poderes Legislativo e Judiciário e do Ministério Público.
+<del>V - os limites para a elaboração das propostas orçamentárias dos Poderes Legislativo e Judiciário e do Ministério Público.</del>
 
-**§ 3º** O não encaminhamento do Projeto de Lei do Plano Plurianual no prazo previsto no parágrafo anterior implicará em crime de responsabilidade do Governador do Estado. (redação dada pela Emenda Constitucional nº 12, de 24.09.1999)
+<del>**§ 3º** O não encaminhamento do Projeto de Lei do Plano Plurianual no prazo previsto no parágrafo anterior implicará em crime de responsabilidade do Governador do Estado. (redação dada pela Emenda Constitucional nº 12, de 24.09.1999)</del>
 
 **§ 3º** Nenhum investimento cuja execução ultrapasse um exercício financeiro poderá ser iniciado sem prévia inclusão no plano plurianual, ou sem lei que
 
@@ -3400,29 +3409,29 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 88
 
 autorize sua inclusão, sob pena de crime de responsabilidade. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
-**§ 4º** O Poder Executivo publicará, até trinta dias após o encerramento de cada bimestre, relatório resumido da execução orçamentária.
+<del>**§ 4º** O Poder Executivo publicará, até trinta dias após o encerramento de cada bimestre, relatório resumido da execução orçamentária.</del>
 
 **§ 4º** A Lei de Diretrizes Orçamentária anual, compreenderá as metas e prioridades da administração pública estadual, direta e indireta, incluindo as despesas de capital para o exercício financeiro subsequente, orientará a elaboração da Lei Orçamentária anual, disporá sobre as alterações na legislação tributária, estabelecerá a política de aplicação das agências financeiras oficiais de fomento e estabelecerá os limites para a elaboração das propostas Orçamentárias dos Poderes Legislativo, Judiciário e do Ministério Público. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
-**§ 5º** Os planos e programas estaduais, regionais e setoriais previstos nesta Constituição serão elaborados em consonância com o plano plurianual, apreciado e aprovado pela Assembleia Legislativa.
+<del>**§ 5º** Os planos e programas estaduais, regionais e setoriais previstos nesta Constituição serão elaborados em consonância com o plano plurianual, apreciado e aprovado pela Assembleia Legislativa.</del>
 
 **§ 5º** O Projeto de Lei das Diretrizes Orçamentárias será encaminhado à Assembleia Legislativa até 30 (trinta) de abril, para apreciação até 30 (trinta) de junho. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
-**§ 6º** A lei orçamentária anual compreenderá:
+<del>**§ 6º** A lei orçamentária anual compreenderá:</del>
 
-I - o orçamento fiscal, fixando as despesas referentes aos poderes estaduais, seus fundos, órgãos e entidades da administração direta e indireta, estimando as receitas do Estado, efetivas e potenciais, aqui incluídas as renúncias fiscais a qualquer título;
+<del>I - o orçamento fiscal, fixando as despesas referentes aos poderes estaduais, seus fundos, órgãos e entidades da administração direta e indireta, estimando as receitas do Estado, efetivas e potenciais, aqui incluídas as renúncias fiscais a qualquer título;</del>
 
-II - o orçamento da seguridade social, abrangendo todos os órgãos e entidades a ela vinculados, da administração direta ou indireta, bem como os fundos e fundações instituídos e mantidos pelo Poder Público;
+<del>II - o orçamento da seguridade social, abrangendo todos os órgãos e entidades a ela vinculados, da administração direta ou indireta, bem como os fundos e fundações instituídos e mantidos pelo Poder Público;</del>
 
-III - os orçamentos de investimentos das empresas públicas e daquelas em que o Estado, direta e indiretamente, detenha a maioria do capital social com direito a voto.
+<del>III - os orçamentos de investimentos das empresas públicas e daquelas em que o Estado, direta e indiretamente, detenha a maioria do capital social com direito a voto.</del>
 
 **§ 6º** O Poder Executivo publicará até trinta dias após o encerramento de cada bimestre, relatório resumido da execução Orçamentária. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
-**§ 7º** Os orçamentos previstos no § 6º, I, II e III deste artigo deverão ser elaborados em consonância com as políticas de desenvolvimento urbano, rural e regional integrantes do plano plurianual.
+<del>**§ 7º** Os orçamentos previstos no § 6º, I, II e III deste artigo deverão ser elaborados em consonância com as políticas de desenvolvimento urbano, rural e regional integrantes do plano plurianual.</del>
 
 **§ 7º** Os planos e programas estaduais, regionais e setoriais previstos nesta Constituição serão elaborados em consonância com o plano plurianual, apreciado e aprovado pela Assembleia Legislativa, que criará mecanismos de fiscalização adequada para sua fiel observância. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
-**§ 8º** O projeto de lei orçamentária será remetido à Assembleia Legislativa até o dia trinta de setembro, acompanhado de demonstrativo dos efeitos sobre as receitas e despesas públicas decorrentes da concessão de quaisquer benefícios de natureza financeira, tributária e creditícia, pela administração pública estadual, detalhados de forma regionalizada e identificados os objetivos de referidas concessões.
+<del>**§ 8º** O projeto de lei orçamentária será remetido à Assembleia Legislativa até o dia trinta de setembro, acompanhado de demonstrativo dos efeitos sobre as receitas e despesas públicas decorrentes da concessão de quaisquer benefícios de natureza financeira, tributária e creditícia, pela administração pública estadual, detalhados de forma regionalizada e identificados os objetivos de referidas concessões.</del>
 
 **§ 8º** A lei Orçamentária anual compreenderá: (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
@@ -3438,7 +3447,7 @@ III - Os orçamentos de investimentos das empresas públicas e daquelas em que o
 
 IV - O percentual mínimo de 5% (cinco por cento), como contrapartida do Poder Executivo Estadual, aos valores referentes às Emendas Parlamentares Federais, na execução dos projetos destinados pela União aos Municípios do Estado do Amapá. (incluído pela Emenda Constitucional nº 46, de 03.07.2012)
 
-**§ 9º** A lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação de despesa, não se incluindo na proibição a autorização para abertura de créditos suplementares e de operação de crédito, ainda que por antecipação da receita, nos termos da lei.
+<del>**§ 9º** A lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação de despesa, não se incluindo na proibição a autorização para abertura de créditos suplementares e de operação de crédito, ainda que por antecipação da receita, nos termos da lei.</del>
 
 **§ 9º** Os orçamentos previstos no § 8º, I, II e III deste artigo deverão ser elaborados em consonância com as políticas de desenvolvimento urbano, rural e regional integrantes do plano plurianual. (redação dada pela Emenda Constitucional nº 14, de 20.12.1999)
 
@@ -3446,7 +3455,7 @@ IV - O percentual mínimo de 5% (cinco por cento), como contrapartida do Poder E
 
 **§ 11** A lei Orçamentária anual não conterá dispositivos estranhos à previsão da receita e à fixação da despesa, não se incluindo na proibição a autorização para abertura de créditos suplementares e de operações de créditos, ainda que por antecipação da receita, nos termos da lei. (incluído pela Emenda Constitucional nº 14, de 20.12.1999)
 
-**§ 12** No primeiro ano de cada período de governo, o Projeto de Lei das Diretrizes Orçamentárias deverá ser encaminhado à Assembleia Legislativa, até 31 (trinta e um) de julho, para apreciação até 30 (trinta) de setembro, e o Projeto de Lei Orçamentária Anual será remetido até 31 (trinta e um) de outubro e apreciado até o encerramento da sessão legislativa. (incluído pela Emenda Constitucional nº 30, de 29.04.2003)
+<del>**§ 12** No primeiro ano de cada período de governo, o Projeto de Lei das Diretrizes Orçamentárias deverá ser encaminhado à Assembleia Legislativa, até 31 (trinta e um) de julho, para apreciação até 30 (trinta) de setembro, e o Projeto de Lei Orçamentária Anual será remetido até 31 (trinta e um) de outubro e apreciado até o encerramento da sessão legislativa. (incluído pela Emenda Constitucional nº 30, de 29.04.2003)</del>
 
 **§ 12** No primeiro ano de cada período de governo ou na hipótese de ocorrência de reconhecida calamidade pública, que justifique a impossibilidade de cumprimento dos prazos previstos nos §§ 5º e 10, o Projeto de Lei das Diretrizes Orçamentárias deverá ser encaminhado à Assembleia Legislativa, até 31 (trinta e um) de julho, para apreciação até 30 (trinta) de setembro, e o Projeto de Lei Orçamentária Anual será remetido até 31 (trinta e um) de outubro e apreciado até o encerramento da sessão legislativa. (redação dada pela Emenda Constitucional nº 62, de 30.04.2020)
 
@@ -3498,11 +3507,11 @@ b) com os dispositivos do texto do projeto de lei.
 
 **§ 10** A execução do montante destinado a ações e serviços públicos de saúde previstos no § 8º, inclusive custeio, será computada para fins do cumprimento do inciso II do § 2º do art. 198 da Constituição Federal, vedada a destinação para pagamento de pessoal ou encargos sociais. (incluído pela Emenda Constitucional nº 59, de 29.10.2019)
 
-**§ 11** É obrigatória a execução orçamentária e financeira das programações a que se refere o § 8º deste artigo, em montante correspondente até o
+<del>**§ 11** É obrigatória a execução orçamentária e financeira das programações a que se refere o § 8º deste artigo, em montante correspondente até o</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 91
 
-limite de 1,2% (um vírgula dois por cento) da receita corrente líquida realizada no exercício anterior. (incluído pela Emenda Constitucional nº 59, de 29.10.2019)
+<del>limite de 1,2% (um vírgula dois por cento) da receita corrente líquida realizada no exercício anterior. (incluído pela Emenda Constitucional nº 59, de 29.10.2019)</del>
 
 **§ 11** É obrigatória a execução orçamentária e financeira das emendas previstas no § 8º deste artigo, até o limite definido na forma do § 9º, respeitado o fluxo de caixa do Tesouro Estadual. (redação dada pela Emenda Constitucional nº 60, de 19.12.2019)
 
@@ -3510,13 +3519,13 @@ limite de 1,2% (um vírgula dois por cento) da receita corrente líquida realiza
 
 **§ 13** Para fins de cumprimento do disposto nos §§ 8º, 11 e 12 deste artigo, os órgãos de execução deverão observar, nos termos da lei de diretrizes orçamentárias, cronograma para análise e verificação de eventuais impedimentos das programações e demais procedimentos necessários à viabilização da execução dos respectivos montantes. (incluído pela Emenda Constitucional nº 59, de 29.10.2019)
 
-**§ 14** Quando a transferência obrigatória do Estado, para a execução da programação prevista nos §§ 8º, 10 e 11 deste artigo, for destinada a Municípios, independerá da adimplência destes e não integrará a base de cálculo da receita corrente líquida para fins de aplicação dos limites de despesa de pessoal de que trata o caput do art. 169 da Constituição Federal. (incluído pela Emenda Constitucional nº 59, de 29.10.2019) (Revogado pela Emenda Constitucional nº 60, de 19.12.2019)
+<del>**§ 14** Quando a transferência obrigatória do Estado, para a execução da programação prevista nos §§ 8º, 10 e 11 deste artigo, for destinada a Municípios, independerá da adimplência destes e não integrará a base de cálculo da receita corrente líquida para fins de aplicação dos limites de despesa de pessoal de que trata o caput do art. 169 da Constituição Federal. (incluído pela</del> Emenda Constitucional nº 59, de 29.10.2019<del>)</del> (Revogado pela Emenda Constitucional nº 60, de 19.12.2019)
 
-**§ 15** Os restos a pagar provenientes das programações orçamentárias previstas nos §§ 8º, 10 e 11 deste artigo poderão ser considerados para fins de cumprimento da execução financeira realizada no exercício anterior para as programações das emendas individuais. (incluído pela Emenda Constitucional nº 59, de 29.10.2019) (Revogado pela Emenda Constitucional nº 60, de 19.12.2019)
+<del>**§ 15** Os restos a pagar provenientes das programações orçamentárias previstas nos §§ 8º, 10 e 11 deste artigo poderão ser considerados para fins de cumprimento da execução financeira realizada no exercício anterior para as programações das emendas individuais. (incluído pela Emenda Constitucional nº 59, de 29.10.2019)</del> (Revogado pela Emenda Constitucional nº 60, de 19.12.2019)
 
-**§ 16** Considera-se equitativa a execução das programações de caráter obrigatório que observe critérios objetivos e imparciais e que atenda de forma igualitária e impessoal às emendas apresentadas, independente de autoria. (incluído pela Emenda Constitucional nº 59, de 29.10.2019) (Revogado pela Emenda Constitucional nº 60, de 19.12.2019)
+<del>**§ 16** Considera-se equitativa a execução das programações de caráter obrigatório que observe critérios objetivos e imparciais e que atenda de forma igualitária e impessoal às emendas apresentadas, independente de autoria. (incluído pela Emenda Constitucional nº 59, de 29.10.2019)</del> (Revogado pela Emenda Constitucional nº 60, de 19.12.2019)
 
-**§ 17** As programações de que tratam os §§ 8º, 11 e 12, quando versarem sobre o início de investimentos com duração de mais de um exercício financeiro ou cuja execução já tenha sido iniciada, deverão ser objeto de emenda pelo mesmo parlamentar, a cada exercício, até a conclusão da obra ou do empreendimento. (incluído pela Emenda Constitucional nº 59, de 29.10.2019) (Revogado pela Emenda Constitucional nº 60, de 19.12.2019)
+<del>**§ 17** As programações de que tratam os §§ 8º, 11 e 12, quando versarem sobre o início de investimentos com duração de mais de um exercício financeiro ou cuja execução já tenha sido iniciada, deverão ser objeto de emenda pelo mesmo parlamentar, a cada exercício, até a conclusão da obra ou do empreendimento. (incluído pela Emenda Constitucional nº 59, de 29.10.2019)</del> (Revogado pela Emenda Constitucional nº 60, de 19.12.2019)
 
 **Art. 176-A** As emendas individuais de que trata o § 8º do art. 176, poderão alocar recursos aos Municípios por meio de: (incluído pela Emenda Constitucional n. 70, de 12.06.2024)
 
@@ -3590,7 +3599,7 @@ I - se houver prévia dotação orçamentária suficiente para atender às proje
 
 II - se houver autorização específica na lei de diretrizes orçamentárias, ressalvadas as empresas públicas e as sociedades de economia mista.
 
-**Art. 180.** A Assembleia Legislativa elaborará a proposta orçamentária do Poder Legislativo, cujo montante de recursos será de, no mínimo, três por cento da receita geral do Estado, incluídas as transferências da União.
+<del>**Art. 180.** A Assembleia Legislativa elaborará a proposta orçamentária do Poder Legislativo, cujo montante de recursos será de, no mínimo, três por cento da receita geral do Estado, incluídas as transferências da União.</del>
 
 **Art. 180.** A Assembleia Legislativa elaborará a Proposta Orçamentária Anual do Poder Legislativo, nela incluída a dotação do Tribunal de Contas, cujo montante de recursos obedecerão aos limites previstos na Lei de Diretrizes Orçamentárias – LDO, encaminhando-a para inclusão obrigatória no Projeto de Lei Orçamentária Anual até o dia 31 de agosto de cada ano. (redação dada pela Emenda Constitucional nº 12, de 24.09.1999)
 
@@ -3620,7 +3629,7 @@ III - emissão e resgate de títulos da dívida pública estadual.
 
 **Art. 184.** As disponibilidades de caixa do Estado, de suas autarquias, fundações, empresas públicas e sociedades de economia mista serão depositadas nos bancos oficiais instalados no Estado, ressalvados os casos previstos em lei.
 
-**Art. 185.** É agente financeiro do Tesouro Estadual o Banco do Estado do Amapá.
+<del>**Art. 185.** É agente financeiro do Tesouro Estadual o Banco do Estado do Amapá.</del>
 
 **Art. 185.** É agente de crédito do Tesouro Estadual a Agência de Fomento do Estado do Amapá. (redação dada pela Emenda Constitucional nº 53, 24.08.de 2015)
 
@@ -3670,13 +3679,13 @@ X - à cooperação com outros Estados e outros países, observadas as disposiç
 
 XI - ao tratamento jurídico diferenciado às microempresas e às empresas de pequeno porte, aos pescadores artesanais e aos produtores rurais que trabalham em regime de economia familiar, assim definidos em lei visando incentivá-los mediante:
 
-a) a simplificação de suas obrigações administrativas, tributárias e financeiras;
+<del>a) a simplificação de suas obrigações administrativas, tributárias e financeiras;</del>
 
 a) a simplificação de suas obrigações administrativas, tributárias e creditícias; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
 b) o favorecimento no acesso ao crédito, com a criação de programas específicos e financiamento;
 
-c) a redução escalonada ou eliminação de produtos através da lei ou convênio.
+<del>c) a redução escalonada ou eliminação de produtos através da lei ou convênio.</del>
 
 c) a redução ou eliminação das obrigações descritas na alínea a, por meio de lei. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -3714,11 +3723,11 @@ lei complementar, destinado a financiar o planejamento, a execução, o acompanh
 
 ##### SEÇÃO I Do Desenvolvimento Urbano
 
-**Art. 194.** A política de desenvolvimento urbano tem por objetivo ordenar e harmonizar o crescimento das cidades de maneira a atender à função social do solo urbano e ao bem-estar dos habitantes.
+<del>**Art. 194.** A política de desenvolvimento urbano tem por objetivo ordenar e harmonizar o crescimento das cidades de maneira a atender à função social do solo urbano e ao bem-estar dos habitantes.</del>
 
 **Art. 194.** A política de desenvolvimento urbano, executada pelo Poder Público municipal, conforme diretrizes gerais fixadas em lei, tem por objetivo ordenar o pleno desenvolvimento das funções sociais da cidade e garantir o bem-estar de seus habitantes, observados os princípios fixados pela Constituição Federal, e ainda: (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**Parágrafo único.** O exercício do direito de propriedade do solo urbano atenderá à sua função social, condicionada às exigências fundamentais de ordenação da cidade.
+<del>**Parágrafo único.** O exercício do direito de propriedade do solo urbano atenderá à sua função social, condicionada às exigências fundamentais de ordenação da cidade.</del>
 
 **§ 1º** O exercício do direito de propriedade do solo urbano atenderá à sua função social, condicionada às exigências fundamentais de ordenação da cidade. (incluído pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -3732,7 +3741,7 @@ e serviços de uso coletivo, públicos e privados, em especial nos meios de tran
 
 Emenda Constitucional nº 35, de 21.03.2006)
 
-**Art. 195.** O plano diretor, instrumento básico da política de desenvolvimento econômico e social e de expansão urbana, aprovado pela Câmara Municipal, é obrigatório para os Municípios com mais de cinco mil habitantes.
+<del>**Art. 195.** O plano diretor, instrumento básico da política de desenvolvimento econômico e social e de expansão urbana, aprovado pela Câmara Municipal, é obrigatório para os Municípios com mais de cinco mil habitantes.</del>
 
 **Art. 195.** O plano diretor, aprovado pela Câmara Municipal, obrigatório para cidades com mais de vinte mil habitantes, é o instrumento básico da política de desenvolvimento e de expansão urbana. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -3778,7 +3787,7 @@ VII - criação de programas habitacionais pelo sistema de mutirão e autoconstr
 
 VIII - garantia dos serviços de saúde, ensino fundamental, creches e pré- escolar, água tratada, energia elétrica e transporte coletivo regular.
 
-**§ 1º** O Estado promoverá e financiará a construção de habitações populares, especialmente para a população de média e baixa renda, da área urbana, assegurando o pagamento pela equivalência salarial ou pela renda mensal dos trabalhadores autônomos.
+<del>**§ 1º** O Estado promoverá e financiará a construção de habitações populares, especialmente para a população de média e baixa renda, da área urbana, assegurando o pagamento pela equivalência salarial ou pela renda mensal dos trabalhadores autônomos.</del>
 
 **§ 1º** O estado promoverá e financiará a construção de habitações populares, especialmente para a população de média e baixa renda, da área urbana, assegurando o pagamento pela equivalência salarial ou pela renda mensal dos trabalhadores autônomos e das mulheres que comprovarem condição mantenedora financeira de suas famílias. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -3818,7 +3827,7 @@ II - a geração contínua e evolutiva de tecnologia de produção;
 
 III - a inspeção e fiscalização da produção, comercialização e utilização de insumos agropecuários;
 
-IV - o zoneamento agroecológico;
+<del>IV - o zoneamento agroecológico;</del>
 
 IV - o Zoneamento Econômico Ecológico; (redação dada pela Emenda Constitucional nº 57, de 19.12.2017)
 
@@ -3850,41 +3859,41 @@ X - o incentivo a pesquisas agroflorestais de acordo com a estrutura ambiental e
 
 **§ 2º** A lei agrícola dará tratamento diferenciado e privilegiado ao micro e pequeno produtor.
 
-**Art. 206.** A concessão, uso, permuta, destinação e venda a pessoa física ou jurídica será limitada a dois mil e quinhentos hectares de áreas contíguas, sendo respeitadas as seguintes normas, além de outras previstas em lei.
+<del>**Art. 206.** A concessão, uso, permuta, destinação e venda a pessoa física ou jurídica será limitada a dois mil e quinhentos hectares de áreas contíguas, sendo respeitadas as seguintes normas, além de outras previstas em lei.</del>
 
 **Art. 206.** A alienação ou a concessão, a qualquer título, de terras públicas, a pessoa física ou jurídica, ainda que por interposta pessoa, obedecerá ao seguinte, sem prejuízo do disposto em lei: (redação dada pela Emenda Constitucional nº 42, de 30.06.2009)
 
-a) até cem hectares, mediante aprovação do órgão fundiário;
+<del>a) até cem hectares, mediante aprovação do órgão fundiário;</del>
 
-a) até 4 módulos fiscais, mediante aprovação do órgão fundiário; (redação dada pela Emenda Constitucional nº 42, de 30.06.2009)
+<del>a) até 4 módulos fiscais, mediante aprovação do órgão fundiário; (redação dada pela Emenda Constitucional nº 42, de 30.06.2009)</del>
 
-a) até 15 módulos fiscais, mediante aprovação do órgão fundiário; (redação dada pela Emenda Constitucional nº 43, de 30.11.2009) (revogado pela Emenda Constitucional nº 57, de 19.12.2017)
+<del>a) até 15 módulos fiscais, mediante aprovação do órgão fundiário; (redação dada pela Emenda Constitucional nº 43, de 30.11.2009)</del> (revogado pela Emenda Constitucional nº 57, de 19.12.2017)
 
-b) acima de cem até quinhentos hectares, mediante estudo de um plano de exploração econômica, através do órgão responsável;
+<del>b) acima de cem até quinhentos hectares, mediante estudo de um plano de exploração econômica, através do órgão responsável;</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 100
 
-b) acima de 4 e até 15 módulos fiscais, mediante aprovação de um plano de exploração econômica pelo órgão fundiário; (redação dada pela Emenda Constitucional nº 42, de 30.06.2009)
+<del>b) acima de 4 e até 15 módulos fiscais, mediante aprovação de um plano de exploração econômica pelo órgão fundiário; (redação dada pela Emenda Constitucional nº 42, de 30.06.2009)</del>
 
-b) acima de 15 módulos fiscais e até dois mil e quinhentos hectares, além do disposto na alínea a, com prévia aprovação da Comissão Permanente de Política Agrária da Assembleia Legislativa. (redação dada pela Emenda Constitucional nº 43, de 30.11.2009) (revogado pela Emenda Constitucional nº 57, de 19.12.2017)
+<del>b) acima de 15 módulos fiscais e até dois mil e quinhentos hectares, além do disposto na alínea a, com prévia aprovação da Comissão Permanente de Política Agrária da Assembleia Legislativa. (redação dada pela Emenda Constitucional nº 43, de 30.11.2009)</del> (revogado pela Emenda Constitucional nº 57, de 19.12.2017)
 
-c) acima de quinhentos até dois mil e quinhentos hectares, além do disposto no item anterior, com a prévia aprovação da Assembleia Legislativa.
+<del>c) acima de quinhentos até dois mil e quinhentos hectares, além do disposto no item anterior, com a prévia aprovação da Assembleia Legislativa.</del>
 
-c) acima de 15 módulos fiscais e até dois mil e quinhentos hectares, além do disposto na alínea b, com prévia aprovação da Comissão Permanente de Política Agrária da Assembleia Legislativa. (redação dada pela Emenda Constitucional nº 42, de 30.06.2009) (revogado pela Emenda Constitucional nº 57, de 19.12.2017)
+<del>c) acima de 15 módulos fiscais e até dois mil e quinhentos hectares, além do disposto na alínea b, com prévia aprovação da Comissão Permanente de Política Agrária da Assembleia Legislativa. (redação dada pela Emenda Constitucional nº 42, de 30.06.2009)</del> (revogado pela Emenda Constitucional nº 57, de 19.12.2017)
 
-**§ 1º** As áreas já instaladas, superiores a quinhentos hectares, deverão apresentar projeto de utilização da área, com demonstração do respectivo retorno social, a ser apreciado pela Assembleia Legislativa, para devida aprovação ou cancelamento.
+<del>**§ 1º** As áreas já instaladas, superiores a quinhentos hectares, deverão apresentar projeto de utilização da área, com demonstração do respectivo retorno social, a ser apreciado pela Assembleia Legislativa, para devida aprovação ou cancelamento.</del>
 
-**§ 1º** As áreas já instaladas, superiores a 15 módulos fiscais, deverão apresentar projeto de utilização da área, com demonstração do respectivo retorno social, a ser apreciado pela Comissão Permanente de Política Agrária da Assembleia Legislativa, para a devida aprovação ou cancelamento. (redação dada pela Emenda Constitucional nº 42, de 30.06.2009)
+<del>**§ 1º** As áreas já instaladas, superiores a 15 módulos fiscais, deverão apresentar projeto de utilização da área, com demonstração do respectivo retorno social, a ser apreciado pela Comissão Permanente de Política Agrária da Assembleia Legislativa, para a devida aprovação ou cancelamento. (redação dada pela Emenda Constitucional nº 42, de 30.06.2009)</del>
 
 **§ 1º** As áreas superiores a dois mil e quinhentos aplica-se, no que couber, o disposto na Constituição Federal. (redação dada pela Emenda Constitucional nº 43, de 30.11.2009)
 
-**§ 2º** As áreas superiores ao disposto na alínea “c” do caput deste artigo deverão obedecer o que rege a lei federal.
+<del>**§ 2º** As áreas superiores ao disposto na alínea “c” do caput deste artigo deverão obedecer o que rege a lei federal.</del>
 
-**§ 2º** Às áreas superiores a dois mil e quinhentos hectares aplica-se, no que couber, o disposto na Constituição Federal. (redação dada pela Emenda Constitucional nº 42, de 30.06.2009)
+<del>**§ 2º** Às áreas superiores a dois mil e quinhentos hectares aplica-se, no que couber, o disposto na Constituição Federal. (redação dada pela Emenda Constitucional nº 42, de 30.06.2009)</del>
 
 **§ 2º** Excetuam-se do disposto no caput deste artigo as alienações ou as concessões de terras públicas para fins de reforma agrária. (redação dada pela Emenda Constitucional nº 43, de 30.11.2009)
 
-**§ 3º** Excetuam-se do disposto no caput deste artigo as alienações ou as concessões de terras públicas para fins de reforma agrária. (incluído pela Emenda Constitucional nº 42, de 30.06.2009) (revogado pela Emenda Constitucional nº 57, de 19.12.2017)
+<del>**§ 3º** Excetuam-se do disposto no caput deste artigo as alienações ou as concessões de terras públicas para fins de reforma agrária. (incluído pela Emenda Constitucional nº 42, de 30.06.2009)</del> (revogado pela Emenda Constitucional nº 57, de 19.12.2017)
 
 **Art. 207.** Observada a lei federal, o Estado promoverá a implantação da reforma agrária.
 
@@ -3894,7 +3903,7 @@ c) acima de 15 módulos fiscais e até dois mil e quinhentos hectares, além do 
 
 **§ 2º** A política de assentamento rural, desenvolvida pelo Estado, estimulará o cooperativismo e demais formas associativas.
 
-**§ 3º** O Estado assegurará aos detentores de posse de terras públicas, por eles tornadas produtivas com o seu trabalho e o de sua família, a preferência para a aquisição da área, de até cem hectares, mediante concessão de título de domínio, desde que:
+<del>**§ 3º** O Estado assegurará aos detentores de posse de terras públicas, por eles tornadas produtivas com o seu trabalho e o de sua família, a preferência para a aquisição da área, de até cem hectares, mediante concessão de título de domínio, desde que:</del>
 
 **§ 3º** O Estado assegurará aos detentores de posse de terras públicas, por eles tornadas produtivas como o seu trabalho e o de sua família, a preferência para a aquisição de
 
@@ -3902,7 +3911,7 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 101
 
 área, até o limite constitucional, mediante concessão de título de domínio, desde que: (redação dada pela Emenda Constitucional nº 42, de 30.06.2009)
 
-I - não sejam proprietários de outra área rural, superior a um módulo rural mínimo;
+<del>I - não sejam proprietários de outra área rural, superior a um módulo rural mínimo;</del>
 
 I - não sejam proprietários de outra área rural superior ao menor módulo fiscal definido para o Estado do Amapá; (redação dada pela Emenda Constitucional nº 43, de 30.11.2009)
 
@@ -3916,7 +3925,7 @@ IV - tenham morada habitual e cultura afetiva. (incluído pela Emenda Constituci
 
 **§ 5º** A concessão de títulos de domínio ou de uso de terras públicas e devolutas deverá considerar a manutenção de áreas de preservação e as restrições de uso do solo, nos termos da lei.
 
-**§ 6º** Os lotes destinados a assentamentos nunca serão inferiores ao módulo rural mínimo definido por lei, ficando vedada a concessão de títulos de domínio ou de uso de mais de um lote à mesma unidade familiar.
+<del>**§ 6º** Os lotes destinados a assentamentos nunca serão inferiores ao módulo rural mínimo definido por lei, ficando vedada a concessão de títulos de domínio ou de uso de mais de um lote à mesma unidade familiar.</del>
 
 **§ 6º** Os lotes destinados a assentamentos nunca serão inferiores ao módulo fiscal definido para o município onde se localizar o projeto de assentamento, ficando vedada a concessão de títulos de domínio ou de uso de mais de um lote à mesma unidade familiar. (redação dada pela Emenda Constitucional nº 43, de 30.11.2009)
 
@@ -3974,7 +3983,7 @@ VII - adotar mecanismos que garantam a adequação da pesquisa às peculiaridade
 
 VIII - Criar sistema estadual de cadastramento e georreferenciado das propriedades e ocupações rurais, com a indicação do uso do solo. (incluído pela Emenda Constitucional nº 57, de 19.12.2017)
 
-**Art. 214.** Os órgãos públicos responsáveis pela pesquisa no Estado farão a indicação, obedecendo ao zoneamento agroecológico, das áreas potenciais para implantação de projetos de desenvolvimento agropecuário e florestal.
+<del>**Art. 214.** Os órgãos públicos responsáveis pela pesquisa no Estado farão a indicação, obedecendo ao zoneamento agroecológico, das áreas potenciais para implantação de projetos de desenvolvimento agropecuário e florestal.</del>
 
 **Art. 214.** Os órgãos públicos responsáveis pelas políticas agrária, fundiária e florestal no Estado farão a indicação, obedecendo ao zoneamento agroecológico, das áreas potenciais para implantação de projetos de desenvolvimento agropecuário e florestal. (redação dada pela Emenda Constitucional nº 42, de 30.06.2009)
 
@@ -3988,23 +3997,23 @@ III - melhorar as condições de vida e a fixação do homem na zona rural;
 
 IV - implantar a justiça social.
 
-**Art. 216.** É vedado ao Estado, sem prévia autorização do Poder Legislativo, resguardando o disposto na Constituição Federal:
+<del>**Art. 216.** É vedado ao Estado, sem prévia autorização do Poder Legislativo, resguardando o disposto na Constituição Federal:</del>
 
-**Parágrafo único.** Promover a legitimação ou/ alienação de terras públicas ou devolutas para fins de reflorestamento homogêneo.
+<del>**Parágrafo único.** Promover a legitimação ou/ alienação de terras públicas ou devolutas para fins de reflorestamento homogêneo.</del>
 
-**Art. 216.** É vedado ao Estado, sem prévia autorização do órgão competente da Assembleia Legislativa, resguardado o disposto na Constituição Federal: (redação dada pela Emenda Constitucional nº 42, de 30.06.2009)
+<del>**Art. 216.** É vedado ao Estado, sem prévia autorização do órgão competente da Assembleia Legislativa, resguardado o disposto na Constituição Federal: (redação dada pela Emenda Constitucional nº 42, de 30.06.2009)</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 103
 
-I - promover a alienação ou concessão de terras públicas e devolutas, com áreas superiores a 15 módulos fiscais; observado o limite máximo de dois mil e quinhentos hectares; (redação dada pela Emenda Constitucional nº 42, de 30.06.2009)
+<del>I - promover a alienação ou concessão de terras públicas e devolutas, com áreas superiores a 15 módulos fiscais; observado o limite máximo de dois mil e quinhentos hectares; (redação dada pela Emenda Constitucional nº 42, de 30.06.2009)</del>
 
-II - promover a legitimação, alienação ou concessão de terras públicas e devolutas para fins de reflorestamento homogêneo e manejo florestal. (redação dada pela
+<del>II - promover a legitimação, alienação ou concessão de terras públicas e devolutas para fins de reflorestamento homogêneo e manejo florestal. (redação dada pela</del>
 
-Emenda Constitucional nº 42, de 30.06.2009)
+<del>Emenda Constitucional nº 42, de 30.06.2009)</del>
 
 **Art. 216.** É vedado ao Estado, sem prévia autorização do órgão competente da Assembleia Legislativa, resguardando o disposto na Constituição Federal, a alienação ou concessão de terras públicas e devolutas, com áreas superiores a quinze módulos fiscais, observado o limite máximo de dois mil e quinhentos hectares. (redação dada pela Emenda Constitucional nº 43, de 30.11.2009)
 
-**Parágrafo único.** A vedação prevista no caput deste artigo refere-se, inclusive, à alienação ou concessão para fins de reflorestamento homogêneo ou de manejo floresta. (redação dada pela Emenda Constitucional nº 43, de 30.11.2009) (revogado pela
+<del>**Parágrafo único.** A vedação prevista no caput deste artigo refere-se, inclusive, à alienação ou concessão para fins de reflorestamento homogêneo ou de manejo floresta. (redação dada pela Emenda Constitucional nº 43, de 30.11.2009)</del> (revogado pela
 
 Emenda Constitucional nº 57, de 19.12.2017)
 
@@ -4020,7 +4029,7 @@ III - indivisibilidade e intransferibilidade do direito, a qualquer título, sem
 
 IV - manutenção das áreas de preservação e conservação obrigatórias e a observância das restrições ao uso do imóvel, nos termos da lei.
 
-**§ 2º** O título de concessão de direito real de uso será conferido a grupo de trabalhador rural, a homem ou mulher, ou a ambos, independentemente de estado civil, nos termos e condições previstos em lei.
+<del>**§ 2º** O título de concessão de direito real de uso será conferido a grupo de trabalhador rural, a homem ou mulher, ou a ambos, independentemente de estado civil, nos termos e condições previstos em lei.</del>
 
 **§ 2°** A concessão do direito real de uso ou título de domínio será conferido a grupo de trabalhador rural, a homem ou mulher, ou ambos, independentemente de estado civil, nos termos e condições previstos em lei. (redação dada pela Emenda Constitucional nº 57, de 19.12.2017)
 
@@ -4082,17 +4091,17 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 105
 
 I - criança até seis anos de idade;
 
-II - idosos à partir de sessenta e cinco anos;
+<del>II - idosos à partir de sessenta e cinco anos;</del>
 
 II - idosos a partir de sessenta; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-III - deficientes físicos com reconhecida dificuldade de locomoção;
+<del>III - deficientes físicos com reconhecida dificuldade de locomoção;</del>
 
 III - pessoas portadoras de deficiência física, auditiva, visual, mental e múltipla, devidamente reconhecidos e cadastrados pelo órgão governamental competente, na forma da lei; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
-IV - carteiros e vigilantes em serviço e devidamente uniformizados;
+<del>IV - carteiros e vigilantes em serviço e devidamente uniformizados;</del>
 
-IV - carteiros, vigilantes, policiais civis, policiais militares e bombeiro militar em serviço e devidamente uniformizados; (redação dada pela Emenda Constitucional nº 23, de 18.01.2001)
+<del>IV - carteiros, vigilantes, policiais civis, policiais militares e bombeiro militar em serviço e devidamente uniformizados; (redação dada pela Emenda Constitucional nº 23, de 18.01.2001)</del>
 
 IV - carteiros, vigilantes, policiais civis, policiais penais, policiais militares e bombeiro militar em serviço e devidamente uniformizados; (redação dada pela Emenda Constitucional nº 61, de 04.03.2020)
 
@@ -4268,15 +4277,15 @@ VII - investimento na formação e aperfeiçoamento de mão-de-obra especializad
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 110
 
-**Art. 253.** O Estado, em ação conjunta e integrada com a União, Município e a sociedade, assegurará os direitos relativos à saúde, alimentação, à educação, ao lazer, à profissionalização, à capacidade para o trabalho, à cultura e cuidará da proteção especial da família, da mulher, da criança, do adolescente, do idoso, do índio e do deficiente.
+<del>**Art. 253.** O Estado, em ação conjunta e integrada com a União, Município e a sociedade, assegurará os direitos relativos à saúde, alimentação, à educação, ao lazer, à profissionalização, à capacidade para o trabalho, à cultura e cuidará da proteção especial da família, da mulher, da criança, do adolescente, do idoso, do índio e do deficiente.</del>
 
-**§ 1º** As receitas do Estado e dos Municípios destinadas à seguridade social constarão dos respectivos orçamentos.
+<del>**§ 1º** As receitas do Estado e dos Municípios destinadas à seguridade social constarão dos respectivos orçamentos.</del>
 
-**§ 2º** Nenhuma prestação de benefício ou serviço de seguridade poderá ser criada, majorada ou estendida sem a correspondente fonte de custeio total.
+<del>**§ 2º** Nenhuma prestação de benefício ou serviço de seguridade poderá ser criada, majorada ou estendida sem a correspondente fonte de custeio total.</del>
 
-**§ 3º** As contribuições sociais só poderão ser exigidas após decorridos noventa dias da data da publicação da lei que as houver instituído ou modificado, não se lhes aplicando o princípio da anualidade.
+<del>**§ 3º** As contribuições sociais só poderão ser exigidas após decorridos noventa dias da data da publicação da lei que as houver instituído ou modificado, não se lhes aplicando o princípio da anualidade.</del>
 
-**§ 4º** A proposta de orçamento, no tocante à seguridade social, será elaborada de forma integrada pelos órgãos responsáveis pela saúde e previdência social, tendo em vista as metas e prioridades estabelecidas na lei de diretrizes orçamentárias, assegurada a cada área a gestão de seus recursos.
+<del>**§ 4º** A proposta de orçamento, no tocante à seguridade social, será elaborada de forma integrada pelos órgãos responsáveis pela saúde e previdência social, tendo em vista as metas e prioridades estabelecidas na lei de diretrizes orçamentárias, assegurada a cada área a gestão de seus recursos.</del>
 
 **Art. 253.** A seguridade social compreende um conjunto integrado de ações de iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à assistência social, competindo ao Poder Público, nos termos da lei, organizá-la com base nos objetivos estabelecidos no
 
@@ -4296,9 +4305,9 @@ III - a participação organizada da sociedade civil na definição e execução
 
 **Art. 255.** A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à prevenção, redução e eliminação de doenças e de outros agravos e ao acesso universal e igualitário às ações e serviços de saúde para a sua promoção, proteção e recuperação.
 
-**Parágrafo único.** Ao Estado, como integrante do sistema único de saúde, compete implementar ações destinadas a cumprir as atribuições referidas no
+<del>**Parágrafo único.** Ao Estado, como integrante do sistema único de saúde, compete implementar ações destinadas a cumprir as atribuições referidas no</del>
 
-art. 200 da Constituição Federal.
+<del>art. 200 da Constituição Federal.</del>
 
 **Parágrafo único.** Ao Estado, como integrante do sistema único de saúde, compete implementar ações destinadas a cumprir as atribuições referidas no
 
@@ -4340,7 +4349,7 @@ II - o Conselho Estadual de Saúde.
 
 **Parágrafo único.** Aos residentes no Estado é assegurada a assistência farmacêutica básica, promovida pelo Poder Público.
 
-**Art. 259.** As ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um sistema estadual de saúde, que será organizado e regulamentado em lei estadual.
+<del>**Art. 259.** As ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um sistema estadual de saúde, que será organizado e regulamentado em lei estadual.</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 112
 
@@ -4354,7 +4363,7 @@ III - participação da comunidade. (incluído pela Emenda Constitucional nº 35
 
 **§ 1º** Fica assegurado a todos o atendimento médico emergencial, nos estabelecimentos de saúde públicos ou privados.
 
-**§ 2º** Fica proibido o uso de atestado de esterilidade e de teste de gravidez como condição para admissão ou continuidade no trabalho.
+<del>**§ 2º** Fica proibido o uso de atestado de esterilidade e de teste de gravidez como condição para admissão ou continuidade no trabalho.</del>
 
 **§ 2º** Fica proibida a exigência de atestado de esterilidade, de teste de gravidez, e de qualquer outra que possua a mesma natureza destas, como condição para admissão ou continuidade no trabalho. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -4388,7 +4397,7 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 113
 
 **Parágrafo único.** A rede pública de saúde prestará atendimento médico para prática de aborto, nos casos previstos em lei federal, bem como para realização de cirurgia reparadora em vítimas de mutilação decorrente de câncer de mama e de violência. (incluído pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**Art. 266.** Os recursos destinados à saúde pelo Estado e Municípios serão definidos em suas respectivas leis orçamentárias.
+<del>**Art. 266.** Os recursos destinados à saúde pelo Estado e Municípios serão definidos em suas respectivas leis orçamentárias.</del>
 
 **Art. 266.** Os recursos destinados à saúde pelo Estado e Municípios serão definidos em suas respectivas leis orçamentárias, anualmente, e aplicarão anualmente em ações e serviços públicos de saúde, no mínimo, 15% (quinze por cento) da arrecadação dos impostos a que se refere o art. 156 e dos recursos de que tratam o art. 158 e a alínea “b” do inciso I do caput e o § 3º do art. 159, todos da Constituição Federal. (redação dada pela Emenda Constitucional nº 52, de 24.08.2015)
 
@@ -4462,29 +4471,29 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 115
 
 ##### SEÇÃO III Da Previdência Social
 
-**Art. 269.** A previdência social será prestada pelo Estado e pelos Municípios aos seus servidores, família e dependentes, diretamente ou através de institutos de previdência, ou, ainda, mediante convênios e acordos, compreendendo, dentre outros, os seguintes benefícios, na forma da lei:
+<del>**Art. 269.** A previdência social será prestada pelo Estado e pelos Municípios aos seus servidores, família e dependentes, diretamente ou através de institutos de previdência, ou, ainda, mediante convênios e acordos, compreendendo, dentre outros, os seguintes benefícios, na forma da lei:</del>
 
-I - cobertura de eventos de doença, invalidez, morte, incluindo os resultados de acidentes do trabalho, velhice e reclusão;
+<del>I - cobertura de eventos de doença, invalidez, morte, incluindo os resultados de acidentes do trabalho, velhice e reclusão;</del>
 
-II - ajuda à manutenção de dependente dos segurados de baixa renda;
+<del>II - ajuda à manutenção de dependente dos segurados de baixa renda;</del>
 
-III - proteção à maternidade, especialmente à gestante;
+<del>III - proteção à maternidade, especialmente à gestante;</del>
 
-IV - pensão por morte do segurado, homem ou mulher, ao cônjuge ou companheiro e dependentes, obedecidas as disposições desta Constituição;
+<del>IV - pensão por morte do segurado, homem ou mulher, ao cônjuge ou companheiro e dependentes, obedecidas as disposições desta Constituição;</del>
 
-V - aposentadoria compulsória por invalidez permanente ou por tempo de serviço, aos setenta anos de idade;
+<del>V - aposentadoria compulsória por invalidez permanente ou por tempo de serviço, aos setenta anos de idade;</del>
 
-VI - licença para tratamento de saúde, por motivo de doença em pessoa da família ou, ainda, por motivo de gestação.
+<del>VI - licença para tratamento de saúde, por motivo de doença em pessoa da família ou, ainda, por motivo de gestação.</del>
 
-**§ 1º** Todos os salários de contribuição considerados no cálculo de benefícios serão corrigidos monetariamente.
+<del>**§ 1º** Todos os salários de contribuição considerados no cálculo de benefícios serão corrigidos monetariamente.</del>
 
-**§ 2º** A gratificação natalina dos aposentados e pensionistas terá por base o valor dos proventos do mês de dezembro de cada ano.
+<del>**§ 2º** A gratificação natalina dos aposentados e pensionistas terá por base o valor dos proventos do mês de dezembro de cada ano.</del>
 
-**§ 3º** Nenhum benefício que substitua o salário de contribuição ou o rendimento do trabalhador segurado terá valor mensal inferior ao salário mínimo.
+<del>**§ 3º** Nenhum benefício que substitua o salário de contribuição ou o rendimento do trabalhador segurado terá valor mensal inferior ao salário mínimo.</del>
 
-**§ 4º** É vedada subvenção ou auxílio do Poder Público às entidades de previdência privada com fins lucrativos.
+<del>**§ 4º** É vedada subvenção ou auxílio do Poder Público às entidades de previdência privada com fins lucrativos.</del>
 
-**§ 5º** Ao beneficiário de pensão decorrente da morte de servidor em serviço, no cumprimento do dever, ou em decorrência dele, são assegurados proventos equivalentes aos que faria jus o de cujus, se vivo fosse.
+<del>**§ 5º** Ao beneficiário de pensão decorrente da morte de servidor em serviço, no cumprimento do dever, ou em decorrência dele, são assegurados proventos equivalentes aos que faria jus o de cujus, se vivo fosse.</del>
 
 **Art. 269.** A previdência social será prestada pelo Estado e pelos Municípios aos servidores e seus dependentes, diretamente ou através de institutos de previdência, seja pelo regime próprio seja pelo regime geral, e atenderá, nos termos da lei, a: (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -4512,7 +4521,7 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 116
 
 **§ 6º** Para efeito de aposentadoria, é assegurada a contagem recíproca do tempo de contribuição na administração pública e na atividade privada, rural e urbana, hipótese em que os diversos regimes de previdência social se compensarão financeiramente, segundo critérios estabelecidos em lei. (incluído pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**Art. 270.** Aos Prefeitos e Vereadores é facultado o direito de serem contribuintes e segurados do Instituto de Previdência Social do Estado.
+<del>**Art. 270.** Aos Prefeitos e Vereadores é facultado o direito de serem contribuintes e segurados do Instituto de Previdência Social do Estado.</del>
 
 **Art. 270.** O regime de previdência complementar de que trata o art. 60, organizado de forma autônoma em relação ao regime próprio de previdência social, será facultativo, baseado na constituição de reservas que garantam o benefício contratado, e regulado por lei complementar. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -4522,7 +4531,7 @@ Emenda Constitucional nº 35, de 21.03.2006)
 
 **§ 2º** Observar-se-á quanto às contribuições, aos benefícios e às condições contratuais, bem como quanto ao aporte de recursos para as entidades de previdência privada, o disposto nos §§ 2º e 3º do art. 202 da Constituição Federal. (incluído pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**Art. 271.** Os servidores municipais poderão integrar o sistema previdenciário do Estado, quando no Município não existir sistema próprio de previdência.
+<del>**Art. 271.** Os servidores municipais poderão integrar o sistema previdenciário do Estado, quando no Município não existir sistema próprio de previdência.</del>
 
 **Art. 271.** Quando no Município não existir regime próprio de previdência, seus servidores ficarão vinculados ao regime geral de previdência social. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -4546,7 +4555,7 @@ IV - garantia de um salário mínimo de benefício mensal à pessoa portadora de
 
 V - promoção da integração e ingresso ao mercado de trabalho dos assistidos;
 
-VI - garantia de gratuidade no transportes coletivos urbanos aos portadores de perda total da acuidade visual;
+<del>VI - garantia de gratuidade no transportes coletivos urbanos aos portadores de perda total da acuidade visual;</del>
 
 VI - garantia de gratuidade nos transportes coletivos, urbanos e intermunicipais, aos portadores de perda total da acuidade visual, bem assim às pessoas incapacitadas de se locomoverem por si só, seja por deficiência física ou psicológica; (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -4680,7 +4689,7 @@ XVIII - com a colaboração técnica e financeira do Município, gratuidade nos 
 
 **§ 4º** O ensino noturno será estruturado de maneira a salvaguardar as experiências práticas dos alunos e a assegurar-lhes condições escolares compatíveis com a situação do aluno trabalhador.
 
-**§ 5º** O ensino religioso, de matrícula facultativa, constituirá disciplina dos horários normais das escolas públicas de ensino fundamental.
+<del>**§ 5º** O ensino religioso, de matrícula facultativa, constituirá disciplina dos horários normais das escolas públicas de ensino fundamental.</del>
 
 **§ 5º** O ensino religioso, de matrícula facultativa, é parte integrante da formação básica do cidadão e constitui disciplina dos horários normais das escolas públicas de ensino fundamental e médio, assegurado o respeito à diversidade cultural e religiosa do Amapá, vedadas quaisquer formas de proselitismo. (redação dada pela
 
@@ -4728,7 +4737,7 @@ IX - promoção humanística, científica e tecnológica.
 
 I - o Conselho Estadual de Educação, órgão consultivo, deliberativo e normativo da política estadual de educação, terá composição, estrutura administrativa, funcionamento e atribuições definidos em lei estadual;
 
-II - os Conselhos Escolares, com gestão democrática, são órgãos de aconselhamento, fiscalização e avaliação do sistema de ensino, no nível de cada estabelecimento escolar público.
+<del>II - os Conselhos Escolares, com gestão democrática, são órgãos de aconselhamento, fiscalização e avaliação do sistema de ensino, no nível de cada estabelecimento escolar público.</del>
 
 II - Os Conselhos Escolares, com gestão democrática, são órgãos de aconselhamento, fiscalização deliberação e avaliação do sistema de ensino, no nível de cada estabelecimento escolar público, na forma da lei. (redação dada pela Emenda Constitucional nº 4, de 1995)
 
@@ -4772,7 +4781,7 @@ i) Noções básicas da Lei Maria da Penha. (incluída pela Emenda Constituciona
 
 **Art. 287.** O ensino superior será desenvolvido com base na indissociabilidade entre ensino, pesquisa e extensão, tendo como objetivos gerais, a produção, difusão do conhecimento e a formação de recursos humanos para o mercado de trabalho.
 
-**Art. 288.** A lei disciplinará as formas de apoio à manutenção e ao desenvolvimento do ensino que as empresas privadas deverão prestar, sempre que se beneficiarem:
+<del>**Art. 288.** A lei disciplinará as formas de apoio à manutenção e ao desenvolvimento do ensino que as empresas privadas deverão prestar, sempre que se beneficiarem:</del>
 
 **Art. 288.** A lei disciplinará as formas de apoio à manutenção e ao desenvolvimento do ensino que Pessoas Jurídicas de Direito Privado deverão prestar, sempre que se beneficiarem: (NR). (redação dada pela Emenda Constitucional n. 65, de 30.08.2022)
 
@@ -4780,9 +4789,9 @@ I - de programas estaduais de incentivos financeiros e fiscais;
 
 II - de pesquisas e tecnologias por elas geradas com financiamento do Poder Público estadual.
 
-**Art. 289.** O Estado e os Municípios aplicarão anualmente vinte e cinco por cento, no mínimo, da receita resultante de impostos, compreendida a proveniente de transferência, na manutenção e desenvolvimento do ensino público.
+<del>**Art. 289.** O Estado e os Municípios aplicarão anualmente vinte e cinco por cento, no mínimo, da receita resultante de impostos, compreendida a proveniente de transferência, na manutenção e desenvolvimento do ensino público.</del>
 
-**Parágrafo único.** É vedado ao Estado auxiliar com recursos financeiros e humanos o Município que deixe de comprovar a aplicação do mínimo exigido da receita municipal na manutenção e desenvolvimento do ensino.
+<del>**Parágrafo único.** É vedado ao Estado auxiliar com recursos financeiros e humanos o Município que deixe de comprovar a aplicação do mínimo exigido da receita municipal na manutenção e desenvolvimento do ensino.</del>
 
 **Art. 289.** O Estado e os Municípios aplicarão, respectivamente, vinte e oito por cento e vinte e cinco por cento, no mínimo, da receita resultante de impostos, compreendida a proveniente de transferência, na manutenção e desenvolvimento do ensino público. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -4860,7 +4869,7 @@ VI - a produção voltada para o mercado interno, em particular as dedicadas à 
 
 VII - a pesquisa tecnológica e o desenvolvimento experimental no âmbito da medicina preventiva e terapêutica publiquem e divulguem seus resultados e produzam equipamentos especializados destinados ao uso de portador de deficiência.
 
-**§ 3º** As universidades e demais instituições de pesquisa sediadas no Estado devem participar do processo de formulação e acompanhamento da política científica e tecnológica.
+<del>**§ 3º** As universidades e demais instituições de pesquisa sediadas no Estado devem participar do processo de formulação e acompanhamento da política científica e tecnológica.</del>
 
 **§ 3º** As universidades e demais instituições de pesquisa sediadas no Estado devem participar do processo de formulação e acompanhamento da política científica e tecnológica, competindo-lhes a criação de comitês de ética em pesquisa responsáveis pelo acompanhamento das ações desenvolvidas nesse campo. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -5088,7 +5097,7 @@ II - o lançamento de resíduos hospitalares, industriais e de esgotos residenci
 
 III - a implantação e construção de indústrias que produzam resíduos poluentes, de qualquer natureza, em todo o litoral do Estado, compreendendo a faixa de terra que vai da preamar até cinco quilômetros para o interior.
 
-**Art. 328.** São indisponíveis as terras na área territorial do Estado, para fins de construção de usinas nucleares, depósitos de materiais radioativos e lixos atômicos, na forma da lei. (declarado inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal, no julgamento da ADI nº 6.902)
+<del>**Art. 328.** São indisponíveis as terras na área territorial do Estado, para fins de construção de usinas nucleares, depósitos de materiais radioativos e lixos atômicos, na forma da lei.</del> (declarado inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal, no julgamento da ADI nº 6.902)
 
 #### CAPÍTULO X Da Mulher
 
@@ -5202,7 +5211,7 @@ IV - a tomada de decisão baseada em evidências. (incluído pela Emenda Constit
 
 ### TÍTULO IX Das Disposições Constitucionais Gerais
 
-**Art. 339.** É vedada a alteração nominativa dos prédios públicos que contenham nomes de pessoas, fatos históricos ou geográficos, salvo para correção ou adequação aos termos da Lei.
+<del>**Art. 339.** É vedada a alteração nominativa dos prédios públicos que contenham nomes de pessoas, fatos históricos ou geográficos, salvo para correção ou adequação aos termos da Lei.</del>
 
 **Art. 339.** É vedada a alteração nominativa de prédios públicos que contenham nomes de pessoas, fatos históricos ou geográficos, salvo com autorização legislativa. (Redação dada pela Emenda Constitucional nº 6, de 1996)
 
@@ -5232,39 +5241,39 @@ III - manutenção das vantagens fixas anexas à remuneração, adquiridas antes
 
 **Parágrafo único.** Nas áreas a que se refere o caput deste artigo, o Estado somente repassará o domínio útil, que poderá ser vitalício, hereditário e transferível, após autorização expressa do Poder Público.
 
-**Art. 348.** Quando no exercício de mandato ou função, dos cargos de Governador, de Vice-Governador e de Deputado Estadual, seu titular ficar definitivamente impedido de exercê-lo, por falecimento, por doença grave ou permanente invalidez, é assegurado ao cônjuge, se houver, enquanto viver, ou aos filhos menores, uma pensão equivalente ao valor do subsídio, paga na mesma data e
+<del>**Art. 348.** Quando no exercício de mandato ou função, dos cargos de Governador, de Vice-Governador e de Deputado Estadual, seu titular ficar definitivamente impedido de exercê-lo, por falecimento, por doença grave ou permanente invalidez, é assegurado ao cônjuge, se houver, enquanto viver, ou aos filhos menores, uma pensão equivalente ao valor do subsídio, paga na mesma data e</del>
 
 CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 135
 
-revista segundo os mesmos índices daqueles que estiverem em atividade. (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>revista segundo os mesmos índices daqueles que estiverem em atividade.</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 1º** A pensão será devidamente atualizada, na mesma proporção e data, sempre que se modificar a remuneração dacrueles em atividade. (revogado pela
-
-Emenda Constitucional nº 35, de 21.03.2006)
-
-**§ 2º** Contraído novo matrimônio, a pensão será transferida automaticamente do cônjuge para os filhos menores até a maioridade. (revogado pela
+<del>**§ 1º** A pensão será devidamente atualizada, na mesma proporção e data, sempre que se modificar a remuneração dacrueles em atividade.</del> (revogado pela
 
 Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 3º** Ocorrendo o afastamento da função, por força de invalidez permanente, do cargo de Governador do Estado ou Deputado Estadual, o mesmo passa a receber as vantagens de que trata o caput do artigo. (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**§ 2º** Contraído novo matrimônio, a pensão será transferida automaticamente do cônjuge para os filhos menores até a maioridade.</del> (revogado pela
 
-**Art. 349.** É dever do Estado conceder pensão especial correspondente ao salário mínimo à viúva e dependentes de motoristas profissionais que venham a falecer no exercício da profissão, vítima de assaltos. (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+Emenda Constitucional nº 35, de 21.03.2006)
 
-**Parágrafo único.** Se o falecido não tiver dependentes e for arrimo de família, a pensão será paga a seus ascendentes. (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**§ 3º** Ocorrendo o afastamento da função, por força de invalidez permanente, do cargo de Governador do Estado ou Deputado Estadual, o mesmo passa a receber as vantagens de que trata o caput do artigo.</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**Art. 350.** Nos dez primeiros anos de criação de Municípios, serão observadas as seguintes normas básicas:
+<del>**Art. 349.** É dever do Estado conceder pensão especial correspondente ao salário mínimo à viúva e dependentes de motoristas profissionais que venham a falecer no exercício da profissão, vítima de assaltos.</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-I - a Prefeitura terá no máximo quatro unidades administrativas;
+<del>**Parágrafo único.** Se o falecido não tiver dependentes e for arrimo de família, a pensão será paga a seus ascendentes.</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-II - as despesas orçamentárias com pessoal não poderão ultrapassar cinquenta por cento da receita do Município;
+<del>**Art. 350.** Nos dez primeiros anos de criação de Municípios, serão observadas as seguintes normas básicas:</del>
 
-III - o orçamento da Câmara Municipal não poderá ultrapassar dez por cento da receita do Município.
+<del>I - a Prefeitura terá no máximo quatro unidades administrativas;</del>
+
+<del>II - as despesas orçamentárias com pessoal não poderão ultrapassar cinquenta por cento da receita do Município;</del>
+
+<del>III - o orçamento da Câmara Municipal não poderá ultrapassar dez por cento da receita do Município.</del>
 
 **Art. 350.** Nos dez primeiros anos de criação de municípios, as despesas orçamentárias com pessoal não poderão ultrapassar cinquenta por cento da receita do município. (redação dada pela Emenda Constitucional nº 1, de 1994)
 
 **Art. 351.** Lei Complementar estadual definirá os critérios e os valores para aposentadoria dos magistrados, dos conselheiros do Tribunal de Contas e dos membros do Ministério Público, observando-se o disposto na Constituição Federal, nesta Constituição e na legislação federal em vigor.
 
-**Art. 352.** Em caso de morte de magistrado, de procurador de justiça e de conselheiro do Tribunal de Contas, ativo ou inativo, em pleno gozo da vitaliciedade, é assegurado o benefício de pensão, ao cônjuge se houver, enquanto viver, ou aos filhos menores, correspondente ao valor do subsídio, pago na mesma data e revisto segundo os mesmos índices dos que estiverem em atividade.
+<del>**Art. 352.** Em caso de morte de magistrado, de procurador de justiça e de conselheiro do Tribunal de Contas, ativo ou inativo, em pleno gozo da vitaliciedade, é assegurado o benefício de pensão, ao cônjuge se houver, enquanto viver, ou aos filhos menores, correspondente ao valor do subsídio, pago na mesma data e revisto segundo os mesmos índices dos que estiverem em atividade.</del>
 
 **Art. 352.** Aplicam-se, no que couber, aos servidores titulares de cargos efetivos do Estado do Amapá, incluídas suas autarquias e fundações, as normas atinentes ao regime previdenciário estabelecidas pelas Emendas à Constituição Federal nº. 20, de 15 de dezembro de 1998, n.º 41, de 19 de dezembro de 2003 e n.º 47, de 5 de julho de 2005. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -5276,11 +5285,11 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 136
 
 **Art. 355.** O dia 13 de Setembro, data magna do Amapá, é feriado em todo o território do Estado.
 
-**Art. 356.** Cessada a investidura no cargo de Governador do Estado, quem o tiver exercido em caráter permanente, e por prazo não inferior a seis meses, fará jus, a título de representação, a um subsídio mensal e vitalício igual aos vencimentos do cargo de Desembargador do Tribunal de Justiça do Estado. (incluído pela Emenda Constitucional nº 3, de 30.11.1995) (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**Art. 356.** Cessada a investidura no cargo de Governador do Estado, quem o tiver exercido em caráter permanente, e por prazo não inferior a seis meses, fará jus, a título de representação, a um subsídio mensal e vitalício igual aos vencimentos do cargo de Desembargador do Tribunal de Justiça do Estado. (incluído pela Emenda Constitucional nº 3, de 30.11.1995)</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 1º** Investido em cargo eletivo, o ex-governador não perceberá o beneficio enquanto durar o mandato. (incluído pela Emenda Constitucional nº 3, de 30.11.1995) (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**§ 1º** Investido em cargo eletivo, o ex-governador não perceberá o beneficio enquanto durar o mandato. (incluído pela Emenda Constitucional nº 3, de 30.11.1995)</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**§ 2º** O benefício previsto neste artigo estende-se aos ex-governadores do extinto Território Federal do Amapá, observando-se os mesmos critérios quanto a titularidade e tempo de exercício no cargo”. (incluído pela Emenda Constitucional nº 3, de 30.11.1995) (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**§ 2º** O benefício previsto neste artigo estende-se aos ex-governadores do extinto Território Federal do Amapá, observando-se os mesmos critérios quanto a titularidade e tempo de exercício no cargo”. (incluído pela Emenda Constitucional nº 3, de 30.11.1995)</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
 **Art. 357.** Os ex-integrantes da extinta Guarda Territorial do Amapá farão jus, quando carentes, ao recebimento de pensão especial vitalícia não inferior a dois salários mínimos, sendo a mesma inacumulável com quaisquer outros rendimentos recebidos dos cofres públicos, exceto os benefícios previdenciários, garantido o direito de opção. (incluído pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -5414,7 +5423,7 @@ II - do imposto sobre a propriedade de veículos automotores sobre veículo util
 
 **Art. 23.** O Estado promoverá o recadastramento de todas as propriedades rurais do Estado que não compreendam patrimônio da União.
 
-**Art. 24.** Até que seja disciplinada por lei, de iniciativa do Tribunal de Justiça, e empossados os juízes de paz eleitos na conformidade desta Constituição, a Justiça de Paz estadual será regulada por ato normativo do Tribunal de Justiça.
+<del>**Art. 24.** Até que seja disciplinada por lei, de iniciativa do Tribunal de Justiça, e empossados os juízes de paz eleitos na conformidade desta Constituição, a Justiça de Paz estadual será regulada por ato normativo do Tribunal de Justiça.</del>
 
 **Art. 24.** A lei que instituir a justiça de paz manterá os atuais juízes de paz até a posse dos novos titulares, assegurando-lhes os direitos e atribuições conferidos a estes, e designará o dia para a eleição prevista no art. 141 desta Constituição. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 
@@ -5434,7 +5443,7 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 140
 
 **Art. 28.** Fica o Poder Executivo autorizado a construir, na Capital do Estado, a Praça da Bíblia, com o respectivo monumento, destinado as festividades religiosas.
 
-**Art. 29.** Os assistentes jurídicos pertencentes ao quadro do extinto Território Federal do Amapá, sob a subordinação da Procuradoria-Geral e da Defensoria Pública do Estado, que optarem pelo quadro de servidores estaduais, serão denominados Procuradores ou Defensores Públicos do Estado, assegurado o direito de integrar os respectivos quadros de carreira. (Dispositivo declarado inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal, no julgamento da ADIN nº 1267-3)
+<del>**Art. 29.** Os assistentes jurídicos pertencentes ao quadro do extinto Território Federal do Amapá, sob a subordinação da Procuradoria-Geral e da Defensoria Pública do Estado, que optarem pelo quadro de servidores estaduais, serão denominados Procuradores ou Defensores Públicos do Estado, assegurado o direito de integrar os respectivos quadros de carreira.</del> (Dispositivo declarado inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal, no julgamento da ADIN nº 1267-3)
 
 **Art. 30.** Até a promulgação da lei de que trata o art. 244 desta Constituição, poderão ser enquadrados no regime fiscal das microempresas aquelas cujo valor anual das entradas de mercadorias e serviços de transporte, utilizados na industrialização ou comercialização, não ultrapasse doze milhões de cruzeiros, corrigido pelo índice oficial adotado.
 
@@ -5458,7 +5467,7 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 141
 
 **Art. 38.** Ficam reconhecidas pelo Estado as Escolas Famílias existentes no interior do Amapá, sendo-lhes garantidos seus princípios e sua metodologia. (redação dada pela Emenda Constitucional nº 34, de 22.07.2005)
 
-**Parágrafo único.** O Estado estimulará a criação de Escolas Famílias Agrícolas, garantindo-lhes apoio necessário para o pleno êxito de seu funcionamento.
+<del>**Parágrafo único.** O Estado estimulará a criação de Escolas Famílias Agrícolas, garantindo-lhes apoio necessário para o pleno êxito de seu funcionamento.</del>
 
 **Parágrafo único.** O Estado estimulará a criação de Escolas Famílias, garantindo-lhes apoio necessário para o pleno êxito de seu funcionamento. (redação dada pela Emenda Constitucional nº 34, de 22.07.2005)
 
@@ -5502,9 +5511,9 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 142
 
 **Art. 51.** Fica estabelecido que a Bíblia Sagrada será colocada em todas as repartições públicas, inclusive nos estabelecimentos escolares, no vestíbulo do prédio, para uso de quem assim o desejar.
 
-**Art. 52.** Os servidores públicos civis do Estado e dos Municípios, da administração direta, autárquica e das fundações públicas, em exercício na data da promulgação desta Constituição, há pelo menos cinco anos de exercício contínuo, e que não tenham sido admitidos na forma regulada pelo art. 37 da Constituição Federal, são considerados estáveis no serviço público. (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**Art. 52.** Os servidores públicos civis do Estado e dos Municípios, da administração direta, autárquica e das fundações públicas, em exercício na data da promulgação desta Constituição, há pelo menos cinco anos de exercício contínuo, e que não tenham sido admitidos na forma regulada pelo art. 37 da Constituição Federal, são considerados estáveis no serviço público.</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
-**Parágrafo único.** O disposto neste artigo não se aplica aos ocupantes de cargos, funções e empregos de confiança ou em comissão, nem aos que a lei declare de livre exoneração, cujo tempo de serviço não será computado para os fins do caput deste artigo, exceto se se tratar de servidor. (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>**Parágrafo único.** O disposto neste artigo não se aplica aos ocupantes de cargos, funções e empregos de confiança ou em comissão, nem aos que a lei declare de livre exoneração, cujo tempo de serviço não será computado para os fins do caput deste artigo, exceto se se tratar de servidor.</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
 **Art. 53.** O Poder Executivo mandará imprimir a presente Constituição para distribuí-la, ampla e gratuitamente, a todos os organismos públicos e interessados.
 
@@ -5524,9 +5533,9 @@ CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 143
 
 requisitos do § 1º do mencionado artigo. (incluído pela Emenda Constitucional nº 5, de 1996)
 
-**Art. 55.** Lei Complementar disciplinará o disposto no Parágrafo único do
+<del>**Art. 55.** Lei Complementar disciplinará o disposto no Parágrafo único do</del>
 
-art. 79 desta Constituição, no prazo máximo de 60 (sessenta) dias, assegurando aos Delegados de Polícia de carreira, isonomia de vencimentos com as carreiras de Procuradores ou de Defensores Públicos do Estado. (incluído pela Emenda Constitucional nº 9, de 28.08.1997) (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
+<del>art. 79 desta Constituição, no prazo máximo de 60 (sessenta) dias, assegurando aos Delegados de Polícia de carreira, isonomia de vencimentos com as carreiras de Procuradores ou de Defensores Públicos do Estado. (incluído pela Emenda Constitucional nº 9, de 28.08.1997)</del> (revogado pela Emenda Constitucional nº 35, de 21.03.2006)
 
 **Art. 56.** A desativação de empresas industriais e comerciais com atividades no Estado do Amapá, implantadas por meio de contrato ou concessão do Poder Público, utilizando recursos do solo, subsolo e meio hídrico, e gozando de doações, isenções, incentivos ou subsídios de quaisquer espécies, observará: (incluído pela Emenda Constitucional nº 10, de 19.12.1997)
 
@@ -5536,17 +5545,17 @@ II - para acompanhar os trabalhos de desativação das empresas, a Assembleia Le
 
 III - o Ministério Público designará dois representantes, a convite da Assembleia Legislativa, para acompanharem os trabalhos de desativação da empresa; (incluído pela Emenda Constitucional nº 10, de 19.12.1997)
 
-IV - Os bens e benfeitorias que vierem a ser deixados pelos complexos operacionais das empresas desativadas serão destinados, preferencialmente, para os municípios que os sediarem, mediante plano de ação conjunto das prefeituras municipais envolvidas e com interveniência do governo do estado do Amapá. (incluído pela Emenda Constitucional nº 10, de 19.12.1997)
+<del>IV - Os bens e benfeitorias que vierem a ser deixados pelos complexos operacionais das empresas desativadas serão destinados, preferencialmente, para os municípios que os sediarem, mediante plano de ação conjunto das prefeituras municipais envolvidas e com interveniência do governo do estado do Amapá. (incluído pela Emenda Constitucional nº 10, de 19.12.1997)</del>
 
 IV - Todos os bens móveis e imóveis que vierem a ser deixados pelos complexos operacionais das empresas desativadas serão destinados para os municípios que os sediarem. (redação dada pela Emenda Constitucional nº 13, de 29.09.1999)
 
-**Parágrafo único.** A infraestrutura sócioeconômica localizada no município de Serra do navio, implantada pela ICOMI – Indústria e Comércio de Minérios S/A e a ser revertida ao Poder Público destinar-se-á, também, à instalação e desenvolvimento de atividades de entidades públicas de pesquisas científico- tecnológica e de extensão próprias do ensino superior. (incluído pela Emenda Constitucional nº 10, de 19.12.1997)
+<del>**Parágrafo único.** A infraestrutura sócioeconômica localizada no município de Serra do navio, implantada pela ICOMI – Indústria e Comércio de Minérios S/A e a ser revertida ao Poder Público destinar-se-á, também, à instalação e desenvolvimento de atividades de entidades públicas de pesquisas científico- tecnológica e de extensão próprias do ensino superior. (incluído pela Emenda Constitucional nº 10, de 19.12.1997)</del>
 
 **§ 1º** Os bens que ocuparem espaço territorial de mais de um município serão destinados ao Estado do Amapá. (incluído pela Emenda Constitucional nº 13, de 29.09.1999)
 
 **§ 2º** A infraestrutura sócio-econômica localizada no Município de Serra do Navio, implantada pela ICOMI – Indústria e Comércio de Minérios S/A, a ser revertida ao Poder Público, destinar-se-á, também, à instalação e desenvolvimento de atividades de entidades públicas de pesquisa científico-tecnológica e de extensão próprias do ensino superior. (anteriormente parágrafo único, transformado em § 2º pela Emenda Constitucional nº 13, de 1999)
 
-**Art. 57.** O mandato da atual administração do Tribunal de Contas do Estado do Amapá se estenderá até a data estabelecida no § 8º do art. 113 da Constituição do Estado. (incluído pela Emenda Constitucional nº 19, de 22.11.2000) CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 144
+<del>**Art. 57.** O mandato da atual administração do Tribunal de Contas do Estado do Amapá se estenderá até a data estabelecida no § 8º do art. 113 da Constituição do Estado. (incluído pela Emenda Constitucional nº 19, de 22.11.2000)</del> CONSTITUIÇÃO DO ESTADO DO AMAPÁ CONSOLIDADA Página 144
 
 **Art. 57.** Os vencimentos, a remuneração, as vantagens e os adicionais, bem como os proventos de aposentadoria que estejam sendo percebidos em desacordo com a Constituição serão imediatamente reduzidos aos limites dela decorrentes, não se admitindo, neste caso, invocação de direito adquirido ou percepção de excesso a qualquer título. (redação dada pela Emenda Constitucional nº 35, de 21.03.2006)
 

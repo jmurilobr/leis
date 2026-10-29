@@ -1,0 +1,38 @@
+--- original_replay730.py
++++ replay730_export.py
+@@ -1,10 +1,13 @@
+ """Replay portátil dos aprovados: sem rede, /tmp, caches de captura ou escrita."""
+ from pathlib import Path
+ import sys,json,gzip,hashlib,base64,re,datetime,ast,subprocess
+-B=Path(__file__).resolve().parent;ROOT=B.parents[3];sys.dont_write_bytecode=True;sys.path.insert(0,str(ROOT/'scripts'));sys.path.insert(0,str(ROOT/'scripts/bin/qa-20261027/python'));sys.path.insert(0,str(ROOT/'scripts/bin/qa-html5-20261027/python'))
+-sha=lambda b:hashlib.sha256(b).hexdigest();receipt=json.loads((B/'recibo730.json').read_bytes())
+-for r in receipt['codigos']:assert sha((ROOT/r['path']).read_bytes())==r['sha256'],r['path']
+-assert sha(Path(__file__).read_bytes())==receipt['sha256_runner']
++B=Path(__file__).resolve().parent;ROOT=B.parents[3];sys.dont_write_bytecode=True;sys.path.insert(0,str(B/'codigo/scripts'));sys.path.insert(0,str(ROOT/'scripts/bin/qa-20261027/python'));sys.path.insert(0,str(ROOT/'scripts/bin/qa-html5-20261027/python'))
++sha=lambda b:hashlib.sha256(b).hexdigest();export=json.loads((B/'recibo_exportacao.json').read_bytes());assert sha(Path(__file__).read_bytes())==export['sha256_replay_exportado'];assert sha((B/'versoes_exportadas.py').read_bytes())==export['sha256_resolvedor'];assert sha((B/'mapa_versoes.json').read_bytes())==export['sha256_mapa_versoes'];from versoes_exportadas import arquivo_logico,validar_export;validar_export();receipt=json.loads((B/'original_recibo730.json').read_bytes())
++for r in receipt['codigos']:assert sha(arquivo_logico(r['path']).read_bytes())==r['sha256'],r['path']
++assert sha((B/'original_replay730.py').read_bytes())==receipt['sha256_runner']
++import urllib.request
++def sem_rede(*args,**kwargs):raise AssertionError('HTTP proibido no replay exportado')
++urllib.request.urlopen=sem_rede
+ import html5lib
+ from markdown_it import MarkdownIt
+ from preparar_lote_decretos_cache import fields
+@@ -20,7 +23,7 @@
+  if not entry:continue
+  p=entry.split(b'\t',1)[1].decode();m=re.fullmatch(r'federal/decretos/(\d{4})/dec-(.+)-\d{4}-\d\d-\d\d.md',p)
+  if m:known[(m[2].lstrip('0'),m[1])]=p
+-sourcecode=ROOT/'federal/_fonte/auditorias/commonmark8886_20261027_001/replay_commonmark_html5.py';tree=ast.parse(sourcecode.read_text());names={'tag','visible','ancestor','matrices','alpha','roman','lists'};nodes=[n for n in tree.body if isinstance(n,ast.FunctionDef) and n.name in names or isinstance(n,ast.Assign) and any(isinstance(t,ast.Name) and t.id in {'BLOCK','SKIP'} for t in n.targets)];assert len(nodes)==9;env={};exec(compile(ast.Module(body=nodes,type_ignores=[]),str(sourcecode),'exec'),env);tree=ast.parse((ROOT/'federal/_fonte/auditorias/alimentacao_normas_20261028_019/qualificar_snapshot_v4.py').read_text());node=next(n for n in tree.body if isinstance(n,ast.FunctionDef) and n.name=='principal_fechos');closing_env={'normal':normal,'FECHO':FECHO,'MESES':MESES,'v':v,'re':re,'datetime':datetime};exec(compile(ast.Module(body=[node],type_ignores=[]),'principal_fechos_congelado','exec'),closing_env);public={r['path']:r for r in manifest['publicaveis_privados']};assert len(public)==730;held={r['path'] for r in manifest['retencoes_contextuais']['registros']};assert len(held)==19 and not set(public)&held;assert len(public)==manifest['resumo']['publicaveis_privados'];positions={p['path']:0 for p in mapping['partes']};counts={p['path']:0 for p in mapping['partes']}
++sourcecode=arquivo_logico('federal/_fonte/auditorias/commonmark8886_20261027_001/replay_commonmark_html5.py');tree=ast.parse(sourcecode.read_text());names={'tag','visible','ancestor','matrices','alpha','roman','lists'};nodes=[n for n in tree.body if isinstance(n,ast.FunctionDef) and n.name in names or isinstance(n,ast.Assign) and any(isinstance(t,ast.Name) and t.id in {'BLOCK','SKIP'} for t in n.targets)];assert len(nodes)==9;env={};exec(compile(ast.Module(body=nodes,type_ignores=[]),str(sourcecode),'exec'),env);tree=ast.parse(arquivo_logico('federal/_fonte/auditorias/alimentacao_normas_20261028_019/qualificar_snapshot_v4.py').read_text());node=next(n for n in tree.body if isinstance(n,ast.FunctionDef) and n.name=='principal_fechos');closing_env={'normal':normal,'FECHO':FECHO,'MESES':MESES,'v':v,'re':re,'datetime':datetime};exec(compile(ast.Module(body=[node],type_ignores=[]),'principal_fechos_congelado','exec'),closing_env);public={r['path']:r for r in manifest['publicaveis_privados']};assert len(public)==730;held={r['path'] for r in manifest['retencoes_contextuais']['registros']};assert len(held)==19 and not set(public)&held;assert len(public)==manifest['resumo']['publicaveis_privados'];positions={p['path']:0 for p in mapping['partes']};counts={p['path']:0 for p in mapping['partes']}
+ for part in mapping['partes']:
+  data=(ROOT/part['path']).read_bytes();assert sha(data)==part['sha256_gzip'] and len(data)==part['bytes_gzip']<95*1024**2
+ rows=[];paths=set();urns=set();identities=set()
+@@ -37,7 +40,7 @@
+   assert sha(body.encode())==note['sha256_corpo_inalterado'];line=re.compile(r'^'+re.escape(note['campo_editorial'])+r': .*\n',re.M);assert len(line.findall(md.decode()))==1;without=line.sub('',md.decode());assert sha(without.encode())==note['predecessor_privado']['sha256']
+  rows.append({'path':r['path'],'markdown':payload,'norm':norm})
+ for part in mapping['partes']:assert positions[part['path']]==part['bytes_gzip'] and counts[part['path']]==part['registros']
+-assert paths==set(public);code="import {marked} from '/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/marked/lib/marked.esm.js';let t='';for await(const x of process.stdin)t+=x;process.stdout.write(JSON.stringify(JSON.parse(t).map(r=>({path:r.path,html:marked.parse(r.markdown,{gfm:true,pedantic:false,breaks:false})}))));";marked={r['path']:r['html'] for r in json.loads(subprocess.check_output(['node','--input-type=module','-e',code],input=json.dumps(rows).encode()))};cm=MarkdownIt('commonmark',{'html':True,'linkify':False,'typographer':False})
++assert paths==set(public);code="import {marked} from 'file:///Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/vendor/marked.esm.mjs';let t='';for await(const x of process.stdin)t+=x;process.stdout.write(JSON.stringify(JSON.parse(t).map(r=>({path:r.path,html:marked.parse(r.markdown,{gfm:true,pedantic:false,breaks:false})}))));";marked={r['path']:r['html'] for r in json.loads(subprocess.check_output(['node','--input-type=module','-e',code],input=json.dumps(rows).encode()))};cm=MarkdownIt('commonmark',{'html':True,'linkify':False,'typographer':False})
+ for r in rows:
+  a=v.texto_visivel_html(r['norm']);sp=Visivel();sp.feed(r['norm']);st=html5lib.parse(r['norm'],treebuilder='etree',namespaceHTMLElements=False);a5=env['visible'](st.find('body'));sm=env['matrices'](st);sl=env['lists'](st)
+  for h in [marked[r['path']],cm.render(r['markdown'])]:

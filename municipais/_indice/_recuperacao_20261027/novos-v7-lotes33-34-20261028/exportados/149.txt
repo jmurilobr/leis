@@ -1,0 +1,62 @@
+---
+titulo: "Lei Ordinária nº 515, de 19 de junho de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "515"
+data: "2019-06-19"
+municipio: "Guadalupe"
+uf: "PI"
+codigo_ibge: "2204501"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guadalupe.pi.leg.br/norma/259"
+fonte_texto: "https://sapl.guadalupe.pi.leg.br/ta/128/text"
+sha256_fonte: "5949905bf3ba1f18721983e25f361481d7010299ded43fee921435c876406459"
+sha256_texto: "6084d76b2305e201549446fe7ad6db5fc3dee0c625fc3a99bcd76ae28bda68a0"
+capturado_em_fonte: "2026-10-28T12:47:07.937273-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 515, de 19 de junho de 2019
+
+Autoriza o Poder Executivo Municipal a abrir Crédito Adicional Especial no orçamento vigente, no valor de R$ 23.000,00 ( vinte e três mil reais), e a criar um programa de trabalho para viabilizar a execução para o fim a que se destina e dá outras providências.
+
+
+A Prefeita Municipal de Guadalupe, Estado do Piauí. Faço saber que a Câmara Municipal de Guadalupe aprova e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica aberto no orçamento em vigor, Lei Orçamentária Anual n° 505/2018 ,o Crédito Adicional Especial no valor de R$ 23.000,00 (vinte e três mil reais).
+
+
+Art. 2º.
+
+Para viabilizar a execução da despesa objeto deste crédito adicional, fica criado, no referido orçamento do exercício financeiro de 2019, o Programa de Trabalho e os elementos de despesa a seguir:
+
+
+<table><tbody><tr><td><strong>Códigos</strong></td><td><strong>Especificações</strong></td><td><strong>Valores</strong></td></tr><tr><td>26.782.0002.2100.0000</td><td>Auxilio em atividades de risco que necessitarem de recursos humanos em estado de alerta e capacitados para operações de salvamento ac público alvo em caso de emergência</td><td>23.000,00</td></tr><tr><td>3390.14.00<br>3390.36.00<br>3390.39.00</td><td>Diárias<br>Outros Serviços de Terceiros - Pessoa Física<br>Outros Serviços de Terceiros - Pessoa Jurídica</td><td>22.500,00<br>500,00<br>0,00</td></tr></tbody></table>
+
+
+Art. 3º.
+
+Os recursos para cobertura das despesas com o programa ora criado são derivados da receita própria do Governo Municipal.
+
+
+Art. 4º.
+
+Fica o Poder Executivo Municipal autorizado a fazer por decreto os ajustes necessários à execução do programa.
+
+
+Art. 5º.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Gabinete da Prefeita Municipal de Guadalupe aos dezenove dias do mês de junho de dois mil e dezenove.  
+  
+Maria Jozeneide Fernandes Lima  
+Prefeita Municipal
+

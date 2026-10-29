@@ -1,0 +1,229 @@
+{
+  "preparado_em": "2026-10-28T13:15:28.089952-03:00",
+  "total": 12,
+  "leis_ordinarias": 9,
+  "leis_complementares": 3,
+  "edicoes_com_ocorrencias_textuais": 12,
+  "com_recorte_demonstrado": 2,
+  "entrada": 1647,
+  "retidos": 1635,
+  "manifesto": "scripts/estados/manifestos/to12-proposta-privada-20261028-001.json",
+  "sha256_manifesto": "01d7fccfc7fb8efa133d6f2b9b2db7a8520d617a8d47b36b20f29c9fc3ce7a08",
+  "mapa_replay": "estaduais/TO/_fonte/auditorias/to12-privado-20261028-001/final/hashes.json",
+  "sha256_mapa_replay": "87a82e676861abaaa7516e1631ad958763056cf1b7ee7a581e69f76538c42587",
+  "portabilidade": {
+    "replay": {
+      "total": 12,
+      "aprovados": 12,
+      "falhas": 0,
+      "rede": false,
+      "promovidos": 0
+    },
+    "conjunto_testes": [
+      {
+        "modulo": "test_clipping_pdf_textual_to",
+        "testes": 26
+      },
+      {
+        "modulo": "test_contexto_to_pdf",
+        "testes": 15
+      },
+      {
+        "modulo": "test_edicao_anotada_to",
+        "testes": 6
+      },
+      {
+        "modulo": "test_formulas_to_pdf",
+        "testes": 6
+      },
+      {
+        "modulo": "test_metadados_to_pdf",
+        "testes": 5
+      },
+      {
+        "modulo": "test_observacao_catalogo_to",
+        "testes": 3
+      },
+      {
+        "modulo": "test_ocorrencias_alteracao_to",
+        "testes": 3
+      },
+      {
+        "modulo": "test_referencias_inline_to",
+        "testes": 6
+      },
+      {
+        "modulo": "test_to_pdf_simples",
+        "testes": 7
+      },
+      {
+        "modulo": "test_visibilidade_pdf_to",
+        "testes": 8
+      },
+      {
+        "modulo": "test_promover_to_pdf_privado",
+        "testes": 15
+      }
+    ],
+    "testes": 100,
+    "falhas": 0,
+    "erros": 0,
+    "bloqueios_fora_exportacao": [],
+    "fontTools_do_wheel_do_mapa": true,
+    "exportacao_somente_mapa": true,
+    "QA_externo": "scripts/bin/qa-20261027/python",
+    "Python": "-I -B"
+  },
+  "dry_run": {
+    "finalizado_em": "2026-10-28T13:10:59.091375-03:00",
+    "modo": "dry-run",
+    "aptos": 12,
+    "promovidos": 0,
+    "HEAD": "5049394a3924887143fb9a5e0816046e7c0a7232"
+  },
+  "diff_check": {
+    "arquivos": 37,
+    "diagnosticos": []
+  },
+  "diagnostico_sem_ano": "estaduais/TO/_fonte/auditorias/to12-privado-20261028-001/final/coincidencias-numero-sem-ano-atual.json",
+  "inspecao_visual": "estaduais/TO/_fonte/auditorias/amostra-12-20261028-037/recibo-visual.json",
+  "sha256_inspecao_visual": "3366dd75fbbd10088f4690f845a84f4f27ec270c57b0e07c99434ea39b1489f1",
+  "codigo": {
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/pdf_texto_fiel.py": "8a7488a99a1b8b3661093f67263df586f9502ccf9758ca7c4c0a1184a602ed7a",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_visibilidade_pdf_to.py": "34d4a6b403415be2efd562740db9d340a025accca8049d539a038fc7ee79e4fa",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/ocorrencias_alteracao_to.py": "5acf9d4f4650c5c86cb845e3ef75f18cba5f8afe7000f0be317962760d4eed77",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_formulas_to_pdf.py": "7fd2507e476f6d0ad07af6c24139cc142b25fc3baa3a8ea9808400de1b91c7ef",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_observacao_catalogo_to.py": "ed93a200903e591bc83116d28b5cb02aeb7e063d070740e8103ba1deea02cf07",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/referencias_inline_to.py": "5dce6c608ea0688007932010101bcb9207b873c321826e0ca6c87fc5178ea34a",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_contexto_to_pdf.py": "8add9728f701f5c9bdb0f66c98370caa524c1c9b28c52d9e160ed3b64bc15060",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/requirements.txt": "15fa2aa11855af59fe14ace2639e11611e3f7287c3a9b5ed00bb393d8e40f3ac",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/REPLAY.txt": "a104f5054fc4665708b58e02b5fe94972d758b312bf7b1c655ec7b62952e98e6",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/visibilidade_pdf_to.py": "87a36b4d0c9e40a713c41c9fada9efd5ffad2077295abc22073f9452e23c78d0",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_to_pdf_simples.py": "76c504dc8754e70419cbf2172dee2a78a0e10592ee4f887944503e6c4370a32b",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_metadados_to_pdf.py": "da3938c4258d1547ce759ae7cb1caf2657d5bf185bdc1e2ef036731a6f756754",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_edicao_anotada_to.py": "b63fa6544a45e52da0423d6f693fb47f540930e8059e9ae2cf5e7ed5ef086f9d",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/auditar_to_pdf_simples.py": "28c2051d325cb228b207f3f5c289d048c37ad2c458e9b3e5be051cefd1950c33",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/observacao_catalogo_to.py": "bcb6ac7046eb89cf0ec3f6ead0bdaf2d9525635796d3b8e901668dcd6f5d7937",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/formulas_to_pdf.py": "d2d7a6c5ca87afad2633a581d76c10988f386565ed287a4c695592b52a541496",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/contexto_to_pdf.py": "5017c0f3b3b8c824d3995dc10d7102b0a7dcec4eebbeed74f550b0015879b509",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/metadados_to_pdf.py": "63a45555ed748c65fa3e473812a8ea7c4fadee890e1550ea6d073e17d46681d3",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/clipping_pdf_textual_to.py": "85ed6406b45c4cef675425cb2fe857bb1c05a5f642cdff924877d3ffdd51c13c",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_referencias_inline_to.py": "dfb8ef3beaff51a15646cd57d7a4ae9909d520d30dbee3758832bf613fcb7466",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_clipping_pdf_textual_to.py": "afbe1fe89ecffbc09860357ef32d5357e175c2892c6276fffd68f16ff1da8892",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/coletar_to_portal_indice.py": "15263ad6ec643232b7eaca59c86b42fbb591cf93ca66f9244d85549d90b346bf",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/reexecutar_to_pdf.py": "f96437614fc16523c2baa31cbd2d4a7ad669cb804820443520f84e49a239f3fb",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/edicao_anotada_to.py": "84f6484d1e39428460b4cf3e568403dc1da509c255145f6d0c0dcd891f711af8",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_ocorrencias_alteracao_to.py": "2800afe7178ebc6195787d6fbae96ee380c317975aa7bbffd28e651c9b84baf4",
+    "scripts/estados/snapshots/to_promocao_20261028_001/promover_to_pdf_privado.py": "da46be194e42693cf905b797f8d412619152045e61732ec92ee87f8595e82371",
+    "scripts/estados/snapshots/to_promocao_20261028_001/test_promover_to_pdf_privado.py": "b1e7c055085fad2e9588b58faddc7150f3b3c9b1d7477942820893b724c99e8f"
+  },
+  "relacao_predecessor": {
+    "preparado_em": "2026-10-28T13:15:27.970918-03:00",
+    "predecessor_perfil": 82,
+    "predecessor_runner": 15,
+    "predecessor_total": 97,
+    "sucessor_perfil": 85,
+    "sucessor_runner": 15,
+    "sucessor_total": 100,
+    "testes_anteriores": [
+      {
+        "modulo": "test_visibilidade_pdf_to",
+        "predecessor": "scripts/estados/snapshots/to_pdf_simples_20261028_008/test_visibilidade_pdf_to.py",
+        "sha256_predecessor": "34d4a6b403415be2efd562740db9d340a025accca8049d539a038fc7ee79e4fa",
+        "sucessor": "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_visibilidade_pdf_to.py",
+        "sha256_sucessor": "34d4a6b403415be2efd562740db9d340a025accca8049d539a038fc7ee79e4fa",
+        "identico": true
+      },
+      {
+        "modulo": "test_formulas_to_pdf",
+        "predecessor": "scripts/estados/snapshots/to_pdf_simples_20261028_008/test_formulas_to_pdf.py",
+        "sha256_predecessor": "7fd2507e476f6d0ad07af6c24139cc142b25fc3baa3a8ea9808400de1b91c7ef",
+        "sucessor": "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_formulas_to_pdf.py",
+        "sha256_sucessor": "7fd2507e476f6d0ad07af6c24139cc142b25fc3baa3a8ea9808400de1b91c7ef",
+        "identico": true
+      },
+      {
+        "modulo": "test_observacao_catalogo_to",
+        "predecessor": "scripts/estados/snapshots/to_pdf_simples_20261028_008/test_observacao_catalogo_to.py",
+        "sha256_predecessor": "ed93a200903e591bc83116d28b5cb02aeb7e063d070740e8103ba1deea02cf07",
+        "sucessor": "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_observacao_catalogo_to.py",
+        "sha256_sucessor": "ed93a200903e591bc83116d28b5cb02aeb7e063d070740e8103ba1deea02cf07",
+        "identico": true
+      },
+      {
+        "modulo": "test_contexto_to_pdf",
+        "predecessor": "scripts/estados/snapshots/to_pdf_simples_20261028_008/test_contexto_to_pdf.py",
+        "sha256_predecessor": "8add9728f701f5c9bdb0f66c98370caa524c1c9b28c52d9e160ed3b64bc15060",
+        "sucessor": "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_contexto_to_pdf.py",
+        "sha256_sucessor": "8add9728f701f5c9bdb0f66c98370caa524c1c9b28c52d9e160ed3b64bc15060",
+        "identico": true
+      },
+      {
+        "modulo": "test_to_pdf_simples",
+        "predecessor": "scripts/estados/snapshots/to_pdf_simples_20261028_008/test_to_pdf_simples.py",
+        "sha256_predecessor": "76c504dc8754e70419cbf2172dee2a78a0e10592ee4f887944503e6c4370a32b",
+        "sucessor": "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_to_pdf_simples.py",
+        "sha256_sucessor": "76c504dc8754e70419cbf2172dee2a78a0e10592ee4f887944503e6c4370a32b",
+        "identico": true
+      },
+      {
+        "modulo": "test_metadados_to_pdf",
+        "predecessor": "scripts/estados/snapshots/to_pdf_simples_20261028_008/test_metadados_to_pdf.py",
+        "sha256_predecessor": "da3938c4258d1547ce759ae7cb1caf2657d5bf185bdc1e2ef036731a6f756754",
+        "sucessor": "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_metadados_to_pdf.py",
+        "sha256_sucessor": "da3938c4258d1547ce759ae7cb1caf2657d5bf185bdc1e2ef036731a6f756754",
+        "identico": true
+      },
+      {
+        "modulo": "test_edicao_anotada_to",
+        "predecessor": "scripts/estados/snapshots/to_pdf_simples_20261028_008/test_edicao_anotada_to.py",
+        "sha256_predecessor": "b63fa6544a45e52da0423d6f693fb47f540930e8059e9ae2cf5e7ed5ef086f9d",
+        "sucessor": "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_edicao_anotada_to.py",
+        "sha256_sucessor": "b63fa6544a45e52da0423d6f693fb47f540930e8059e9ae2cf5e7ed5ef086f9d",
+        "identico": true
+      },
+      {
+        "modulo": "test_referencias_inline_to",
+        "predecessor": "scripts/estados/snapshots/to_pdf_simples_20261028_008/test_referencias_inline_to.py",
+        "sha256_predecessor": "dfb8ef3beaff51a15646cd57d7a4ae9909d520d30dbee3758832bf613fcb7466",
+        "sucessor": "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_referencias_inline_to.py",
+        "sha256_sucessor": "dfb8ef3beaff51a15646cd57d7a4ae9909d520d30dbee3758832bf613fcb7466",
+        "identico": true
+      },
+      {
+        "modulo": "test_clipping_pdf_textual_to",
+        "predecessor": "scripts/estados/snapshots/to_pdf_simples_20261028_008/test_clipping_pdf_textual_to.py",
+        "sha256_predecessor": "afbe1fe89ecffbc09860357ef32d5357e175c2892c6276fffd68f16ff1da8892",
+        "sucessor": "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_clipping_pdf_textual_to.py",
+        "sha256_sucessor": "afbe1fe89ecffbc09860357ef32d5357e175c2892c6276fffd68f16ff1da8892",
+        "identico": true
+      }
+    ],
+    "novos_modulos": [
+      "test_ocorrencias_alteracao_to.py"
+    ],
+    "runner_mesmo_codigo": "scripts/estados/snapshots/to_promocao_20261028_001",
+    "protecoes": "Todos os 9 módulos de teste do perfil 008 permanecem byte idênticos; os mesmos 15 testes do runner continuam. Acrescentados 3 testes de classificação/preservação de ocorrências internas. A mudança intencional substitui retenção lexical de ocorrência interna por rótulo histórico e trecho literal de natureza não classificada, sem alterar os gates de gráficos/tachado/ocultação, fonte, identidade, datas, objetos, ato próprio ou igualdade integral. Nenhum texto é apagado e nenhum efeito jurídico é inferido."
+  },
+  "versoes": {
+    "pdfplumber": "0.11.9",
+    "pdfminer.six": "20251230",
+    "pypdf": "6.10.0",
+    "reportlab": "4.4.9",
+    "markdown-it-py": "4.0.0",
+    "mdurl": "0.1.2",
+    "lxml": "6.1.1",
+    "fonttools": "4.60.1, wheel puro do mapa"
+  },
+  "Python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "pdftotext": "pdftotext version 26.10.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC",
+  "sem_Git_escrita": true,
+  "nenhum_apply_executado": true,
+  "metas_inalteradas": true,
+  "esquema": "Ordem/campos README; baixado_em data real YYYY-MM-DD em UTC-03. Situação/revogada null; edição DOE e vigência não certificadas.",
+  "retencao_individual": "Dez recursos com coincidências de pasta/número/ano foram excluídos antes desta seleção; os 12 são disjuntos dos pacotes 472, 63 e 44 e das retenções manuais anteriores.",
+  "comandos": {
+    "replay": "PYTHONPATH=\"$PWD/estaduais/TO/_fonte/auditorias/qa-fontes-20261028-001/fonttools-4.60.1-py3-none-any.whl:$PWD/scripts/bin/qa-20261027/python:$PWD/scripts/estados/snapshots/to_pdf_simples_20261028_009:$PWD/scripts/estados/snapshots/to_promocao_20261028_001\" python3 -B scripts/estados/snapshots/to_pdf_simples_20261028_009/reexecutar_to_pdf.py --manifesto scripts/estados/manifestos/to12-proposta-privada-20261028-001.json --hashes estaduais/TO/_fonte/auditorias/to12-privado-20261028-001/final/hashes.json --recibo RECIBO_NOVO.json",
+    "dry_run": "PYTHONPATH=\"$PWD/estaduais/TO/_fonte/auditorias/qa-fontes-20261028-001/fonttools-4.60.1-py3-none-any.whl:$PWD/scripts/bin/qa-20261027/python:$PWD/scripts/estados/snapshots/to_pdf_simples_20261028_009:$PWD/scripts/estados/snapshots/to_promocao_20261028_001\" python3 -B scripts/estados/snapshots/to_promocao_20261028_001/promover_to_pdf_privado.py --manifesto scripts/estados/manifestos/to12-proposta-privada-20261028-001.json --hashes estaduais/TO/_fonte/auditorias/to12-privado-20261028-001/final/hashes.json --total-esperado 12 --controle CONTROLE_PRIVADO_NOVO"
+  }
+}

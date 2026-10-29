@@ -1,0 +1,197 @@
+---
+titulo: "Lei Ordinária nº 526, de 21 de novembro de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "526"
+data: "2011-11-21"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/2525"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1917/text"
+sha256_fonte: "4ba6f04d46a0a793d818aa1e2e4cc5be836e2dde1402c23ec51e578b221ba70b"
+sha256_texto: "5585f98f79fa0d399248f423c7fbd635f23f6f06e4ea55a9464b2da5e50ed279"
+capturado_em_fonte: "2026-10-28T11:53:39.731652-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 526, de 21 de novembro de 2011
+
+Dispõe sobre a política “antibullying” nas instituições de ensino no Município de Formosa.
+
+
+O PREFEITO MUNICIPAL DE FORMOSA,  
+Faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+As instituições de ensino públicas ou privadas, com ou sem fins lucrativos, no município de Formosa ficam condicionadas à política “antibullying”, nos termos desta Lei.
+
+
+Art. 2º.
+
+Para os efeitos desta Lei, considera-se “bullying” qualquer prática de violência física ou psicológica, intencional e repetitiva, entre pares, que ocorra sem motivação evidente, praticada por um indivíduo ou grupo de indivíduos, contra uma ou mais pessoas, com o objetivo de intimidar, agredir fisicamente, isolar, humilhar, ou ambos, causando dano emocional e/ou físico à vítima, em uma relação de desequilíbrio de poder entre as partes envolvidas.
+
+
+§ 1º
+
+Constituem práticas de “bullying”, sempre que repetidas:
+
+
+I –
+
+ameaças e agressões verbais e/ou físicas como bater, socar, chutar, agarrar, empurrar;
+
+
+II –
+
+submissão do outro, pela força, à condição humilhante e/ou constrangedora na presença de outros;
+
+
+III –
+
+furto, roubo, vandalismo e destruição proposital de bens alheios;
+
+
+IV –
+
+extorsão e obtenção forçada de favores sexuais;
+
+
+V –
+
+insultos ou atribuição de apelidos constrangedores e/ou humilhantes;
+
+
+VI –
+
+comentários racistas, homofóbicos ou intolerantes quanto às diferenças econômico-sociais, físicas, culturais, políticas, morais, religiosas, entre outras;
+
+
+VII –
+
+exclusão ou isolamento proposital do outro, pela intriga e disseminação de boatos ou de informações que deponham contra a honra e a boa imagem das pessoas; e
+
+
+VIII –
+
+envio de mensagens, fotos ou vídeos por meio de computador, celular ou assemelhado, bem como sua postagem em “blogs” ou “sites”, cujo conteúdo resulte em exposição física e/ou psicológica a outrem.
+
+
+§ 2º
+
+O descrito no Inciso VIII do §1º deste artigo também é conhecido como “cyberbullying”.
+
+
+Art. 3º.
+
+No âmbito de cada instituição a que se refere esta Lei, a política “antibullying” tem como objetivos:
+
+
+I –
+
+reduzir a prática de violência dentro e fora das instituições de que trata esta Lei e melhorar o desempenho escolar;
+
+
+II –
+
+promover a cidadania, a capacidade empática e o respeito aos demais;
+
+
+III –
+
+disseminar conhecimento sobre o fenômeno “bullying” nos meios de comunicação e nas instituições de que trata esta Lei, entre os responsáveis legais pelas crianças e adolescentes nelas matriculados;
+
+
+IV –
+
+identificar concretamente, em cada instituição de que trata esta Lei, a incidência e a natureza das práticas de “bullying”;
+
+
+V –
+
+desenvolver planos locais para a prevenção e o combate às práticas de “bullying” nas instituições de que trata esta Lei;
+
+
+VI –
+
+capacitar os docentes e as equipes pedagógicas para o diagnóstico do “bullying” e para o desenvolvimento de abordagens específicas de caráter preventivo;
+
+
+VII –
+
+orientar as vítimas de “bullying” e seus familiares, oferecendo-lhes os necessários apoios técnico e psicológico, de modo a garantir a recuperação da auto estima das vítimas e a minimização dos eventuais prejuízos em seu desenvolvimento escolar;
+
+
+VIII –
+
+orientar os agressores e seus familiares, a partir de levantamentos específicos, caso a caso, sobre os valores, as condições e as experiências prévias – dentro e fora das instituições de que trata esta Lei – correlacionadas à prática do “bullying”, de modo a conscientizá-los a respeito das consequências de seus atos e a garantir o compromisso dos agressores com um convívio respeitoso e solidário com seus pares;
+
+
+IX –
+
+evitar tanto quanto possível a punição dos agressores, privilegiando mecanismos alternativos como, por exemplo, os “círculos restaurativos”, a fim de promover sua efetiva responsabilização e mudança de comportamento;
+
+
+X –
+
+envolver as famílias no processo de percepção, acompanhamento e formulação de soluções concretas; e
+
+
+XI –
+
+incluir no regimento a política “antibullying” adequada ao âmbito de cada instituição.
+
+
+Art. 4º.
+
+As ocorrências de "antibullying" serão registradas em histórico mantido atualizado.
+
+
+Art. 5º.
+
+Para fins de incentivo à política “antibullying”, o Município pode contar com o apoio da sociedade civil e especialista no tema ou entidade, realizando:
+
+
+I –
+
+seminários, palestras, debates;
+
+
+II –
+
+a orientação aos pais, alunos e professores com cartilhas;
+
+
+III –
+
+usar evidências científicas disponíveis na literatura especializada e nas experiências exitosas desenvolvidas em outros locais e/ou países.
+
+
+Art. 6º.
+
+As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito, Prefeitura Municipal de Formosa, em 21 de novembro de 2011.
+
+PEDRO IVO DE CAMPOS FARIA  
+Prefeito Municipal
+
+Afixado no “placard” de publicidade.  
+E encadernado em livro próprio.  
+Data supra.  
+..........................................................................  
+RENATA PENETRA  
+Gestora de Contratos e Documentos
+

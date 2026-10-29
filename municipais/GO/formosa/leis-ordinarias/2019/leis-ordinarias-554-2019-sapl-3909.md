@@ -1,0 +1,120 @@
+---
+titulo: "Lei Ordinária nº 554, de 22 de novembro de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "554"
+data: "2019-11-22"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/3909"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/614/text"
+sha256_fonte: "4ecddb09c32cb1cfd64e2ad2a211ba3374a77259b8c90e4a1965e1c182c65470"
+sha256_texto: "29d9122b4bcdf2d5e2cc400513f4b6673c593644eea0060e2a05996e15206491"
+capturado_em_fonte: "2026-10-28T11:27:02.497223-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 554, de 22 de novembro de 2019
+
+Dispõe sobre a obrigatoriedade de disponibilização de cadeiras de rodas para o uso de idosos e de pessoas com deficiência, nas agências de atendimento e demais órgãos públicos do Município de Formosa e dá outras providências.
+
+
+Projeto de Lei Ordinária n.º 040/19 de autoria do Vereador Joelson Roberto Vaz Santiago – Joelson “Trovão”.
+
+O PREFEITO MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais, conferidas pela Constituição da República e Lei Municipal nº. 01/90, de 05 de abril de 1.990 – Lei Orgânica Municipal - LOM, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+As agências de atendimento de concessionárias de serviços de telefonia, saneamento e energia elétrica, bem como os demais órgãos públicos, ficam obrigados a disponibilizar cadeiras de rodas para uso de idosos e de portadores de necessidades especiais ou deficiências físicas, permanentes ou temporárias, para locomoção dentro de suas dependências.
+
+
+Art. 2º.
+
+Para efeito desta Lei, consideram-se pessoas com dificuldade de locomoção aquelas que, em razão da idade, saúde ou deficiência físico-motora, apresentem obstáculos à circulação a pé, compreendendo, em especial:
+
+
+I –
+
+pessoas idosas;
+
+
+II –
+
+pessoas com deficiência permanente ou temporária;
+
+
+III –
+
+pessoas de qualquer idade, cujo estado de saúde não permita caminhar por distâncias longas.
+
+
+Art. 3º.
+
+As referidas agências e órgãos públicos deverão efetuar o atendimento das pessoas em local visível e de fácil acesso à utilização das cadeiras de rodas, bem como afixar cartaz na sua entrada com aviso sobre a existência da disponibilidade das cadeiras de rodas.
+
+
+Art. 4º.
+
+As despesas referentes à execução desta Lei serão de responsabilidade das pessoas jurídicas mencionadas no art. 1º.
+
+
+Art. 5º.
+
+Em caso de descumprimento do disposto nesta Lei, as agências de atendimento e os órgãos públicos ficarão sujeitos às seguintes penalidades:
+
+
+I –
+
+notificação por escrito, com prazo de 15 (quinze) dias, para o cumprimento;
+
+
+II –
+
+multa de R$ 3.000,00 (três mil reais) em autuação por descumprimento da notificação;
+
+
+III –
+
+no caso de reincidência, a multa será aplicada em dobro;
+
+
+IV –
+
+suspensão do Alvará de Licença e Funcionamento até a regularização da situação no Poder Público Municipal.
+
+
+Art. 6º.
+
+As denúncias dos munícipes, devidamente comprovadas, deverão ser encaminhadas ao Setor de Fiscalização de Posturas, encarregado de zelar pelo cumprimento desta Lei.
+
+
+Art. 7º.
+
+As concessionárias e órgãos públicos a que se refere esta Lei terão o prazo de 120 (cento e vinte) dias, a contar da data da publicação, para se adequarem às suas disposições.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 22 de novembro de 2019.
+
+Gustavo Marques de Oliveira
+
+Prefeito Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra  
+....................................................................  
+Iany Macêdo Troncha  
+Assessora Jurídica  
+Decreto nº. 2.042/18, de 1º de novembro de 2018.
+

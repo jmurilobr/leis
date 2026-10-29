@@ -1,0 +1,107 @@
+---
+titulo: "DECRETO EXECUTIVO-PMEPF nº 406, de 22 de abril de 2020"
+tipo: "Decreto"
+tipo_na_fonte: "DECRETO EXECUTIVO"
+numero: "406"
+data: "2020-04-22"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/1515"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/2053/text"
+sha256_fonte: "f947e24ef584c91bb8a35c109207b8369f690475fd9f0d22741ace27cfb5375b"
+sha256_texto: "1996a7af36cc9d9aedd2207c0f10c73f4e919341eef8f388520e69ac22b6163b"
+capturado_em_fonte: "2026-10-28T10:56:00.984226-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# DECRETO EXECUTIVO-PMEPF nº 406, de 22 de abril de 2020
+
+O Prefeito do município de Engenheiro Paulo de Frontin, no uso das atribuições que lhe confere a legislação em vigor.
+
+
+CONSIDERANDO que o Município de Engenheiro Paulo de Frontin detém o dever de zelar pela saúde pública local e salvaguardar o bem-estar e dignidade da pessoa humana de seus Munícipes; CONSIDERANDO que a saúde é direito de todos e dever do Estado, nos termos dos artigos 196 e197 da Constituição Federal; CONSIDERANDO o estado de exceção em decorrência da emergência em saúde pública decorrente do novo coronavírus (COVID-19); CONSIDERANDO a divulgação de diversos municípios vizinhos a Engenheiro Paulo de Frontin, sobre já haverem casos confirmados com o novo coronavírus (COVID-19) nas dependências das cidades; DECRETA:
+
+
+Art. 1º.
+
+Fica proibida a entrada e a circulação de ônibus de excursão, micro-ônibus fretado, vans e similares, inclusive para as modalidades de uso diário sem pernoite e passeios turísticos no município de Engenheiro Paulo de Frontin.
+
+
+Parágrafo único
+
+Exclui-se do CAPUT os concessionários de transporte de serviço público coletivo.
+
+
+Art. 2º.
+
+Somente poderá ingressar no território de Engenheiro Paulo de Frontin/RJ e circular nas vias municipais os veículos cujos condutores comprovarem residência no município, o que, poderá ser feito pela apresentação do próprio documento do veículo emitido pelo Detran/RJ, comprovante de residência emitido por concessionária de serviço público, instituição financeira, administradora de cartão de crédito e outro documento congêneres.
+
+
+§ 1º
+
+Ficam ressalvados quanto a proibição do caput:
+
+
+I –
+
+os concessionários de transporte de serviço público coletivo;
+
+
+II –
+
+transportes de cargas para fornecimento do comércio e indústria;
+
+
+III –
+
+viaturas oficiais e veículos de manutenção de serviços públicos essenciais;
+
+
+IV –
+
+veículos de trabalhadores públicos e privados que residam em outros municípios e trabalhem em Engenheiro Paulo de Frontin (especialmente profissionais de saúde), devendo apresentar comprovante do vínculo laboral (carteira funcional, portaria de nomeação, carteira ou contrato de trabalho, etc.),
+
+
+V –
+
+Veículos cujos condutores apresentarem comprovante de residência nos bairros “Ramalho, São Lourenço e Pacheco” pertencentes ao município de Paracambi.
+
+
+VI –
+
+veículos em trânsito pelas rodovias estaduais, entendidos aqueles que não tenham destino final o Município de Engenheiro Paulo de Frontin, ou seja, exclusivamente para acesso aos municípios vizinhos, vedado o ingresso nas vias municipais.
+
+
+§ 2º
+
+Os estabelecimentos privados deverão, com vistas a simplificar o trabalho nas barreiras sanitárias, enviar para a subsecretaria de Defesa Civil, listagem com NOME, RG e CPF dos colaboradores que residam em outros municípios e que trabalham de forma presencial em Engenheiro Paulo de Frontin.
+
+
+§ 3º
+
+Serão instaladas barreiras sanitárias nos principais acessos ao município e os veículos com passageiros que apresentarem sintomas gripais, especialmente febre, não poderão ingressar no Município, salvo se o passageiro for residente de Engenheiro Paulo de Frontin.
+
+
+Art. 3º.
+
+O descumprimento do disposto neste Decreto implicará na aplicação das penalidades cabíveis, especialmente o disposto no art. 187 da Lei 9.503/1997 (Código de Trânsito Brasileiro).
+
+
+Art. 4º.
+
+Este decreto entra em vigor na data de sua publicação e terá validade enquanto perdurar a situação de emergência ou calamidade na saúde pública.
+
+
+Engenheiro Paulo de Frontin, 22 de abril de 2020.
+
+
+JAULDO DE SOUZA BALTHAZAR FERREIRA
+
+
+Prefeito Municipal
+

@@ -1,0 +1,111 @@
+---
+titulo: "DECRETO EXECUTIVO-PMEPF nº 194, de 23 de fevereiro de 2022"
+tipo: "Decreto"
+tipo_na_fonte: "DECRETO EXECUTIVO"
+numero: "194"
+data: "2022-02-23"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/1639"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/2029/text"
+sha256_fonte: "d050032a1eec2b08eab91bdb4eb4bf540b11d95cf6a7381e2ab0f74046ccf214"
+sha256_texto: "07183191621b4933118f9b5ddc559f9679d60114d9b113738f0d1d2361099392"
+capturado_em_fonte: "2026-10-28T10:47:10.004000-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# DECRETO EXECUTIVO-PMEPF nº 194, de 23 de fevereiro de 2022
+
+CONSIDERANDO as fortes precipitações pluviométricas de 84 mm, durante o período de 01 horas, registrado no pluviômetro da rede pertencente ao ( INEA) no Centro do município e 70,20 mm durante o período de 01 hora na estação pluviométrica do 3º distrito no bairro de Morro Azul (CEMADEM).
+
+
+CONSIDERANDO que, em consequência das chuvas intensas as áreas deste município foram afetadas por diversas ameaças alagamentos, inundações, enxurradas e deslizamentos, resultando nos danos e prejuízos constantes no formulário de informações de desastre
+
+
+\- FIDE, que comprometeram a capacidade de resposta da administração local; CONSIDERANDO Que o parecer da Subsecretaria Municipal de Proteção e Defesa Civil - SUBMDEC, relatando a ocorrência deste desastre é favorável à declaração de Situação de Emergência.
+
+
+DECRETA:
+
+
+Art. 1º.
+
+Fica declarada a situação anormal, caracterizada como Situação de Emergência nas áreas do município afetadas pelo desastre classificado e codificado como CHUVAS INTENSAS (COBRADE– 1.3.2.1.4), conforme IN/MI nº 36, de 04 de dezembro de 2020.
+
+
+Parágrafo único
+
+Esta situação de anormalidade é válida apenas para as áreas deste Município, comprovadamente afetadas pelo desastre, conforme prova documental estabelecida pelo Formulário de Avaliação de Informações de Desastres – FIDE.
+
+
+Art. 2º.
+
+Autoriza-se a mobilização de todos os órgãos municipais para atuarem sob a coordenação da Subsecretaria Municipal de Proteção e Defesa Civil - SUBMDEC, nas ações de resposta ao desastre e reabilitação do cenário e reconstrução.
+
+
+Art. 3º.
+
+Autoriza-se a convocação de voluntários para reforçar as ações de resposta ao desastre e realização de campanhas de arrecadação de recursos junto à comunidade, com o objetivo de facilitar as ações de assistência à população afetada pelo desastre, sob a coordenação da Subsecretaria Municipal de Proteção e Defesa Civil
+
+
+\- SUBMDEC.
+
+
+Art. 4º.
+
+De acordo com o estabelecido nos incisos XI e XXV do artigo 5º da Constituição Federal, autoriza-se as autoridades administrativas e os agentes de defesa civil, diretamente responsáveis pelas ações de resposta aos desastres, em caso de risco iminente, a:
+
+
+I –
+
+Penetrar nas casas, para prestar socorro ou para determinar a pronta evacuação;
+
+
+II –
+
+Usar de propriedade particular, no caso de iminente perigo público, assegurada ao proprietário indenização ulterior, se houver dano.
+
+
+Parágrafo único
+
+Será responsabilizado o agente da defesa civil ou autoridade administrativa que se omitir de suas obrigações, relacionadas com a segurança global da população.
+
+
+Art. 5º.
+
+De acordo com o estabelecido no Art. 5º do Decreto-Lei nº 3.365, de 21 de junho de 1941, autoriza-se o início de processos de desapropriação, por utilidade pública, de propriedades particulares comprovadamente localizadas em áreas de risco intensificado de desastre.
+
+
+§ 1º
+
+No processo de desapropriação, deverão ser consideradas a depreciação e a desvalorização que ocorrem em propriedades localizadas em áreas inseguras.
+
+
+§ 2º
+
+Sempre que possível essas propriedades serão trocadas por outras situadas em áreas seguras, e o processo de desmontagem e de reconstrução das edificações, em locais seguros, será apoiado pela comunidade.
+
+
+Art. 6º.
+
+Com base no Inciso IV do artigo 24 da Lei nº 8.666 de 21.06.1993, sem prejuízo das restrições da Lei de Responsabilidade Fiscal (LC 101/2000), ficam dispensados de licitação os contratos de aquisição de bens necessários às atividades de resposta ao desastre, de prestação de serviços e de obras relacionadas com a reabilitação dos cenários dos desastres, desde que possam ser concluídas no prazo máximo de cento e oitenta dias consecutivos e ininterruptos, contados a partir da caracterização do desastre, vedada a prorrogação dos contratos.
+
+
+Art. 7º.
+
+Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos no dia 07 de fevereiro de 2022.
+
+
+Engenheiro Paulo de Frontin, 23 de fevereiro de 2022.
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal
+

@@ -1,0 +1,67 @@
+---
+titulo: "Lei Ordinária nº 79, de 28 de setembro de 1990"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "79"
+data: "1990-09-28"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/526"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/729/text"
+sha256_fonte: "f06b21c318d526053f6083b44be89897ec44bcff346ce9a9e0c95ff1d558edd4"
+sha256_texto: "555bca314ad601ba569970ec7613bde49fcde25c996ff3845706d10658e0dbae"
+capturado_em_fonte: "2026-10-28T12:25:07.150278-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 79, de 28 de setembro de 1990
+
+Declara de utilidade pública Municipal as OBRAS SOCIAIS DA PARÓQUIA CRISTO REI.
+
+
+A CÂMARA MUNICIPAL DE FORMOSA, Estado de Goiás, decretou e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Declara de utilidade pública municipal as OBRAS SOCIAIS DA PARÓQUIA CRISTO REI – O.S.P.C. desta cidade, entidade sem fins lucrativos, inscrita no Cadastro de Contribuintes do Ministério da Fazenda - CGC-MF, sob nº 24 855 652/0001-76 e registrada às Fls. 90 do Livro “A” nº 01, de Registro de Pessoas Jurídicas, sob nº 94 de ordem, em 23 de agosto de 1990, no Cartório de 2º Ofício de Formosa-Go.
+
+
+Art. 2º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a baixar normas para regulamentação da presente lei.
+
+
+Art. 3º.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Art. 4º.
+
+Revogam-se as disposições em contrário.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 28 de setembro de 1990.
+
+JAIR GOMES DE PAIVA
+
+Prefeito Municipal
+
+Registrada às fls. do livro próprio.
+
+Afixada no “placard” de publicidade.
+
+Data Supra
+
+MARIA JOSÉ VAZ DA COSTA
+
+Auxiliar Administrativo
+
+Fls. 153/v – Livro n° 04
+

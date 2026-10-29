@@ -1,0 +1,210 @@
+---
+titulo: "Lei Ordinária nº 619, de 03 de abril de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "619"
+data: "2024-04-03"
+municipio: "Guadalupe"
+uf: "PI"
+codigo_ibge: "2204501"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guadalupe.pi.leg.br/norma/630"
+fonte_texto: "https://sapl.guadalupe.pi.leg.br/ta/627/text"
+sha256_fonte: "0a10ed78aa351aa431b4a332760830a2ead6c78108fe2823e3a1f5fd61b0851d"
+sha256_texto: "67122cc3796625f5a7383365e3da9bf4349711253767463ddf08cc259c31ab36"
+capturado_em_fonte: "2026-10-28T12:43:25.139794-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 619, de 03 de abril de 2024
+
+Dispõe sobre a criação do Fundo Municipal de Cultura de Guadalupe - FMCG e dá outras providências.
+
+
+A Prefeita Municipal de Guadalupe, Estado do Piauí, no uso das atribuições conferidas pela Constituição Federal e pela Lei Orgânica do Município, faço saber que o povo, através de seus representantes aprovou e eu sanciono a presente lei.
+
+
+Art. 1º.
+
+Fica criado no Município de Guadalupe o FUNDO MUNICIPAL DE CULTURA DE GUADALUPE - FMCG, instrumento de captação e aplicação de recursos para a concessão de incentivos em favor de pessoas físicas ou jurídicas, para a realização de projetos artísticos e culturais no Município de Guadalupe, nos termos da presente lei.
+
+
+Parágrafo único
+
+O incentivo aludido no “caput” deste artigo corresponderá à liberação de recursos financeiros pelo Fundo Municipal de Cultura de GUADALUPE em proveito do empreendedor dos projetos culturais aprovados pelo Conselho Municipal de Política Cultural.
+
+
+Art. 2º.
+
+O Fundo Municipal de Cultura de Guadalupe terá orçamento próprio, constituindo seus recursos por meio de:
+
+
+I –
+
+dotações orçamentárias do Município e recursos adicionais que a lei estabelecer no transcorrer de cada exercício;
+
+
+II –
+
+as transferências oriundas do orçamento do Estado e União e seus respectivos fundos;
+
+
+III –
+
+doações, auxílios, contribuições, subvenções e transferências de entidades;
+
+
+IV –
+
+receitas de aplicações financeiras de recursos do fundo, realizadas na forma da lei.
+
+
+V –
+
+parcelas do produto de arrecadação de outras receitas próprias oriundas de financiamentos das atividades econômicas, os rendimentos e os juros de aplicações financeiras, de prestação de serviços e de outras transferências que o Fundo Municipal de Cultura terá direito à receber por força da lei e de convênios no setor;
+
+
+VI –
+
+produto de convênios firmados com outras entidades financiadoras;
+
+
+VII –
+
+doações em espécies feitas diretamente ao fundo;
+
+
+VIII –
+
+outras receitas que venham à ser legalmente instituídas.
+
+
+Parágrafo único
+
+Os recursos que compõem o fundo serão depositados em conta especial sob a denominação “FUNDO MUNICIPAL DE CULTURA DE GUALUPE - FMCG”.
+
+
+Art. 3º.
+
+Em relação ao Fundo Municipal de Cultura, cabe ao Conselho Municipal de Cultura de Guadalupe.
+
+
+I –
+
+definir diretrizes e prioridades de aplicação dos seus recursos;
+
+
+II –
+
+fiscalizar a aplicação dos recursos conforme tais diretrizes e projetos aprovados;
+
+
+Art. 4º.
+
+O Fundo Municipal de Cultura de GUADALUPE será gerido administrativamente pela Secretaria Municipal de Cultura do Município.
+
+
+§ 1º
+
+A proposta orçamentária do Fundo Municipal de Cultura constará no Plano Plurianual do Município.
+
+
+§ 2º
+
+O orçamento do Fundo Municipal de Cultura integrará o orçamento da Secretaria Municipal de Cultura.
+
+
+§ 3º
+
+A dotação orçamentária específica será criada pela Administração Pública Municipal, tão logo sejam realizadas as receitas correspondentes.
+
+
+Art. 5º.
+
+Os recursos do Fundo Municipal de Cultura de Guadalupe serão aplicados em projetos que visem fomentar e estimular a produção artístico-cultural no município de Guadalupe, compreendidos estes como os que abrangem produções e eventos artístico-culturais, especialmente nas áreas da música, dança, teatro, circo, cinema, artesanato, fotografia, vídeo, literatura, artes plásticas e gráficas, folclore, cultura e manifestação popular, patrimônio histórico, museologia, bibliotecas, arquivo histórico, estudos, pesquisas e cursos de formação artístico-cultural nos seus devidos segmentos.
+
+
+Art. 6º.
+
+Os projetos para o Fundo Municipal de Cultura de Guadalupe devem ser encaminhados, obrigatoriamente, em formulário próprio disponibilizado pela Secretaria Municipal de Cultura do Município, no qual conste a natureza do projeto, objetivos, recursos financeiros e humanos envolvidos, bem como a contrapartida oferecida.
+
+
+Art. 7º.
+
+O empreendedor cultural beneficiado deverá apresentar à Secretaria Municipal de Cultura um cronograma de execução físico-financeiro, devendo prestar contas periodicamente de acordo com o recebimento do auxílio.
+
+
+Parágrafo único
+
+No caso de liberação de recursos por etapas, cada liberação ficará condicionada à apresentação e aprovação das contas da etapa anterior.
+
+
+Art. 8º.
+
+Os projetos deverão apresentar proposta de contrapartida social, entendida esta como ação de retorno pelo apoio financeiro recebido e estar relacionada à descentralização e a universalização da cultura, bem como a democratização do acesso aos bens culturais.
+
+
+Art. 9º.
+
+O Fundo Municipal de Cultura de Guadalupe será administrado pela Secretaria Municipal de Cultura, sendo a fiscalização da aplicação de recursos exercida pelo Conselho Municipal de Política Cultural.
+
+
+§ 1º
+
+Nenhum recurso do Fundo Municipal de Cultura poderá ser movimentado sem aprovação do Conselho Municipal de Cultura de Guadalupe e após expressa autorização do(a) Secretário(a) Municipal de Cultura.
+
+
+§ 2º
+
+Anualmente o Secretário(a) Municipal de Cultura encaminhará ao Conselho Municipal de Política Cultural para análise e aprovação, relatório de prestação de contas da movimentação econômico-financeira do Fundo Municipal de Cultura, conforme diretrizes e projetos em execução.
+
+
+Art. 10.
+
+O Gestor será o(a) Secretário(a) Municipal da Cultura, juntamente com o(a) Secretário(a) de Finanças.
+
+
+Art. 11.
+
+O Fundo Municipal de Cultura de Guadalupe não poderá exaurir seus recursos destinando-os a apenas um único projeto.
+
+
+Parágrafo único
+
+A existência de patrocínio financeiro oriundo de outras entidades e pessoas físicas, não poderá ser considerada óbice para avaliação e seleção de projetos.
+
+
+Art. 12.
+
+Aplicar-se-ão ao Fundo Municipal de Cultura de Guadalupe as normas legais de controle e prestação de contas pelos órgãos internos da Administração Pública Municipal, sem prejuízo da competência específica do Tribunal de Contas do Estado e outros órgãos de controle.
+
+
+Art. 13.
+
+As despesas administrativas decorrentes da aplicação desta lei correrão à conta de dotações orçamentárias, ficando a Administração Pública Municipal desde logo autorizado a abrir créditos complementares necessários à sua cobertura.
+
+
+Art. 14.
+
+A Administração Pública Municipal regulamentará esta lei no prazo máximo de 60 (sessenta) dias a contar da data de sua publicação.
+
+
+Art. 15.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Art. 16.
+
+Ficam revogadas as disposições em contrário.
+
+
+Gabinete da Prefeita Municipal de Guadalupe aos três dias do mês de abril de dois mil e vinte e quatro.
+
+Maria Jozeneide Fernandes Lima
+
+Prefeita Municipal
+

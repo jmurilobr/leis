@@ -1,0 +1,513 @@
+---
+titulo: "Resolução-CMG nº 3, de 18 de março de 2025"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "3"
+data: "2025-03-18"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/1400"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/110/text"
+sha256_fonte: "b47b9a67e5983fa56b7c31c9da0e4b54397de48ab5af93273e2216db0295ab9b"
+sha256_texto: "7cc2b442cd20008fabdcdb0b5ca870aad00aa0eac8ae1ff509558b013034992e"
+capturado_em_fonte: "2026-10-28T13:09:28.379879-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Resolução-CMG nº 3, de 18 de março de 2025
+
+Dispõe sobre a criação, a estrutura e o funcionamento da Ouvidoria da Câmara Municipal de Vereadores de Guaíra, Estado do Paraná.
+
+
+Art. 1º.
+
+A Ouvidoria da Câmara Municipal de Guaíra, Estado do Paraná, é criada e organizada nos termos desta Resolução, tendo seu funcionamento vinculado a sua Presidência.
+
+
+Art. 2º.
+
+A Ouvidoria é um órgão de interlocução entre o Poder Legislativo Municipal, o cidadão e a sociedade, constituindo-se em um canal aberto para o recebimento de reclamações, denúncias, sugestões, elogios e quaisquer outras manifestações, desde que relacionados aos órgãos e entidades prestadoras de serviço público municipal, inclusive a Câmara.
+
+
+Art. 3º.
+
+Compete à Ouvidoria da Câmara, além daquelas previstas na Lei Federal nº 13.460/2017, no exercício de suas atribuições institucionais:
+
+
+I –
+
+receber, analisar e responder as manifestações de cidadão que lhe for dirigida, em especial aquelas sobre:
+
+
+a)
+
+sugestões, críticas, reclamações, elogios, solicitação de informação ou denúncia;
+
+
+b)
+
+violação ou qualquer forma de discriminação atentatória dos direitos e liberdades fundamentais;
+
+
+c)
+
+ilegalidades, atos de improbidade administrativa e abuso de poder.
+
+
+II –
+
+disponibilizar as informações de interesse público;
+
+
+III –
+
+divulgar seus serviços no cumprimento de seu papel institucional junto à sociedade;
+
+
+IV –
+
+identificar problemas no atendimento ao usuário;
+
+
+V –
+
+registrar, classificar e controlar a tramitação interna das demandas recebidas por tema, assunto, datas de recebimento e resposta, bem como outras catalogações consideradas necessárias;
+
+
+VI –
+
+atuar na prevenção e solução de conflitos envolvendo usuários dos serviços;
+
+
+VII –
+
+promover o intercâmbio de informações e manifestações com outras Ouvidorias;
+
+
+VIII –
+
+exercer suas atividades em estrita observância às competências regimentais em vigor;
+
+
+IX –
+
+dar prosseguimento às manifestações recebidas;
+
+
+X –
+
+informar o cidadão ou entidade sobre a qual órgão deverá se dirigir, quando a manifestação não for de competência da Ouvidoria Legislativa;
+
+
+XI –
+
+facilitar o amplo acesso do usuário aos serviços da Ouvidoria, simplificando seus procedimentos e orientando os cidadãos sobre os meios de formalização das manifestações a serem encaminhadas à Ouvidoria;
+
+
+XII –
+
+auxiliar a Presidência na tomada de medidas para sanar as violações, as ilegalidades e os abusos constatados;
+
+
+XIII –
+
+auxiliar a Presidência na tomada de medidas necessárias à regularidade dos trabalhos legislativos e administrativos;
+
+
+XIV –
+
+acompanhar as manifestações encaminhadas por organismos da sociedade civil à Câmara Municipal;
+
+
+XV –
+
+conhecer as opiniões e necessidades da sociedade para sugerir à Câmara Municipal as mudanças por ela aspiradas.
+
+
+§ 1º
+
+A Ouvidoria encaminhará a decisão administrativa final ao usuário, observado o prazo de 30 (trinta) dias, prorrogável de forma justificada uma única vez, por igual período.
+
+
+§ 2º
+
+Toda iniciativa proposta pela Ouvidoria terá ampla divulgação pelos órgãos de comunicação da Câmara Municipal.
+
+
+Art. 4º.
+
+A Ouvidoria será composta por um Ouvidor do Poder Legislativo, cujo titular será servidor ocupante de cargo efetivo e terá mandato de 01 (um) ano, admitindo-se sua recondução de forma ilimitada.
+
+
+§ 1º
+
+Não poderá exercer atividades junto à Ouvidoria o servidor que tenha sido nos últimos cinco anos:
+
+
+I –
+
+responsabilizado por atos julgados irregulares, pelo Tribunal de Contas do Estado ou pelo Poder Judiciário;
+
+
+II –
+
+punido por ato lesivo ao patrimônio público, em processo disciplinar, por decisão da qual não caiba recurso na espera administrativa, em qualquer esfera de governo;
+
+
+III –
+
+condenado em processo criminal:
+
+
+a)
+
+por crime contra o Patrimônio;
+
+
+b)
+
+por crime contra a Administração Pública;
+
+
+c)
+
+por crime contra o Sistema Financeiro Nacional;
+
+
+d)
+
+por prática de ato de improbidade administrativa.
+
+
+§ 2º
+
+O servidor que vier a ter, contra si, a aplicação de qualquer das penalidades previstas no § 3º deste artigo ficará automaticamente afastado da Ouvidoria.
+
+
+§ 3º
+
+Também não poderão ocupar a função de Ouvidor, sob pena de violação ao princípio da segregação de funções e/ou por conflito de interesses:
+
+
+I –
+
+servidor Comissionado;
+
+
+II –
+
+Diretor Administrativo;
+
+
+III –
+
+Advogado da área Administrativa; e
+
+
+IV –
+
+servidor responsável pela Controladoria Interna.
+
+
+Art. 5º.
+
+O Ouvidor, no exercício de suas funções, poderá:
+
+
+I –
+
+solicitar, por meio da Presidência da Câmara, informações ou cópias de documentos a qualquer setor ou servidor da Câmara Municipal;
+
+
+II –
+
+sugerir à Presidência que solicite de qualquer órgão ou entidade informações e cópias de documentos necessários.
+
+
+§ 1º
+
+Os setores da Câmara Municipal terão prazo de até 10 (dez) dias úteis para responder às requisições e solicitações feitas pelo Ouvidor, prazo este que poderá ser prorrogado, a seu critério, em razão da complexidade do assunto.
+
+
+§ 2º
+
+O não cumprimento do prazo previsto no § 1º deste artigo deverá ser comunicado ao Presidente da Câmara Municipal.
+
+
+Art. 6º.
+
+São atribuições exclusivas do Ouvidor-Geral:
+
+
+I –
+
+exercer suas funções com independência e autonomia, visando garantir o direito de manifestação dos cidadãos;
+
+
+II –
+
+recomendar a correção de procedimentos administrativos;
+
+
+III –
+
+sugerir, quando cabível, a adoção de providências ou apuração de atos considerados irregulares ou ilegais;
+
+
+IV –
+
+determinar, de forma fundamentada, a rejeição de manifestações;
+
+
+V –
+
+manter sigilo, quando solicitado, sobre os dados dos usuários dos serviços da Ouvidoria;
+
+
+VI –
+
+promover estudos e pesquisas objetivando o aprimoramento da prestação de serviços da Ouvidoria;
+
+
+VII –
+
+solicitar à Presidência da Câmara o encaminhamento de procedimentos às autoridades competentes;
+
+
+VIII –
+
+solicitar informações quanto ao andamento de procedimentos iniciados por ação da Ouvidoria;
+
+
+IX –
+
+propor ao Presidente da Câmara Municipal a celebração de convênios ou parcerias com entidades afins e de interesse da Ouvidoria;
+
+
+X –
+
+propor ao Presidente da Câmara Municipal a elaboração de palestras, seminários e eventos técnicos com temas relacionados às atividades da Ouvidoria;
+
+
+XI –
+
+elaborar relatório anual das atividades da Ouvidoria para encaminhamento à Mesa Diretora, disponibilizando-os para conhecimento dos cidadãos.
+
+
+§ 1º
+
+O relatório de gestão de que trata o inciso XI deste artigo deverá indicar, ao menos:
+
+
+I –
+
+o número de manifestações recebidas no ano anterior;
+
+
+II –
+
+os motivos das manifestações;
+
+
+III –
+
+Órgãos e Entidades objeto das demandas;
+
+
+IV –
+
+a análise dos pontos recorrentes;
+
+
+V –
+
+as providências adotadas pela administração pública nas soluções apresentadas; e
+
+
+VI –
+
+tempo de resposta das demandas.
+
+
+§ 2º
+
+Todos os dados colhidos deverão ser mantidos em sigilo, pelo Ouvidor, inclusive após o término do exercício da sua função.
+
+
+Art. 7º.
+
+A Câmara Municipal garantirá o acesso do cidadão à Ouvidoria por meio dos seguintes canais de comunicação:
+
+
+I –
+
+acesso exclusivo à Ouvidoria por meio da página eletrônica da Câmara Municipal na internet, contendo formulário específico para o registro de manifestações;
+
+
+II –
+
+serviço de atendimento pessoal;
+
+
+III –
+
+recebimento de manifestações, por meio de correio ou outro meio identificado para esse fim;
+
+
+IV –
+
+telefone.
+
+
+§ 1º
+
+A manifestação será dirigida à Ouvidoria e conterá, ou não, a identificação do requerente.
+
+
+§ 2º
+
+Quando for o caso, a identificação do requerente não conterá exigências que inviabilizem sua manifestação.
+
+
+§ 3º
+
+São proibidas quaisquer exigências relativas aos motivos determinantes da apresentação de manifestações perante a Ouvidoria.
+
+
+§ 4º
+
+A manifestação poderá ser feita por meio eletrônico, correspondência convencional, telefone ou verbalmente, hipótese em que deverá ser reduzida a termo.
+
+
+§ 5º
+
+No caso de manifestação por meio eletrônico, prevista no § 4º deste artigo, respeitada a legislação específica de sigilo e proteção de dados, poderá, a Ouvidoria, requerer meio de certificação da identidade do usuário.
+
+
+§ 6º
+
+Será permitido o recebimento de denúncias anônimas ou que comportem o sigilo do denunciante, devendo ser mantida, sob guarda e segredo do Ouvidor, as informações recebidas, cabendo, à Câmara, disponibilizar uma sala para o atendimento presencial.
+
+
+§ 7º
+
+Quando do recebimento da demanda, será gerado um número de protocolo a ser enviado para o cidadão para acompanhamento do processo de resposta; se a demanda for eletrônica, a numeração de protocolo somente será fornecida se o requerente informar endereço válido de e-mail.
+
+
+§ 8º
+
+É assegurado ao cidadão a complementação das informações, caso, ao seu juízo, sejam insuficientes.
+
+
+§ 9º
+
+No caso de necessidade de complementação da manifestação pelo usuário, será oferecido o prazo de 5 (cinco) dias, nos quais será interrompida a contagem do prazo para resposta conclusiva.
+
+
+§ 10
+
+Na ausência de elementos e informações, após vencido o prazo de complementação, a manifestação será encerrada.
+
+
+§ 11
+
+Quando a denúncia ou manifestação envolver a pessoa do próprio Ouvidor, a demanda será encaminhada à Controladoria Interna da Câmara.
+
+
+§ 12
+
+A quantidade de manifestações recebidas será controlada pelo Ouvidor, detalhando-as por elogios, denúncias, solicitações, reclamações e sugestões, sendo elaborado relatório de gestão, anualmente, para encaminhamento à Presidência e respectiva divulgação, até o dia 31 de janeiro do ano subsequente.
+
+
+Art. 8º.
+
+A Ouvidoria receberá e registrará as manifestações anônimas que pela descrição dos fatos forneçam indícios de procedência do fato denunciado.
+
+
+Parágrafo único
+
+O Ouvidor rejeitará manifestações:
+
+
+I –
+
+que se refiram exclusivamente a órgãos, entidades e/ou agentes públicos de outras esferas de governo (União, Estados, Distrito Federal e/ou outros municípios);
+
+
+II –
+
+que, sendo anônimas, sejam destituídas de coerência lógica ou cujo conteúdo se baseie em circunstância impossível de ter sido praticada;
+
+
+III –
+
+genéricas, assim entendidas aquelas que não se refiram a pessoas e/ou a fatos ou atos específicos, determinados e/ou passíveis de individualização;
+
+
+IV –
+
+que contenham acusações desconectadas do serviço público do denunciado ou que possuam conteúdo discriminatório, preconceituoso, racista, etc.
+
+
+Art. 9º.
+
+A Presidência da Câmara Municipal assegurará autonomia à Ouvidoria, mediante apoio logístico, tecnológico, administrativo e operacional necessários ao desempenho de suas atividades.
+
+
+§ 1º
+
+Recebida a manifestação, o Ouvidor encaminhará a demanda à Presidência, a quem caberá a responsabilidade de distribuir à Comissão e/ou oficiar à Autoridade competente para apuração dos fatos, conforme o caso.
+
+
+§ 2º
+
+Após remessa para distribuição, decorrido o prazo constante no § 1º do artigo 3º desta Resolução, o Ouvidor finalizará a demanda, procedendo, durante o referido prazo, às diligências mencionadas no inciso VI do artigo 13 da Lei 13.460/2017.
+
+
+Art. 10.
+
+A Mesa da Câmara Municipal editará os atos necessários a fiel execução das medidas previstas na presente Resolução.
+
+
+Art. 11.
+
+Subsidiariamente ao disposto nesta Resolução, serão observadas:
+
+
+I –
+
+a Lei Federal nº 12.527, de 18 de novembro de 2011;
+
+
+II –
+
+a Lei federal nº 13.460, de 26 de junho de 2017;
+
+
+III –
+
+Regimento Interno da Câmara Municipal de Guaíra e demais normativas atinentes.
+
+
+Art. 12.
+
+Esta Resolução entra em vigor na data sua publicação.
+
+
+Edifício da Câmara Municipal de Guaíra, Estado do Paraná, 18 de março de 2025.
+
+***TEREZA CAMILO DOS SANTOS***
+
+Presidente
+
+***CRISTIANE GIANGARELLI***
+
+Secretária
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

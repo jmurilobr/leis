@@ -1,0 +1,66 @@
+{
+  "escopo": "Cobertura v2 congelada de registros canônicos e reservas, não dedup universal. Os 14.615 sem chave permanecem reservados. Nenhum canônico ou registro alterado.",
+  "arquivos": [
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/construir_indice_transversal_v2.py",
+      "sha256": "06e7ed8c4e91e58c472d42a67aad84fa8d3f6cde0004eac49f607babab18675b",
+      "bytes": 5591
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/federal_HEAD_tree_completo.z.gz",
+      "sha256": "9c03bf6145e20bbfeb364acbc527dd4ce9202378daba08a6d0208818d556e9fd",
+      "bytes": 7812100
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/indice_transversal_v2.json.gz",
+      "sha256": "b0b2a22e3ebf3d790b4abc2ede92ed000e03748480cb842181595ba067335d64",
+      "bytes": 9216714
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/metadados_fallback_OID.jsonl.gz",
+      "sha256": "6a5f9d5ac351f5cd373f6ca9619d3f8d2f9b4690749c337a556275f237063cae",
+      "bytes": 2648635
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/cobertura_indice_v2.json",
+      "sha256": "e4a9c46d63066c357a16edd1cd94ab05a9ae0c57648ee841a099dad1560a32cd",
+      "bytes": 3482
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/cobertura_indice.log",
+      "sha256": "55459a783583428dad88e8640a4231dc63087cc83bccb1458088900b66a91529",
+      "bytes": 3728
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/verificar_comparabilidade_v2.py",
+      "sha256": "172c92c09895001cd3f3634b037b6401431aa68675a153ee4ea746aaff96a379",
+      "bytes": 4184
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/comparabilidade5920_v2.json",
+      "sha256": "14877f2eea2e3fc6349cd8758a20f9eca9f914d6fe2ef0c21a0fe269913c614f",
+      "bytes": 3523947
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/comparabilidade.log",
+      "sha256": "c7e9a55e20fe5ac2c64006634e6493c17a041f950fc8aa99f6dd27beeacfd503",
+      "bytes": 772
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/overlay5920.json.gz",
+      "sha256": "b8f82632b3339be32c1ed785c705cdb6d7b020ffcd176b8334aafcfcc4bc1cbe",
+      "bytes": 3135476
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/identidade_cross_snapshot.py",
+      "sha256": "51afd44aef6d03b55954556ef82a3ad613756f237a0096057f9a490adc14f8d7",
+      "bytes": 1305
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/gate_orgao.py",
+      "sha256": "0e0a4cc73c5e9cc830b3a066acd723cad5f53665d955b149b6b47ad1f9158cce",
+      "bytes": 1996
+    }
+  ],
+  "observacao": "Geradores são receitas de preparação, não runners somente leitura. ROOT deve conferir os artefatos por SHA; replay somente leitura será entregue separadamente."
+}

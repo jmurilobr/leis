@@ -1,0 +1,266 @@
+---
+titulo: "Lei Ordinária nº 713, de 07 de dezembro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "713"
+data: "2021-12-07"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/4537"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1419/text"
+sha256_fonte: "04d677903e06b883fb17a9517475687a856a06bcb61f0657e8b35cfcf3a8c9dc"
+sha256_texto: "78a9695c9f24c27745b310a987c347950284465177fdefece6508807aa21566b"
+capturado_em_fonte: "2026-10-28T11:20:57.356376-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 713, de 07 de dezembro de 2021
+
+Dispõe sobre o Programa “Adote um Campo e/ou um Parquinho”, no Município de Formosa.
+
+
+Projeto de Lei Ordinária n.º 109/21, de autoria do Vereador João Batista Cordeiro Mororo Junior, aprovado em 5 de novembro de 2021.
+
+O PREFEITO MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais, conferidas pela Constituição da República e Lei Municipal nº. 01/90, de 05 de abril de 1.990 – Lei Orgânica Municipal - LOM, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Esta lei institui o Programa “Adote um Campo e/ou um Parquinho”, no âmbito do Município de Formosa, que poderá ser desenvolvido com participação espontânea de pessoas físicas ou jurídicas de direito público ou privado, interessados em manter e organizar os campos públicos de futebol amador e parquinhos, localizados em terrenos de propriedade ou administrados pelo Município, por meio de projeto próprio ou de iniciativa do município.
+
+
+Parágrafo único.
+
+O Programa “Adote um Campo e/ou Parquinho”, tem como propósito a celebração de termos de cooperação entre o Município de Formosa e particulares, interessados na implantação, preservação, ampliação e melhoria dos campos públicos de futebol amador e parquinhos, corroborando com as práticas esportivas e o lazer. Para os fins desta Lei, consideram-se:
+
+
+I –
+
+manutenção: serviços gerais de limpeza; manutenção de gramados; controle de pragas e doenças; manutenção de vestiários e áreas destinadas ao banco de jogadores reservas; manutenção de alambrados; manutenção dos brinquedos dos parquinhos; dentre outros definidos no termo de cooperação;
+
+
+II –
+
+implantação: construção de novos campos públicos de futebol;
+
+
+III –
+
+reforma: recuperação de áreas com implantação de projetos paisagísticos, bem como reformar os brinquedos dos parquinhos, que estão em desuso devido às inúmeras avarias ocasionadas pelo tempo ou vandalismo;
+
+
+IV –
+
+adotante: a pessoa natural ou jurídica que firmar parceria com o Poder Público Municipal para adoção de áreas integrantes do Programa “Adote um Campo e/ou um Parquinho”;
+
+
+V –
+
+melhoria urbana, paisagística e ambiental: o projeto, obra, serviço, ação e intervenção relativos aos campos de futebol amador e parquinhos disponíveis para adoção que resultem no atendimento do interesse público e na melhoria da qualidade de vida urbana.
+
+
+Art. 2º.
+
+Constituem objetivos do Programa “Adote um Campo e/ou um Parquinho”, dentre outros:
+
+
+§ 1º
+
+Promover a participação da sociedade nos cuidados e na manutenção dos campos públicos de futebol amador e dos parquinhos existentes nesse município, em parceria com o Poder Público Municipal.
+
+
+§ 2º
+
+Conscientizar a população acerca da importância dos campos públicos de futebol amador para o estímulo à prática de esportes e a qualidade da vida urbana, bem como a utilidade dos parquinhos para o lazer das crianças, fomentando a noção de responsabilidade solidária entre o Poder Público Municipal e a coletividade no que toca à conservação de tais áreas.
+
+
+§ 3º
+
+Incentivar o uso dos campos públicos de futebol amador para população, como locais de práticas esportivas, lazer, convivência social e realização de eventos, observada, neste último caso, a legislação específica.
+
+
+Art. 3º.
+
+O interessado na adoção de áreas integrantes do Programa “Adote um Campo e/ou um parquinho” deverá apresentar, sua proposta à Secretaria de Esportes, Lazer e Juventude do município.
+
+
+Parágrafo único.
+
+No prazo de 10 dias úteis, contados do recebimento do requerimento, a Administração Municipal expedirá comunicado destinado a dar conhecimento público da proposta de cooperação, contendo o nome do proponente e o objeto da cooperação.
+
+
+Art. 4º.
+
+A proposta feita pelo interessado, referida no art. 6º desta Lei, após apresentado à Secretaria de Esportes, Lazer e Juventude, deverá comunicar, se a mesma foi aceita ou não.
+
+
+§ 1º
+
+Caberá à Secretaria de Esportes, Lazer e Juventude, ou departamento equivalente realizar a análise técnica a qual ratificará ou solicitará adequações da proposta realizada.
+
+
+§ 2º
+
+Caso haja adequações a serem feitas, o solicitante, deverá corrigir o projeto e encaminhar para nova análise.
+
+
+§ 3º
+
+Aprovada a proposta, no prazo de 10 dias úteis, contados do recebimento do requerimento, a Administração Municipal expedirá comunicado destinado a dar conhecimento público da proposta de cooperação, contendo o nome do proponente e o objeto da cooperação.
+
+
+Art. 5º.
+
+A proposta rejeitada será arquivada, o que não impedirá o interessado de apresentar nova proposta, querendo, para o mesmo ou para outro local, a qualquer tempo.
+
+
+Art. 6º.
+
+A proposta aceita dará ensejo à elaboração do Termo de Parceria "Adote um Campo e/ou um parquinho".
+
+
+Art. 7º.
+
+A formalização da parceria para a adoção de um Campo e/ou um parquinho far-se-á por meio da assinatura do "Termo de Adoção", na forma do modelo apresentado pela Secretaria de Esportes, Lazer e Juventude.
+
+
+Parágrafo único.
+
+O "Termo de Adoção" será firmado entre o Adotante, o titular da Secretaria de Esportes, Lazer e Juventude e o Prefeito do Município de Formosa.
+
+
+Art. 8º.
+
+A Administração Pública Municipal reserva-se o direito de exercer fiscalização contínua sobre a execução das obras e serviços, durante toda a vigência do Termo de Parceria "Adote um campo e/ou um parquinho" recomendando ao interessado, a qualquer tempo e se necessário, as providências que deverão ser tomadas para o perfeito cumprimento das cláusulas contratuais ajustadas.
+
+
+Art. 9º.
+
+O adotante poderá, a seu critério, contratar serviços especializados para a consecução dos fins constantes no termo de cooperação firmado com o Poder Público Municipal sem qualquer ônus financeiro ao Município.
+
+
+Art. 10.
+
+O descumprimento das cláusulas contratuais dará ensejo à rescisão do Termo de Parceria antes do término do prazo concedido, caso o interessado não sane as irregularidades detectadas.
+
+
+Art. 11.
+
+É permitida ao adotante a colocação de placas publicitárias indicativas de sua parceria com o município no interior e na grade de proteção do campo público de futebol amador e do parquinho adotados.
+
+
+§ 1º
+
+O Poder Executivo Municipal poderá estabelecer critérios para a quantidade, tamanho e material a ser utilizado nas placas indicativas de parceria.
+
+
+§ 2º
+
+As placas poderão conter marca, nome e slogan da pessoa jurídica adotante.
+
+
+§ 3º
+
+Fica vedada a publicidade de:
+
+
+I –
+
+cunho político;
+
+
+II –
+
+fumo e seus derivados;
+
+
+III –
+
+bebidas alcoólicas;
+
+
+IV –
+
+armas, munição e explosivos;
+
+
+V –
+
+cunho religioso;
+
+
+VI –
+
+jogos de azar;
+
+
+VII –
+
+publicações contendo material impróprio ou inadequado para crianças e adolescentes;
+
+
+VIII –
+
+produtos cujos componentes possam causar dependência física ou química, ainda que por utilização indevida.
+
+
+Art. 12.
+
+Qualquer implantação ou modificação das estruturas existentes, sejam elas relativas ao campo de futebol, parquinhos ou às demais áreas e equipamentos pertencentes aos mesmos, deverá ser analisada e aprovada pelo órgão competente da Administração Municipal.
+
+
+Art. 13.
+
+Fica vedada a concessão de qualquer tipo de uso ou benefício diferenciado ao adotante dos campos públicos de futebol amador e parquinhos mencionados nesta Lei.
+
+
+Art. 14.
+
+Os adotantes serão os únicos responsáveis pela realização das obras e serviços descritos no termo de cooperação firmado com o Poder Executivo Municipal, bem como por quaisquer danos causados ao Patrimônio Público, ao Poder Público ou a terceiros.
+
+
+Art. 15.
+
+Encerrada a adoção, as melhorias dela decorrentes passarão a integrar o patrimônio público municipal, sem qualquer direito de retenção ou indenização por parte do Adotante.
+
+
+§ 1º
+
+O desligamento do programa obrigará à retirada das placas publicitárias e dos demais materiais e equipamentos instalados na área pública, pela própria empresa, no prazo máximo de até 30 (trinta) dias da publicação do ato que cessar a execução do projeto.
+
+
+§ 2º
+
+Não se incluem no rol de materiais e equipamentos referidos no parágrafo anterior os acréscimos ao patrimônio público municipal decorrente da execução do projeto aprovado (mobiliário urbano), passando a integrar o acervo de bens públicos do Município para todos os efeitos desde a sua implantação.
+
+
+Art. 16.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 7 de dezembro de 2021.
+
+Gustavo Marques de Oliveira
+
+Prefeito Municipal
+
+Afixado no "placard" de publicidade.
+
+E encadernado em livro próprio.
+
+Data supra
+
+.....................................................................................................
+
+Iany Macêdo Troncha
+
+Superint. Executiva de Documentação e Legislação
+
+Decreto nº. 21, de 04 de janeiro de 2021.
+

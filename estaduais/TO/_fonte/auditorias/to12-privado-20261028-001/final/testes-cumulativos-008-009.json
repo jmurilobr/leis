@@ -1,0 +1,88 @@
+{
+  "preparado_em": "2026-10-28T13:15:27.970918-03:00",
+  "predecessor_perfil": 82,
+  "predecessor_runner": 15,
+  "predecessor_total": 97,
+  "sucessor_perfil": 85,
+  "sucessor_runner": 15,
+  "sucessor_total": 100,
+  "testes_anteriores": [
+    {
+      "modulo": "test_visibilidade_pdf_to",
+      "predecessor": "scripts/estados/snapshots/to_pdf_simples_20261028_008/test_visibilidade_pdf_to.py",
+      "sha256_predecessor": "34d4a6b403415be2efd562740db9d340a025accca8049d539a038fc7ee79e4fa",
+      "sucessor": "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_visibilidade_pdf_to.py",
+      "sha256_sucessor": "34d4a6b403415be2efd562740db9d340a025accca8049d539a038fc7ee79e4fa",
+      "identico": true
+    },
+    {
+      "modulo": "test_formulas_to_pdf",
+      "predecessor": "scripts/estados/snapshots/to_pdf_simples_20261028_008/test_formulas_to_pdf.py",
+      "sha256_predecessor": "7fd2507e476f6d0ad07af6c24139cc142b25fc3baa3a8ea9808400de1b91c7ef",
+      "sucessor": "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_formulas_to_pdf.py",
+      "sha256_sucessor": "7fd2507e476f6d0ad07af6c24139cc142b25fc3baa3a8ea9808400de1b91c7ef",
+      "identico": true
+    },
+    {
+      "modulo": "test_observacao_catalogo_to",
+      "predecessor": "scripts/estados/snapshots/to_pdf_simples_20261028_008/test_observacao_catalogo_to.py",
+      "sha256_predecessor": "ed93a200903e591bc83116d28b5cb02aeb7e063d070740e8103ba1deea02cf07",
+      "sucessor": "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_observacao_catalogo_to.py",
+      "sha256_sucessor": "ed93a200903e591bc83116d28b5cb02aeb7e063d070740e8103ba1deea02cf07",
+      "identico": true
+    },
+    {
+      "modulo": "test_contexto_to_pdf",
+      "predecessor": "scripts/estados/snapshots/to_pdf_simples_20261028_008/test_contexto_to_pdf.py",
+      "sha256_predecessor": "8add9728f701f5c9bdb0f66c98370caa524c1c9b28c52d9e160ed3b64bc15060",
+      "sucessor": "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_contexto_to_pdf.py",
+      "sha256_sucessor": "8add9728f701f5c9bdb0f66c98370caa524c1c9b28c52d9e160ed3b64bc15060",
+      "identico": true
+    },
+    {
+      "modulo": "test_to_pdf_simples",
+      "predecessor": "scripts/estados/snapshots/to_pdf_simples_20261028_008/test_to_pdf_simples.py",
+      "sha256_predecessor": "76c504dc8754e70419cbf2172dee2a78a0e10592ee4f887944503e6c4370a32b",
+      "sucessor": "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_to_pdf_simples.py",
+      "sha256_sucessor": "76c504dc8754e70419cbf2172dee2a78a0e10592ee4f887944503e6c4370a32b",
+      "identico": true
+    },
+    {
+      "modulo": "test_metadados_to_pdf",
+      "predecessor": "scripts/estados/snapshots/to_pdf_simples_20261028_008/test_metadados_to_pdf.py",
+      "sha256_predecessor": "da3938c4258d1547ce759ae7cb1caf2657d5bf185bdc1e2ef036731a6f756754",
+      "sucessor": "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_metadados_to_pdf.py",
+      "sha256_sucessor": "da3938c4258d1547ce759ae7cb1caf2657d5bf185bdc1e2ef036731a6f756754",
+      "identico": true
+    },
+    {
+      "modulo": "test_edicao_anotada_to",
+      "predecessor": "scripts/estados/snapshots/to_pdf_simples_20261028_008/test_edicao_anotada_to.py",
+      "sha256_predecessor": "b63fa6544a45e52da0423d6f693fb47f540930e8059e9ae2cf5e7ed5ef086f9d",
+      "sucessor": "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_edicao_anotada_to.py",
+      "sha256_sucessor": "b63fa6544a45e52da0423d6f693fb47f540930e8059e9ae2cf5e7ed5ef086f9d",
+      "identico": true
+    },
+    {
+      "modulo": "test_referencias_inline_to",
+      "predecessor": "scripts/estados/snapshots/to_pdf_simples_20261028_008/test_referencias_inline_to.py",
+      "sha256_predecessor": "dfb8ef3beaff51a15646cd57d7a4ae9909d520d30dbee3758832bf613fcb7466",
+      "sucessor": "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_referencias_inline_to.py",
+      "sha256_sucessor": "dfb8ef3beaff51a15646cd57d7a4ae9909d520d30dbee3758832bf613fcb7466",
+      "identico": true
+    },
+    {
+      "modulo": "test_clipping_pdf_textual_to",
+      "predecessor": "scripts/estados/snapshots/to_pdf_simples_20261028_008/test_clipping_pdf_textual_to.py",
+      "sha256_predecessor": "afbe1fe89ecffbc09860357ef32d5357e175c2892c6276fffd68f16ff1da8892",
+      "sucessor": "scripts/estados/snapshots/to_pdf_simples_20261028_009/test_clipping_pdf_textual_to.py",
+      "sha256_sucessor": "afbe1fe89ecffbc09860357ef32d5357e175c2892c6276fffd68f16ff1da8892",
+      "identico": true
+    }
+  ],
+  "novos_modulos": [
+    "test_ocorrencias_alteracao_to.py"
+  ],
+  "runner_mesmo_codigo": "scripts/estados/snapshots/to_promocao_20261028_001",
+  "protecoes": "Todos os 9 módulos de teste do perfil 008 permanecem byte idênticos; os mesmos 15 testes do runner continuam. Acrescentados 3 testes de classificação/preservação de ocorrências internas. A mudança intencional substitui retenção lexical de ocorrência interna por rótulo histórico e trecho literal de natureza não classificada, sem alterar os gates de gráficos/tachado/ocultação, fonte, identidade, datas, objetos, ato próprio ou igualdade integral. Nenhum texto é apagado e nenhum efeito jurídico é inferido."
+}

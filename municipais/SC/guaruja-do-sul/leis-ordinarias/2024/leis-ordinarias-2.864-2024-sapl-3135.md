@@ -1,0 +1,257 @@
+---
+titulo: "Lei Ordinária-GPREF nº 2.864, de 08 de agosto de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2.864"
+data: "2024-08-08"
+municipio: "Guarujá do Sul"
+uf: "SC"
+codigo_ibge: "4206603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guarujadosul.sc.leg.br/norma/3135"
+fonte_texto: "https://sapl.guarujadosul.sc.leg.br/ta/1749/text"
+sha256_fonte: "69ad928b7fdb3adb8a6fb2034a8d43b43eaa4eb514481a22aff9439e3493f590"
+sha256_texto: "ef9108da83b35e7b2a14489a454858255e5d5fb6d6ebcfe372d1014c738678a7"
+capturado_em_fonte: "2026-10-28T13:33:50.680328-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-GPREF nº 2.864, de 08 de agosto de 2024
+
+Claudio Junior Weschenfelder, Prefeito Municipal de Guarujá do Sul, Estado de Santa Catarina, Faço saber a Todos os habitantes deste Município que a Câmara Municipal de Vereadores apreciou, votou, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a abrir um Crédito Adicional Suplementar no valor de R$ 35.000,00 (trinta e cinco mil reais), no orçamento do Município de Guarujá do Sul, no exercício de 2024, destinado ao reforço dos seguintes itens orçamentários:
+
+
+Órgão 04- SECRETARIA DE ADMINISTRAÇÃO E FAZENDA:
+
+Unidade 07- Encargos Gerais:
+
+Função 04 –Administração
+
+Subfunção 122 – Administração Geral Programa 07 – Encargos Gerais
+
+Atividade: 2.029 – Manutenção do Depto. de Serviços Gerais
+
+93- 3.3.90.00.00.1.500.7000- Aplicações Diretas......................R$ 35.000,00
+
+
+Art. 2º.
+
+Para dar cobertura do crédito adicional suplementar de que trata o art. 1º, fica reduzido do orçamento vigente do Município de Guarujá do Sul, os seguintes itens orçamentários:
+
+
+Órgão 04- SECRETARIA DE ADMINISTRAÇÃO E FAZENDA: Unidade 04- Gerencia de Compras, Licitações e Convênios: Função 04 –Administração
+
+Subfunção 122 – Administração Geral
+
+Programa 02 – Administração e Planejamento
+
+Atividade: 2.059 – Manut. do Depto de Compras e Convênios
+
+58- 3.1.90.00.00.1.500.7000- Aplicações Diretas......................R$ 35.000,00
+
+
+Art. 3º.
+
+Fica o Poder Executivo Municipal autorizado a abrir um Crédito Adicional Suplementar no valor de R$ 40.000,00 (quarenta mil reais), no orçamento do Município de Guarujá do Sul, no exercício de 2024, destinado ao reforço dos seguintes itens orçamentários:
+
+
+Órgão 04- SECRETARIA DE ADMINISTRAÇÃO E FAZENDA: Unidade 01- Gabinete do Secretário:
+
+Função 04 –Administração
+
+Subfunção 123 – Administração Financeira Programa 07 – Encargos Gerais
+
+Atividade: 2.066 – Manutenção do Gabinete do Secretário
+
+42- 3.3.90.00.00.1.500.7000- Aplicações Diretas......................R$ 40.000,00
+
+
+Art. 4º.
+
+Para dar cobertura do crédito adicional suplementar de que trata o art. 1º, fica reduzido do orçamento vigente do Município de Guarujá do Sul, os seguintes itens orçamentários:
+
+
+Órgão 04- SECRETARIA DE ADMINISTRAÇÃO E FAZENDA:
+
+Unidade 05- Departamento de Tributação e Finanças:
+
+Função 04 –Administração
+
+Subfunção 123 – Administração Financeira
+
+Programa 02 – Administração e Planejamento Atividade: 2.006 – Manutenção do Depto. de Tributação e Finanças
+
+64- 3.1.90.00.00.1.500.7000- Aplicações Diretas......................R$ 40.000,00
+
+
+Art. 5º.
+
+Fica o Poder Executivo Municipal autorizado a abrir um Crédito Adicional Suplementar no valor de R$ 180.000,00 (cento e oitenta mil reais), no orçamento do Município de Guarujá do Sul, no exercício de 2024, destinado ao reforço dos seguintes itens orçamentários:
+
+
+Órgão 08- SECRETARIA DE TRANSPORTES E OBRAS: Unidade 01- Departamento de Urbanismo: Função 26 –Transporte
+
+Subfunção 782 – Transporte Rodoviário Programa 31 – Obras e Infraestrutura
+
+Atividade: 2.024 – Manutenção do Depto. de Transportes e Obras
+
+379- 3.3.90.00.00.1.500.7000- Aplicações Diretas..................R$ 80.000,00
+
+380- 3.3.90.00.00.1.501.7000- Aplicações Diretas..................R$ 100.000,00
+
+
+Art. 6º.
+
+Para dar cobertura do crédito adicional suplementar de que trata o art. 1º, fica reduzido do orçamento vigente do Município de Guarujá do Sul, os seguintes itens orçamentários:
+
+
+Órgão 06- SECRETARIA DE AGRICILTURA, MEIO AMBIENTE E TURISMO: Unidade 01- Departamento de Agricultura, Meio Ambiente e Turismo: Função 20 – Agricultura Subfunção 606 – Extensão Rural Programa 26 – Promoção e Extenção Rural Atividade: 2.026 - Manutenção do Depto. de Agricultura 300- 3.1.90.00.00.1.500.7000- Aplicações Diretas...................R$ 80.000,00 303- 3.3.90.00.00.1.501.7000- Aplicações Diretas...................R$ 100.000,00
+
+
+Art. 7º.
+
+Fica o Poder Executivo Municipal autorizado a abrir um Crédito Adicional Suplementar no valor de R$ 30.000,00 (trinta mil reais), no orçamento do Município de Guarujá do Sul, no exercício de 2024, destinado ao reforço dos seguintes itens orçamentários:
+
+
+Órgão 04- SECRETARIA DE ADMINISTRAÇÃO E FAZENDA:
+
+Unidade 07- Encargos Gerais:
+
+Função 04 –Administração
+
+Subfunção 122 – Administração Geral
+
+Programa 07 – Encargos Gerais Projeto: 1.027 – Construção da Sede Administrativa
+
+88- 4.4.90.00.00.1.704.7000- Aplicações Diretas.....................R$ 30.000,00
+
+
+Art. 8º.
+
+Para dar cobertura do crédito adicional suplementar de que trata o art. 1º, fica reduzido do orçamento vigente do Município de Guarujá do Sul, os seguintes itens orçamentários:
+
+
+Órgão 07- SECRETARIA DE INDÚSTRIA E COMÉRCIO: Unidade 01- Departamento de Indústria e Comércio: Função 22 –Indústria
+
+Subfunção 661 – Promoção Industrial
+
+Programa 36 – Incentivo a Indústria e ao Comércio
+
+Atividade: 2.071 – Manutenção da Secretaria de Indústria e Comércio
+
+329-3.3.90.00.00.1.500.7000- Aplicações Diretas....................R$ 30.000,00
+
+
+Art. 9º.
+
+Fica o Poder Executivo Municipal autorizado a abrir um Crédito Adicional Suplementar no valor de R$ 170.000,00 (cento e setenta mil reais), no orçamento do Município de Guarujá do Sul, no exercício de 2024, destinado ao reforço dos seguintes itens orçamentários:
+
+
+Órgão 04- SECRETARIA DE ADMINISTRAÇÃO E FAZENDA:
+
+Unidade 07- Encargos Gerais:
+
+Função 04 –Administração
+
+Subfunção 122 – Administração Geral
+
+Programa 07 – Encargos Gerais Projeto: 1.027 – Construção da Sede Administrativa
+
+88- 4.4.90.00.00.1.704.7000- Aplicações Diretas.....................R$ 170.000,00
+
+
+Art. 10.
+
+Para dar cobertura do crédito adicional suplementar de que trata o art. 1º, fica reduzido do orçamento vigente do Fundo Municipal de Saúde de Guarujá do Sul, os seguintes itens orçamentários:
+
+
+Órgão 11- FUNDO MUNICIPAL DE SAÚDE: Unidade 04- Coordenação de Programas: Função 10 –Saúde
+
+Subfunção 301 – Atenção Básica Programa 10 – Saúde Básica
+
+Atividade: 2.093 – Manutenção do PAB
+
+491 - 3.1.90.00.00.1.500.1002- Aplicações Diretas...................R$ 170.000,00
+
+
+Art. 11.
+
+Fica o Poder Executivo Municipal autorizado a abrir um Crédito Adicional Suplementar no valor de R$ 52.000,00 (cinquenta e dois mil reais), no orçamento do Município de Guarujá do Sul, no exercício de 2024, destinado ao reforço dos seguintes itens orçamentários:
+
+
+Órgão 05- SECRETARIA DE EDUCAÇÃO, CULTURA E ESPORTE: Unidade 02- Departamento de Ensino Fundamental e Infantil: Função 12 –Educação
+
+Subfunção 367 – Educacao Especial
+
+Programa 59 – Ensino Especial
+
+Atividade: 2.120 – Ensino Especial
+
+252- 3.3.50.00.00.1.500.1001- Aplicações Diretas...................R$ 52.000,00
+
+
+Art. 12.
+
+Para dar cobertura do crédito adicional suplementar de que trata o art. 1º, fica reduzido do orçamento vigente do Fundo Municipal de Saúde de Guarujá do Sul, os seguintes itens orçamentários:
+
+
+Órgão 11- FUNDO MUNICIPAL DE SAÚDE: Unidade 04- Coordenação de Programas: Função 10 –Saúde
+
+Subfunção 301 – Atenção Básica Programa 10 – Saúde Básica
+
+Atividade: 2.046 – Manutenção da Farmácia Básica
+
+465 - 3.3.90.00.00.1.500.1002- Aplicações Diretas...................R$ 52.000,00
+
+
+Art. 13.
+
+Fica o Poder Executivo Municipal autorizado a abrir um Crédito Adicional Suplementar no valor de R$ 82.000,00 (oitenta e dois mil reais), no orçamento do Fundo Municipal de Saúde de Guarujá do Sul, no exercício de 2024, destinado ao reforço dos seguintes itens orçamentários:
+
+
+Órgão 11- FUNDO MUNICIPAL DE SAÚDE:
+
+Unidade 01- Departamento Administrativo de Saúde: Função 10 –Saúde
+
+Subfunção 301 – Atenção Básica
+
+Programa 10 – Saúde Básica
+
+Atividade: 2.099 – Contribuição ao Hospital
+
+413 - 3.3.50.00.00.1.500.1002- Aplicações Diretas...................R$ 82.000,00
+
+
+Art. 14.
+
+Para dar cobertura do crédito adicional suplementar de que trata o art. 1º, fica reduzido do orçamento vigente do Fundo Municipal de Saúde de Guarujá do Sul, os seguintes itens orçamentários:
+
+
+Órgão 11- FUNDO MUNICIPAL DE SAÚDE: Unidade 04- Coordenação de Programas: Função 10 –Saúde
+
+Subfunção 301 – Atenção Básica Programa 10 – Saúde Básica
+
+Atividade: 2.046 – Manutenção da Farmácia Básica
+
+465 - 3.3.90.00.00.1.500.1002- Aplicações Diretas...................R$ 82.000,00
+
+
+Art. 15.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE GUARUJÁ DO SUL, 08 DE AGOSTO DE 2024.
+
+CLAUDIO JUNIOR WESCHENFELDER
+
+Prefeito Municipal
+

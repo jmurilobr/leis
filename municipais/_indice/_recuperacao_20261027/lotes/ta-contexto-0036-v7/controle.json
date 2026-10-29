@@ -1,0 +1,3849 @@
+{
+  "criterio": "Detecta texto e mídia normativa fora dos dispositivos contabilizados do TA.\n\nControle adicional somente leitura. Qualquer conteúdo não contabilizado é\nretido, sem presumir que se trata de navegação ou decidir vigência por aparência.\n",
+  "aprovados": 13,
+  "retidos": 46,
+  "script_sha256": "f44151983d56fd8ff3380b5ad14ad8557215b895048d6405e7563b21b6a3b066",
+  "resultados": [
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2020/leis-ordinarias-2129-2020-sapl-384.md",
+      "sha256": "8db1afd594ac0cd72e15ea225497e775553da03f4f62f66214a23ed2342c2a50",
+      "sha256_fonte": "210f37700566e9b9e9707592cf3e244f8749017711c165df2c273ed2217bb67d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/343b5e5e09d44d054fce348dc51ddee6da4d5e0f8be52b7cf56cb5131b76d7ad.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            453,
+            40
+          ]
+        },
+        {
+          "texto": "6 de Dezembro de 2021",
+          "posicao": [
+            457,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            457,
+            65
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            463,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 2.200, de 06 de dezembro de 2021",
+          "posicao": [
+            463,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2019/leis-ordinarias-2123-2019-sapl-376.md",
+      "sha256": "cae3875ff1141069580983afa1b518e19e9cb8c3b6f145319c4fd666a1b7ea20",
+      "sha256_fonte": "f33ae2c6d682bca18a9629b7d7ca3e4ef6eeff3e68494133b3a19ee59458c303",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/0fc5c428188efbe565de28b53f043d9cf5858502f5f57ddc555e955adedcfe6f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2019/leis-ordinarias-2120-2019-sapl-373.md",
+      "sha256": "cc6491b3a09b2532dfed60c9033cac383841ce29e804893bf0ca5a98ef537f14",
+      "sha256_fonte": "5b7d62b7863751f4ebb3cd733c28574d9e8613c490bb50e9b5eae9ff3837446a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/c8fa4e6e0e522292de64bc709cfaa35772668bc3d5e115775cb6b26b11561a3d.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            506,
+            40
+          ]
+        },
+        {
+          "texto": "9 de Abril de 2024",
+          "posicao": [
+            510,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            510,
+            62
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            516,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 2.349, de 09 de abril de 2024",
+          "posicao": [
+            516,
+            56
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2019/leis-ordinarias-2116-2019-sapl-368.md",
+      "sha256": "2459a76570c673f4ad4105a388a8dfd2d953a8fda78a56f872f1d0a57cbaf1a8",
+      "sha256_fonte": "1c0188c44a97ac07cefa2c3d1d1fa668584f49fac337084d2c265647bccd2667",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/58e4995a1f271aebeb2eee599e391cc8d6026d3188b817dffad9f48cebc33199.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            554,
+            126
+          ]
+        },
+        {
+          "texto": "Fica instituído no Município de Guaíra, Estado do Paraná, através da Secretaria Municipal de Turismo, Esporte e Cultura - Diretoria de Cultura, o \"CONCURSO DE DECORAÇÃO NATALINA\", com o objetivo primordial de despertar o interesse da população a fazer a decoração natalina em suas residências e comércio em geral, visando reviver as tradições do Natal, apoiando as manifestações da cultura popular, difundindo o espírito de fraternidade, respeito e amor ao próximo, embelezando a cidade e estimulando a criatividade dos concorrentes\".",
+          "posicao": [
+            554,
+            138
+          ]
+        },
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            619,
+            126
+          ]
+        },
+        {
+          "texto": "Os vencedores das modalidades descritas no parágrafo único do artigo 2º, receberão as seguintes premiações:",
+          "posicao": [
+            619,
+            138
+          ]
+        },
+        {
+          "texto": "a)",
+          "posicao": [
+            633,
+            134
+          ]
+        },
+        {
+          "texto": "primeiro classificado: R$ 1.500,00 (um mil e quinhentos reais);",
+          "posicao": [
+            633,
+            140
+          ]
+        },
+        {
+          "texto": "b)",
+          "posicao": [
+            642,
+            134
+          ]
+        },
+        {
+          "texto": "segundo classificado: R$ 1.000,00 (um mil reais);",
+          "posicao": [
+            642,
+            140
+          ]
+        },
+        {
+          "texto": "c)",
+          "posicao": [
+            651,
+            134
+          ]
+        },
+        {
+          "texto": "terceiro classificado: R$ 500,00 (quinhentos reais).",
+          "posicao": [
+            651,
+            140
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            660,
+            137
+          ]
+        },
+        {
+          "texto": "Os 5 (cinco) primeiros classificados nas categorias do Parágrafo único do artigo 2º, receberão troféus de participação e colocação.",
+          "posicao": [
+            660,
+            145
+          ]
+        },
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            669,
+            137
+          ]
+        },
+        {
+          "texto": "As premiações constantes desta Lei serão entregues aos vencedores em data a ser designada pela Secretaria Municipal de Turismo, Esporte e Cultura, posteriormente ao dia 06 de janeiro de cada ano.",
+          "posicao": [
+            669,
+            145
+          ]
+        },
+        {
+          "texto": "Art. 5º.",
+          "posicao": [
+            729,
+            126
+          ]
+        },
+        {
+          "texto": "Os participantes do Concurso deverão manter a decoração natalina entre os dias 06 de dezembro a 06 de janeiro de cada ano, sob pena de perda da premiação.",
+          "posicao": [
+            729,
+            138
+          ]
+        },
+        {
+          "texto": "Art. 8º.",
+          "posicao": [
+            794,
+            126
+          ]
+        },
+        {
+          "texto": "Para atender as despesas referente a aquisição das premiações de que trata a presente lei, serão utilizados os recursos provenientes de dotação orçamentária própria consignados no orçamento vigente\".",
+          "posicao": [
+            794,
+            138
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SP/garca/decretos-legislativos/2010/decretos-legislativos-5-2010-sapl-4790.md",
+      "sha256": "d208eb3d5c508bbc40ccf357fc47a31438dcbca84afc45eb042e625054e53fc7",
+      "sha256_fonte": "b428f940af13716d5a117533007656be1d2341be13083489e5335850c7fa2397",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/1de2441f69bfc94ea8574863cf8cf79f39410e323ac5404c9c8ea3bba6596880.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            421,
+            40
+          ]
+        },
+        {
+          "texto": "15 de Fevereiro de 2018",
+          "posicao": [
+            425,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            425,
+            67
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            431,
+            25
+          ]
+        },
+        {
+          "texto": "Decreto Legislativo-CMG nº 1, de 15 de fevereiro de 2018",
+          "posicao": [
+            431,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-complementares/2019/leis-complementares-1-2019-sapl-382.md",
+      "sha256": "0a4c6bf212b5df0e13764d85328bb796f73278454f04815b29f4a28cbac2a2ad",
+      "sha256_fonte": "d70e927519f2ffba65896bc93327744a254d17bfb99f440a9e43a2e50b58cd8f",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/f7db9adb601c866175e076e44431d278182581dc99dec2b44d530b0535cf63bc.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2019/leis-ordinarias-2107-2019-sapl-359.md",
+      "sha256": "b74e81422b0c9d77f9e6a4b5942c93f9e25e0be0f945b9174854ded6766b3253",
+      "sha256_fonte": "88eb0e2427d68bb670a85e332e11cf0c4628646e51c4c230bfc7a1e76da2b526",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/08e6add23a4e749ae40f62746e85793172b59d0750380a6a863f93e1acdf09cb.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            527,
+            40
+          ]
+        },
+        {
+          "texto": "10 de Junho de 2025",
+          "posicao": [
+            531,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            531,
+            63
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            537,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 2.415, de 10 de junho de 2025",
+          "posicao": [
+            537,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2019/leis-ordinarias-2106-2019-sapl-358.md",
+      "sha256": "8bd84a6cdd5c53eb37d7224542860ecaa8bf8aa8a27df21e12d0ac83019b057c",
+      "sha256_fonte": "244f88701830f8e2e1c293b3d12cb4d1a44a8cca7a0fb1c7884617db4dfd352e",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/4bbb958ef922deda8328091699a9eda6b54840d4d827aac2fe27d9e2b6182e62.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            554,
+            127
+          ]
+        },
+        {
+          "texto": "A presente cessão de uso tem como finalidade a instalação de depósito de bens apreendidos pela Delegacia de Polícia Federal de Guaíra pelo prazo de 20 (vinte) anos, contados a partir da assinatura do Termo de Cessão de Uso.",
+          "posicao": [
+            554,
+            139
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            568,
+            127
+          ]
+        },
+        {
+          "texto": "O imóvel ora cedido poderá ter o seu uso compartilhado com a Receita Federal do Brasil e outros organismos estaduais ou federais para a mesma finalidade, a de depósito de bens apreendidos.",
+          "posicao": [
+            568,
+            139
+          ]
+        },
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            582,
+            127
+          ]
+        },
+        {
+          "texto": "O Departamento de Polícia Federal de Guaíra, ou outros organismos estaduais ou federais, que utilizarem de forma compartilhada, ficam autorizados a efetuar as construções necessárias para o uso do bem ora cedido, sendo que essas benfeitorias se incorporarão automaticamente ao imóvel ora cedido, sendo que ao término da cessão serão de propriedade do Município de Guaíra, Estado do Paraná.",
+          "posicao": [
+            582,
+            139
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2019/leis-ordinarias-2105-2019-sapl-357.md",
+      "sha256": "eef8b8eb4bb640660d3f1c660ec21d5b7b1ef123b20153f87c7cae0318863752",
+      "sha256_fonte": "0596a7ec2f19f3b0aca169fd3b9d37378ab6b33f1c01774d5b04ac6d7c188c46",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/f3e7b84e7a5d3d6d457452cc67d939fa2cfed891ff158adc9feac08901d61bd5.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 44.",
+          "posicao": [
+            523,
+            126
+          ]
+        },
+        {
+          "texto": "Os servidores que integrarem o Quadro Especial, referidos no Artigo 14 desta Lei, ficarão sujeitos às mesmas obrigações dos demais servidores, assegurando-se-lhes os direitos previstos na Consolidação das Leis do Trabalho, reajuste nos mesmos índices e datas aplicáveis ao quadro efetivo e o benefício do Avanço Funcional.",
+          "posicao": [
+            523,
+            138
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2019/leis-ordinarias-2100-2019-sapl-352.md",
+      "sha256": "915a23b8013cb5aea0b81e228777d156007adb5876f7e8ac26c3bd6ceb80789d",
+      "sha256_fonte": "2ebd88d1f09c0ba5c83edca82173fb133a08860060f53053ff70052316f86984",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/41e9766f4e20266aad9781ff22853baabe23053fee89f55395d8d0e14b99207c.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            523,
+            121
+          ]
+        },
+        {
+          "texto": "O benefício que trata o Artigo 1º desta Lei, consiste no fornecimento do cartão magnético, informatizado, de caráter pessoal e intransferível, destinando-se à aquisição diretamente pelo servidores/beneficiários, em estabelecimentos comerciais credenciados, de gêneros alimentícios, produtos de limpeza e higiene pessoal.",
+          "posicao": [
+            523,
+            133
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            537,
+            132
+          ]
+        },
+        {
+          "texto": "É vedada a aquisição com o cartão auxílio-alimentação de bebidas alcóolicas, cigarros e quaisquer outros produtos que não estejam contemplados no caput do artigo 2º.",
+          "posicao": [
+            537,
+            140
+          ]
+        },
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            546,
+            132
+          ]
+        },
+        {
+          "texto": "A operacionalização do cartão auxílio-alimentação será formalizada da seguinte forma:",
+          "posicao": [
+            546,
+            140
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            555,
+            129
+          ]
+        },
+        {
+          "texto": "– Será organizado a cada mês, no dia 20, pela Diretoria de Pessoal a lista dos servidores com direito ao auxílio-alimentação, que será revisado nele incluindo-se e excluindo-se eventuais beneficiários e encaminhado para a administração do cartão realizar créditos nos respectivos cartões, nos valores e nas condições estabelecidas por esta Lei;",
+          "posicao": [
+            555,
+            134
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            564,
+            129
+          ]
+        },
+        {
+          "texto": "– Os créditos, desde que não utilizados pelos respectivos titulares dos cartões, ou ainda no caso de sua utilização parcial, serão acumulados;",
+          "posicao": [
+            564,
+            135
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            573,
+            129
+          ]
+        },
+        {
+          "texto": "– O titular do cartão poderá realizar, livremente, em estabelecimentos comerciais credenciados despesas até o limite do crédito disponibilizado;",
+          "posicao": [
+            573,
+            136
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            582,
+            129
+          ]
+        },
+        {
+          "texto": "– Com base nas despesas realizadas pelos titulares, a administradora do cartão providenciará os respectivos pagamentos aos estabelecimentos comerciais e, ainda, manterá controle sobre os saldos de eventuais créditos remanescentes, individualmente.",
+          "posicao": [
+            582,
+            135
+          ]
+        },
+        {
+          "texto": "§ 3º",
+          "posicao": [
+            591,
+            132
+          ]
+        },
+        {
+          "texto": "Os créditos mensais a serem realizados pela administradora do cartão estarão condicionados ao repasse pelo Município dos valores correspondentes com base na lista atualizada de beneficiários a que se refere o inciso I do § 2º do Art. 2º desta Lei.",
+          "posicao": [
+            591,
+            140
+          ]
+        },
+        {
+          "texto": "§ 4º",
+          "posicao": [
+            600,
+            132
+          ]
+        },
+        {
+          "texto": "Para consecução das disposições estabelecidas por esta Lei, o Poder Executivo Municipal pode promover licitação, em conformidade com a Lei nº 8.666/93, tendo por objeto a administração, interação das operações decorrentes do uso do cartão auxílio-alimentação, bem como a prestação de serviços como intermediadora na relação de compras.",
+          "posicao": [
+            600,
+            140
+          ]
+        },
+        {
+          "texto": "§ 5º",
+          "posicao": [
+            609,
+            132
+          ]
+        },
+        {
+          "texto": "O beneficiado que não comparecer para retirar o cartão-alimentação disponibilizado pela administradora do cartão, no local e prazo estipulado pela Administração Municipal por meio de ato próprio, perderá o auxílio-alimentação e não será incluído na listagem de beneficiados no meses posteriores, sendo necessário a solicitação administrativa para retornar a receber o auxílio-alimentação, sem direito as retroativos.",
+          "posicao": [
+            609,
+            140
+          ]
+        },
+        {
+          "texto": "§ 6º",
+          "posicao": [
+            618,
+            132
+          ]
+        },
+        {
+          "texto": "O beneficiado que não efetuar gastos com o cartão alimentação no período de 3 (três) meses, será excluído da listagem dos beneficiados nos meses posteriores, sendo necessário a solicitação administrativa para retornar a receber o auxílio-alimentação, sem direito aos retroativos.",
+          "posicao": [
+            618,
+            140
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2019/leis-ordinarias-2099-2019-sapl-351.md",
+      "sha256": "ec079634a98e0336ba14a2dde0515c50d1a91b3ef0c13154b804a53eded90566",
+      "sha256_fonte": "f2b05d90d9100c9ac8c7e24e934d2599e61f82e84989666bd891680d0faa8870",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/ab48834e1b003f88bc3dfbb4b1f31fad003b29c0ff382817040b9579e0d591e6.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Cargo",
+          "posicao": [
+            536,
+            341
+          ]
+        },
+        {
+          "texto": "Requisitos",
+          "posicao": [
+            536,
+            403
+          ]
+        },
+        {
+          "texto": "Vagas",
+          "posicao": [
+            536,
+            470
+          ]
+        },
+        {
+          "texto": "Salário",
+          "posicao": [
+            536,
+            532
+          ]
+        },
+        {
+          "texto": "Carga Horária Semanal",
+          "posicao": [
+            536,
+            596
+          ]
+        },
+        {
+          "texto": "Advogado",
+          "posicao": [
+            536,
+            709
+          ]
+        },
+        {
+          "texto": "3º Grau Completo",
+          "posicao": [
+            536,
+            774
+          ]
+        },
+        {
+          "texto": "1",
+          "posicao": [
+            536,
+            847
+          ]
+        },
+        {
+          "texto": "R$ 7.162,89*",
+          "posicao": [
+            536,
+            905
+          ]
+        },
+        {
+          "texto": "36",
+          "posicao": [
+            536,
+            974
+          ]
+        },
+        {
+          "texto": "Advogado",
+          "posicao": [
+            536,
+            1068
+          ]
+        },
+        {
+          "texto": "3º Grau Completo",
+          "posicao": [
+            536,
+            1133
+          ]
+        },
+        {
+          "texto": "1",
+          "posicao": [
+            536,
+            1206
+          ]
+        },
+        {
+          "texto": "R$ 3.979,38*",
+          "posicao": [
+            536,
+            1264
+          ]
+        },
+        {
+          "texto": "20",
+          "posicao": [
+            536,
+            1333
+          ]
+        },
+        {
+          "texto": "Oficial Legislativo e Administrativo",
+          "posicao": [
+            536,
+            1427
+          ]
+        },
+        {
+          "texto": "3º Grau Completo",
+          "posicao": [
+            536,
+            1520
+          ]
+        },
+        {
+          "texto": "1",
+          "posicao": [
+            536,
+            1593
+          ]
+        },
+        {
+          "texto": "R$ 4.624,13*",
+          "posicao": [
+            536,
+            1651
+          ]
+        },
+        {
+          "texto": "40",
+          "posicao": [
+            536,
+            1720
+          ]
+        },
+        {
+          "texto": "Contador",
+          "posicao": [
+            536,
+            1814
+          ]
+        },
+        {
+          "texto": "3º Grau Completo",
+          "posicao": [
+            536,
+            1879
+          ]
+        },
+        {
+          "texto": "1",
+          "posicao": [
+            536,
+            1952
+          ]
+        },
+        {
+          "texto": "R$ 6.134,15*",
+          "posicao": [
+            536,
+            2010
+          ]
+        },
+        {
+          "texto": "40",
+          "posicao": [
+            536,
+            2079
+          ]
+        },
+        {
+          "texto": "Recepcionista",
+          "posicao": [
+            536,
+            2173
+          ]
+        },
+        {
+          "texto": "2º Grau Completo",
+          "posicao": [
+            536,
+            2243
+          ]
+        },
+        {
+          "texto": "1",
+          "posicao": [
+            536,
+            2316
+          ]
+        },
+        {
+          "texto": "R$ 2.026,26*",
+          "posicao": [
+            536,
+            2374
+          ]
+        },
+        {
+          "texto": "40",
+          "posicao": [
+            536,
+            2443
+          ]
+        },
+        {
+          "texto": "Assistente Administrativo",
+          "posicao": [
+            536,
+            2537
+          ]
+        },
+        {
+          "texto": "2º Grau Completo",
+          "posicao": [
+            536,
+            2619
+          ]
+        },
+        {
+          "texto": "3",
+          "posicao": [
+            536,
+            2692
+          ]
+        },
+        {
+          "texto": "R$ 2.487,10*",
+          "posicao": [
+            536,
+            2750
+          ]
+        },
+        {
+          "texto": "40",
+          "posicao": [
+            536,
+            2819
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [
+        {
+          "tag": "table",
+          "attrs": {
+            "style": "width: 100.013%; height: 409.261px; border-collapse: collapse; border-color: #000000;",
+            "border": "1"
+          },
+          "posicao": [
+            536,
+            140
+          ]
+        }
+      ],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2019/leis-ordinarias-2098-2019-sapl-350.md",
+      "sha256": "64f18de3f0eea6b3c8c40b12d49f0ceabc8275996e09846eb31ea5c0b1e620c6",
+      "sha256_fonte": "0433e5a134db61e7fb2ce1939ee0e444463247b6c314e60d65f85189af6956b8",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/893237262773edbe67863b45d35acaa248bd5c35565877f9a2cd0a59a0937bf8.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "I",
+          "posicao": [
+            554,
+            134
+          ]
+        },
+        {
+          "texto": "– concluir as obras de edificação no prazo máximo de 16 (dezesseis) anos, contados a partir do recebimento do imóvel através do instrumento público competente.",
+          "posicao": [
+            554,
+            139
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2019/leis-ordinarias-2095-2019-sapl-347.md",
+      "sha256": "636132e2059e1caa52673a22015f6ca0b824db331ae1ead064738cea41784a49",
+      "sha256_fonte": "7dcdc14bbf62824f0aa94a02ae192a84ae9e54da51f7d2041fcaaa2a00f73ecc",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/22adfd64931a56ef4b40cef0d97f0eadebaaf7b4034c5ac5ed95d0e7e354dcb3.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            523,
+            126
+          ]
+        },
+        {
+          "texto": "Fica autorizado o Município de Guaíra a ratificar sua participação no Consórcio Intermunicipal Para Conservação do Remanescente do Rio Paraná e Áreas de Influência - constituído pelos Municípios de Alto Paraíso, Altônia, Esperança Nova, Guaíra, Icaraíma, São Jorge do Patrocínio, Terra Roxa e Xambrê, aos ditames da Lei Federal nº 11.107/2005 e Decreto nº 6.017/2007, visando possibilitar a gestão associada de serviços públicos, através do gerenciamento, planejamento, coordenação e execução, nas áreas de Conservação, Proteção e Manejo de Áreas Legalmente Protegidas.",
+          "posicao": [
+            523,
+            138
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            537,
+            137
+          ]
+        },
+        {
+          "texto": "Fica igualmente autorizado o Poder Executivo Municipal a adequar sua execução orçamentária ao novo regime jurídico para Consórcios Públicos adotado pela Lei Federal nº 11.107/2005, de forma a manter as responsabilidades administrativas e financeiras decorrentes do referido Consórcio.",
+          "posicao": [
+            537,
+            157
+          ]
+        },
+        {
+          "texto": "Art. 7º.",
+          "posicao": [
+            546,
+            126
+          ]
+        },
+        {
+          "texto": "Em razão do disposto no art. 4º, inciso IX da Lei 11.107/05, art. 5º, inciso IX e art. 8º, §2º do Decreto nº 6.017/07 e art. 37 da Constituição Federal, em decorrência de aprovação no Conselho de Prefeitos em reunião ordinária, retifica-se também as alterações no Protocolo de Intenções e Estatuto, sobre cargos, funções, salários, forma de provimento, avaliação de eficiência e hierarquia dos empregados públicos do Consórcio, o reingresso do município de Xambrê e alteração do endereço de sede do consórcio.",
+          "posicao": [
+            546,
+            138
+          ]
+        },
+        {
+          "texto": "Art. 8º.",
+          "posicao": [
+            560,
+            126
+          ]
+        },
+        {
+          "texto": "Considerando o disposto no art. 41 do Decreto nº 6.017/07, o município de Xambrê, ratifica todas mudanças anteriormente realizadas no Estatuto e Protocolos de Intenção, bem como a personalidade jurídica de direito público, em razão da função social, adequação, legalidade e interesse público sobre o privado.",
+          "posicao": [
+            560,
+            138
+          ]
+        },
+        {
+          "texto": "Art. 9º.",
+          "posicao": [
+            574,
+            126
+          ]
+        },
+        {
+          "texto": "Aplica-se à relação jurídica entre o Município e o Consórcio Público o disposto na Lei nº 11.107, de 06 de abril de 2005 e no Decreto nº 6.017 de 17 de janeiro de 2007.",
+          "posicao": [
+            574,
+            138
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2019/leis-ordinarias-2089-2019-sapl-341.md",
+      "sha256": "ad66c0e38f7df16f8c70b705ba43ccdadf2b66fe4b2fc6c5b21297939a0672d1",
+      "sha256_fonte": "3bd5abb711315956a0b49b669750b8bdd39503da1925933a1dc2b846794c2c2d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/706b00160dc94beb26b07545900fad8cbbecfe647d0d33ef099088458015dc76.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2019/leis-ordinarias-2087-2019-sapl-339.md",
+      "sha256": "9d1236c9ab5a09d09ae7d328d0e2a2a76a55a60bb828eed4014b9d6fec1d1ea7",
+      "sha256_fonte": "cc27bc8534041de2e204d4b5ea87244b8104695eafb33c8a3d36e8cea28a5b01",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/23d050daa50c71991d39f757a903d003d4e28e6f0361ac9627a9872ca10f9a65.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2019/leis-ordinarias-2083-2019-sapl-335.md",
+      "sha256": "ebc513019412e19ce27b6eb093e493b67e187662459795283d0e1e8fbf65f960",
+      "sha256_fonte": "33f54252e3e20c5e88fe0a2e34dc6ae5bdbb041f076fd4255981692ce2008da7",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/0638e67ffe74cf9b54f59f62b49f4043ea78c31eac5b4c204cb9488736582bc7.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 15.",
+          "posicao": [
+            530,
+            127
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            530,
+            139
+          ]
+        },
+        {
+          "texto": "Art. 15.",
+          "posicao": [
+            539,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            539,
+            138
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2019/leis-ordinarias-2075-2019-sapl-327.md",
+      "sha256": "7af5654c4e7788238ddb47186fb44ab24aa2352fa60ab6249dcb7543560c50f9",
+      "sha256_fonte": "fec797515dd3b466ee66b659a8f95370da0d4115d3cd37c9076e90d43fda49e6",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/b89393fa673ea707d184001a4c435f06a809902966ac584dca83cb7e6d4366cc.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            592,
+            138
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            592,
+            146
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2018/leis-ordinarias-2070-2018-sapl-322.md",
+      "sha256": "0266f3fdb6c4655a3e27243e042efac54bad3c96de0a431939c90c7df9ed1477",
+      "sha256_fonte": "acbf9450bf6a1e9bd0a83cd0a1058155011ec0b387215e2998e0a1cfd1539eff",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/2c44b32ef1e78b1717d6a158489b53ea86e2ed8fb941d312dc3d47cbb5864830.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 15.",
+          "posicao": [
+            536,
+            126
+          ]
+        },
+        {
+          "texto": "Os cargos de provimento em comissão da Câmara Municipal de Guaíra, Estado do Paraná, serão preenchidos por servidores de carreira, no percentual mínimo de:",
+          "posicao": [
+            536,
+            138
+          ]
+        },
+        {
+          "texto": "a)",
+          "posicao": [
+            550,
+            134
+          ]
+        },
+        {
+          "texto": "10% (dez por cento), com implementação até 31 de dezembro de 2018; e",
+          "posicao": [
+            550,
+            140
+          ]
+        },
+        {
+          "texto": "b)",
+          "posicao": [
+            559,
+            134
+          ]
+        },
+        {
+          "texto": "20% (vinte por cento), para implementação até 31 de dezembro de 2019.",
+          "posicao": [
+            559,
+            140
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            568,
+            137
+          ]
+        },
+        {
+          "texto": "O descumprimento das regras impostas no caput deste artigo, somente será justificada em caso de o Poder Legislativo Municipal não dispor de servidores efetivos de carreira técnica-profissional, em razão de afastamento ou desempenho de funções de confiança, quando poderá ser aplicado o percentual da alínea \"a\".",
+          "posicao": [
+            568,
+            145
+          ]
+        },
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            577,
+            137
+          ]
+        },
+        {
+          "texto": "O servidor efetivo, ao ocupar cargo em comissão, poderá optar pela remuneração do cargo de origem.",
+          "posicao": [
+            577,
+            145
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SP/garca/decretos-legislativos/2009/decretos-legislativos-4-2009-sapl-2462.md",
+      "sha256": "dc3602d52fe391fdc9c811251b8718594f2f0c44b11ab278589fc203445f77f1",
+      "sha256_fonte": "f5ba3fa805c1ec62575c41e477291a7dbc341f1f41262a09a1d07a52db5db11b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/6c33cc4963a31421198c314966c26a7a7d041cf144d285f1c6c2cb1315e5eff4.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            421,
+            40
+          ]
+        },
+        {
+          "texto": "15 de Fevereiro de 2018",
+          "posicao": [
+            425,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            425,
+            67
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            431,
+            25
+          ]
+        },
+        {
+          "texto": "Decreto Legislativo-CMG nº 1, de 15 de fevereiro de 2018",
+          "posicao": [
+            431,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2018/leis-ordinarias-2065-2018-sapl-317.md",
+      "sha256": "a5a894036ae3600d997e78ae6ba724f963724e91e42efdbb9b2111b609345f79",
+      "sha256_fonte": "7b52ef7b6abd85e4870c278a82e4a5a514e72af9613ba950ea61982f19e092c6",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/d9d60ebd0321c8b51baab14c42216fcaf5f169c8cb68937fcc0eda6929d8d60a.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 11.",
+          "posicao": [
+            523,
+            126
+          ]
+        },
+        {
+          "texto": "O Conselho Municipal dos Direitos da Criança e do Adolescente é composto por 07 (sete) membros titulares e 07 (sete) suplentes, evidenciados por notória honestidade e dedicação às causas sociais do Município, observada a composição paritária de seus membros, nos termos do artigo 88, inciso II, da Lei nº 8.069/90, nos seguintes termos:",
+          "posicao": [
+            523,
+            138
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            537,
+            134
+          ]
+        },
+        {
+          "texto": "– 07 (sete) titulares e 07 (sete) suplentes representantes da Administração Pública Municipal, indicados pelo Prefeito; e, membros integrantes do Sistema de Administração Pública, atuantes no Município, indicados pelos Orgãos:",
+          "posicao": [
+            537,
+            139
+          ]
+        },
+        {
+          "texto": "a)",
+          "posicao": [
+            546,
+            134
+          ]
+        },
+        {
+          "texto": "Secretaria de Educação, Cultura e Esporte;",
+          "posicao": [
+            546,
+            140
+          ]
+        },
+        {
+          "texto": "b)",
+          "posicao": [
+            555,
+            134
+          ]
+        },
+        {
+          "texto": "Secretaria de Saúde;",
+          "posicao": [
+            555,
+            140
+          ]
+        },
+        {
+          "texto": "c)",
+          "posicao": [
+            564,
+            134
+          ]
+        },
+        {
+          "texto": "Secretaria de Ação Social;",
+          "posicao": [
+            564,
+            140
+          ]
+        },
+        {
+          "texto": "d)",
+          "posicao": [
+            573,
+            134
+          ]
+        },
+        {
+          "texto": "Secretaria de Planejamento",
+          "posicao": [
+            573,
+            140
+          ]
+        },
+        {
+          "texto": "e)",
+          "posicao": [
+            582,
+            134
+          ]
+        },
+        {
+          "texto": "Secretaria da Fazenda;",
+          "posicao": [
+            582,
+            140
+          ]
+        },
+        {
+          "texto": "f)",
+          "posicao": [
+            591,
+            134
+          ]
+        },
+        {
+          "texto": "Procuradoria Jurídica.",
+          "posicao": [
+            591,
+            140
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            600,
+            134
+          ]
+        },
+        {
+          "texto": "– 07 (sete) titulares e 07 (sete) suplentes representantes das Entidades de Atendimento e/ou Defesa dos Direitos da Criança e do Adolescente, legalmente constituídas e em funcionamento no Município de Guaíra.",
+          "posicao": [
+            600,
+            140
+          ]
+        },
+        {
+          "texto": "a)",
+          "posicao": [
+            609,
+            134
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            609,
+            140
+          ]
+        },
+        {
+          "texto": "b)",
+          "posicao": [
+            618,
+            134
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            618,
+            140
+          ]
+        },
+        {
+          "texto": "c)",
+          "posicao": [
+            627,
+            134
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            627,
+            140
+          ]
+        },
+        {
+          "texto": "d)",
+          "posicao": [
+            636,
+            134
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            636,
+            140
+          ]
+        },
+        {
+          "texto": "e)",
+          "posicao": [
+            645,
+            134
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            645,
+            140
+          ]
+        },
+        {
+          "texto": "f)",
+          "posicao": [
+            654,
+            134
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            654,
+            140
+          ]
+        },
+        {
+          "texto": "g)",
+          "posicao": [
+            663,
+            134
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            663,
+            140
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2018/leis-ordinarias-2060-2018-sapl-313.md",
+      "sha256": "8029aa880b75025f4326fc0c3c51330d554164f26e79358be5f07e8fcd998088",
+      "sha256_fonte": "eed876b2059bf93028e62985efb7baea56159b7a120958ab53cba86daaee9256",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/6548bcb4b4280db0d7123962f59d4ff5f4ff61b6d52ec5551823d561d042de9b.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            446,
+            40
+          ]
+        },
+        {
+          "texto": "25 de Agosto de 2026",
+          "posicao": [
+            450,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            450,
+            64
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            456,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 2.496, de 25 de agosto de 2026",
+          "posicao": [
+            456,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/resolucoes/2018/resolucoes-1-2018-sapl-641.md",
+      "sha256": "52644290e6a7cd4a37c4480be240078ab13ce2192c31c3c218afa5c96619a49a",
+      "sha256_fonte": "c3f6509648a75f9e82507d848ff7d97f6484c0b220c7a866fe0bc51261d25196",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/5707cec35ae91b2b8d7e77b04ae606b078aa2dd98b06799cb34887afdb34eb12.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 7º.",
+          "posicao": [
+            523,
+            123
+          ]
+        },
+        {
+          "texto": "Os veículos oficiais só deverão ser dirigidos por servidor e vereadores que:",
+          "posicao": [
+            523,
+            135
+          ]
+        },
+        {
+          "texto": "FORMULÁRIO V – CONTROLE DESLOCAMENTO DENTRO DO",
+          "posicao": [
+            588,
+            363
+          ]
+        },
+        {
+          "texto": "MUNICÍPIO DO VEÍCULO FIESTA",
+          "posicao": [
+            588,
+            528
+          ]
+        },
+        {
+          "texto": "DATA___/____/2018",
+          "posicao": [
+            588,
+            739
+          ]
+        },
+        {
+          "texto": "VEÍCULO: FORD/FIESTA",
+          "posicao": [
+            588,
+            1112
+          ]
+        },
+        {
+          "texto": "PLACA – AVE – 7485",
+          "posicao": [
+            588,
+            1377
+          ]
+        },
+        {
+          "texto": "NOME MOTORISTA: ___________________________________________",
+          "posicao": [
+            588,
+            1570
+          ]
+        },
+        {
+          "texto": "NOME SOLICITANTE: _________________________________________",
+          "posicao": [
+            588,
+            1804
+          ]
+        },
+        {
+          "texto": "HORÁRIO DA RETIRADA: _____ HORÁRIO DA DEVOLUÇÃO: ______",
+          "posicao": [
+            588,
+            2038
+          ]
+        },
+        {
+          "texto": "JUSTIFICATIVA COMPLETA: ___________________________________",
+          "posicao": [
+            588,
+            2268
+          ]
+        },
+        {
+          "texto": "_____________________________________________________________",
+          "posicao": [
+            588,
+            2502
+          ]
+        },
+        {
+          "texto": "_____________________________________________________________",
+          "posicao": [
+            588,
+            2738
+          ]
+        },
+        {
+          "texto": "KM SAÍDA: _________________",
+          "posicao": [
+            588,
+            2971
+          ]
+        },
+        {
+          "texto": "KM CHEGADA: _______________",
+          "posicao": [
+            588,
+            3087
+          ]
+        },
+        {
+          "texto": "ASS. SOLICITAANTE: ________________________",
+          "posicao": [
+            588,
+            3286
+          ]
+        },
+        {
+          "texto": "ASS. MOTORISTA: ____________________________",
+          "posicao": [
+            588,
+            3501
+          ]
+        },
+        {
+          "texto": "FORMULÁRIO VI – CONTROLE DESLOCAMENTO DENTRO DO",
+          "posicao": [
+            590,
+            363
+          ]
+        },
+        {
+          "texto": "MUNICÍPIO DO VEÍCULO FLUENCE",
+          "posicao": [
+            590,
+            529
+          ]
+        },
+        {
+          "texto": "DATA___/____/2018",
+          "posicao": [
+            590,
+            922
+          ]
+        },
+        {
+          "texto": "VEÍCULO: RENALT FLUENCE",
+          "posicao": [
+            590,
+            1295
+          ]
+        },
+        {
+          "texto": "PLACA – AUX - 4751",
+          "posicao": [
+            590,
+            1579
+          ]
+        },
+        {
+          "texto": "NOME MOTORISTA: ___________________________________________",
+          "posicao": [
+            590,
+            1772
+          ]
+        },
+        {
+          "texto": "NOME SOLICITANTE: _________________________________________",
+          "posicao": [
+            590,
+            2006
+          ]
+        },
+        {
+          "texto": "HORÁRIO DA RETIRADA:",
+          "posicao": [
+            590,
+            2240
+          ]
+        },
+        {
+          "texto": "_____ HORÁRIO DA DEVOLUÇÃO: _____",
+          "posicao": [
+            590,
+            2307
+          ]
+        },
+        {
+          "texto": "JUSTIFICATIVA COMPLETA: ____________________________________",
+          "posicao": [
+            590,
+            2515
+          ]
+        },
+        {
+          "texto": "_____________________________________________________________",
+          "posicao": [
+            590,
+            2750
+          ]
+        },
+        {
+          "texto": "_____________________________________________________________",
+          "posicao": [
+            590,
+            2986
+          ]
+        },
+        {
+          "texto": "KM SAÍDA: _________________",
+          "posicao": [
+            590,
+            3219
+          ]
+        },
+        {
+          "texto": "KM CHEGADA: ______________",
+          "posicao": [
+            590,
+            3335
+          ]
+        },
+        {
+          "texto": "ASS. SOLICITANTE: ________________________",
+          "posicao": [
+            590,
+            3533
+          ]
+        },
+        {
+          "texto": "ASS. MOTORISTA: __________________________",
+          "posicao": [
+            590,
+            3747
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2018/leis-ordinarias-2058-2018-sapl-311.md",
+      "sha256": "22a3cd1c415f3fc0af52e0bc0fe8d12be32af1663b6eb1111f7a1220ee2f1e02",
+      "sha256_fonte": "98309057d14a8aa2d66a20e4587161e3927499a2efcfd1ae096a594d07078134",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/b296e1d0877aa393ceb7b47e86f6d481dc27fba3a86d2d1ea3f1670327c3dfdb.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            496,
+            40
+          ]
+        },
+        {
+          "texto": "30 de Novembro de 2023",
+          "posicao": [
+            500,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            500,
+            66
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            506,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 2.319, de 30 de novembro de 2023",
+          "posicao": [
+            506,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2018/leis-ordinarias-2055-2018-sapl-308.md",
+      "sha256": "b8126b169fbe159d9f07063799fb5f17cefc67fb6e94edd1db080ff2955c2b0f",
+      "sha256_fonte": "a67230c8a38e4472c3f1743663fe05455270947cd5a329ac57559d766a77bdf9",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/3f7a59ff92939573f390973dbd83e0b6d605a5f07ff317d397eb773e4f837c0e.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            446,
+            40
+          ]
+        },
+        {
+          "texto": "6 de Novembro de 2024",
+          "posicao": [
+            450,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            450,
+            65
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            456,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 2.369, de 06 de novembro de 2024",
+          "posicao": [
+            456,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2018/leis-ordinarias-2043-2018-sapl-167.md",
+      "sha256": "7d6d17b990932f329651f473699ac70dd6681adc27e072f8c72a14ee1a974090",
+      "sha256_fonte": "75586febe2a6a310ee9eaf53a939cb758b22248a6f3a13dc3ccec382f9b37954",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/73d971300e2fe5c7b72b6e2250b499b1cb58679f41a7815c820790bf9a7b5eeb.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            543,
+            40
+          ]
+        },
+        {
+          "texto": "17 de Fevereiro de 2025",
+          "posicao": [
+            547,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            547,
+            67
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            553,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 2.391, de 17 de fevereiro de 2025",
+          "posicao": [
+            553,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2017/leis-ordinarias-2040-2017-sapl-290.md",
+      "sha256": "116fc31212828876d4dfd24362b13f0d53350755e7f477daf5d02d930a8f6c30",
+      "sha256_fonte": "4f6be2d39645146937dc2b9b78c57e83fd292a3b1272d059012f64c3d5da2fae",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/8738b2874b961d3164fda51439962acb1058c0d9f6aee799ba9304c0d8b5f294.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            554,
+            126
+          ]
+        },
+        {
+          "texto": "A presente doação destina-se à instalação do Núcleo Especial de Polícia Marítima em Guaíra - PR para aumento do controle, fiscalização e policiamento marítimo/fluvial do Rio Paraná, Lago de Itaipu e Parque Nacional Ilha Grande, em um prazo máximo de 13 (treze) anos, contados a partir da outorga da Escritura Pública de Doação.\"",
+          "posicao": [
+            554,
+            138
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2017/leis-ordinarias-2039-2017-sapl-289.md",
+      "sha256": "1c6c0e9e565dcb3801075e55c87f302b7c3b5c9f3b6f6385b86ced2ff9444102",
+      "sha256_fonte": "d1818c2afc158cf450f1cd2f39e5e73cacb38ec8d30667904a098b49b10f09bf",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/cfa674f8c96aef82ba1d637a9727135038c98915e817b9a0207d9ea594576708.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2017/leis-ordinarias-2025-2017-sapl-275.md",
+      "sha256": "7f5f68589c26515c99a3c530fc2351f9f95e4d97050c9a12d690651be9010839",
+      "sha256_fonte": "c90cedf82283af63c6e62d8f5c387fdd2f09053a0e9b62057195e33e04f156f2",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/c9eb85b504acf8709c4794d1e07d5bd91725551ef48a2810ab1a9aae91d76441.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            551,
+            40
+          ]
+        },
+        {
+          "texto": "19 de Dezembro de 2022",
+          "posicao": [
+            555,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            555,
+            66
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            561,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 2.267, de 19 de dezembro de 2022",
+          "posicao": [
+            561,
+            56
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-complementares/2017/leis-complementares-1-2017-sapl-291.md",
+      "sha256": "b97f87b001072e716c72c4af81ff3654f80cdaec1c1b1ad991ef7339a9ea4b5b",
+      "sha256_fonte": "889b22056880d722e9444954de3e503bbb808e5ed6dbbe4ce4b6ee0709dc1ab9",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/e8316144a45b9843a0509fe3da3e628ef2148876a84dd1e61bbf239fef15d636.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "1.03 - Processamento, armazenamento ou hospedagem de dados, textos, imagens, vídeos, páginas eletrônicas, aplicativos e sistemas de informação, entre outros formatos, e congêneres.",
+          "posicao": [
+            523,
+            140
+          ]
+        },
+        {
+          "texto": "1.04 - Elaboração de programas de computadores, inclusive de jogos eletrônicos, independentemente da arquitetura construtiva da máquina em que o programa será executado, incluindo tablets, smartphones e congêneres.",
+          "posicao": [
+            528,
+            140
+          ]
+        },
+        {
+          "texto": "7.16 - Florestamento, reflorestamento, semeadura, adubação, reparação de solo, plantio, silagem, colheita, corte e descascamento de árvores, silvicultura, exploração florestal e dos serviços congêneres indissociáveis da formação, manutenção e colheita de florestas, para quaisquer fins e por quaisquer meios.",
+          "posicao": [
+            533,
+            140
+          ]
+        },
+        {
+          "texto": "11.02 - Vigilância, segurança ou monitoramento de bens, pessoas e semoventes.",
+          "posicao": [
+            538,
+            140
+          ]
+        },
+        {
+          "texto": "13.05 - Composição gráfica, inclusive confecção de impressos gráficos, fotocomposição, clicheria, zincografia, litografia e fotolitografia, exceto se destinados a posterior operação de comercialização ou industrialização, ainda que incorporados, de qualquer forma, a outra mercadoria que deva ser objeto de posterior circulação, tais como bulas, rótulos, etiquetas, caixas, cartuchos, embalagens e manuais técnicos e de instrução, quando ficarão sujeitos ao ICMS.",
+          "posicao": [
+            543,
+            140
+          ]
+        },
+        {
+          "texto": "14.05 - Restauração, recondicionamento, acondicionamento, pintura, beneficiamento, lavagem, secagem, tingimento, galvanoplastia, anodização, corte, recorte, plastificação, costura, acabamento, polimento e congêneres de objetos quaisquer.",
+          "posicao": [
+            548,
+            140
+          ]
+        },
+        {
+          "texto": "16.01 - Serviços de transporte coletivo municipal rodoviário, metroviário, ferroviário e aquaviário de passageiros.",
+          "posicao": [
+            553,
+            140
+          ]
+        },
+        {
+          "texto": "25.02 - Translado intramunicipal, cremação de corpos e partes de corpos cadavéricos.",
+          "posicao": [
+            558,
+            140
+          ]
+        },
+        {
+          "texto": "1.09 - Disponibilização, sem cessão definitiva, de conteúdo de áudio, vídeo, imagem e texto por meio da internet, respeitada a imunidade de livros, jornais e periódicos (exceto a distribuição de conteúdo pelas prestadoras de Serviços de Acesso Condicionado, de que trata a Lei nº 12.485, de 12 de setembro de 2011, sujeita ao ICMS).",
+          "posicao": [
+            614,
+            140
+          ]
+        },
+        {
+          "texto": "6.06 - Aplicação de tatuagens, piercings e congêneres.",
+          "posicao": [
+            619,
+            140
+          ]
+        },
+        {
+          "texto": "14.14 - Guincho intramunicipal, guindaste e içamento.",
+          "posicao": [
+            624,
+            140
+          ]
+        },
+        {
+          "texto": "16.02 - Outros serviços de transporte de natureza municipal.",
+          "posicao": [
+            629,
+            140
+          ]
+        },
+        {
+          "texto": "17.25 - Inserção de textos, desenhos e outros materiais de propaganda e publicidade, em qualquer meio (exceto em livros, jornais, periódicos e nas modalidades de serviços de radiodifusão sonora e de sons e imagens de recepção livre e gratuita.",
+          "posicao": [
+            634,
+            140
+          ]
+        },
+        {
+          "texto": "25.05 - Cessão de uso de espaços em cemitérios para sepultamento.",
+          "posicao": [
+            639,
+            140
+          ]
+        },
+        {
+          "texto": "Art. 62.",
+          "posicao": [
+            695,
+            126
+          ]
+        },
+        {
+          "texto": "O serviço considera-se prestado e o imposto devido no local do estabelecimento prestador ou, na falta do estabelecimento, no local do domicilio do prestador, exceto nas hipóteses previstas nos incisos I ao XXV do art. 3º da Lei Complementar 116 de 2003 com Redação dada pela Lei Complementar nº 157/2016, quando o imposto será devido no local:",
+          "posicao": [
+            695,
+            138
+          ]
+        },
+        {
+          "texto": "XII - do florestamento, reflorestamento, semeadura, adubação, reparação de solo, plantio, silagem, colheita, corte, descascamento de árvores, silvicultura, exploração florestal e serviços congêneres indissociáveis da formação, manutenção e colheita de florestas para quaisquer fins e por quaisquer meios;",
+          "posicao": [
+            709,
+            140
+          ]
+        },
+        {
+          "texto": "XVI - dos bens, dos semoventes ou do domicílio das pessoas vigiados, segurados ou monitorados, no caso dos serviços descritos no subitem 11.02 da lista de serviços;",
+          "posicao": [
+            714,
+            140
+          ]
+        },
+        {
+          "texto": "XIX - do Município onde está sendo executado o transporte, no caso dos serviços descritos pelo item 16 da lista de serviços",
+          "posicao": [
+            719,
+            140
+          ]
+        },
+        {
+          "texto": "XXIII - do domicílio do tomador dos serviços dos subitens 4.22, 4.23 e 5.09;",
+          "posicao": [
+            724,
+            140
+          ]
+        },
+        {
+          "texto": "XXIV - do domicílio do tomador do serviço no caso dos serviços prestados pelas administradoras de cartão de crédito ou débito e demais descritos no subitem 15.01 da lista de serviços;",
+          "posicao": [
+            729,
+            140
+          ]
+        },
+        {
+          "texto": "XXV - do domicílio do tomador dos serviços dos subitens 10.04 e 15.09 da lista de serviços.",
+          "posicao": [
+            734,
+            140
+          ]
+        },
+        {
+          "texto": "§ 7º",
+          "posicao": [
+            790,
+            137
+          ]
+        },
+        {
+          "texto": "Considera-se a prestação de serviço do item 21 ao item 21.01 do anexo XVI desta lei o discriminado no caput deste artigo, que será apurado através dos lançamentos informados aos órgãos competentes.",
+          "posicao": [
+            790,
+            145
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            850,
+            137
+          ]
+        },
+        {
+          "texto": "Considera-se a prestação de serviço pelo próprio contribuinte o simples fornecimento de trabalho por pessoa física em caráter pessoal, que não tenha a seu serviço, mais que 1 (um) empregado ou que não possua empregado da mesma qualificação profissional que a sua.",
+          "posicao": [
+            850,
+            145
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            970,
+            134
+          ]
+        },
+        {
+          "texto": "– cujo o justo possuidor de um único imóvel, e nas condições que trata o inciso III, comprovado mediante escritura pública de compra e venda, contrato de programas públicos de moradia ou possuírem imóveis sujeitos à programa de regularização fundiária pelo município.",
+          "posicao": [
+            970,
+            140
+          ]
+        },
+        {
+          "texto": "§ 5º",
+          "posicao": [
+            979,
+            137
+          ]
+        },
+        {
+          "texto": "A renda mensal de que trata o inciso III é a renda total do(s) grupo(s) familiar(es) residente(s) no imóvel.",
+          "posicao": [
+            979,
+            145
+          ]
+        },
+        {
+          "texto": "§ 6º",
+          "posicao": [
+            988,
+            137
+          ]
+        },
+        {
+          "texto": "O ente público poderá solicitar parecer social para comprovação das informações apresentadas.",
+          "posicao": [
+            988,
+            145
+          ]
+        },
+        {
+          "texto": "Art. 75-A.",
+          "posicao": [
+            1048,
+            126
+          ]
+        },
+        {
+          "texto": "O Imposto Sobre Serviços de Qualquer Natureza não será objeto de concessão de isenções, incentivos ou benefícios tributários ou financeiros, inclusive de redução de base de cálculo ou de crédito presumido ou outorgado, ou sob qualquer outra forma que resulte, direta ou indiretamente, em carga tributária menor que a decorrente da aplicação da alíquota mínima de 2% (dois por cento), exceto para os serviços a que se referem os subitens 7.02, 7.05 e 16.01 da lista de serviços desta Lei Complementar.",
+          "posicao": [
+            1048,
+            140
+          ]
+        },
+        {
+          "texto": "§ 5º",
+          "posicao": [
+            1113,
+            137
+          ]
+        },
+        {
+          "texto": "As alíquotas do Imposto sobre Serviços das microempresas e empresas de pequeno porte enquadradas no SIMPLES NACIONAL, serão correspondentes aos percentuais fixados para o ISS nos Anexos III, IV e V da Lei Complementar nº 123/06.",
+          "posicao": [
+            1113,
+            145
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2017/leis-ordinarias-2013-2017-sapl-264.md",
+      "sha256": "a4320c70ffb75dcb936768d173c4ae9d70e060710d85cc07e099e6abc602cd36",
+      "sha256_fonte": "3157c04928bd14cc47a918248e993fc89590254fe8b0041590e355a84c5e6d98",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/8c8dc4393fe395f99b554d845c8d753d44ad71547a39aaf1fde937ae3b0dd8b3.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            535,
+            132
+          ]
+        },
+        {
+          "texto": "Receberão integralmente o benefício:",
+          "posicao": [
+            535,
+            140
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            544,
+            129
+          ]
+        },
+        {
+          "texto": "– o afastamento por licença paternidade e maternidade;",
+          "posicao": [
+            544,
+            134
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            553,
+            129
+          ]
+        },
+        {
+          "texto": "– por motivo de doença ou acidente de trabalho, devidamente comprovados por atestado médico, até 15 dias;",
+          "posicao": [
+            553,
+            135
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            562,
+            129
+          ]
+        },
+        {
+          "texto": "– no gozo de férias;",
+          "posicao": [
+            562,
+            136
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            571,
+            129
+          ]
+        },
+        {
+          "texto": "– o afastamento em que o servidor perceber auxílio doença e/ou por acidente de trabalho, pago pelo Instituto Nacional da Seguridade Social (INSS), pelo período máximo de 06 (seis) meses;",
+          "posicao": [
+            571,
+            135
+          ]
+        },
+        {
+          "texto": "V",
+          "posicao": [
+            580,
+            129
+          ]
+        },
+        {
+          "texto": "– no gozo de licença especial.",
+          "posicao": [
+            580,
+            134
+          ]
+        },
+        {
+          "texto": "VI",
+          "posicao": [
+            589,
+            129
+          ]
+        },
+        {
+          "texto": "– (Revogado)",
+          "posicao": [
+            589,
+            135
+          ]
+        },
+        {
+          "texto": "VII",
+          "posicao": [
+            598,
+            129
+          ]
+        },
+        {
+          "texto": "– (Revogado)",
+          "posicao": [
+            598,
+            136
+          ]
+        },
+        {
+          "texto": "VIII",
+          "posicao": [
+            607,
+            129
+          ]
+        },
+        {
+          "texto": "– (Revogado)",
+          "posicao": [
+            607,
+            137
+          ]
+        },
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            667,
+            132
+          ]
+        },
+        {
+          "texto": "O benefício será proporcional nos seguintes casos:",
+          "posicao": [
+            667,
+            140
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            676,
+            129
+          ]
+        },
+        {
+          "texto": "– Faltas injustificadas;",
+          "posicao": [
+            676,
+            134
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            685,
+            129
+          ]
+        },
+        {
+          "texto": "– Quando o servidor estiver fora do Município a trabalho, e for beneficiado com recebimento de diárias;",
+          "posicao": [
+            685,
+            135
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            694,
+            129
+          ]
+        },
+        {
+          "texto": "– Por ocasião do afastamento para campanha a mandato eletivo, a partir do registro da candidatura até o dia seguinte a eleição;",
+          "posicao": [
+            694,
+            136
+          ]
+        },
+        {
+          "texto": "§ 3º",
+          "posicao": [
+            754,
+            132
+          ]
+        },
+        {
+          "texto": "Perderá o direito ao recebimento do auxílio-alimentação;",
+          "posicao": [
+            754,
+            140
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            763,
+            129
+          ]
+        },
+        {
+          "texto": "– Durante o período de afastamento ou cedência, o servidor:",
+          "posicao": [
+            763,
+            134
+          ]
+        },
+        {
+          "texto": "a)",
+          "posicao": [
+            772,
+            129
+          ]
+        },
+        {
+          "texto": "Licenciado ou afastado com prejuízo da remuneração;",
+          "posicao": [
+            772,
+            135
+          ]
+        },
+        {
+          "texto": "b)",
+          "posicao": [
+            781,
+            129
+          ]
+        },
+        {
+          "texto": "Cedido a outro órgão ou entidade que não a municipalidade, sem ônus para o Poder Legislativo;",
+          "posicao": [
+            781,
+            135
+          ]
+        },
+        {
+          "texto": "c)",
+          "posicao": [
+            790,
+            129
+          ]
+        },
+        {
+          "texto": "Suspenso.",
+          "posicao": [
+            790,
+            135
+          ]
+        },
+        {
+          "texto": "§ 4º",
+          "posicao": [
+            850,
+            132
+          ]
+        },
+        {
+          "texto": "Considerar-se-á para o desconto de auxílio-alimentação a proporcionalidade de 22 (vinte e dois) dias ao mês.",
+          "posicao": [
+            850,
+            140
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2016/leis-ordinarias-2004-2016-sapl-256.md",
+      "sha256": "cd3050a3ab8cdb608a0cc458cce9959e823753d898bfaf6010b3804bbd403685",
+      "sha256_fonte": "8f104efc9efcab1d934bd7bd3c355ad1acbf2a9fa684a181c498b87e239e63d0",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/0e8b371c1421e1750dc0a43d68dee9efde116293fb698e3bf17c8a9365d3cf4f.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            537,
+            126
+          ]
+        },
+        {
+          "texto": "O CORIPA, em razão de sua alteração estatutária, será constituído sob a forma de Consórcio Público, com personalidade jurídica de direito público, regido por normas de direito público conforme legislação pertinente.",
+          "posicao": [
+            537,
+            138
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            551,
+            137
+          ]
+        },
+        {
+          "texto": "Os efeitos previstos no caput desse artigo, serão retroativos a data de entrada em vigor da Lei federal nº 11.107, de 06 de abril de 2005 e do Decreto Lei nº 6.017 de 17 de janeiro de 2007, respeitando o direito adquirido, ato jurídico perfeito e a coisa julgada.",
+          "posicao": [
+            551,
+            157
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            560,
+            137
+          ]
+        },
+        {
+          "texto": "Constituem ainda serviços públicos, passíveis de gestão associada, concessão, permissão, parceria e termos similares, a serem executados pelo Consórcio Público em favor do Município, as ações concernentes à manutenção, operacionalização e ampliação dos serviços de Meio Ambiente já prestados pelo Consórcio, a administração de programas governamentais, projetos afins e a criação de novos serviços de promoção do desenvolvimento sustentável de interesse do Município consorciado, bem como o repasse da competência para a Execução do Licenciamento Ambiental, monitoramento e fiscalização, mediante ato de descentralização legal, conforme estabelecido na Lei Complementar nº 140/2011 e Resolução nº 88/2013 da CEMA.",
+          "posicao": [
+            560,
+            157
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2016/leis-ordinarias-2003-2016-sapl-255.md",
+      "sha256": "0af851a8159db7ce275bd5618c33be20d2326fa5b8a56b46ba5f3250214824a9",
+      "sha256_fonte": "e1cd4a0073ba321d201b8f14f82bc6249ffb58b32877f267b5c090e0a6b9bbf2",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/a2d51497e0dbdb89f14ed2bbb69d4bf9af5d4075b1b6f19362749ea3e955a129.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            483,
+            40
+          ]
+        },
+        {
+          "texto": "12 de Dezembro de 2025",
+          "posicao": [
+            487,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            487,
+            66
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            493,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 2.448, de 12 de dezembro de 2025",
+          "posicao": [
+            493,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-complementares/2016/leis-complementares-1-2016-sapl-1969.md",
+      "sha256": "550e0eb5ce5d9773ea6ef11a1ca4a1d3a9cf09ffd3463d4547377093659b66d5",
+      "sha256_fonte": "9429ab7d30b7becfa5642b5a4d992a3a0109cbcde4440ecf3b8b094e1bc0f252",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/7de8328b25ff608ba641522d1968f2d4c94765f5671114f20f568569c94a9924.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "XI",
+          "posicao": [
+            523,
+            134
+          ]
+        },
+        {
+          "texto": "– Taxa de Combate ao Incêndio;",
+          "posicao": [
+            523,
+            140
+          ]
+        },
+        {
+          "texto": "CAPÍTULO X",
+          "posicao": [
+            532,
+            129
+          ]
+        },
+        {
+          "texto": "TAXA DE COMBATE AO INCÊNDIO",
+          "posicao": [
+            532,
+            147
+          ]
+        },
+        {
+          "texto": "Seção I",
+          "posicao": [
+            540,
+            126
+          ]
+        },
+        {
+          "texto": "Incidência e Fato Gerador",
+          "posicao": [
+            540,
+            141
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            576,
+            134
+          ]
+        },
+        {
+          "texto": "– Potencialmente, quando, sendo de utilização compulsória, sejam postos à disposição do contribuinte mediante atividades administrativas em efetivo funcionamento;",
+          "posicao": [
+            576,
+            139
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            585,
+            134
+          ]
+        },
+        {
+          "texto": "– Específicos, quando possam ser destacados em unidades autônomas de intervenção, de utilidade ou de necessidade pública.",
+          "posicao": [
+            585,
+            140
+          ]
+        },
+        {
+          "texto": "Seção II",
+          "posicao": [
+            608,
+            126
+          ]
+        },
+        {
+          "texto": "Base de Cálculo, Valores da Taxa e Lançamento",
+          "posicao": [
+            608,
+            142
+          ]
+        },
+        {
+          "texto": "Seção III",
+          "posicao": [
+            738,
+            126
+          ]
+        },
+        {
+          "texto": "Das Isenções",
+          "posicao": [
+            738,
+            143
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2016/leis-ordinarias-1993-2016-sapl-245.md",
+      "sha256": "ae984aa0dde9bc9a465994849d9406c6955b97405988b60402c42a9d99b26a90",
+      "sha256_fonte": "b6633de64587126bae399567182cd222897b8fa343e234ff537f9b11e39e0480",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/ab6e764dcfe8eea045bd7cc91d9a76987fb6883bbc7a9db314e1c12e1f813129.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 101.",
+          "posicao": [
+            523,
+            126
+          ]
+        },
+        {
+          "texto": "O servidor terá direito a licença remunerada, para concorrer a cargo eletivo, durante o período de desincompatibilização estipulado pela legislação eleitoral até o dia da eleição, como se em efetivo exercício estivesse.",
+          "posicao": [
+            523,
+            139
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            537,
+            137
+          ]
+        },
+        {
+          "texto": "O servidor licenciado deverá oportunamente comprovar o registro de sua candidatura, sob pena de revogação da licença, além de se sujeitar ao ressarcimento de eventuais danos ao erário público Municipal.",
+          "posicao": [
+            537,
+            157
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2016/leis-ordinarias-1991-2016-sapl-243.md",
+      "sha256": "2ff67c9e16c336320f0e99251eac213135fc36e06beaf70675dfa9437304217a",
+      "sha256_fonte": "9f3a5a1645a5833f50620e3a81c5aeb40acb8f5a17fce3a9b93ed1bbeda70c95",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/cb44e22a728352f9c35dcee46e7a74bb999dbe31048b04e50b8cf632b4691dec.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            523,
+            126
+          ]
+        },
+        {
+          "texto": "Fica instituída a FESTA DAS NAÇÕES DE GUAÍRA como atividade anual, oficial do Município.",
+          "posicao": [
+            523,
+            138
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            537,
+            137
+          ]
+        },
+        {
+          "texto": "Fica sendo o hino oficial da FESTA DAS NAÇÕES, a música composta e doada ao Município, pelo Senhor José Severino Freire \"PORTY UMA CANÇÃO\", devendo esta, ser tocada nas propagandas anteriores a FESTA, na abertura e durante o evento, bem como na prestação de contas ou outros eventos similares.",
+          "posicao": [
+            537,
+            145
+          ]
+        },
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            546,
+            137
+          ]
+        },
+        {
+          "texto": "A numeração da Festa será mantida, sendo que em 2006 será realizada a XXX FESTA DAS NAÇÕES DE GUAÍRA.",
+          "posicao": [
+            546,
+            145
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2016/leis-ordinarias-1981-2016-sapl-233.md",
+      "sha256": "53c0f7f45efd8a59933d6983aed890132517dc3514c776551e9d2a7f851205d5",
+      "sha256_fonte": "100a762b41697941bb9459f938f365f53c801880fda5c4dc88a0ff9dcdb5e2ec",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/e5b9ebbae24418734c75e36e0baaf9f0834a2138e3325c04b6016d5e113cf0f1.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            523,
+            126
+          ]
+        },
+        {
+          "texto": "Como contrapartida, fica o Poder Executivo Municipal autorizado a celebrar Termo de Cooperação Técnico-financeira com o artista Antônio Augusto Sobrinho, portador da Carteira de Identidade RG (nº ocultado), no valor não inferior a R$ 1.000,00 (hum mil reais), podendo chegar até R$ 1.600,00 (hum mil e seiscentos reais) mensais, reajustados anualmente pelos índices oficiais do INPC/IGDI, como forma de incentivo e promoção da cultura, desde que permitida visitação pública ao atelier do referido artista, em período de 04 (quatro) horas diárias, inclusive aos sábados, domingos e feriados\".",
+          "posicao": [
+            523,
+            138
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2015/leis-ordinarias-1972-2015-sapl-220.md",
+      "sha256": "c568f1b7275f476bc8ee1f6ea8e57f6bac1249ad2251d4b5d3e2f1494c109ba2",
+      "sha256_fonte": "d160199953e95b0b85693553b261ca512b5046a259b6e8331388d0e423fa609f",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/31524eb0d8f6b9111a255fcc3a2d155ebe21bbd1b357d824e73f02ecda3d0aa7.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            453,
+            40
+          ]
+        },
+        {
+          "texto": "23 de Dezembro de 2021",
+          "posicao": [
+            457,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            457,
+            66
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            463,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 2.209, de 23 de dezembro de 2021",
+          "posicao": [
+            463,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2015/leis-ordinarias-1971-2015-sapl-219.md",
+      "sha256": "492175b5ded38db67daf237cc34594af6d2b7fac7673947a2fedfc8a1444409a",
+      "sha256_fonte": "7a32fa7568673b88a2580304f27bcdd2d966ce5da77071c729a0cf21747c0732",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/207bb79c44168528f739acc10154ce20c5dd80581b69618e4504fe361458db95.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            523,
+            137
+          ]
+        },
+        {
+          "texto": "A contratação mencionada no \"caput\" não pode acarretar nenhum ônus, direto ou indireto, ao servidor público municipal beneficiário.",
+          "posicao": [
+            523,
+            157
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SP/garca/decretos-legislativos/2008/decretos-legislativos-7-2008-sapl-5028.md",
+      "sha256": "bf1df1d3a8a997aeec2cfed051bf8a6624c1aa724735c163f85a169a7b9e7b41",
+      "sha256_fonte": "7683017e761e96dc9669b7a1bdc9e786dbba357766ce5703c02c881bfe83273e",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/f72d6e4b0bf6931d4850a595c7fc38326507dd6d5f6a11683ceb8b3676032e70.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            421,
+            40
+          ]
+        },
+        {
+          "texto": "15 de Fevereiro de 2018",
+          "posicao": [
+            425,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            425,
+            67
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            431,
+            25
+          ]
+        },
+        {
+          "texto": "Decreto Legislativo-CMG nº 1, de 15 de fevereiro de 2018",
+          "posicao": [
+            431,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2015/leis-ordinarias-1970-2015-sapl-218.md",
+      "sha256": "72763faf264471659dcabd9601b213eaaaaeafd343d61e295f694a7b954f5840",
+      "sha256_fonte": "9bee7cbaaf082dcb5b692db1cb3f4236ae338e9ba830cc2c2ddcba2bfac77296",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/346b2f7eb83ff9b2110ebe8a028d2edf321c10e46965a6a097e8b137c7ce88c2.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/resolucoes/2015/resolucoes-3-2015-sapl-648.md",
+      "sha256": "fa4d98dbefb16cc719097b7902b1b8d35d2567e3dc76779b7128bcdfd2dc702d",
+      "sha256_fonte": "56c50f216a34b0e24dddb0593e03c103a630e09e27a7e98758cfe23af4aa0dbd",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/42281adc3f17d4134161de9c704d38155e34a710abbf6d140f89902648aac319.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2015/leis-ordinarias-1950-2015-sapl-198.md",
+      "sha256": "821fb18edd25e4fe7f781ee56072bcc4a7859f0baccb3aa05b3aefc111d683c9",
+      "sha256_fonte": "624f83b808db4ba0bfd7bdf480b4624b47fc2abab1c9a6f44d98760772b3d392",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/a791e0d1f1aa56592abb03fd32e186018b7c78d56e98ea1b381c3a849498d345.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            466,
+            40
+          ]
+        },
+        {
+          "texto": "22 de Dezembro de 2015",
+          "posicao": [
+            470,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            470,
+            66
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            476,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 1.971, de 22 de dezembro de 2015",
+          "posicao": [
+            476,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-complementares/2015/leis-complementares-2-2015-sapl-229.md",
+      "sha256": "5eadcd3efaa377f142381318d5e88b0600616346db8ce10dd4d6b00399d8b596",
+      "sha256_fonte": "2837c31229fe22b5da6ff4765c39e42a8d87b5515387c00d01440490c328ed51",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/6a90268eaf11b00f20a1e343ebb227cedf2a29426bb29a586b37df7d45dfd8d7.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "b)",
+          "posicao": [
+            573,
+            134
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            573,
+            140
+          ]
+        },
+        {
+          "texto": "f)",
+          "posicao": [
+            582,
+            134
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            582,
+            140
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            591,
+            134
+          ]
+        },
+        {
+          "texto": "– (Revogado)",
+          "posicao": [
+            591,
+            140
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            600,
+            137
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            600,
+            157
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2015/leis-ordinarias-1944-2015-sapl-192.md",
+      "sha256": "2a1799d428d385ecb339ba73847f3c9e051844865dab0b99f4cfed432457c8d6",
+      "sha256_fonte": "1b4914ac35145baa3777e8c007db814f12102c55122661df176789e5476dc6b4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/9ee2aa12e60b220c5611f51c55d44b69c36ab9232e820ab839d87d41c7e2e7fd.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            453,
+            40
+          ]
+        },
+        {
+          "texto": "1 de Setembro de 2025",
+          "posicao": [
+            457,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            457,
+            65
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            463,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 2.423, de 01 de setembro de 2025",
+          "posicao": [
+            463,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2015/leis-ordinarias-1935-2015-sapl-183.md",
+      "sha256": "32f2b875d1714fdce58c38b8773ee9ca43190f21901ace4d0a25cdf5264db5bc",
+      "sha256_fonte": "ca440b3c5f22c7c1e3e57595adec630558b748dce73abbb909ff997f0435295f",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/85e88acf60112aff066a34bfe14d3afa5d3d497170b3b6b32095263c7ffa25d9.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            536,
+            40
+          ]
+        },
+        {
+          "texto": "23 de Janeiro de 2025",
+          "posicao": [
+            540,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            540,
+            65
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            546,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 2.388, de 23 de janeiro de 2025",
+          "posicao": [
+            546,
+            56
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/resolucoes/2015/resolucoes-2-2015-sapl-647.md",
+      "sha256": "811f7b5c7a1872e804a4ca9b93cc06d619f8202f4b7095a0e4938bcac9c39e38",
+      "sha256_fonte": "2743acac32693114773be81f67e6c271865a7a70e90de7b03a3ec9b7ece7a55f",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/37b2100550c8448589cc636427341fc87c02ce2caac124e9c397b1f30c0f8a17.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2015/leis-ordinarias-1933-2015-sapl-181.md",
+      "sha256": "8335d6e411353586def824d14b4a031e8226910d9f8bc38ebca62425bb47133f",
+      "sha256_fonte": "b0a908f9748bd9be0769b971b88a7b65c8659653ae7eaa2863472688a9d6c8a3",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/87acc88ebf10e63b7c6c547b7b5bc6ad409c0730aba79d74631759cd52f260fc.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            476,
+            40
+          ]
+        },
+        {
+          "texto": "27 de Março de 2026",
+          "posicao": [
+            480,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            480,
+            63
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            486,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 2.468, de 27 de março de 2026",
+          "posicao": [
+            486,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/resolucoes/2015/resolucoes-1-2015-sapl-646.md",
+      "sha256": "40accdc08b36fdba59056c6f1733323d2306ca7b4f1d203385f0877abc02f979",
+      "sha256_fonte": "50eea35ae9b50dfac015b322d3e6a27fc514645bff8a51f1a4b8e98c99bd1e3b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/62df8ea423137abc3603d8d6b43ec368037f1afa801eb9fcd71b2cf54b746fdb.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 5º.",
+          "posicao": [
+            523,
+            121
+          ]
+        },
+        {
+          "texto": "A Câmara Municipal de Guaíra/Pr fornecerá aos servidores: 01 crachá e 04 peças de uniforme de acordo com os modelos especificados no art. 3º, ficando a critério de escolha de cada servidor qual modelo pretende utilizar.",
+          "posicao": [
+            523,
+            133
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2014/leis-ordinarias-1928-2014-sapl-162.md",
+      "sha256": "ed0aebf62b47ab3da2e6c35e3144b7d97a750705e1176180462817d2f0391004",
+      "sha256_fonte": "71770b073910dc603b3ec880a651f98a49ccfa091248a736d5c0959dcc2cd56c",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/5ee49229e3a576dc32416ad03760e569baa075c2038a9839c25cd227447e495f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-complementares/2014/leis-complementares-1-2014-sapl-1968.md",
+      "sha256": "683c858592bdf9de3eb240c961883923e4f56bc7136df447e6c6a87d6a1e3dbc",
+      "sha256_fonte": "8b7508970080377bb2570df281039f3ea9880766c2e634e6c93698998642415e",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/d24b1c0322deec4338407676e0059389f7d158d8df9d9cd2974808a41055f34c.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2014/leis-ordinarias-1924-2014-sapl-158.md",
+      "sha256": "4f249347a3aaa9f9b00284e2e37d12c43f3d26c5009f37b13564e3aa32696eae",
+      "sha256_fonte": "a6b99a1e00e210ce081008bb4ecd40cf4cbc1cd2c9fb0304a234360d7defa80c",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/12857367931901a34da8c98ae7ecb5e2c67e2615fbec61db72aab279a9d15d70.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2014/leis-ordinarias-1921-2014-sapl-155.md",
+      "sha256": "5866bf60d7291a2f69be08d8dfe8181b46f6f5668b3841cd950a47a1eb1f0d13",
+      "sha256_fonte": "2b568f30f16383f8b063e9591d873ae6931e974b3d6fa5826be3b6d31421d973",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/11519eb5c7330cc8f137f4102f0c9767b821472fee5c13dd95b3fe405a72629c.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 32.",
+          "posicao": [
+            523,
+            126
+          ]
+        },
+        {
+          "texto": "Fica criado o Conselho Tutelar, órgão permanente e autônomo, não jurisdicional, encarregado de zelar pelo efetivo respeito aos direitos da criança e do adolescente, composto de 05 (cinco) membros titulares e 05 (cinco) suplentes, para mandato de 04 (quatro) anos, permitida uma recondução.",
+          "posicao": [
+            523,
+            138
+          ]
+        },
+        {
+          "texto": "§ 4º",
+          "posicao": [
+            537,
+            137
+          ]
+        },
+        {
+          "texto": "Na forma do Art. 139, § 1º da lei Federal nº 8069/1990, com a redação que lhe deu a Lei Federal nº 12.696/2012, o processo de escolha dos membros do Conselho Tutelar ocorrerá em data unificada em todo o território nacional, a cada 4 (quatro) anos, no primeiro domingo do mês de Outubro do ano subsequente ao da eleição presidencial e a posse dos Conselheiros Tutelares eleitos ocorrerá no dia 10 (dez) de Janeiro do ano subsequente ao processo de escolha.",
+          "posicao": [
+            537,
+            145
+          ]
+        },
+        {
+          "texto": "IV - Durante o processo de escolha dos membros do Conselho Tutelar, é vedado ao candidato doar, oferecer, prometer ou entregar ao eleitor; bem ou vantagem pessoal, de qualquer natureza, inclusive brindes, mesmo que de pequeno valor.",
+          "posicao": [
+            546,
+            140
+          ]
+        },
+        {
+          "texto": "§ 3º",
+          "posicao": [
+            551,
+            137
+          ]
+        },
+        {
+          "texto": "Cada eleitor poderá votar em 01 (um) candidato.",
+          "posicao": [
+            551,
+            145
+          ]
+        },
+        {
+          "texto": "§ 5º",
+          "posicao": [
+            560,
+            137
+          ]
+        },
+        {
+          "texto": "O Conselheiro Tutelar, faz jus à Licença Maternidade e Paternidade.",
+          "posicao": [
+            560,
+            145
+          ]
+        },
+        {
+          "texto": "Art. 97.",
+          "posicao": [
+            569,
+            126
+          ]
+        },
+        {
+          "texto": "Os atuais membros do Conselho Tutelar, cujos mandatos terminariam no dia 19 de dezembro de 2014, terão seus mandatos prorrogados até o dia 09 de janeiro de 2016, na forma do artigo 139, § 2º da Lei nº 8069/1990, com a Redação dada pela Lei Federal nº 12.696/2012.",
+          "posicao": [
+            569,
+            138
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2014/leis-ordinarias-1901-2014-sapl-135.md",
+      "sha256": "9700b3b2521a44189e47d7163979c96ff5ed7f9428717c881eeb7abc4a1dcc56",
+      "sha256_fonte": "b90e6e08ffa79f12d4cf06cbc117fa0009393c34da9bf41d48969c0ca8057782",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/2b83136617c1de8f1ea94ce4af6d953a900fc09213e34197c27dffcea88ddaf2.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "g)",
+          "posicao": [
+            554,
+            129
+          ]
+        },
+        {
+          "texto": "Coordenadoria do Programa de Equoterapia: com curso em equoterapia certificado pela Associação Nacional de Equoterapia, com as funções de organizar, coordenar, supervisionar, planejar e avaliar as ações do serviço de equoterapia, responsabilizar-se pela manutenção de arquivo de prontuários dos usuários com anotações dos dados pessoais, termo de compromisso assinado pelo usuário ou responsável, sistematizar procedimentos de avaliação inicial (médica, fisioterápica, psicológica, assistência social), prestar relatórios de intercorrências, resultados atingidos, dias e horário das sessões com assinatura do usuário ou acompanhante, alta do paciente, responsabilizando-se pela aquisição de insumos para o serviço e controle e gestão do patrimônio público e manejo dos animais envolvidos nesta terapêutica.",
+          "posicao": [
+            554,
+            135
+          ]
+        },
+        {
+          "texto": "d)",
+          "posicao": [
+            614,
+            129
+          ]
+        },
+        {
+          "texto": "Coordenação Administrativa - Financeira; com as funções de coordenar, supervisionar, planejar e avaliar as ações administrativo-financeiras da Secretaria Municipal de Saúde, bem como os processos de compras de materiais e serviços.",
+          "posicao": [
+            614,
+            135
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2014/leis-ordinarias-1900-2014-sapl-134.md",
+      "sha256": "dfaf6a695da13024022be60b84eda8be624fe38c361c527322ff639f8c9da17a",
+      "sha256_fonte": "977f9cd356416299f7202b7afcf62ffffe70856abf88cf6469e8a71eebca2cb9",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/c4acec2d02cfe1e0a58e2ab8ee876a82585131f980ed4bd2c0ae229b9219c26d.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/resolucoes/2014/resolucoes-3-2014-sapl-655.md",
+      "sha256": "32b29573fa043f4d0c906e0c31fe544a53813d19bd8a794947c479ab27f1212d",
+      "sha256_fonte": "acf760c3d3868cad61e379660a49c07c888b5b58db5b80ba553c00cfa65a1662",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/5eb035fe2215731722eb556768387dd22ae2b1c0780e25d534d17ef3638e55d2.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            446,
+            40
+          ]
+        },
+        {
+          "texto": "17 de Março de 2015",
+          "posicao": [
+            450,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            450,
+            63
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            456,
+            25
+          ]
+        },
+        {
+          "texto": "Resolução-CMG nº 1, de 17 de março de 2015",
+          "posicao": [
+            456,
+            56
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2014/leis-ordinarias-1887-2014-sapl-121.md",
+      "sha256": "58007a383852ad033f41669def8068a5619dabac764c8ac2dc0f35bd7f786701",
+      "sha256_fonte": "fd092eba8187e4d2cf31dd701f8bdd4e7bfad1602f1d1334aed349f3e29fefe6",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/a3161cd23961eefb69a76f883a14a00295551f84ab1fe6909e5e87d6dc96763d.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2014/leis-ordinarias-1879-2014-sapl-113.md",
+      "sha256": "050ffa819b64cf6a5be3338f72d74ffb43e5cd99857a6ba662b352616d7b2846",
+      "sha256_fonte": "b250b4cd9292dd037e55e39c0c69da658330243c9fea61aef6941548cb1e7b34",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/20e98870c5e469b53e7bea6919a9edc543f3551785782c9e4e77d03c80842a5b.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 224.",
+          "posicao": [
+            530,
+            126
+          ]
+        },
+        {
+          "texto": "Fica estabelecido o mês de janeiro como data base para efeitos de negociação e revisão salarial, na forma da lei.",
+          "posicao": [
+            530,
+            139
+          ]
+        },
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            595,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            595,
+            138
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2013/leis-ordinarias-1861-2013-sapl-93.md",
+      "sha256": "b7267531cecf8e83d4d4bce4384e15f05feeeab45b9d882e0a4714dae7bf9c7c",
+      "sha256_fonte": "2f42ffe9d93b53a7272a1569791d810120970da955bd2ef5fb7e9dca05e52b93",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/706ee15caecf224155b75d965223845f1cc12f6af52def2e3fd00c9cfdf41bae.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 62-A.",
+          "posicao": [
+            554,
+            126
+          ]
+        },
+        {
+          "texto": "Os deslocamentos para atendimento de interesse público em que não se fizer necessária estadia serão remunerados nos termos da tabela a seguir, e serão reajustados anualmente pelo índice INPC ou outro que vier sucedê-lo, com arredondamento sempre para o número inteiro acima, por ato do Chefe do Executivo Municipal:",
+          "posicao": [
+            554,
+            140
+          ]
+        },
+        {
+          "texto": "Categorias",
+          "posicao": [
+            568,
+            366
+          ]
+        },
+        {
+          "texto": "Prefeito/Vice-Prefeito",
+          "posicao": [
+            568,
+            385
+          ]
+        },
+        {
+          "texto": "Secretários/Diretores/Coordenadores",
+          "posicao": [
+            568,
+            416
+          ]
+        },
+        {
+          "texto": "Demais Servidores",
+          "posicao": [
+            568,
+            460
+          ]
+        },
+        {
+          "texto": "Deslocamento igual ou superior a 12 (doze) horas e inferior a 24 (vinte) horas consecutivas, para as despesas com alimentação e/ou locomoção urbana, desde que não haja previsão de alimentação gratuita.",
+          "posicao": [
+            568,
+            495
+          ]
+        },
+        {
+          "texto": "R$90,00",
+          "posicao": [
+            568,
+            705
+          ]
+        },
+        {
+          "texto": "R$80,00",
+          "posicao": [
+            568,
+            721
+          ]
+        },
+        {
+          "texto": "R$60,00",
+          "posicao": [
+            568,
+            737
+          ]
+        },
+        {
+          "texto": "Deslocamento superior a 04 (quatro) e inferior a 12 (doze) horas consecutivas, para as despesas com alimentação e/ou locomoção urbana, desde que não haja previsão de alimentação gratuita",
+          "posicao": [
+            568,
+            762
+          ]
+        },
+        {
+          "texto": "R$50,00",
+          "posicao": [
+            568,
+            957
+          ]
+        },
+        {
+          "texto": "R$45,00",
+          "posicao": [
+            568,
+            973
+          ]
+        },
+        {
+          "texto": "R$35,00",
+          "posicao": [
+            568,
+            989
+          ]
+        },
+        {
+          "texto": "Nos casos de deslocamentos para cidades limítrofes e/ou inferiores a 04 (quatro) horas consecutivas em que não ocorrer refeição, excepcionando os casos justificados e contabilmente admitidos, nos limites dos seguintes valores:",
+          "posicao": [
+            568,
+            1014
+          ]
+        },
+        {
+          "texto": "R$50,00",
+          "posicao": [
+            568,
+            1249
+          ]
+        },
+        {
+          "texto": "R$45,00",
+          "posicao": [
+            568,
+            1265
+          ]
+        },
+        {
+          "texto": "R$35,00",
+          "posicao": [
+            568,
+            1281
+          ]
+        },
+        {
+          "texto": "Art. 62-B.",
+          "posicao": [
+            621,
+            126
+          ]
+        },
+        {
+          "texto": "Os motoristas a serviço da Secretaria Municipal de Saúde, assim como os auxiliares, técnicos de enfermagem, enfermeiros, médicos ou outros profissionais da saúde que estiverem efetuando o transporte de pacientes fora da sede do município ou em deslocamentos para atendimento de interesse público, poderão requerer as diárias antecipadamente por um período de até 30 (trinta) dias, mediante relatório de viagem e prestação de contas no prazo de até 05 (cinco) dias úteis ao final do referido período, podendo ocorrer nova solicitação acaso se faça necessário.",
+          "posicao": [
+            621,
+            140
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [
+        {
+          "tag": "table",
+          "attrs": {
+            "style": "border-collapse: collapse; width: 100.045%;",
+            "border": "1"
+          },
+          "posicao": [
+            568,
+            140
+          ]
+        }
+      ],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2013/leis-ordinarias-1859-2013-sapl-91.md",
+      "sha256": "eed1eaab51c3e45df8fb0c8c282c9fcb2b91587b1aa56e229256bec63e2ad68c",
+      "sha256_fonte": "e27d671ef6ce0cd6b0db5017a209ba79890d7547652bef545d419ac5e4f3afb9",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/9d44db3d7eee9cb336fec7efd472599a54d457267a3b07c4fefe189817c76ce0.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            554,
+            126
+          ]
+        },
+        {
+          "texto": "O imóvel que trata esta lei não poderá ser vendido, doado ou transferido, a qualquer título, pela donatária, devendo reverter ao patrimônio do Município de Guaíra-PR, caso a União não venha a lhe dar a destinação ao uso de órgãos ou entidades da Administração Pública Federal.",
+          "posicao": [
+            554,
+            138
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            619,
+            126
+          ]
+        },
+        {
+          "texto": "As despesas de lavratura, Registro e outros emolumentos relativos à escrituração do imóvel correrão às expensas do donatário.",
+          "posicao": [
+            619,
+            138
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    }
+  ],
+  "limite": "Texto fora do bloco pode ser histórico, alterado ou duplicado; retenção é preventiva, sem afirmar omissão antes de revisão. Os controles de seleção de vigência e de tokens por dispositivo continuam necessários."
+}

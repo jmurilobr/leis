@@ -1,0 +1,59 @@
+---
+titulo: "Lei Ordinária nº 1.325, de 14 de julho de 2005"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1325"
+data: "2005-07-14"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2263"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/779/text"
+sha256_fonte: "106bdc875ef179bada4b70756d6e8b4961eafd6acdb4139bf3cf9c82bdc2e40b"
+sha256_texto: "4a01205bb883134ca0c5b07c6e3e24868f271b6f3c41d4a28c268b847b7f0cc1"
+capturado_em_fonte: "2026-10-28T13:27:21.348313-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.325, de 14 de julho de 2005
+
+Altera o art. 1º da Lei nº 976 de 28/12/1992, modifica o parágrafo único acrescentado pela Lei 1.555 de 18/12/2003 e acrescenta o parágrafo segundo.
+
+
+A Câmara Municipal de Guaíra - Estado do Paraná aprovou, e eu, Prefeito Municipal sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+O artigo 1º da Lei nº 976 passa a vigorar com a seguinte redação:  
+  
+"Art. 1º ...  
+  
+Inicia-se na foz do Córrego Carumbei denominado ponto 01 (coordenadas 775950.15, 332413.83), acompanhando a montante a margem esquerda do Reservatório de Itaipu/Rio Paraná até o antiga foz do Córrego do Meio denominado ponto 02 (coordenadas 781376.70, 335671.32); segue pelo eixo do remanescente do Córrego do Meio, linha de interseção do córrego com a estrada secundária (Zona Rizícola e Pastoril da Prefeitura Municipal de Guaíra) de acesso aos portos de areia, denominado ponto 03 (Coordenadas 781382.14, 335614.93); efetua-se uma deflexão a direita, seguindo pelo eixo da estrada secundária (Zona Rizícola e Pastoril da Prefeitura Municipal de Guaíra) de acesso aos portos de areia, até o eixo da Avenida Almirante Tamandaré, denominado ponto 04 (coordenadas 780688.55, 335329.54); efetua-se uma deflexão a esquerda, seguindo pelo eixo Avenida Almirante Tamandaré até a interseção da linha que divide os lotes J e J1 (Zona Rizícola e Pastoril da Prefeitura Municipal de Guaíra), denominado ponto 05; efetua-se uma deflexão a esquerda, seguindo pela divisa dos lotes J e J1, rumo S 60º 36´34" E e distancia de 196,759 metros até o ponto denominado ponto 06; segue pela linha que divide os lotes J e J1, num rumo S 57º 16´47"E e distancia 299,819 metros até o ponto denominado ponto 07; segue pela linha que divide os lotes J e J1, num rumo S 39º 04´57"W e distancia 63,776 metros até o ponto denominado ponto 8; segue pela divisa dos lotes J e J1, num rumo N 68º 00´24" W até o a interseção da linha com o eixo do atual córrego do meio, denominado ponto 9; deflexão a esquerda, segue a montante pelo córrego do meio até a interseção do eixo da Avenida Paraná (Estrada da Divisa), denominado ponto 10; efetua-se uma deflexão a esquerda, seguindo pelo eixo da Avenida Paraná (Estrada da Divisa) até encontra-se com interseção da linha divisa dos lotes 09 e 10, Zona Rizícola e Pastoril da Prefeitura Municipal de Guaíra, denominado ponto 11; efetua-se deflexão a esquerda seguindo pela linha de divisa dos lotes 09 e 10, Zona Rizícola e Pastoril da Prefeitura Municipal de Guaíra até encontra-se com a margem esquerda do Rio Paraná, denominado ponto 12; efetua-se deflexão a direita, margeando o Rio Paraná a montante até encontra-se com o marco de divisa de município Guaíra e Terra Roxa, denominado marco 13; efetua-se deflexão a direita, seguindo pela divisa de município Guaíra/Terra Roxa até a interseção da linha eixo da Br 272, denominado ponto 14; efetua-se deflexão a direita segue pelo eixo da Br 272 até encontrarmos com a linha eixo da estrada de acesso ao aeroporto; denominado ponto 14; efetua-se deflexão a esquerda, por uma linha que perpendicular ao eixo da Br 272, segue por 200 metros até encontrar-se com o ponto 15; efetua-se deflexão a direita, paralela ao eixo da BR 272, em 200 metros, cortando os lotes rurais até encontra-se com o córrego a linha de interseção do eixo do Córrego da Onça, denominado ponto 16; efetua- se deflexão a esquerda, segue pelo eixo do Córrego da Onça a montante, até a interseção da linha com a linha de divisa dos lotes 64 e 65 da 1º gleba Cia Mate Laranjeira, denominado ponto 15; efetua-se a deflexão a direita, segue pela divisa dos lotes 64 e 65 até interseção da linha com a linha eixo da Br 163, denominado ponto 16; efetua-se deflexão a direita, segue pelo eixo da Br 163, até a interseção da linha eixo da estrada 03, denominado ponto 17; deflexão a esquerda segue pelo eixo da estrada 03 até a interseção da linha de divisa dos lotes 305 e 306, denominado ponto 18; efetua-se deflexão a esquerda segue pela linha que divide os lotes 305 e 306, até a interseção desta linha com a linha que divide as propriedades 305 e 336, denominado ponto 19; efetua-se deflexão a direita, segue pela linha que divide os lotes 305 e 336 até a interseção da linha eixo da Rodovia Guaíra/Cruzeirinho/Dr. Oliveira Castro, denominado ponto 20; efetua-se a deflexão a esquerda segue pelo eixo da Rodovia Guaíra/Cruzeirinho/Dr. Oliveira até a interseção com o eixo da Estrada Araras (confrontantes do loteamento Jardim Progresso com o lote rural 376), denominado ponto 21; deflexão a direita segue pela Estrada Araras (confrontantes do loteamento Jardim Progresso com o lote rural 376) até a interseção desta linha com a linha de divisa do Loteamento Jardim Progresso a o lote rural 341 da 1º Gleba Cia Mate Laranjeira, denominado ponto 22; efetua-se a deflexão a direita, segue pela linha de divisa do Loteamento Jardim Progresso a o lote rural 341 da 1º Gleba Cia Mate Laranjeira até interseção desta linha com alinha de divisa do loteamento Cohapar Mutirão Guaíra IV, com o lote rural 341 da 1º Gleba Cia Mate Laranjeira, denominado ponto 23; efetua-se deflexão a esquerda, segue pela divisa do Loteamento Cohapar Mutirão Guaíra IV e o Lote Rural 341 da 1º Gleba Cia Mate Laranjeira até a interseção da linha de divisa do Loteamento Cohapar Mutirão Guaíra IV e o lote 301 da 1º Gleba Cia mate Laranjeira denominado ponto 24; efetua-se deflexão a direita, segue pela linha de divisa do Loteamento Cohapar Mutirão Guaíra IV e o lote 301 da 1º Gleba Cia Mate Laranjeira até a interseção desta linha com a linha de eixo da estrada 03, denominado ponto 25; efetua-se deflexão a esquerda segue pela linha eixo da estrada 03, confrontando-se com os lotes rurais 301, 300, 299, e 298 da 1º Gleba Cia Mate Laranjeira até a interseção com a linha eixo da Estrada Norte denominado ponto 26; efetua-se deflexão a direita, segue pela linha eixo da Estrada Norte confrontando-se com os lotes rurais 214, 213, 212, 211, 210, e 209 da 1º Gleba Cia Mate Laranjeira até a interseção da linha de divisa do loteamento Jardim Internacional com os lotes rurais 209 e 229 da 1º Gleba Cia Mate Laranjeira, cruzando a cabeceira da Estrada Ana Maria seguindo até o inicio do loteamento Santa Clara II, denominado ponto 27; efetua-se deflexão a esquerda segue pela linha de divisa do loteamento Jardim Internacional com os lotes rurais 209 e 229 da 1º Gleba Cia Mate Laranjeira cruzando a cabeceira da Estrada Ana Maria seguindo até o inicio do loteamento Santa Clara II até a interseção da linha de divisa do loteamento Santa Clara II ( linha da poligonal da área de preservação do lago de Itaipu) denominado ponto 28; efetua-se deflexão a esquerda segue pela linha de divisa do loteamento Santa Clara II (linha da poligonal da área de preservação do Lago de Itaipu), cruza- se a estrada da Faxinha, segue pela divisa do Loteamento Santa Clara I ( poligonal da área de preservação do lago de Itaipu), contorna-se o Loteamento Santa Clara I até o canto do Lote 04 da quadra 05 do loteamento Santa Clara I, denominado ponto 29; efetua-se deflexão a esquerda, com fechamento no ponto inicial ( ponto 01). Coordenadas citadas retirada da Base Cartográfica da Sede do Município de Guaíra, efetuada em convênio Município de Guaíra/SEDU - Paranácidade em 1995. Memorial descritivo desenvolvido por Franz Jambersi - funcionário publico municipal - Engenheiro Agrimensor - Crea 162011-D/Sp."
+
+
+Art. 2º.
+
+Modifica-se o parágrafo único acrescentado pela Lei 1.255 de 18/12/2003 para parágrafo primeiro, e acrescenta- se ao art. 1º da Lei nº 976 o Parágrafo segundo com a seguinte redação:  
+  
+"Art. 1º ...  
+  
+...
+
+**§ 2º** Aplica-se o que dispõe o zoneamento ecológico-econômico da APA - Área de Proteção Ambiental de Guaíra, nas áreas não contempladas na Lei nº 983 de 28/12/1992 que dispõe sobre o uso e a ocupação do solo do perímetro urbano da sede do Município de Guaíra e dá outras providencias."
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação, ficando revogadas as disposições em contrario.
+
+
+Gabinete do Prefeito Municipal de Guaíra, em 14 de julho de 2005.  
+  
+FABIAN PERSI VENDRUSCOLO  
+Prefeito Municipal
+

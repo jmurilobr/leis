@@ -1,0 +1,105 @@
+---
+titulo: "Lei Ordinária nº 1.218, de 14 de setembro de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1218"
+data: "2026-09-14"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/6148"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/2628/text"
+sha256_fonte: "3ca1ef0972dd5942bac9786c376b3889d41240a12c6e79bb94309b760cbcf8fa"
+sha256_texto: "ac43d6bec1271cb4c56d05fefc3634c3bb3bf291bbba62e8c03291ed18123d1a"
+capturado_em_fonte: "2026-10-28T10:59:48.575226-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.218, de 14 de setembro de 2026
+
+Inclui no Calendário Oficial de Eventos do Município de Formosa-GO a “Romaria de Nossa Senhora Aparecida – Formosa ao Distrito Bezerra”, realizada anualmente nos dias 11 e 12 de outubro, com início na cidade de Formosa e chegada ao Distrito Bezerra, e dá outras providências.
+
+
+Projeto de Lei Ordinária nº 117/26, de autoria do Vereador Luziano Martins de Araujo, aprovado em 09 de setembro de 2026.
+
+A PREFEITA MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais conferidas pela Constituição Federal e nos termos do Inciso III do art. 69 da Lei Orgânica Municipal, de 5 de abril de 1990, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica incluída no Calendário Oficial de Eventos do Município de Formosa-GO a “Romaria de Nossa Senhora Aparecida – Formosa ao Distrito Bezerra”, realizada anualmente nos dias 11 e 12 de outubro.
+
+
+Art. 2º.
+
+A Romaria de Nossa Senhora Aparecida consiste na tradicional manifestação de fé e devoção religiosa realizada anualmente, com início no dia 11 de outubro, quando os romeiros partem da cidade de Formosa com destino ao Distrito Bezerra, percorrendo aproximadamente 30 quilômetros, tendo como destino a Igreja Nossa Senhora Aparecida, onde ocorre a chegada dos romeiros e as celebrações em homenagem à Padroeira do Brasil, no dia 12 de outubro.
+
+
+Art. 3º.
+
+O percurso da Romaria compreende o deslocamento entre a cidade de Formosa e o Distrito Bezerra, utilizando, em seu trajeto, a BR-020, observadas as normas de segurança e as competências dos órgãos responsáveis pela rodovia.
+
+
+Art. 4º.
+
+A inclusão da Romaria no Calendário Oficial de Eventos do Município tem por finalidade:
+
+
+I –
+
+reconhecer e valorizar a tradição religiosa e cultural da comunidade formosense;
+
+
+II –
+
+preservar e fortalecer a tradição da Romaria de Nossa Senhora Aparecida;
+
+
+III –
+
+valorizar o Distrito Bezerra como parte integrante da história, da cultura e das tradições do Município de Formosa;
+
+
+IV –
+
+incentivar a participação da comunidade em manifestações culturais, religiosas e tradicionais;
+
+
+V –
+
+contribuir para a divulgação do evento e para o fortalecimento do turismo religioso no Município.
+
+
+Art. 5º.
+
+O Poder Executivo poderá, dentro de suas atribuições e observada a disponibilidade orçamentária, promover ações de divulgação e apoio institucional à realização da Romaria, inclusive mediante articulação com os órgãos responsáveis pela segurança, trânsito, saúde e demais serviços públicos necessários à realização do evento.
+
+
+Parágrafo único.
+
+A inclusão da Romaria no Calendário Oficial de Eventos do Município não implica, por si só, obrigação de realização de despesas públicas, devendo eventual apoio observar a legislação vigente e a disponibilidade orçamentária.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete da Prefeita, 14 de setembro de 2026.
+
+SIMONE DIAS RIBEIRO DE MELO  
+Prefeita Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra
+
+Iany Macedo Troncha  
+Assessora I – Assessoria em Atos Oficiais  
+na Subprocuradoria Geral Consultiva  
+Decreto nº 1.711, de 28 de abril de 2025
+

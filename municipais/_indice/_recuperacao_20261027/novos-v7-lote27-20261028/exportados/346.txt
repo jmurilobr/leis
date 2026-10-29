@@ -1,0 +1,248 @@
+---
+titulo: "Lei Ordinária nº 973, de 23 de abril de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "973"
+data: "2020-04-23"
+municipio: "Fernão"
+uf: "SP"
+codigo_ibge: "3515657"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fernao.sp.leg.br/norma/41080"
+fonte_texto: "https://sapl.fernao.sp.leg.br/ta/70/text"
+sha256_fonte: "5b2916041452ce8e9429263e7cf68f4ba7fb9ac9cca872a85edf6daf20873ec8"
+sha256_texto: "bfcdec95500d5f2916ebc10bd025916b883a86df5d9f9912af258038303aef97"
+capturado_em_fonte: "2026-10-28T10:47:45.409443-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 973, de 23 de abril de 2020
+
+DISPÕE SOBRE AS MEDIDAS TRABALHISTAS PARA ENFRENTAMENTO DO ESTADO DE CALAMIDADE PÚBLICA NO MUNICÍPIO DE FERNÃO, RECONHECIDO PELO DECRETO Nº 1.264/2020, DE 24 DE MARÇO DECORRENTE DO NOVO CORONAVÍRUS (COVID-19), E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+LUIZ ALFREDO LEARDINI, PRESIDENTE DA CÂMARA MUNICIPAL DE FERNÃO, ESTADO DE SÃO PAULO, NO USO DE SUAS ATRIBUIÇÕES LEGAIS,  
+  
+FAZ SABER que o Prefeito Municipal adotou a Medida Provisória n.º 01, de 2020, que a Câmara Municipal de Fernão, Estado de São Paulo aprovou, e ele promulga a seguinte Lei:
+
+
+#### CAPÍTULO I
+
+DAS MEDIDAS TRABALHISTAS PARA ENFRENTAMENTO DO ESTADO DE CALAMIDADE PÚBLICA DECORRENTE DO CORONAVÍRUS (COVID-19).
+
+
+Art. 1º.
+
+Esta Lei dispõe sobre as medidas trabalhistas que poderão ser adotadas pelo Município de Fernão, para enfrentamento do estado de calamidade pública reconhecido pelo Decreto Municipal nº 1264/2020 de 24 de março de 2020, decorrente do coronavírus (covid-19).
+
+
+Parágrafo único
+
+O disposto nesta Lei se aplica durante o estado de calamidade pública reconhecido pelo Decreto Municipal n° 1264/2020, de 23 de março de 2020 e, para fins trabalhistas, constitui hipótese de força maior.
+
+
+Art. 2º.
+
+Para enfrentamento dos efeitos econômicos decorrentes do estado de calamidade pública poderão ser adotadas pelo Poder Executivo Municipal, dentre outras, as seguintes medidas:
+
+
+I –
+
+o teletrabalho;
+
+
+II –
+
+a antecipação de férias individuais;
+
+
+III –
+
+a concessão de férias coletivas;
+
+
+IV –
+
+o aproveitamento e a antecipação de feriados;
+
+
+V –
+
+o banco de horas;
+
+
+VI –
+
+a suspensão de exigências administrativas em segurança e saúde no trabalho.
+
+
+#### CAPÍTULO II — DO TELETRABALHO
+
+
+Art. 3º.
+
+Durante o estado de calamidade pública a que se refere o art. 1°, o Município poderá, a seu critério, alterar o regime de trabalho presencial para o teletrabalho, o trabalho remoto ou outro tipo de trabalho a distância e determinar o retomo ao regime de trabalho presencial, dispensado o registro prévio da alteração no contrato individual de trabalho.
+
+
+§ 1º
+
+Para fins do disposto nesta Lei, considera-se teletrabalho, trabalho remoto ou trabalho a distância a prestação de serviços preponderante ou totalmente fora das dependências da Administração Pública Municipal, com a utilização de tecnologias da informação e comunicação que, por sua natureza, não configurem trabalho externo.
+
+
+§ 2º
+
+A alteração de que trata o caput será notificada ao servidor público com antecedência de, no mínimo, quarenta e oito horas, por escrito ou por meio eletrônico.
+
+
+§ 3º
+
+As disposições relativas à responsabilidade pela aquisição, pela manutenção ou pelo fornecimento dos equipamentos tecnológicos e da infraestrutura necessária e adequada à prestação do teletrabalho, trabalho remoto ou trabalho a distância e ao reembolso de despesas eventualmente arcadas pelo empregado, em caso de necessidade, poderão ser regulamentadas em Decreto Municipal.
+
+
+§ 4º
+
+Na hipótese de o servidor público não possuir os equipamentos tecnológicos e a infraestrutura necessária e adequada à prestação do teletrabalho, do trabalho remoto ou do trabalho a distância:
+
+
+I –
+
+a administração pública municipal poderá fornecer os equipamentos em regime de como dato e pagar por serviços de infraestrutura, que não caracterizarão verba de natureza salarial; ou
+
+
+II –
+
+na impossibilidade do oferecimento do regime de comodato de que trata o inciso I, o período da jornada normal de trabalho será computado como tempo de trabalho à disposição do empregador.
+
+
+§ 5º
+
+O tempo de uso de aplicativos e programas de comunicação fora da jornada de trabalho normal do empregado não constitui tempo à disposição, regime de prontidão ou de sobreaviso.
+
+
+#### CAPÍTULO III — DA ANTECIPAÇÃO DE FÉRIAS INDIVIDUAIS
+
+
+Art. 4º.
+
+Durante o estado de calamidade pública a que se refere o art. 1°, a administração pública municipal informará ao servidor público sobre a antecipação de suas férias com antecedência de, no mínimo, quarenta e oito horas, por escrito ou por meio eletrônico, com a indicação do período a ser gozado pelo servidor.
+
+
+§ 1º
+
+As férias:
+
+
+I –
+
+não poderão ser gozadas em períodos inferiores a dez dias corridos; e
+
+
+II –
+
+poderão ser concedidas por ato administrativo, ainda que o período aquisitivo a elas relativo não tenha transcorrido.
+
+
+§ 2º
+
+Adicionalmente, o servidor público e a Administração Pública poderão ajustar a antecipação de períodos futuros de férias, mediante termo específico escrito.
+
+
+§ 3º
+
+Os servidores públicos que pertençam ao grupo de risco do coronavírus (covid-19) serão priorizados para o gozo de férias, individuais ou coletivas, nos termos do disposto neste Capítulo e no Capítulo IV.
+
+
+Art. 5º.
+
+Durante o estado de calamidade pública a que se refere o art. 1°, a Administração Pública Municipal poderá suspender as férias ou licenças não remuneradas dos profissionais da área de saúde ou daqueles que desempenhem funções essenciais, mediante comunicação formal da decisão ao servidor, por escrito ou por meio eletrônico, preferencialmente com antecedência de quarenta e oito horas.
+
+
+Art. 6º.
+
+Para as férias concedidas durante o estado de calamidade pública a que se refere o art. 1°, a Administração Pública Municipal poderá optar por efetuar o pagamento do adicional de um terço de férias após sua concessão, até a data em que é devida a gratificação natalina prevista no art. 141 da Lei Complementar 02/98, de 20 de abril de 1998.
+
+
+Art. 7º.
+
+O pagamento da remuneração das férias concedidas em razão do estado de calamidade pública a que se refere o art. 1 ° poderá ser efetuado até o quinto dia útil do mês subsequente ao início do gozo das férias.
+
+
+#### CAPÍTULO IV — DA CONCESSÃO DE FÉRIAS COLETIVAS
+
+
+Art. 8º.
+
+Durante o estado de calamidade pública a que se refere o art. 1°, a Administração Pública Municipal poderá, a seu critério, conceder férias coletivas e deverá notificar o conjunto de servidores afetados com antecedência de, no mínimo, quarenta e oito horas.
+
+
+#### CAPÍTULO V — DO APROVEITAMENTO E DA ANTECIPAÇÃO DE FERIADOS
+
+
+Art. 9º.
+
+Durante o estado de calamidade pública, o Poder Executivo Municipal It poderá antecipar o gozo de feriados não religiosos federais, estaduais, distritais e municipais e deverão notificar, por escrito ou por meio eletrônico, o conjunto de servidores beneficiados com antecedência de, no mínimo, quarenta e oito horas, mediante indicação expressa dos feriados aproveitados.
+
+
+§ 1º
+
+Os feriados a que se refere o caput poderão ser utilizados para compensação do saldo em banco de horas.
+
+
+§ 2º
+
+O aproveitamento de feriados religiosos dependerá de concordância do servidor, mediante manifestação em termo específico escrito.
+
+
+#### CAPÍTULO VI — DO BANCO DE HORAS
+
+
+Art. 10.
+
+Durante o estado de calamidade pública a que se refere o art. 1°, ficam autorizadas a interrupção das atividades pela Administração Pública e a constituição de regime especial de compensação de jornada, por meio de banco de horas, em favor da Administração Pública ou do servidor, estabelecido por meio de acordo individual formal, para a compensação no prazo de até dezoito meses, contado da data de encerramento do estado de calamidade pública.
+
+
+§ 1º
+
+A compensação de tempo para recuperação do período interrompido poderá ser feita mediante prorrogação de jornada em até duas horas, que não poderá exceder dez horas diárias.
+
+
+§ 2º
+
+A compensação do saldo de horas poderá ser determinada pela Administração Pública independente de acordo individual ou coletivo.
+
+
+#### CAPÍTULO VII — DA SUSPENSÃO DE EXIGÊNCIAS ADMINISTRATIVAS EM SEGURANÇA E SAÚDE NO TRABALHO
+
+
+Art. 11.
+
+Durante o estado de calamidade pública a que se refere o art. 1°, fica suspensa a obrigatoriedade de realização dos exames médicos ocupacionais, clínicos e complementares, exceto dos exames demissionais.
+
+
+§ 1º
+
+Os exames a que se refere caput serão realizados no prazo de sessenta dias, contado da data de encerramento do estado de calamidade pública.
+
+
+§ 2º
+
+A homologação pelo Serviço de Saúde do Município de laudo passado por médico ou por junta médica particular, prevista no artigo 79, § 1° da Lei Complementar n.º 02/98, de 20 de abril de 98, poderá ser postergada para após o encerramento do estado de calamidade pública a que refere o artigo 1º.
+
+
+#### CAPÍTULO VIII — DISPOSIÇÕES FINAIS
+
+
+Art. 12.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Fernão, 23 de abril de 2020.
+
+Luiz Alfredo Leardini
+
+Presidente da Câmara
+

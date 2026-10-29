@@ -1,0 +1,129 @@
+---
+titulo: "Lei Ordinária nº 1.334, de 08 de setembro de 2005"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1334"
+data: "2005-09-08"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2279"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/795/text"
+sha256_fonte: "29bd837b6d5e60bf18f64d9b23a790c6f470ecb6857ae07711a14070dc84ca8d"
+sha256_texto: "f0c1a8a4425bca4c53579465d16c767a2834cfadcf078fd3dfa45f559c44192b"
+capturado_em_fonte: "2026-10-28T13:27:01.251983-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.334, de 08 de setembro de 2005
+
+Dispõe sobre a operacionalização e execução de programas descentralizados na área de saúde pública firmado através de convênios.
+
+
+A Câmara Municipal de Guaíra, estado do Paraná, aprovou e eu Prefeito Municipal, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Os empregos públicos criados no âmbito da Administração Direta, Autárquica e Fundacional do Município de Guaíra - PR, objetivando operacionalizar a execução de programas descentralizados na área da saúde pública firmados através de convênios ou ajustes similares com o Governo Federal ou Estadual, serão regidos pela Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 e legislação trabalhista correlata e mais do que consta desta Lei.
+
+
+§ 1º
+
+Leis específicas disporão sobre a criação dos empregos de que trata o presente diploma legal, para cada programa descentralizado o seu quantitativo e respectiva remuneração, que integrarão quadro específico e distinto, para todos os efeitos legais, do quadro permanente de pessoal de Poder Executivo Municipal.
+
+
+§ 2º
+
+A Lei de que trata o parágrafo anterior será acompanhada de demonstrativo motivado sobre a natureza do programa de saúde pública descentralizado a ser executado mediante convenio, suas características principais e sua correlação com os empregos e funções necessárias à sua execução.
+
+
+§ 3º
+
+Junto com a motivação referida nos parágrafos anteriores serão anexados demonstrativos de receitas a serem transferidas pelos atos de convênio ou ajustes similares, bem como a eventual contrapartida ou alocação de recursos públicos municipais para fazer frente às respectivas despesas de pessoal, sem prejuízo dos demais pressupostos orçamentários exigidos, inclusive a Lei Complementar 101/2000.
+
+
+Art. 2º.
+
+O provimento dos empregos referidos no caput do artigo 1º desta Lei deverá ser precedido de aprovação e classificação em concurso público de provas ou de provas e títulos, conforme a natureza e complexidade do emprego.
+
+
+Art. 3º.
+
+Os contratos de trabalhos celebrados com fundamento na presente Lei vigorarão por prazo indeterminado e somente serão rescindidos nos seguintes casos:
+
+
+I –
+
+prática de falta grave, dentre as enumeradas no artigo 482 da Consolidação das Leis do Trabalho - CLT, apurada em procedimento administrativo;
+
+
+II –
+
+acumulação ilegal de cargos, empregos ou funções públicas;
+
+
+III –
+
+necessidade de redução de quadro de pessoal, por excesso de despesa, nos termos da lei complementar a que se refere o artigo 169 da Constituição Federal;
+
+
+IV –
+
+insuficiência de desempenho, apurada em procedimento no qual se assegurem pelo menos um recurso hierárquico dotado de efeito suspensivo, que será apreciado em trinta dias;
+
+
+V –
+
+extinção de programas federais e estaduais implementados mediante convenio ou ajustes similares, e que originariam as respectivas contratações.
+
+
+Parágrafo único
+
+Nas Hipóteses dos incisos III e V, a rescisão contratual, far-se-á nos moldes do art., 447 da CLT.
+
+
+Art. 4º.
+
+Os atos de admissão para os empregos públicos mencionados nesta Lei serão encaminhados, na forma e no prazo previstos em lei, para o Tribunal de Contas do Estado, com vistas ao exame da legalidade para fins de registro, como estabelecido pelo inciso III, do art. 76, da Constituição do Estado do Paraná.
+
+
+Art. 5º.
+
+É vedado submeter ao regime desta Lei:
+
+
+I –
+
+os cargos públicos em comissão;
+
+
+II –
+
+os cargos e empregos públicos do Quadro próprio de Pessoal;
+
+
+III –
+
+a utilização de emprego público para atividades que não se enquadrem na ação descentralizada que motivou a contratação.
+
+
+Art. 6º.
+
+Os salários previstos para os empregos de que trata o regime desta Lei, obedecerão aos valores contidos na lei específica e nos respectivos demonstrativos, em função das características de cada atividade, independentemente dos valores de remuneração ou salariais previstos no quadro permanente de pessoal do Poder Público Municipal, respeitando a aplicação dos tetos máximos previstos no inciso XI, do art. 37 da Constituição Federal.
+
+
+Art. 7º.
+
+Esta lei entrará em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra, em 08 de setembro de 2005.  
+  
+FABIAN PERSI VENDRUSCOLO  
+Prefeito Municipal
+

@@ -1,0 +1,84 @@
+---
+titulo: "Lei Ordinária nº 457, de 18 de maio de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "457"
+data: "2011-05-18"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/2400"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1353/text"
+sha256_fonte: "0fb6eea3bd0b8f60d44947487bcadfff31cf711680b6a2810fa411a4f2e7370c"
+sha256_texto: "d226aee89f688c8085da4a1c6f99389b06119a86ac41368cbb587c68c339bee2"
+capturado_em_fonte: "2026-10-28T11:56:11.325280-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 457, de 18 de maio de 2011
+
+Institui a Semana de Orientação e Prevenção da Gravidez na Adolescência, no âmbito do Município de Formosa.
+
+
+O PREFEITO MUNICIPAL DE FORMOSA,
+
+Faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituída, para integrar o Calendário Oficial de Atividades da Secretaria Municipal de Saúde de Formosa, a Semana de Orientação e Prevenção da Gravidez na Adolescência, com ciclo de periodicidade a ser anualmente observado, na segunda semana do mês de outubro.
+
+
+Art. 2º.
+
+Para consecução dos objetivos desta Lei, o Poder Executivo poderá:
+
+
+I –
+
+estabelecer parcerias com instituições públicas e privadas de ensino superior e técnico, e contar com a colaboração dos Conselhos Federais e Regionais de Medicina e Psicologia, da Ordem dos Advogados do Brasil, do Ministério Público, do Poder Judiciário, do Conselho Tutelar, de autoridades eclesiásticas, de instituições religiosas e demais entidades e órgãos de representação da sociedade civil, visando palestras, exposições e debates públicos sobre o assunto e temas correlatos, abordando riscos, responsabilidades e consequências sociais, civis e criminais;
+
+
+II –
+
+promover e estimular a realização de programas de orientação e palestras nos estabelecimentos de ensino do Município, com a participação de psicólogos, médicos, sociólogos, magistrados, advogados, promotores de justiça, professores, pedagogos, conselheiros tutelares e demais profissionais que direta ou indiretamente atuem no âmbito da formação, educação, preservação da saúde e do direito da criança e do adolescente;
+
+
+III –
+
+obter apoio, buscar promoção e promover ampla divulgação junto aos mais diversos meios de comunicação.
+
+
+Art. 3º.
+
+A presente Lei deverá ser regulamentada pelo Poder Executivo dentro de 120 (cento e vinte) dias, contados de sua publicação.
+
+
+Art. 4º.
+
+As despesas decorrentes da aplicação desta Lei correrão por conta de dotação orçamentária da Secretaria Municipal de Saúde, suplementadas se necessárias.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 18 de maio de 2011.
+
+PEDRO IVO DE CAMPOS FARIA
+
+PREFEITO MUNICIPAL
+
+Afixado no “placard” de publicidade.  
+E encadernado em livro próprio.  
+Data supra.  
+.................................................................................................  
+RENATA PENETRA  
+Superintendente de Legislação e Documentação
+

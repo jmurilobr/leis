@@ -1,0 +1,109 @@
+---
+titulo: "Lei Ordinária nº 1.228, de 04 de abril de 2003"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1228"
+data: "2003-04-04"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2175"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/693/text"
+sha256_fonte: "e3ae8de36130ecb46d784ee8a2082d6156f0c6068eb9914d8de14997891ce02a"
+sha256_texto: "c784ef145d78ffb65f79381fefd1b5bff95172e89f700a14ab93860f4fb8e3a7"
+capturado_em_fonte: "2026-10-28T13:30:21.659295-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.228, de 04 de abril de 2003
+
+Dispõe sobre a limpeza nos imóveis urbanos e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou e eu Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Os proprietários de imóveis urbanos edificados ou não, lindeiros em vias ou logradouros públicos, beneficiados ou não com meio-fio e/ou pavimentação, são obrigados a mantê-los limpos, capinados e drenados, respondendo em quaisquer situações pela sua utilização como depósito de lixo, detritos ou resíduos de quaisquer natureza.
+
+
+Parágrafo único
+
+Caracterizam-se como situações de mau estado de conservação de limpeza, os imóveis que possuam ervas daninhas, matos, inço ou conjunto de plantas nocivas ao meio urbano, cuja altura ou porte seja superior a 50 (cinqüenta) centímetros.
+
+
+Art. 2º.
+
+As irregularidades constatadas serão objeto de notificação aos responsáveis, que deverão saná-los, no prazo máximo improrrogável de 10 (dez) dias, podendo inclusive no mesmo prazo oferecer defesa.
+
+
+Art. 3º.
+
+A notificação de que trata o artigo 2º será efetivada por edital publicado no órgão oficial do Município de Guaíra e, se necessário, poderá utilizar-se de outros veículos de comunicação.
+
+
+Parágrafo único
+
+O prazo para regularização será contado em dias corridos, a partir do dia seguinte ao da publicação do edital, incluindo-se o dia do vencimento.
+
+
+Art. 4º.
+
+O não atendimento do caput do artigo 2º desta lei importará na aplicação da multa, por irregularidade constatada, em valor fixado com base na Unidade Fiscal do Município de Guaíra-UFG, vigente na data da respectiva autuação, na razão de 3 (três) UFGs por imóvel com área de até 1.000,00 m² inclusive, e 5 (cinco) UFGs por imóvel com área superior a 1.000,00 m2.
+
+
+Art. 5º.
+
+Os proprietários que deixarem de cumprir o que preceitua o caput do artigo 2º desta lei ensejarão na reincidência de autuação a cada 30 (trinta) dias, até que seja atendido o exposto na notificação, sendo os valores dobrados a cada nova reincidência estipulado o teto de autuações em 100 (cem) UFGs.
+
+
+Parágrafo único
+
+O município de Guaíra poderá executar o serviço de roçada nos imóveis notificados e autuados e cobrará do contribuinte o valor de 0,005UFG por metro quadrado do imóvel em questão, além das multas já estipuladas no artigo 4º desta lei.
+
+
+Art. 6º.
+
+Para o cumprimento do parágrafo único do artigo 5º desta lei, o Município manterá um serviço especializado a cargo das Secretarias Municipais de Agricultura e Meio Ambiente e da Infra Estrutura.
+
+
+§ 1º
+
+Em condições que justifiquem a necessidade o município poderá contratar terceiros para a realização dos serviços.
+
+
+§ 2º
+
+Na contratação de terceiros para execução dos serviços serão utilizados recursos da rubrica orçamentária das Secretarias Municipais citado no caput.
+
+
+§ 3º
+
+O débito originado dos serviços executados pela municipalidade, assim como os valores do auto de infração, deverão ser quitadas em até 30 (trinta) dias após a sua autuação/prestação ou conforme o caso findo o processo administrativo.
+
+
+§ 4º
+
+O débito não liquidado no prazo do § 3º deste artigo será inscrito em dívida ativa para posterior cobrança judicial, ficando facultada a cobrança administrativa juntamente com os tributos na forma da lei.
+
+
+Art. 7º.
+
+Em caso de necessidade o executivo municipal baixará decreto regulamentando a presente lei.
+
+
+Art. 8º.
+
+Esta lei entra em vigor 60 ( sessenta) dias após a sua respectiva data da publicação, ficando revogadas as disposições em contrário.
+
+
+Edifício da Prefeitura Municipal de Guaíra, em 04 de abril de 2.003.  
+  
+DR. MANOEL KUBA,  
+Prefeito Municipal.
+

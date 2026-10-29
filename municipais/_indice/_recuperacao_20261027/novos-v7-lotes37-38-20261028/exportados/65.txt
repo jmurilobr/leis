@@ -1,0 +1,149 @@
+---
+titulo: "Lei Ordinária nº 1.783, de 09 de julho de 2012"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1783"
+data: "2012-07-09"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2689"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/1023/text"
+sha256_fonte: "1de6bf3d80aca5ef4b0eb2e348a5a61d2154dc2181a63573792fdc57363ddb7d"
+sha256_texto: "791c9d646b652c35c71203edf74cb041c09862b071227efae9fc1cd2aac8858d"
+capturado_em_fonte: "2026-10-28T13:18:34.912574-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.783, de 09 de julho de 2012
+
+Autoriza o Poder Executivo criar e efetuar a abertura de crédito especial no orçamento do exercício de 2012 (Lei Municipal 1754 de 15/12/2011) e a ajustar as programações estabelecidas no Plano Plurianual - 2010 a 2013 (Lei Municipal 1662 de 18/01/2010) e na Lei de Diretrizes Orçamentárias do Município (Lei Municipal 1730 de 30/06/2011).
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou e eu Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica aberto no Orçamento Fiscal (Lei Municipal 1754 de 15/12/2011), Crédito Especial no valor de R$ 45.000,00 (quarenta e cinco mil reais), mediante a inclusão de nova natureza de despesa para suplementação por excesso de arrecadação na fonte 31845 - REPASSE GOV. PR P/PROJ. RECUPERAÇÃO DA TRAFEGABILIDADE DE ESTRADAS RURAIS - PROT 11.299.444-0, para aquisição de material de consumo a ser aplicado na conservação das estradas rurais, na seguinte rubrica e programação orçamentária assim desdobrada como abaixo relacionada:  
+  
+ÓRGÃO 13 SECRETARIA MUNICIPAL DE AGRICULTURA E MEIO AMBIENTE  
+UNIDADE 03 DEPARTAMENTO DE ESTRADAS E RODAGENS  
+FUNÇÃO 26 Transportes  
+SUB-FUNÇÃO 782 Transporte Rodoviário  
+PROGRAMA 0053 Apoio ao Produtor Rural e Infra-Estrutura Rural  
+PROJETO/ATIVIDA DE 2.073 Manutenção e Revitalização do Dpto de Estradas e Rodagens  
+Fonte 31845 REPASSE GOV. PR P/ PROJ. RECUPERAÇÃO DA TRAFEGABILIDADE DE ESTRADAS RURAIS - PROT 11.299.444-0  
+ELEMENTO DE DESPESAS  
+33.90.30.00 Material de Consumo.........................................................R$ 45.000,00
+
+
+Art. 2º.
+
+Os recursos necessários à execução do contido no Art. 1º decorrerão do excesso de arrecadação não previsto no orçamento anual, portanto não haverá redução no orçamento anual do exercício de 2012.
+
+
+Art. 3º.
+
+Em decorrência da abertura do Crédito Especial constante do Art. 1º com recursos de excesso de arrecadação no valor de R$ de R$ 45.000,00 (quarenta e cinco mil reais), fonte 31845 - REPASSE GOV. PR P/ PROJ. RECUPERAÇÃO DA TRAFEGABILIDADE DE ESTRADAS RURAIS - PROT 11.299.444-0, as despesas e parte das metas físicas programadas para o exercício de 2012 na ação orçamentária estabelecida no ANEXO II da Lei nº 1662 de 18/01/2010 (Plano Plurianual), ficam reprogramadas na forma abaixo descrita.  
+  
+ÓRGÃO 13 SECRETARIA MUNICIPAL DE AGRICULTURA E MEIO AMBIENTE  
+UNIDADE 03 DEPARTAMENTO DE ESTRADAS E RODAGENS  
+FUNÇÃO 26 Transportes  
+SUB-FUNÇÃO 782 Transporte Rodoviário  
+PROGRAMA 0053 Apoio ao Produtor Rural e Infra-Estrutura Rural  
+PROJETO/ATIVIDA DE 2.073 Manutenção e Revitalização do Dpto de Estradas e Rodagens  
+Fonte 31845 REPASSE GOV. PR P/ PROJ. RECUPERAÇÃO DA TRAFEGABILIDADE DE ESTRADAS RURAIS - PROT 11.299.444-0  
+ELEMENTO DE DESPESAS  
+33.90.30.00 Material de Consumo.........................................................R$ 45.000,00
+
+
+Art. 4º.
+
+Face abertura do Crédito Especial a que se refere o Art. 1º de R$ 45.000,00 (quarenta e cinco mil reais), com recursos de excesso de arrecadação no valor de R$ de R$ 45.000,00 (quarenta e cinco mil reais), fonte 31845 - REPASSE GOV. PR P/ PROJ. RECUPERAÇÃO DA TRAFEGABILIDADE DE ESTRADAS RURAIS - PROT 11.299.444-0, as despesas e parte das metas físicas programadas para o exercício de 2012 na ação orçamentária estabelecida no ANEXO I da Lei nº 1730 de 30/06/2011 (Lei de Diretrizes Orçamentárias), ficam reprogramadas na forma abaixo descrita.  
+  
+ÓRGÃO 13 SECRETARIA MUNICIPAL DE AGRICULTURA E MEIO AMBIENTE  
+UNIDADE 03 DEPARTAMENTO DE ESTRADAS E RODAGENS  
+FUNÇÃO 26 Transportes  
+SUB-FUNÇÃO 782 Transporte Rodoviário  
+PROGRAMA 0053 Apoio ao Produtor Rural e Infra-Estrutura Rural  
+PROJETO/ATIVIDA DE 2.073 Manutenção e Revitalização do Dpto de Estradas e Rodagens  
+Fonte 31845 REPASSE GOV. PR P/ PROJ. RECUPERAÇÃO DA TRAFEGABILIDADE DE ESTRADAS RURAIS - PROT 11.299.444-0  
+ELEMENTO DE DESPESAS  
+33.90.30.00 Material de Consumo.........................................................R$ 45.000,00
+
+
+Art. 5º.
+
+Fica aberto no Orçamento Fiscal (Lei Municipal 1754 de 15/12/2011), Crédito Especial no valor de R$ 70.000,00 (setenta mil reais), mediante a inclusão de nova natureza de despesa para a suplementação por anulação de dotação na fonte 31843 - REPASSE CONVÊENIO 11841624/2011 - SEAB - CALCARIO para aquisição de material de consumo, na seguinte rubrica e programação orçamentária assim desdobrada como abaixo relacionada:  
+  
+ÓRGÃO 13 SECRETARIA MUNICIPAL DE AGRICULTURA E MEIO AMBIENTE  
+UNIDADE 01 DEPARTAMENTO DE MEIO AMBIENTE  
+FUNÇÃO 20 AGRICULTURA  
+SUB-FUNÇÃO 606 EXTENSÃO RURAL  
+PROGRAMA 0053 APOIO A PRODUTOR RURAL E INFRAESTRUTURA RURAL  
+PROJETO/ATIVIDA DE 2.071 MANUTENÇÃO E REVITALIZAÇÃO DO DPTO DE AGRICULTURA  
+FONTE 31843 REPASSE CONVÊNIO 11841624/2011 - SEAB - CALCARIO  
+ELEMENTO DE DESPESAS  
+33.90.30.31 Sementes, mudas de Plantas e Insumos........................................R$ 70.000,00
+
+
+Art. 6º.
+
+Os recursos necessários à execução do constante no Art. 5º desta Lei decorrerão da anulação orçamentária, a saber:  
+  
+ÓRGÃO 13 SECRETARIA MUNICIPAL DE AGRICULTURA E MEIO AMBIENTE  
+UNIDADE 01 DEPARTAMENTO DE MEIO AMBIENTE  
+FUNÇÃO 20 AGRICULTURA  
+SUB-FUNÇÃO 606 EXTENSÃO RURAL  
+PROGRAMA 0053 APOIO A PRODUTOR RURAL E INFRAESTRUTURA RURAL  
+PROJETO/ATIVIDA DE 2.071 MANUTENÇÃO E REVITALIZAÇÃO DO DPTO DE AGRICULTURA  
+Fonte 31843 REPASSE CONVÊNIO 11841624/2011 - SEAB - CALCARIO  
+ELEMENTO DE DESPESAS  
+33.90.32.00 Materiais de Distribuição Gratuita..........................................R$ 70.000,00
+
+
+Art. 7º.
+
+Em decorrência da abertura do Crédito Especial constante do Art. 5º por anulação de dotação R$ 70.000,00 (setenta mil reais), fonte 31843 - REPASSE CONVENIO 11841624/2011 - SEAB - CALCARIO as despesas e parte das metas físicas programadas para o exercício de 2012 na ação orçamentária estabelecida no ANEXO II da Lei nº 1662 de 18/01/2010 (Plano Plurianual), ficam reprogramadas na forma abaixo descrita.  
+  
+ÓRGÃO 13 SECRETARIA MUNICIPAL DE AGRICULTURA E MEIO AMBIENTE  
+UNIDADE 01 DEPARTAMENTO DE MEIO AMBIENTE  
+FUNÇÃO 20 AGRICULTURA  
+SUB-FUNÇÃO 606 EXTENSÃO RURAL  
+PROGRAMA 0053 APOIO A PRODUTOR RURAL E INFRAESTRUTURA RURAL  
+PROJETO/ATIVIDA DE 2.071 MANUTENÇÃO E REVITALIZAÇÃO DO DPTO DE AGRICULTURA  
+FONTE 31843 REPASSE CONVÊNIO 11841624/2011 - SEAB - CALCARIO  
+ELEMENTO DE DESPESAS  
+33.90.30.31 Sementes, mudas de Plantas e Insumos........................................R$ 70.000,00
+
+
+Art. 8º.
+
+Em decorrência da abertura do Crédito Especial constante do Art. 5º por anulação de dotação R$ 70.000,00 (setenta mil reais), fonte 31843 - REPASSE CONVENIO 11841624/2011 - SEAB - CALCARIO as despesas e parte das metas físicas programadas para o exercício de 2012 na ação orçamentária estabelecida no ANEXO I da Lei nº 1730 de 30/06/2011 (Lei de Diretrizes Orçamentárias), ficam reprogramadas na forma abaixo descrita.  
+  
+ÓRGÃO 13 SECRETARIA MUNICIPAL DE AGRICULTURA E MEIO AMBIENTE  
+UNIDADE 01 DEPARTAMENTO DE MEIO AMBIENTE  
+FUNÇÃO 20 AGRICULTURA  
+SUB-FUNÇÃO 606 EXTENSÃO RURAL  
+PROGRAMA 0053 APOIO A PRODUTOR RURAL E INFRAESTRUTURA RURAL  
+PROJETO/ATIVIDA DE 2.071 MANUTENÇÃO E REVITALIZAÇÃO DO DPTO DE AGRICULTURA  
+FONTE 31843 REPASSE CONVÊNIO 11841624/2011 - SEAB - CALCARIO  
+ELEMENTO DE DESPESAS  
+33.90.30.31 Sementes, mudas de Plantas e Insumos........................................R$ 70.000,00
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 09 de julho de 2012.  
+  
+DR. MANOEL KUBA  
+Prefeito Municipal
+

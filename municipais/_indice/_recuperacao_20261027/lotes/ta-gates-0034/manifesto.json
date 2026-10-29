@@ -1,0 +1,37 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 842,
+  "aprovados_nestes_gates": 309,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0034/sapl.garca.sp.leg.br.prefixo.jsonl",
+      "sha256": "f8c75900c5571f853c8bd3e66deb99d692f53154592da80efa11656f5fd57cce",
+      "bytes": 1381291
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0034/sapl.garca.sp.leg.br.tipos.json",
+      "url": "https://sapl.garca.sp.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "0e82d3b508063f2c81c6ff2d829f1945344ce04017a5aad2cda246eb7c9148e4"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0034/sapl.garca.sp.leg.br.anexos.json",
+      "sha256": "a431c5c8f4109b7664d4a37b7eb9c534b76992de4293319980aef1450a25b033"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0034/sapl.guadalupe.pi.leg.br.prefixo.jsonl",
+      "sha256": "3bff98b060165bf564cf8da5fbcc83424a31ae976e69e5b60560402ab0667e7b",
+      "bytes": 1337966
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0034/sapl.guadalupe.pi.leg.br.tipos.json",
+      "url": "https://sapl.guadalupe.pi.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "187836801eaadb6f8d44e370e49638f41c08a9a166abe1ec5557e4a299c6cc6e"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0034/sapl.guadalupe.pi.leg.br.anexos.json",
+      "sha256": "bac90553dd6f2849afa4deb0fe21a163fbda1e3b5157e6d3b94982e7d598cc48"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

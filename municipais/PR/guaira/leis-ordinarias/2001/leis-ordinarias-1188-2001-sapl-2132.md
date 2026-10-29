@@ -1,0 +1,116 @@
+---
+titulo: "Lei Ordinária nº 1.188, de 03 de dezembro de 2001"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1188"
+data: "2001-12-03"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2132"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/658/text"
+sha256_fonte: "50dc287716d4e37cff2b8e8e72a3f640d092332283849e42bb3022a333cf9784"
+sha256_texto: "37d52485ecd3e6cb488c35ed8676f9d243b1a4f4db9ddfb79dfc43bee09992da"
+capturado_em_fonte: "2026-10-28T13:31:25.745190-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.188, de 03 de dezembro de 2001
+
+Estima a receita e fixa a despesa do Município de Guaíra-PR para o exercício de 2002. (R$ 21.3600.000,00).
+
+
+O POVO DO MUNICÍPIO DE GUAÍRA, ESTADO DO PARANÁ, por meio do seus representantes aprovou, e o Prefeito Municipal, em seu nome sanciona a seguinte lei:
+
+
+Art. 1º.
+
+Esta Lei estima a receita e fixa a despesa do Município de Guaíra, estado do Paraná, para o exercício do ano de 2002.
+
+
+Art. 2º.
+
+O Orcamento-Programa do Município de Guaíra, estado do Paraná, para o exercício de 2002, estima receitas e fixa despesas em R$ 21.360.000,00 (vinte e um milhões e trezentos e sessenta mil reais), a preço de setembro de 2001, incluindo os recursos da administração direta de tributos. rendas e outras receitas.
+
+
+Art. 3º.
+
+A receita será realizada de acordo com a legislação específica em vigor. segundo as seguintes estimativas:
+
+
+I –
+
+RECEITAS CORRENTES:  
+  
+Receita Tributária...................................................................R$ 1.425.000,00  
+Receita de Contribuições................................................................R$ 87.000,00  
+Receita Patrimonial....................................................................R$ 309.000,00  
+Receita de Serviços....................................................................R$ 122.000,00  
+Transferências Correntes.............................................................R$ 9.641.000,00  
+Outras Receitas Correntes...........................................................R$ 8.666.000.,00
+
+
+II –
+
+RECEITAS DE CAPITAL:  
+  
+Operações de Crédito...................................................................R$ 200.000,00  
+Alienação de Bens.......................................................................R$ 40.000,00  
+Transferências de Capital..............................................................R$ 700.000,00  
+Outras Receitas de Capital.............................................................R$ 170.000,00  
+  
+TOTAL DA RECEITA....................................................................R$ 21.360.000,00
+
+
+Art. 4º.
+
+A despesa será fixada com a seguinte distribuição entre os órgãos:
+
+
+I –
+
+ADMINISTRAÇÃO DIRETA  
+  
+Poder Legislativo  
+Câmara Municipal.......................................................................R$ 880.000,00  
+Poder Executivo  
+Governo Municipal.....................................................................R$1.713.000,00  
+Secretaria Mun. de Planejamento e Coordenação Geral....................................R$ 134.000,00  
+Secretaria Municipal de Administração................................................R$ 2.384.000,00  
+Secretaria Municipal da Fazenda......................................................R$ 1.362.000,00  
+Secretaria Municipal de Educação e Cultura............................................R$3.995.000,00  
+Secretaria Municipal de Esporte e Lazer................................................R$ 771.000,00  
+Secretaria Municipal da Saúde.........................................................R$2.572.000,00  
+Secretaria Municipal de Ação Social....................................................R$ 901.000,00  
+Secretaria Municipal da Infra Estrutura..............................................R$ 3.828.000,00  
+Secretaria Municipal de Indústria e Comércio...........................................R$ 645.000,00  
+Secretaria Municipal de Turismo........................................................R$ 710.000,00  
+Secretaria Municipal de Agricultura e Meio Ambiente..................................R$ 1.465.000,00  
+  
+TOTAL DA DESPESA....................................................................R$ 21.360.000,00
+
+
+Art. 5º.
+
+Fica o Executivo Municipal autorizado, nos termos da lei federal nº 4.320, de 17.03.64, a abrir créditos adicionais suplementares no orçamento da administração até 25% (vinte e cinco por cento) do valor total atualizado do orçamento, podendo inclusive anular total ou parcialmente dotações orçamentarias com objetivo de gerar novos recursos, assim como para utilizar para suplementação 100% (cem por cento) do excesso de arrecadação caso venha ocorrer.
+
+
+Art. 6º.
+
+Fica o Legislativo Municipal autorizado, nos termos do art. 31 da Lei Orgânica do Município de Guaíra, a abrir créditos adicionais suplementares nas próprias dotações, observando o limite previsto no art. 5º desta Lei, dando ciência ao Executivo Municipal.
+
+
+Art. 7º.
+
+Esta Lei entrará em vigor no dia 1º de janeiro de 2.002.
+
+
+PAÇO MUNICIPAL DE GUAÍRA, em 03 de dezembro de 2001.  
+  
+DR. MANOEL KUBA  
+Prefeito Municipal
+

@@ -1,0 +1,94 @@
+---
+titulo: "Lei Ordinária nº 448, de 10 de novembro de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "448"
+data: "2014-11-10"
+municipio: "Guadalupe"
+uf: "PI"
+codigo_ibge: "2204501"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guadalupe.pi.leg.br/norma/167"
+fonte_texto: "https://sapl.guadalupe.pi.leg.br/ta/202/text"
+sha256_fonte: "3e7090afaf022eb751c2f72436a48d1e0ad88b72ee674ce2d2c9ed8fe0f141c1"
+sha256_texto: "fb43aa51e2d7c9f4cf841bc36be03828a5710ec250033e9435c470e52a472b78"
+capturado_em_fonte: "2026-10-28T12:49:24.876573-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 448, de 10 de novembro de 2014
+
+Dispõe sobre a instituição da Semana do Bebe no Município de Guadalupe-Pl e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE GUADALUPE, ESTADO DO PIAUÍ, no uso de suas atribuições legais e de acordo com o artigo 34 e seguintes da Lei Orgânica do Município de Guadalupe, faz saber que a Câmara Municipal aprovou:
+
+
+Art. 1º.
+
+Fica instituída a Semana do Bebê, a qual passa a integrar o calendário oficial de eventos do Município de Guadalupe-Pl. a ser realizada anualmente, na terceira semana do mês de setembro de cada ano.
+
+
+Art. 2º.
+
+A Semana do Bebê terá por objetivo:
+
+
+I –
+
+contribuir para a diminuição do índice de mortalidade infantil, melhoria da qualidade de vida das crianças de 0 à 6 anos;
+
+
+II –
+
+diminuir as situações de exclusão social decorrente da gravidez precoce;
+
+
+III –
+
+informar, sensibilizar e envolver a sociedade em torno da situação da primeira infância; e
+
+
+IV –
+
+conferir visibilidade social às ações pertinentes à questão, em desenvolvimento no Município de Guadalupe, no âmbito interinstitucional.
+
+
+Art. 3º.
+
+A Semana do Bebê compreenderá a realização de seminários, ciclos de palestras e ações educativas nos estabelecimentos da rede pública de ensino, postos de saúde, bem como, a divulgação de programas e serviços oferecidos às gestantes e crianças de 0 à 6 anos de idade, atendimento médico e psicológico.
+
+
+Parágrafo único
+
+Para a realização das atividades previstas no caput deste artigo, o Poder Executivo fica autorizado a estabelecer convênios e parcerias com instituições públicas e privadas que atuem ou tenham comprometimento com a questão da criança.
+
+
+Art. 4º.
+
+Caberá às Secretarias Municipais de Saúde, Educação e Trabalho e Desenvolvimento Social, coordenarem a realização dos eventos na Semana do Bebê, promovendo a sua divulgação, bem como propondo ao Governo Municipal o estabelecimento de convênios e parcerias a que alude o artigo anterior.
+
+
+Art. 5º.
+
+Os órgãos municipais que tenham comprometimento com a questão da primeira infância, em especial as Secretarias Municipais da Educação, Trabalho e Desenvolvimento Social e Saúde, deverão desenvolver ações sistemáticas e continuadas ao longo do ano, com vistas à orientação, prevenção e acompanhamento da gravidez, contribuindo assim para a realização da Semana de que trata esta Lei.
+
+
+Art. 6º.
+
+As despesas decorrentes da execução da presente Lei correrão por conta de verbas próprias, consignadas no orçamento vigente, suplementadas, se necessárias.
+
+
+Art. 7º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Guadalupe, Estado do Piauí, em dez dc novembro de dois mil e quatorze.  
+  
+Wallem Rodrigues Mousinho  
+Prefeito Municipal
+

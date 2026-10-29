@@ -1,0 +1,10 @@
+test_bibliotecas_python_vendorizadas (__main__.Isolamento.test_bibliotecas_python_vendorizadas) ... ok
+test_codigo_alterado_rejeitado_antes_importacao (__main__.Isolamento.test_codigo_alterado_rejeitado_antes_importacao) ... ok
+test_codigo_sem_mapeamento_nao_cai_no_global (__main__.Isolamento.test_codigo_sem_mapeamento_nao_cai_no_global) ... ok
+test_importacoes_usam_export_sem_globals (__main__.Isolamento.test_importacoes_usam_export_sem_globals) ... ok
+test_symlink_de_insumo_nao_mapeado_rejeitado (__main__.Isolamento.test_symlink_de_insumo_nao_mapeado_rejeitado) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.324s
+
+OK

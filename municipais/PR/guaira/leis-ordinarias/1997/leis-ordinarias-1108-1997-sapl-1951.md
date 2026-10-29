@@ -1,0 +1,306 @@
+---
+titulo: "Lei Ordinária nº 1.108, de 06 de outubro de 1997"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1108"
+data: "1997-10-06"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/1951"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/474/text"
+sha256_fonte: "a88ed5a3908eb3257e689614f231a29940d5b03d74a9537c346a36becb31cc6e"
+sha256_texto: "3641b9c26e2cf63592a3e41713720d7ec83a31f2ac1c8b2893327de49e0daaa2"
+capturado_em_fonte: "2026-10-28T13:34:04.589304-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.108, de 06 de outubro de 1997
+
+Autoriza o Executivo Municipal a alienar bens do Município para implantação de uma indústria de lacticínios.
+
+
+A Câmara Municipal de Guaíra, estado do Paraná, aprovou, e eu, Prefeito Municipal, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Prefeito Municipal de Guaíra autorizado a conceder, a INDÚSTRIA DE LATICÍNIOS GUAÍRA LTDA., incentivos para instalação de uma fábrica de laticínios, até o valor de R$ 100.000,00 (cem mil reais), conforme seguem:
+
+
+I –
+
+doação do lote rural nº 916-Remanescente da 3ª. Gleba do plano de loteamento da Cia. Mate Laranjeira, com área de 3,126 alqueires paulistas, às margens da BR-163, na altura do km 2, no valor de R$ 21.882,00 (vinte e um mil oitocentos oitenta e dois reais);
+
+
+II –
+
+acessões físicas incorporadas ao imóvel, conforme seguem;
+
+
+a)
+
+um barracão estilo industrial, construído em estrutura metálica e pré-moldado em concreto, medindo 605,00 m², no valor de R$ 15.285,00 (quinze mil duzentos e oitenta e cinco reais);
+
+
+b)
+
+um barracão de estrutura metálica em tesouras (02 águas), de 05 x 15 m, mais beiral de 80 cm, medindo 75,00 m² de área construída, com cobertura em telhas alumínio 0,6 mm, elevado em colunas metálicas, no valor de R$ 1.515,00(um mil quinhentos e quinze reais);
+
+
+c)
+
+um barracão pré-moldado de 6 x 25 m, com área construída de 150,00 m², cobertura de fibrocimento 6 mm pé direito de 2,8 metros, no valor de R$ 4.500,00 (quatro mil e quinhentos reais);
+
+
+d)
+
+um transformador de 75 KVA e um padrão 3x200, instalados, no valor de R$ 7.700,00 (sete mil e setecentos reais);
+
+
+e)
+
+terraplenagem do terreno rio valor de R$ 2.750,00 (dois mil setecentos e cinqüenta reais);
+
+
+f)
+
+isenção de impostos, taxas e emolumentos municipais durante 6 (seis anos); e
+
+
+g)
+
+obras e serviços complementares a serem efetivados em conformidade com o projeto de instalação do complexo industrial, até o valor máximo de R$ 46.368,00 (quarenta e seis mil trezentos e sessenta e oito reais).
+
+
+Art. 2º.
+
+São encargos da donatária indústria de Laticínios Guaíra Ltda.:
+
+
+I –
+
+instalar urna indústria Laticínia que deverá ser equipada no mínimo com os seguintes e equipamentos novos ou revisados com garantia;
+
+
+a)
+
+uma caldeira, horizontal, Ant-capela com capacidade de 800 KG/HORA, com sistema de grelha molhada, manômetro, injetor de vapor, válvula de segurança e chaminé, no valor de R$ 18.300,00 (dezoito mil e trezentos reais);
+
+
+b)
+
+um tanque de recepção inox, com tampa e coador HZT, totalmente em aço inox AISI-304, acabamento sanitário apresentando uma saída em tubo de aço inox com macho RTJ ou SMS, pés reguláveis com 200 MM, com tampa e sem coador, com capacidade para 2500 litros industrializados, no valor de R$ 4.274,00 (quatro mil duzentos e setenta se quatro reais);
+
+
+c)
+
+um tanque para leite ácido industrializado, totalmente em aço inox com capacidade de 500 litros, no valor de R$ 3697,00 (três mil seiscentos e noventa e sete reais);
+
+
+d)
+
+uma esteira para transporte de latões cheios marca MECANIZ, industrializada em aço, marca MANESMANN de 11/2 com correntes, transportadora de dupla flexão, no valor de R$ 10.630,00 (dez mil seiscentos e trinta reais);
+
+
+e)
+
+uma máquina tipo túnel para lavar latões, marca Brasnox com capacidade para lavar 2000 tambores por hora, no valor de R$ 6800,00 (seis mil e oitocentos reais);
+
+
+f)
+
+um tanque de equilíbrio TEQ. 1000, para retorno do leite pasteurizado, com capacidade de 500 litros, no valor de R$ 185000 (um mil oitocentos e cinqüenta reais);
+
+
+g)
+
+uma bomba sanitária BX-30 3CV BT, com 3500 RPM, motor de 3 CV., proteção em inox - 304, no valor de R$ 6450,00 (seis mil quatrocentos e cinqüenta reais);
+
+
+h)
+
+uma centrifuga com tambor de prato para desnate e classificação de leite e soro, com capacidade para 5000 litros/hora, modelo MHLI e marca SIDTECH, no valor de R$ 50.807,00 (cinqüenta mil oitocentos e sete reais);
+
+
+i)
+
+duas máquinas QUEIJOMAT, utilizadas para homogeneizar leite coagulado e fabricar massa para queijo, com capacidade de 5000 litros, modelo 005 DOUBLE "O" marca BRASHOLANDA no valor de R$ 67.830.00 (sessenta e sete mil oitocentos e trinta reais);
+
+
+j)
+
+uma drenoprensa, utilizada para prensar massa de queijo, com capacidade de 5000 litros modelo 005/II, marca BRASHOLANDA, no valor de R$ 19.530,00 (dezenove mil quinhentos e trinta reais);
+
+
+k)
+
+um tanque duplo, para aquecimento de água, com capacidade de 500 litros, no valor de R$ 2.730,00 (dois mil setecentos e trinta reais);
+
+
+l)
+
+uma balança eletrônica modelo 2383, marca TOLEDO, com capacidade de 500 kg, no valor de R$ 6.09000 ( seis mil e noventa reais);
+
+
+m)
+
+uma cuba fermenteira, utilizada no processo de fermentação do leite, marca STARTER, com capacidade de 1000 litros, no valor de R$ 4.360,00 (quatro mil trezentos e sessenta reais);
+
+
+n)
+
+uma picadeira, moldadeira e filadoura, utilizada na fabricação de queijo, marca TREVI, com capacidade de 4000 kg/hora, no valor de R$ 60.060,00 (sessenta mil e sessenta reais);
+
+
+o)
+
+uma prensa vertical C-8000 utilizada para prensar queijo, com capacidade para 70 formas de 8 kg, no valor de R$ 9.765,00 (nove mil setecentos e sessenta e cinco reais);
+
+
+p)
+
+um maturador para pasteurizar creme, utilizado na fabricação de manteiga, com capacidade de 500 litros, da marca BRASNOX, no valor de R$ 9.135,00 (nove mil cento e trinta e cinco reais);
+
+
+q)
+
+três forçadores modelo FA-5600 utilizados no sistema de resfriamento, da marca BRASNOX, com motor, no valor de R$ 4.650,00 (quatro mil seiscentos e cinqüenta);
+
+
+r)
+
+três placas de isopor e portas de inox, que serão utilizadas nas câmaras frias, no valor de R$ 9.700.00(nove mil e setecentos leais);
+
+
+s)
+
+um tanque de estocagem isotérmico marca BRASNOX utilizado para armazenamento de leite, capacidade de armazenamento de 15000 litros, no valor de R$ 14.200,00 (quatorze mil e duzentos reais);
+
+
+t)
+
+um ralador industrial marca TREVI, utilizado para ralar queijo, capacidade de 1000 kg/hora, no valor de R$ 12.390,00 (doze mil trezentos e noventa reais);
+
+
+u)
+
+uma peneira vibratória marca TREVI, utilizada na industrialização de queijo ralado, no valor de R$ 5.376,00 (cinco mil trezentos e setenta e seis reais);
+
+
+v)
+
+uma embaladora para queijo ralado, no valor de R$ 43 200,00 (quarenta e três mil e duzentos reais);
+
+
+w)
+
+urna caixa d`água, tipo taça, com capacidade para 20000 litros, no valor de R$ 4 200,00 (quatro mil e duzentos reais);
+
+
+x)
+
+três mesas móveis em aço inox, utilizadas para manipulação dentro da fábrica, no valor de R$ 3.750,00 (três mil setecentos e cinquenta reais);
+
+
+y)
+
+um resfriador de placas marca FISCHER, modelo PD. AC, utilizado no resfriamento do leite, com capacidade de 5.000 litros/hora, no valor de R$ 6.195,00( seis mil cento e noventa e cinco reais);
+
+
+z)
+
+um carrinho para transporte dos materiais da fábrica, com capacidade para 300 kg, no valor de R$ 1.115,00 (um mil cento e quinze reais);
+
+
+aa)
+
+um tanque de encolhimento de película, modelo 1001, utilizado no encolhimento de embalagens, marca BRASNOX, no valor de R$ 3.990,00 (três mil novecentos e noventa reais);
+
+
+ab)
+
+dois tachos marca BRASNOX, utilizados para fabricação de doce de leite, com capacidade de 500 litros, no valor de R$ 16.506,00 (dezesseis mil quinhentos e seis reais),
+
+
+ac)
+
+urna máquina BRASCOP 2000 automática, utilizada para embalar doce de leite, marca BRASHOLANDA, no valor de R$ 60.800,00 (sessenta mil e oitocentos reais);
+
+
+ad)
+
+um secador de queijo ralado, utilizado para a secagem de queijo ralado, no valor R$ 36.540,00 trinta e seis mil quinhentos e quarenta reais); e
+
+
+ae)
+
+dois tanques marca GLOBOINOX, utilizados no transporte de leite, com capacidade para 5000 litros, no valor de R$ 33.800,00 (trinta três mil e oitocentos reais);
+
+
+II –
+
+início efetivo de funcionamento da indústria em 02/01/98;
+
+
+III –
+
+geração mínima de 25 empregos diretos e indiretos;
+
+
+IV –
+
+realização de obras complementares, das edificações doadas, descritas no art. 1º, inciso II, alíneas a), b) e c), cujos investimentos não poderão ser inferiores a R$ 210.000,00 (duzentos e dez mil reais);
+
+
+V –
+
+produção mínima anual de 600 (seiscentas) toneladas de derivados de leite.
+
+
+Art. 3º.
+
+O bem imóvel reverterá ao doador, caracterizada a revogação da presente doação onerosa, caso a donatária nos primeiros 6 (seis) anos de atividade:
+
+
+I –
+
+desativar a unidade de produção, paralisando o funcionamento da indústria por um prazo igual ou superior a (6 ) seis meses;
+
+
+II –
+
+retirar sem consentimento escrito do Município qualquer maquina instalada.
+
+
+Art. 4º.
+
+A donatária poderá oferecer o imóvel em hipoteca para alavancar recursos a serem aplicados na ampliação do complexo industrial ou compra de maquinaria que não sejam as descritas no art. 2º, da presente lei ou a sua substituição.
+
+
+Parágrafo único
+
+Caso o imóvel seja transferido para pagar obrigações de qualquer origem, mediante acordo ou sentença judicial transitada em julgado, o sucessor se sub-roga na obrigação de manter em funcionamento o complexo industrial e na cláusula resolutiva do contrato original.
+
+
+Art. 5º.
+
+Os recursos para cumprimento da presente lei serão próprios e correrão por conta da dotação 4.1 1.0 - Obras e instalações.
+
+
+Art. 6º.
+
+Esta lei entrará em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura Municipal de Guaíra, em 06 de outubro de 1997.  
+  
+DR. MANOEL KUBA  
+Prefeito Municipal
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

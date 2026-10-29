@@ -1,0 +1,165 @@
+---
+titulo: "Lei Ordinária nº 1.164, de 17 de abril de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1164"
+data: "2026-04-17"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/6080"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/2572/text"
+sha256_fonte: "9eb2c43d7c5a797eb7c9d12eb684de91cff2924a611c472f71de574da066bc71"
+sha256_texto: "1e73198c05c873bb085ece6dd7730bf4e47ebab52805d6885c19d5b8dcd6c72c"
+capturado_em_fonte: "2026-10-28T11:01:39.385040-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.164, de 17 de abril de 2026
+
+Institui o Programa Farmácia Veterinária Solidária no âmbito do Município de Formosa e dá outras providências.
+
+
+Projeto de Lei Ordinária nº 14/26, de autoria da Vereadora Amanda de Deus Moura Rocha Lima, aprovado em 08 de abril de 2026.
+
+A PREFEITA MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais conferidas pela Constituição Federal e nos termos do Inciso III do art. 69 da Lei Orgânica Municipal, de 5 de abril de 1990, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Esta Lei institui, no âmbito do Município de Formosa, o Programa Farmácia Veterinária Solidária, com a finalidade de apoiar o tratamento veterinário de animais resgatados, abandonados ou pertencentes a famílias em situação de vulnerabilidade social.
+
+
+Parágrafo único.
+
+O Programa caracteriza-se como iniciativa municipal de interesse público, com finalidade solidária, social e ambiental, voltada à promoção do bem-estar animal.
+
+
+Art. 2º.
+
+O Programa Farmácia Veterinária Solidária tem como objetivos:
+
+
+I –
+
+receber doações de medicamentos, insumos e produtos de uso veterinário, desde que dentro do prazo de validade e em condições adequadas de uso;
+
+
+II –
+
+realizar a coleta, triagem, reaproveitamento, armazenamento e distribuição gratuita dos itens recebidos;
+
+
+III –
+
+reduzir o abandono de animais, por meio do apoio ao tratamento veterinário de animais em situação de risco;
+
+
+IV –
+
+contribuir para a sustentabilidade ambiental, evitando o descarte inadequado de medicamentos veterinários.
+
+
+Art. 3º.
+
+Poderão ser beneficiários do Programa:
+
+
+I –
+
+animais pertencentes a famílias de baixa renda, previamente cadastradas ou atendidas por programas sociais do Município;
+
+
+II –
+
+animais resgatados por protetores independentes;
+
+
+III –
+
+organizações não governamentais, associações e entidades de proteção animal regularmente constituídas;
+
+
+IV –
+
+órgãos e programas municipais voltados à proteção e ao bem-estar animal.
+
+
+Art. 4º.
+
+O Programa poderá receber doações provenientes de:
+
+
+I –
+
+clínicas e hospitais veterinários;
+
+
+II –
+
+empresas do setor veterinário e agropecuário;
+
+
+III –
+
+profissionais da área;
+
+
+IV –
+
+pessoas físicas interessadas em colaborar com a iniciativa.
+
+
+Parágrafo único.
+
+Somente serão aceitos medicamentos e produtos que estejam dentro do prazo de validade e que atendam aos critérios técnicos estabelecidos pelo órgão responsável pela gestão do Programa.
+
+
+Art. 5º.
+
+Os medicamentos e produtos doados passarão por rigorosa triagem técnica, a fim de garantir sua integridade, segurança e eficácia antes da distribuição.
+
+
+Art. 6º.
+
+A distribuição dos medicamentos e produtos veterinários ocorrerá exclusivamente mediante apresentação de receita veterinária, assegurando o uso responsável e adequado dos itens disponibilizados.
+
+
+Art. 7º.
+
+A coordenação, regulamentação e execução do Programa ficarão a cargo do Poder Executivo Municipal, que poderá firmar parcerias com entidades públicas ou privadas para viabilizar sua implementação.
+
+
+Art. 8º.
+
+As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 9º.
+
+O Poder Executivo regulamentará esta Lei no que couber.
+
+
+Art. 10.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete da Prefeita, 17 de abril de 2026.
+
+SIMONE DIAS RIBEIRO DE MELO  
+Prefeita Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra
+
+Iany Macedo Troncha  
+Assessora I – Assessoria em Atos Oficiais  
+na Subprocuradoria Geral Consultiva  
+Decreto nº 1.711, de 28 de abril de 2025
+

@@ -1,0 +1,69 @@
+---
+titulo: "Lei Ordinária nº 211, de 20 de novembro de 1995"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "211"
+data: "1995-11-20"
+municipio: "Guadalupe"
+uf: "PI"
+codigo_ibge: "2204501"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guadalupe.pi.leg.br/norma/396"
+fonte_texto: "https://sapl.guadalupe.pi.leg.br/ta/403/text"
+sha256_fonte: "f407374bce61bd4e1fe3aa065025dc5056afc807da460215ba668d447351aaee"
+sha256_texto: "e58cf74a3beccbc00c1bbe8e0d19cfda422cf76f999bdeb14f369b949984f771"
+capturado_em_fonte: "2026-10-28T12:57:35.229442-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 211, de 20 de novembro de 1995
+
+Estabelece o Orçamento Plurianual de Investimentos para o triênio 1996 a 1998.
+
+
+O Prefeito Municipal de Guadalupe, Estado do Piauí, Faço saber que a Câmara Municipal de Vereadores de Guadalupe, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica aprovado o Orçamento Plurianual de Investimentos para o triênio de 1996 a 1998, no valor de R$16.883.980,00(Dezesseis milhões oitocentos e oitenta e três mil e novecentos e oitenta reais), e fixa Despesa em igual valor.
+
+
+Art. 2º.
+
+As Receitas de Capital para custear as despesas do Orçamento de que trata o artigo anterior, são as seguintes:
+
+
+RECEITAS DE CAPITAL R$ 16.883.980,00  
+Operações de Crédito R$ 421.000,00  
+Alienação de Bens R$ 29.000,00  
+Transferencias de Capital R$ 16.433.980,00  
+TOTAL R$ 16.883.980,00
+
+
+Art. 3º.
+
+As despesas do Orçamento Plurianual de Investimentos , serão distribuídas nos progamas abaixo discriminados:
+
+
+<table><tbody><tr><td>PODER EXECUTIVO</td><td> </td><td> </td><td> </td></tr><tr><td>02 - Gabinete do Prefeito</td><td>R$        84.600,00</td><td>169.000,00</td><td>338.000,00</td></tr><tr><td>03 - Sec. de Adm. e Finanças</td><td>R$       132.840,00</td><td>265.000,00</td><td>531.000,00</td></tr><tr><td>04 - Sec. de O. Serv. Gerais</td><td>R$    1.115.740,00</td><td>2.226.000,00</td><td>4.458.000,00</td></tr><tr><td>05 - D.M.E.R</td><td>R$      137.520,00</td><td>274.000,00</td><td>550.000,00</td></tr><tr><td>06 - Sec. de Agric. e Irrig.</td><td>R$      197.280,00</td><td>393.000,00</td><td>788.000,00</td></tr><tr><td>07 - Se. de Educ. e Cultura</td><td>R$      678.240,00</td><td>1.354.000,00</td><td>2.711.000,00</td></tr><tr><td>08 - Sec. de Saúde</td><td>R$        68.760,00</td><td>137.000,00</td><td>275.000,00</td></tr><tr><td>TOTAIS</td><td>R$   2.414.980,00</td><td>4.818.000,00</td><td>9.651.000,00</td></tr><tr><td>TOTAL GERAL</td><td>R$ 16.883.980,00</td><td> </td><td> </td></tr></tbody></table>
+
+
+Art. 4º.
+
+O Orçamento Plurianual será reajustado anualmente.
+
+
+Art. 5º.
+
+Esta Lei entrará em vigor na data de sua publicação com efeitos a aprtir de 01 de Janeiro de 1996, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Guadalupe, em 20 de Novembro de 1995.  
+  
+João Luiz da Rocha  
+Prefeito Municipal
+

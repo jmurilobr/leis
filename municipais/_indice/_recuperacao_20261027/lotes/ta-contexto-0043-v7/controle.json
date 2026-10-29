@@ -1,0 +1,3597 @@
+{
+  "criterio": "Detecta texto e mídia normativa fora dos dispositivos contabilizados do TA.\n\nControle adicional somente leitura. Qualquer conteúdo não contabilizado é\nretido, sem presumir que se trata de navegação ou decidir vigência por aparência.\n",
+  "aprovados": 102,
+  "retidos": 27,
+  "script_sha256": "f44151983d56fd8ff3380b5ad14ad8557215b895048d6405e7563b21b6a3b066",
+  "resultados": [
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1994/leis-ordinarias-1020-1994-sapl-1854.md",
+      "sha256": "2534b15a0950ff8aff751b851e02c4110726ee0da5a27b11b9fbfba1d25dd7d0",
+      "sha256_fonte": "300c4af47dd3e76cfc4f490827d7f1754c095113978c3939c066e6171c5ff3a2",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/d29f6aff01c66af3c01053dc45620ed469246f39046cd999414af13d36316295.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            476,
+            40
+          ]
+        },
+        {
+          "texto": "29 de Julho de 1994",
+          "posicao": [
+            480,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            480,
+            63
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            486,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 1.031, de 29 de julho de 1994",
+          "posicao": [
+            486,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2023/leis-ordinarias-2.787-2023-sapl-3035.md",
+      "sha256": "fa3213801cb8ee5d29d0a9e842e9d02546fc38501f4026f44b390723c876ebc8",
+      "sha256_fonte": "6410cf8949bd108b45b379e08c67a43c80e417b6a0fccb0325f478a98cad08f2",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/14a3bde96a4b165d0b93f7729b800836fcab437289fba4dec637be230e0dd606.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1994/leis-ordinarias-1018-1994-sapl-1853.md",
+      "sha256": "e4c69bbef9f1e20e95ab3253f87f5b4293ec12608570dbe3fd30701b29bf0026",
+      "sha256_fonte": "6a50d672299c86188ae458a87b5b3b82aeb7d27c7c33c143e41263db1c5f499f",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/50185aa7929f2e41ca6ba09dbc440ebb4eb766ff3728d36fdd2e9c5487007090.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2023/leis-ordinarias-2.786-2023-sapl-3034.md",
+      "sha256": "3b972d42c6a195bfe95f4e1795f9b5dd6c653c1707a2549f1bcb7279322bead8",
+      "sha256_fonte": "f63909ed5664653395ab2b1af9ee4f281404a68cf9949732039f83a8641e7608",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/b3bdc48d32e8c34e4581c8d1f447837d48befc9ef793f61ee4474961bb0e5b70.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            509,
+            126
+          ]
+        },
+        {
+          "texto": "As diárias serão pagas com base nesta Lei e no roteiro de Viagem, observando os seguintes parâmetros e valores:",
+          "posicao": [
+            516,
+            160
+          ]
+        },
+        {
+          "texto": "Agentes",
+          "posicao": [
+            516,
+            1021
+          ]
+        },
+        {
+          "texto": "Destino da",
+          "posicao": [
+            516,
+            1443
+          ]
+        },
+        {
+          "texto": "viagem",
+          "posicao": [
+            516,
+            1497
+          ]
+        },
+        {
+          "texto": "Distrito",
+          "posicao": [
+            516,
+            2495
+          ]
+        },
+        {
+          "texto": "Federal",
+          "posicao": [
+            516,
+            2547
+          ]
+        },
+        {
+          "texto": "Cidades",
+          "posicao": [
+            516,
+            3040
+          ]
+        },
+        {
+          "texto": "localizadas há",
+          "posicao": [
+            516,
+            3097
+          ]
+        },
+        {
+          "texto": "mais de",
+          "posicao": [
+            516,
+            3167
+          ]
+        },
+        {
+          "texto": "400 km",
+          "posicao": [
+            516,
+            3229
+          ]
+        },
+        {
+          "texto": "de",
+          "posicao": [
+            516,
+            3286
+          ]
+        },
+        {
+          "texto": "Guarujá",
+          "posicao": [
+            516,
+            3339
+          ]
+        },
+        {
+          "texto": "do",
+          "posicao": [
+            516,
+            3397
+          ]
+        },
+        {
+          "texto": "Sul",
+          "posicao": [
+            516,
+            3610
+          ]
+        },
+        {
+          "texto": "Cidades",
+          "posicao": [
+            516,
+            4094
+          ]
+        },
+        {
+          "texto": "localizadas até",
+          "posicao": [
+            516,
+            4151
+          ]
+        },
+        {
+          "texto": "100 km",
+          "posicao": [
+            516,
+            4222
+          ]
+        },
+        {
+          "texto": "de",
+          "posicao": [
+            516,
+            4277
+          ]
+        },
+        {
+          "texto": "Guarujá",
+          "posicao": [
+            516,
+            4329
+          ]
+        },
+        {
+          "texto": "do",
+          "posicao": [
+            516,
+            4387
+          ]
+        },
+        {
+          "texto": "Sul",
+          "posicao": [
+            516,
+            4439
+          ]
+        },
+        {
+          "texto": "Cidades",
+          "posicao": [
+            516,
+            4926
+          ]
+        },
+        {
+          "texto": "localizadas",
+          "posicao": [
+            516,
+            5021
+          ]
+        },
+        {
+          "texto": "entre",
+          "posicao": [
+            516,
+            5046
+          ]
+        },
+        {
+          "texto": "101",
+          "posicao": [
+            516,
+            5102
+          ]
+        },
+        {
+          "texto": "km",
+          "posicao": [
+            516,
+            5154
+          ]
+        },
+        {
+          "texto": "a",
+          "posicao": [
+            516,
+            5206
+          ]
+        },
+        {
+          "texto": "399",
+          "posicao": [
+            516,
+            5257
+          ]
+        },
+        {
+          "texto": "de",
+          "posicao": [
+            516,
+            5310
+          ]
+        },
+        {
+          "texto": "Guarujá",
+          "posicao": [
+            516,
+            5362
+          ]
+        },
+        {
+          "texto": "do",
+          "posicao": [
+            516,
+            5419
+          ]
+        },
+        {
+          "texto": "Sul",
+          "posicao": [
+            516,
+            5472
+          ]
+        },
+        {
+          "texto": "Prefeito",
+          "posicao": [
+            516,
+            5824
+          ]
+        },
+        {
+          "texto": "e",
+          "posicao": [
+            516,
+            5876
+          ]
+        },
+        {
+          "texto": "Vice",
+          "posicao": [
+            516,
+            5922
+          ]
+        },
+        {
+          "texto": "Prefeito",
+          "posicao": [
+            516,
+            5971
+          ]
+        },
+        {
+          "texto": "R$",
+          "posicao": [
+            516,
+            6363
+          ]
+        },
+        {
+          "texto": "1.050,11",
+          "posicao": [
+            516,
+            6409
+          ]
+        },
+        {
+          "texto": "R$",
+          "posicao": [
+            516,
+            6820
+          ]
+        },
+        {
+          "texto": "619,26",
+          "posicao": [
+            516,
+            6865
+          ]
+        },
+        {
+          "texto": "R$",
+          "posicao": [
+            516,
+            7256
+          ]
+        },
+        {
+          "texto": "161.35",
+          "posicao": [
+            516,
+            7302
+          ]
+        },
+        {
+          "texto": "R$",
+          "posicao": [
+            516,
+            7712
+          ]
+        },
+        {
+          "texto": "484,62",
+          "posicao": [
+            516,
+            7758
+          ]
+        },
+        {
+          "texto": "Demais",
+          "posicao": [
+            516,
+            8129
+          ]
+        },
+        {
+          "texto": "Funcionários",
+          "posicao": [
+            516,
+            8180
+          ]
+        },
+        {
+          "texto": "R$",
+          "posicao": [
+            516,
+            8566
+          ]
+        },
+        {
+          "texto": "650,00",
+          "posicao": [
+            516,
+            8612
+          ]
+        },
+        {
+          "texto": "R$",
+          "posicao": [
+            516,
+            9022
+          ]
+        },
+        {
+          "texto": "320,00",
+          "posicao": [
+            516,
+            9068
+          ]
+        },
+        {
+          "texto": "R$",
+          "posicao": [
+            516,
+            9460
+          ]
+        },
+        {
+          "texto": "120,00",
+          "posicao": [
+            516,
+            9506
+          ]
+        },
+        {
+          "texto": "R$",
+          "posicao": [
+            516,
+            9916
+          ]
+        },
+        {
+          "texto": "210,00",
+          "posicao": [
+            516,
+            9962
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            518,
+            137
+          ]
+        },
+        {
+          "texto": "No mês de Janeiro de cada ano, será acrescida ao valor de cada diária com base na variação acumulada do IPCA- (Índice de Preços ao Consumidor Amplo), apurado pelo IBGE, ocorrida no período compreendido entre os meses de dezembro do exercício anterior e novembro do exercício corrente através de Decreto Administrativo, expedido pelo Chefe do Poder Executivo Municipal.",
+          "posicao": [
+            518,
+            157
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [
+        {
+          "tag": "table",
+          "attrs": {
+            "class": "TableNormal",
+            "style": "margin-left: 6.4pt; border-collapse: collapse; mso-table-layout-alt: fixed; border: none; mso-border-alt: solid black .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 0cm 0cm 0cm; mso-border-insideh: .5pt solid black; mso-border-insidev: .5pt solid black;",
+            "border": "1",
+            "cellspacing": "0",
+            "cellpadding": "0"
+          },
+          "posicao": [
+            516,
+            290
+          ]
+        }
+      ],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1993/leis-ordinarias-990-1993-sapl-1849.md",
+      "sha256": "31ac9f5abd84e84cb6a0e96074fc76edd339e8e5d601ed1f663abf8b5e42d348",
+      "sha256_fonte": "c1970c9c62c091246a570d14bb05cb0abe20c870e6afcc8f9634be74dbbf4cde",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/f2f7ed36e29d460a1c03e92c7b065d92fda464a2dceb8f59cf71f8ca8bf6bc88.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            523,
+            126
+          ]
+        },
+        {
+          "texto": "Fica o Poder Executivo autorizado a, em nome do Município de Guaíra, Estado do Paraná, contratar parcelamento de dívida para com o FGTS, através da Caixa Econômica Federal, na forma da Resolução nº 94, de 16/02/1993 (D.O. de 05/03/1993), do Conselho Curador do FGTS, até o valor apurado em confissão de dívida que será acrescido de atualização monetária e demais encargos e cominações legais.",
+          "posicao": [
+            523,
+            138
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2023/leis-ordinarias-2.785-2023-sapl-3033.md",
+      "sha256": "4e2482a812ddefa4ab87779d2bb8d32bb4f6803447faed7a90bc7434c1651e05",
+      "sha256_fonte": "7f7929f66c0926fd6897362c0c2e5ae615ad95ef965a63e34e13bc896110bd52",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/ab90a82ec9c4f47d739e14eca7ea69bf6a4015ede89f8e3548c543e20347a874.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1993/leis-ordinarias-989-1993-sapl-1848.md",
+      "sha256": "a5badc7595a4e845ed03457e69cd6a64d489ddebd0c9d61c1831b400553f35c6",
+      "sha256_fonte": "de3088eab5025d7b510135c71933c4f9457ad62d301b23f6dd1854a3b58ef8c3",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/be28b2fe97252e11051794645e62cc0ca9c199da12a1a7bc4e299005e2d59db8.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            446,
+            40
+          ]
+        },
+        {
+          "texto": "25 de Maio de 1993",
+          "posicao": [
+            450,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            450,
+            62
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            456,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 990, de 25 de maio de 1993",
+          "posicao": [
+            456,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2023/leis-ordinarias-2.784-2023-sapl-3042.md",
+      "sha256": "bc64804526241b12f20d170f61960e4666d7a6eeac488bab7c533c98f26e40b0",
+      "sha256_fonte": "866e539ce7246b290772b8079632ec9177cb8ebea0b10cc42f33c35cad9dfcd0",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/287df904f212136e0db25c178cd98b6487c39be110e4b88c61369666cbf1442d.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1992/leis-ordinarias-984-1992-sapl-1842.md",
+      "sha256": "a2fbe7b8a6f8136727d787dbb6875f042c95f630de2926a78bf86cae9d8c8e53",
+      "sha256_fonte": "1d3da99495abc2df6379ec7ca29f667c21a10a542e79d5716410b3610eb1e793",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/f69a42ed7b34260dc82b043d6b6611d24e05968c49af089f55634336cc7128db.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            478,
+            40
+          ]
+        },
+        {
+          "texto": "2 de Janeiro de 2008",
+          "posicao": [
+            482,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            482,
+            64
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            488,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Complementar nº 1, de 02 de janeiro de 2008",
+          "posicao": [
+            488,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/decretos-legislativos/2022/decretos-legislativos-8-2022-sapl-3031.md",
+      "sha256": "6b7c1e6376287d9575aa4d5fe4cbaba61966ba5fa7397e99b3f4db9fa08b94b4",
+      "sha256_fonte": "0cf83b0f2560f9a28ff5b722a3058285a5badc6a7a10892705ae1d3b39123863",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/c0bb1d144a59db648d5b827c09b8e84ca88dc4c9968521db26a0eae758cf113b.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1992/leis-ordinarias-983-1992-sapl-1841.md",
+      "sha256": "a15081c929c57d39a0cd5f745f4e5eb48047c65bea05e067cda3372d3e11e742",
+      "sha256_fonte": "73c148f697a5055d8c0dad447e6779895821dd787737156eba838bd722317bad",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/ffc3bc2581760659433016fc0511cba930683c3e5ccdc0978345f99175d52239.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            489,
+            40
+          ]
+        },
+        {
+          "texto": "2 de Janeiro de 2008",
+          "posicao": [
+            493,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            493,
+            64
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            499,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Complementar nº 1, de 02 de janeiro de 2008",
+          "posicao": [
+            499,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1992/leis-ordinarias-982-1992-sapl-1840.md",
+      "sha256": "85739528cee38fc42d1cd11d1ce3e21ba02f029184f528cd44cb748e2b03792e",
+      "sha256_fonte": "9a42f70ea62134495ee869cb0f7d8ab1b8705ebe8d94e93f28bd45d4ad9ee427",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/9dad0ac9400e8438fd93578c9c30011d940ac91da131f75b8a37dd1cadb36bdf.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            448,
+            40
+          ]
+        },
+        {
+          "texto": "2 de Janeiro de 2008",
+          "posicao": [
+            452,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            452,
+            64
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            458,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Complementar nº 1, de 02 de janeiro de 2008",
+          "posicao": [
+            458,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.783-2022-sapl-3029.md",
+      "sha256": "7763f71ba8798f7f641f8a733c4a324037a6e35827a1c330bd77417e2ef93673",
+      "sha256_fonte": "a510a73fa5f8857833f15a28925372efadcb6094e9369ee5746086c22cfc4928",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/45ae8a2fa214a2aa83dac67d52e0a46247f061a18938453a44f1a7533a820d0a.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1992/leis-ordinarias-978-1992-sapl-1839.md",
+      "sha256": "16c1f7645b509e14967c9d298e695a3a8e68019bbb68d0c1860dca084478eb0b",
+      "sha256_fonte": "b2e1951f8444e503123df69c7ddd3e040491728d90c9a3a6c796c34d166d1555",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/ca17c92110d85fd38089617138cd4b6807a666bdd11678708860a658a8a8d82a.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.782-2022-sapl-3028.md",
+      "sha256": "7a668eb84e4392eb6e7f5999ac00cffdc8e0fc6c4193e57fcf780c69012657eb",
+      "sha256_fonte": "fca9f966fd410111b83ffb290dfd4788f0e5a62bca47cd0c8e7c39f05870f253",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/1d35f2a2b866593d7e05693cc874be89d5014e439c05d220ce951b218355183f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1992/leis-ordinarias-975-1992-sapl-1837.md",
+      "sha256": "07e65c2f9c4fe4167d73462893e85ab218cdf52b6b0fb83be3d23d64f932e708",
+      "sha256_fonte": "2b94797b41b4a6bf4886e9e6c0a26f5e7a6cc623ec8e08af26a2f8165550db26",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/ce9e082440020d059b257fe2fbfa8fc6f70020c40c2ec38704a7b08cdd52fa53.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.781-2022-sapl-3027.md",
+      "sha256": "2a3619d740b7da506dd9f04ae11859d8b01481d4c2bd2532749ebacf0cbc0429",
+      "sha256_fonte": "e45241614c80f754c01817945c9c73968e22c6da59694bb2306b1286bda9c390",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/f4e4d09d86de6693371764ab9b335782ff20332e57e1e56ca1af66f2f40cf6f7.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1992/leis-ordinarias-974-1992-sapl-1835.md",
+      "sha256": "0a5a7a8263e73d11101e50fa30c4f8379a8b57193179de163f4bae7801015a9b",
+      "sha256_fonte": "561d86809303fea2d38a8f178b0ad11b27fe373ced454fa53c1407212b41abba",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/6679dcd49b5598467b8ccbb89fcca8de07a20a1df9ece7cc8c8a4e36cf99ae77.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            478,
+            40
+          ]
+        },
+        {
+          "texto": "2 de Janeiro de 2008",
+          "posicao": [
+            482,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            482,
+            64
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            488,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Complementar nº 1, de 02 de janeiro de 2008",
+          "posicao": [
+            488,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.780-2022-sapl-3026.md",
+      "sha256": "04dc41160ad5ef8cd1edd3310e21fd68f28d643f339ab87db2a263a58465e194",
+      "sha256_fonte": "0896d35b73933daeaa1c0fe642f8f71ca4cda38c7824a51a55862c84f17c4af4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/0c8e9d940d2462f49f22f82d14da3dad25ee62b3fbb63de03cfef375a004aea5.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1992/leis-ordinarias-967-1992-sapl-1827.md",
+      "sha256": "d074065238fe9fd2e22d9e5f88273fc28087cfdb241c589badf7c9ba2d3d72f5",
+      "sha256_fonte": "b401e728447b21a0cb8b35bb63dc8102cba797eaae0a3e8ad19dfb062bfe823b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/4ee3e232b92918ed7f3c6778e033a35a29ef55fb9bacd3b300ec7c5d2c6058f4.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            523,
+            126
+          ]
+        },
+        {
+          "texto": "Fica o Poder Executivo autorizado o, em nome do Município de Guaíra, contratar parcelamento de dívida para com o FGTS, através da Caixa Econômica Federal, na forma da Resolução nº 42/91, de 29/06/1991, do Conselho Curador do FGTS, no valor de Cr$ 90.816.007,99 (noventa milhões, oitocentos e dezesseis mil, sete cruzeiros e noventa e nove centavos), que será acrescido de atualização monetária e demais encargos e cominações legais devidas.",
+          "posicao": [
+            523,
+            138
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1992/leis-ordinarias-965-1992-sapl-1833.md",
+      "sha256": "3694bc77190c113b3cdae09982f8153581e8e82aa054e5f4d59704fbca7b4849",
+      "sha256_fonte": "abf430a759e93d63ada79bdf5ab78c870cd802784e7db99c3e2ae6b4cccdb415",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/ff445d370f040342c2f731e0ddb6098b7e5350e335b0af61230577ceecf28b89.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.778-2022-sapl-3024.md",
+      "sha256": "312dbeb9e3173d12d2ec78ef69d94f092867a40b8d81c640a53ca764cb65c0c2",
+      "sha256_fonte": "be19dda8d2be00786b09d9eaf007b14ec9d0d9a92f4e76b0f2d3cf760d716b94",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/7fd1d1a4b010874cd3acb5247eff47793932f867fd4e766a2bd3010847809896.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1992/leis-ordinarias-957-1992-sapl-1832.md",
+      "sha256": "0f721ad53bb9a6664abe86ca0101c4af399133e47b670356c67fced8aab2510a",
+      "sha256_fonte": "0f2df3b042d97a14c3b6d6e858054b5b3e748a57f05a9538240d27317fa4d7ba",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/6fb43362e161b92d589215ef10bd59d3de17f09710f8a915a606ba49a77fa24d.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/decretos-legislativos/2022/decretos-legislativos-7-2022-sapl-3023.md",
+      "sha256": "fcd1db236a84ed258103ee14348f5484e06e901445457dd520dd4188ca4e97c9",
+      "sha256_fonte": "0e01604babcaaa8d34068894270cf05741a2ebb8922212c91446cc33ddf5fd4a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/d3fde6fe314a15f70a4a21972160041c793e86fcb5817abab55ce6ee3f0d6776.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1992/leis-ordinarias-953-1992-sapl-1831.md",
+      "sha256": "900cce70cff86a35e28630538639f8a1606d972b51053a05604427de4d890b60",
+      "sha256_fonte": "26a4c30997012da01bb0b101efe2c829b907a1c7aed5c8bc83b2fc87b6fff789",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/979f4c68889fd78ec84e7fbe250488f4353463640c4adcd4d52ad87390c1b443.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/decretos-legislativos/2022/decretos-legislativos-6-2022-sapl-3022.md",
+      "sha256": "99c83aa7deccb2f4a9b9eba831048d38c58a3edd2630f7f446a62971026c6545",
+      "sha256_fonte": "f43b89711f8fd5c1f5bcd2ff6ca71651d08283564c3a5566961ae30acba6b2d5",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/53e8eaf7bde49402dc229ebdbdb20cee4d203568b7f74e84b1b3a706d328467f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1992/leis-ordinarias-950-1992-sapl-1513.md",
+      "sha256": "c57fb8578ada8b20f1a00e7972940d19c04cbc9d59c396b753111727965374de",
+      "sha256_fonte": "534991245e452eab6a644c0ad6b07c5c0305e65f9a18fa0ab2fa499c5aac345d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/336dfdb58583d6f4c8db59771ea61f457119cb2e041278e8359b91d26731e571.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            579,
+            40
+          ]
+        },
+        {
+          "texto": "27 de Março de 2006",
+          "posicao": [
+            583,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            583,
+            63
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            589,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 1.377, de 27 de março de 2006",
+          "posicao": [
+            589,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.777-2022-sapl-3021.md",
+      "sha256": "5e8f4bb2203d092f24a024bfc8c80fda9ed8c2dca021e9f1ad11b09586e48d39",
+      "sha256_fonte": "f66e2f6a6f275bf375ff2acbee7387a8da31d7491eaae3ef8db253c3d6a72e36",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/9fe761eef555a300c8260a0cede8e6af9361a078698d9f7a2530e88d909b449c.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1992/leis-ordinarias-941-1992-sapl-1829.md",
+      "sha256": "2c816b631d3551ec2ee915565136f7f1ea0af197ba47cb544dea75c6b02a218a",
+      "sha256_fonte": "5df5adc8638a88ebb039ea69f6de11d831ea632553d82969bcf011d805411e2f",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/0a1c4973d33b3fe7fa9ec3ac456ad03cb98073ed47bb4cb22bdd6c28ad0f8141.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-940-1991-sapl-1828.md",
+      "sha256": "24141fba561b4bc8591b65e0fae05524118df1c686aff3737e9f1dae6feefd42",
+      "sha256_fonte": "8931f954a27d040e47b8cd2f96d5b4b39393342d1120e1eff7e85e520ef06d8c",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/a929db644647020884c85af8949a74648f067dbfe2433114b7b09be21e184e27.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.775-2022-sapl-3014.md",
+      "sha256": "143db72ae055aaa3d3bb410aca16fe8d90220e59c0362dfb9b0a1e9bfc6620a3",
+      "sha256_fonte": "e073bb3257411f0dbeff609ef10f10b3f91bcbc357eb676523981b69fb80b623",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/57b68c84253d5cae5da92942bd961985c36f30bd27e9a9802ee4ca46d94290f4.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-939-1991-sapl-1826.md",
+      "sha256": "a22bebe289616948fe22bfefcaa49a769f2727773c50891bfc4b33393b28e04d",
+      "sha256_fonte": "7abe5e426713a68151d94cac7fb85db7a89bae8bdca43a8332311d8412886035",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/4d862056ee679b9a1c228609e62db375e7bbc759d0f5fe6f0d6c99b923e2b1bf.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            446,
+            40
+          ]
+        },
+        {
+          "texto": "17 de Novembro de 1992",
+          "posicao": [
+            450,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            450,
+            66
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            456,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 967, de 17 de novembro de 1992",
+          "posicao": [
+            456,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.773-2022-sapl-3017.md",
+      "sha256": "99efcc0f8a072afae9a443b97b948a7370f1d1b09d855decc14f40c724ee7b4e",
+      "sha256_fonte": "66145412a072880a8805672ee3ad8e622bf860b6b1b1a2c8ae0b8709537b75bf",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/0967bd3a732843665d08db91ddc0fecea6c4238959b101a6b9eff69060922277.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            483,
+            40
+          ]
+        },
+        {
+          "texto": "18 de Agosto de 2025",
+          "posicao": [
+            487,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            487,
+            64
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            493,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária-GPREF nº 2.908, de 18 de agosto de 2025",
+          "posicao": [
+            493,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-937-1991-sapl-1824.md",
+      "sha256": "13e1e009ac731ff6623f237809c921a596d7b6f569a5159062409be9c3e0745f",
+      "sha256_fonte": "412e4774d7f7e5c34f0f1d7820886fe41749b497daa55d318c3cddb8a144b592",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/7047cbe577f0ade13f92a4eb7fa29a2ccdc199067b2a72dc183e99b09d3f0a01.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.772-2022-sapl-3018.md",
+      "sha256": "06cadba55c290a1dbb2c7843c99526e888867b35fde922500b6f05867fd7b56b",
+      "sha256_fonte": "c79632c22da05085353c82e304585b14f366a896ed3b946f50e7e155b0ab70e9",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/3b51ae0e17fb7799ad2f0c6771782331cfd2bc173a7b23f8eaa65bf2f91f2bed.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-936-1991-sapl-1813.md",
+      "sha256": "8489bbe6b4c24f9b2e2c1b945851141fbe74a97d46742dfe817fafbcf2ecc041",
+      "sha256_fonte": "02886a07d11ac667d60988d60fbe47f8e22e9c8a31034e42ead895a31f1c8abd",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/fed3b9fb3557b469dbd8157272134788d09667e2d2bcc005bdcc8e7e51c95215.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            523,
+            126
+          ]
+        },
+        {
+          "texto": "Fica o Chefe do Executivo Municipal autorizado a outorgar concessão de direito real de uso: ASSOCIAÇÃO ATLÉTICA SÃO DOMINGOS, do lote nº (302, 303, 304)-C, subdivisão dos lotes nº 302, 303 e 304 da 2ª gleba, do loteamento da Cia- Mate Laranjeira, Município e Comarca de Guaíra, Estado do Paraná, com as seguinte confrontações: FRENTE: com o lote (302, 303 e 304)-remanescente, em linha reta 108,00 metros; DIREITO: com o lote (302, 303 e 304)-remanescente, em linha reta 124,60 metros; ESQUERDO: com o lote nº 301, em linha reta 124,44 metros e FUNDO: com o lote nº (302, 303 e 304)-A, em linha reta 97,70 metros (em direção para a estrada Apepu), perfazendo uma área total de 12.796,112 m², para construção de instalações esportivas, em prazo não superior a 12 (doze) meses a contar da data da escritura",
+          "posicao": [
+            523,
+            138
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.771-2022-sapl-3019.md",
+      "sha256": "6f4c2d4bbfa62ede7acb2388b7a4f5ecd857c57a1800d10ab94f4441c8b44024",
+      "sha256_fonte": "e06a0bfb39002bbc30ffa68cec7b2fd8b2e62a24b03be2d3b368b6b6c634f88d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/96ac218205ffd16739916a337f7055906b54b8aceee3ff522027c099f6dd8db9.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-935-1991-sapl-1815.md",
+      "sha256": "495a7ca9e8d5b9220976a2d115024aaf2d7299eace4590ae758295e54c1721fa",
+      "sha256_fonte": "9eb76d74878ecee615f2c92bbd53e68beac8b160a24d7fb4b96050448cba8b9a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/4571429bb2f40a65dbfd895795462ce30a2a51783c0461ff14abcdbaf64a87a3.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.770-2022-sapl-3013.md",
+      "sha256": "b0da832a263874aa767862a02932147bf3e20b8ac6752de87c11709869cc18e9",
+      "sha256_fonte": "69c25a6131a788285bd65becabc43d25c40d75605848604ecd75438da57b0d9d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/33198752c23ea94166b02d9f60f4785f293a2fc6218d89f272ebc7349ac7741d.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-934-1991-sapl-1823.md",
+      "sha256": "577ec99ee32984ce4b55afaa018e8f4ee6829688066af0e3063d32674877a091",
+      "sha256_fonte": "ded4b13fada5314a2c7b8686348daa48f451a66d30c199d4f76c0158277050ff",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/3f6ba5c8915713892a7661a3d88e90f560434ebd539df9e7c79fb4c6abd9284b.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.769-2022-sapl-3020.md",
+      "sha256": "87b2fbe06e2a2f77c733d09080a288778d38dc0ae7ad3a6ad45abc247b3fdbe2",
+      "sha256_fonte": "fcc34bbd1e9974039248f6a42d76f4945169ca890b76616c271edd79ea512dda",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/ed4a40ca6e499984ed75b32f2b7851667874a99e074a3f7711692f651d71353c.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            461,
+            40
+          ]
+        },
+        {
+          "texto": "14 de Outubro de 2026",
+          "posicao": [
+            465,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            465,
+            65
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            471,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária-GPREF nº 2.985, de 14 de outubro de 2026",
+          "posicao": [
+            471,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-933-1991-sapl-1822.md",
+      "sha256": "cdefa6a906290e8c38503286e4121e73c8c7958ee60dcd9231874479484ba886",
+      "sha256_fonte": "ab9c22789aee0ce1d694de624b2b876a491d89a41279a03ae0c6dfbad758b578",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/db682c6a0de406c78d0e35b6b0f4c80446768268727527eee159c279a3111413.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.768-2022-sapl-3011.md",
+      "sha256": "925bda3c25f3566bbf980f5b1894aa839b94710da77de3a135c75ef59f27ae97",
+      "sha256_fonte": "745917d85473590280010f057447c8a803520c73bdea42e3031c6b3fdc808804",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/139b97a739cf1c28898398a0650c938f63b5744dffb50db4cc376f995c9b3828.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-932-1991-sapl-1821.md",
+      "sha256": "a3374613e7247f5f2c819a1945483111954cf46a4dc530b9092b001ef2d34ebb",
+      "sha256_fonte": "d2ba9c0d5029b662706ee08efba7ca1958a251677b33dc3792153ad52a4f4608",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/aabe809ac3cdc503dd3e2dec92b5b045903bdccf4d95b6efb860a679b6030a35.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/decretos-legislativos/2022/decretos-legislativos-5-2022-sapl-3012.md",
+      "sha256": "86b608359a6e9f441716818142c1721ac95f201e258345561a0cb9d10ff792ef",
+      "sha256_fonte": "b44df6b91bd625e85f97215dc57f3613c982e2989950d1bc325b6854348e9da1",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/d94b32fd94158d0580b7316e3fe0c21f65ad70178e0fc0cc622397260cb6a70f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-931-1991-sapl-1820.md",
+      "sha256": "8883dc6b343daa00e40f96a08181b722d748b9cc8f19695f49310a719ac5b0ed",
+      "sha256_fonte": "9f415229eaf98b04402c6f935b0c6ca0cb8bd43d62e7d294a619601ce6c17e5b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/319829ef8185ee007dd1862c3112d813f4ded682c1e2a279b0b7fc690d06ddf7.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-930-1991-sapl-1819.md",
+      "sha256": "b9e0ffa30ee4a7259ad049d5c0b8115e39b67f7b360e00983205a091f389d462",
+      "sha256_fonte": "27797bc21b26bb1dd47dd190fb75fdf0b5e8ee4caafcb3f5947a5ab81ec106d3",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/624510fff4fb4a780d7435d267e488a7f95d6a1309e07f3b4195b633bb0eceac.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-929-1991-sapl-1818.md",
+      "sha256": "b27dbd09419641a0d33a122f4471ef3d3f289a23ea50a3434fcd4064db94ef42",
+      "sha256_fonte": "eea83680be4f77125d7d1334d1eb529e90ae572e98f895358f5c65f044944ab1",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/fceb86af28805985b19335593521f8a2e3f35e0b6ce42a9ebf64c2f2659e584a.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.765-2022-sapl-3008.md",
+      "sha256": "b817861c071f21803a36eb9edc0e17c22393fd2a86e720d5491a967ec56c7f3a",
+      "sha256_fonte": "97a2cece3c70a0ece8d1361692ac41a2792648f5d44f6486b4e945391b99f09a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/75567864fef333696154eb0a56d038c25750444da4016ee3c92647fe27d80111.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-928-1991-sapl-1817.md",
+      "sha256": "b471a882a84bed9ba7511cff02fe00ae0c925621f5d1067a3b464c915b2d2942",
+      "sha256_fonte": "d945b58a23f1b653bf3cc405c38d7ac602dd153cf06d34ac1d716c813e4e62b8",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/a5fc443204b716af152f9a6eda712cae89b50339600a782dbfab8d0bcfb78ec9.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.764-2022-sapl-3007.md",
+      "sha256": "bb826348982803435ee0c348d5ba7787b38a6f89ea0107a5c3e1c82610f94513",
+      "sha256_fonte": "8cbd2086f4445578693bec2663c810a683bc81d16bd3de9cf292f0a26e3e7300",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/ed849af0dbbd4d466377ded196e1618b838a17a5ef6e18db0121b52400557811.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-927-1991-sapl-1816.md",
+      "sha256": "67aee7848e1d62ef622de429b9d701afc7a85bd9cd5136acf73b2f31bb1e8cda",
+      "sha256_fonte": "070af6efcbdd9c7533a4b4322259c2c18a6899025e4b5b68e51c651053b16a21",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/abf1a4c62082634292ef7b205cc102e191d85d6a5974a96aba91ac5cac3180b2.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.763-2022-sapl-3006.md",
+      "sha256": "52a0aeb7a5ce8f2d877d387dff4704fa5e5ac1a1cb19e939503164b0d945ce81",
+      "sha256_fonte": "5a3af3916a8e9810b5090c1374109b0fc13d59ffa7df5f7e80c4435ddc8781b9",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/418412dda0a578449de0bfbc21a66d4b1c4606feb51e88acb5a1cbc48e8052ed.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-926-1991-sapl-1814.md",
+      "sha256": "a2a44a0f2ec4ea577cc81e9663d7b9464e353155c822a603f4b017ce2dc0e130",
+      "sha256_fonte": "b31d48bbb44aa2ba95eec19c180f774de02d51a99767746dc4c9c14973e2885b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/231d64b7f83893e0dd63cf60a25bca3aeffd45c6a69f80f37761b59e8d8bfec8.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.762-2022-sapl-3005.md",
+      "sha256": "41544e6ae54ea1b4641a48192e77b7a9ed11840440595d422d03b3e02fed675a",
+      "sha256_fonte": "29ec1d1919cd6354c7f2196478a571b754c0879fb5b27a9eaa3f1167f3f4dab1",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/d03f5108d6cb469e9a38a4755d46dda3d1fced428d9c9b6df33b6c235d9a281e.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-925-1991-sapl-1812.md",
+      "sha256": "350f4d500c7b10a0476b4b0c3da6184617a4e3b3ec4a9ab641f3d6d74c39497f",
+      "sha256_fonte": "4039c51f3c5c228a0d9f3e9147da89950ec42c4d5a77f7234ef2dbf7dc853d91",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/036ddf5be7bcfa5cdc7cd491a3547fa2207dc2634e99585f82a2073b984c4187.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            459,
+            40
+          ]
+        },
+        {
+          "texto": "22 de Novembro de 1991",
+          "posicao": [
+            463,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            463,
+            66
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            469,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 936, de 22 de novembro de 1991",
+          "posicao": [
+            469,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-924-1991-sapl-1811.md",
+      "sha256": "78f6542f37f6736fe37a91624c1dde0c7c27cd278fca9dc65dfe9f560f897776",
+      "sha256_fonte": "35f6ca60f5c8d4066fce6fa9ecd6db02461f98961d1a182abe3525099a9dfbb9",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/52a6b4b23226bef5ade506777af8b6cb746c661f895c1599e3b5c7ec363d507f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.761-2022-sapl-3002.md",
+      "sha256": "1a6cf29579397dffd3c2c1f1df3ce69a651f9be883f2fb0db1fa85958e03ae39",
+      "sha256_fonte": "6e22bbc7a92aefda349f5fb438176fb32b0b237179e6f4d9bdf7565755b8f192",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/4d2aa6e43ca0a93c810cc6f79098d9be82c0bfdd93518ddd92edfd0e39b18295.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "I - um representante da Secretaria Municipal de Administração e Fazenda;",
+          "posicao": [
+            509,
+            141
+          ]
+        },
+        {
+          "texto": "III - um representante dos Centros de Formação de Condutores e Despachantes de Guarujá do Sul;",
+          "posicao": [
+            514,
+            141
+          ]
+        },
+        {
+          "texto": "IV - um representante da Policia Militar do Estado de Santa Catarina;",
+          "posicao": [
+            519,
+            141
+          ]
+        },
+        {
+          "texto": "V - um representante da Secretaria Municipal de Transportes e Obras do Município de Guarujá do Sul;",
+          "posicao": [
+            524,
+            141
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-923-1991-sapl-1807.md",
+      "sha256": "042c6a5055cdf6f1d8cfd51904a7d0459519cfcaf5bd63b885930b617f0d47be",
+      "sha256_fonte": "7e52f0a32fff143e33d023682b7249116a9dc86be346465f618a1d118fd14b5e",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/f5212848c5235aa71893de108660b9c9ecef5cfd906af46de4f59b9e19d314d1.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            459,
+            40
+          ]
+        },
+        {
+          "texto": "27 de Maio de 1997",
+          "posicao": [
+            463,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            463,
+            62
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            469,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 1.103, de 27 de maio de 1997",
+          "posicao": [
+            469,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.760-2022-sapl-3001.md",
+      "sha256": "45c89376fe0d2b9ad4d06dbf0d0acc7888ee00eac7eb46da009179cc24339bdf",
+      "sha256_fonte": "bd4dece52ce8698dfceebc6cbaa8480e66f5bcc7c421ac28d877a2cbc696f647",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/71ff43010bc00e2f2f1954899600c66b23c596bf100e8b2e8bf0b92a9ccfb4c2.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-922-1991-sapl-1805.md",
+      "sha256": "2e6f4c111c4a2bb27e699f205806150e995bc58571a44b8d6670798dd9866ed5",
+      "sha256_fonte": "b8a234a59c6489bccd861fbc32eb081a113e456b08a240c8a305c5bd5e7325cc",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/a27bc1fcb0dcf8ba15b95e101270e35dabeb0ff92eb5a947d5dd02343c3f8b04.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-complementares/2022/leis-complementares-80-2022-sapl-2994.md",
+      "sha256": "8ab0f827479cc8ab7e79a0ecdf70b0e354343310a4f50b3ad4f85448ee8a625b",
+      "sha256_fonte": "d8e6a915d31ff12f8674204f07b6805e863b37289a016e39365120e72d2f950e",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/01288894e6bf21262e4667583eddf0aa824627392963f33b4d7f09a3468883f9.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "III",
+          "posicao": [
+            509,
+            133
+          ]
+        },
+        {
+          "texto": "– nos terrenos com declividade igual ou superior a 30% (trinta por cento), salvo se atendidas as exigências das autoridades competentes.",
+          "posicao": [
+            509,
+            140
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-921-1991-sapl-1804.md",
+      "sha256": "f629179eb64aa5bc65f1c493101519bdbbe16bbb5df98a30e9db8afe575585da",
+      "sha256_fonte": "c0fa4ff819ff587589dce37af3be46597fcab94efc0efd038265da4d0a27e120",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/f6f6a002cc5457f32edb5cbdaaec89da76c902766af75b21ce40dbae13efeada.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/resolucoes/2022/resolucoes-2-2022-sapl-3000.md",
+      "sha256": "fcc9fcd3fe9bc1afaa1e69134704bc7d4527e1e8da29de3747682c6b40c5b133",
+      "sha256_fonte": "e10ad38cccae19965e1e691820b7a0ac1d87f7f8c4b7be9531f22a46d96f579e",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/223be9a658b462080506826302fd034f4a2c0efbcb89af7e350cff84ee0c82f4.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 46.",
+          "posicao": [
+            509,
+            126
+          ]
+        },
+        {
+          "texto": "A eleição dos membros da Mesa Diretora, presente a maioria absoluta dos Vereadores, far-se-á por voto aberto e nominal, realizando-se a escolha por cargos, individualmente, assegurando-se, tanto quanto possível, a representação proporcional dos partidos ou blocos parlamentares que tenham assento na Câmara.",
+          "posicao": [
+            509,
+            138
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            574,
+            134
+          ]
+        },
+        {
+          "texto": "– inicialmente, o Presidente convidará dois Vereadores para servirem de Secretários, desde que não sejam candidatos a cargo da Mesa;",
+          "posicao": [
+            574,
+            139
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            603,
+            134
+          ]
+        },
+        {
+          "texto": "– o Presidente da Mesa proclamará a nominata dos candidatos ao cargo em disputa, sendo que a escolha será por ordem decrescente dos cargos da Mesa;",
+          "posicao": [
+            603,
+            140
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            632,
+            134
+          ]
+        },
+        {
+          "texto": "– chamada dos Vereadores para votação, sendo o voto proclamado oralmente no microfone de apartes;",
+          "posicao": [
+            632,
+            141
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            661,
+            134
+          ]
+        },
+        {
+          "texto": "– a votação será nominal e aberta;",
+          "posicao": [
+            661,
+            140
+          ]
+        },
+        {
+          "texto": "V",
+          "posicao": [
+            690,
+            134
+          ]
+        },
+        {
+          "texto": "– proclamação dos votos, em voz alta, por um Secretário e sua anotação por outro;",
+          "posicao": [
+            690,
+            139
+          ]
+        },
+        {
+          "texto": "VI",
+          "posicao": [
+            719,
+            134
+          ]
+        },
+        {
+          "texto": "– o Presidente proclamará o eleito para o cargo disputado;",
+          "posicao": [
+            719,
+            140
+          ]
+        },
+        {
+          "texto": "VII",
+          "posicao": [
+            748,
+            134
+          ]
+        },
+        {
+          "texto": "– preenchimento pelo Secretário e leitura pelo Presidente, do boletim com o resultado da eleição, na ordem decrescente dos votados, repetindo-se o procedimento para os demais cargos;",
+          "posicao": [
+            748,
+            141
+          ]
+        },
+        {
+          "texto": "VIII",
+          "posicao": [
+            757,
+            134
+          ]
+        },
+        {
+          "texto": "– se qualquer dos candidatos não alcançar a maioria absoluta, proceder-se-á o segundo escrutínio, no qual só concorrerão os dois candidatos mais votados no primeiro escrutínio para o cargo em votação, considerando-se eleito o que obtiver a maioria simples;",
+          "posicao": [
+            757,
+            142
+          ]
+        },
+        {
+          "texto": "IX",
+          "posicao": [
+            766,
+            134
+          ]
+        },
+        {
+          "texto": "– em caso de empate no segundo escrutínio, será considerado eleito o candidato mais idoso;",
+          "posicao": [
+            766,
+            140
+          ]
+        },
+        {
+          "texto": "X",
+          "posicao": [
+            775,
+            134
+          ]
+        },
+        {
+          "texto": "– a eleição se encerrará com a proclamação, pelo Presidente, do resultado final e dará posse aos eleitos, nos termos deste Regimento Interno.",
+          "posicao": [
+            775,
+            139
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            835,
+            137
+          ]
+        },
+        {
+          "texto": "Nos casos dos incisos I, III, IV e VIII, a perda do mandato será decidida pela Câmara dos Vereadores, por voto aberto de dois terços de seus membros, mediante provocação da respectiva Mesa ou de partido político representado na Casa, assegurada a ampla defesa, na forma do art. 120 deste Regimento Interno.",
+          "posicao": [
+            835,
+            145
+          ]
+        },
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            864,
+            137
+          ]
+        },
+        {
+          "texto": "Nos casos previstos nos incisos II, V a VII, a perda será declarada pela Mesa da Câmara, de ofício ou mediante provocação de qualquer de seus membros ou de partido político representado na Casa, assegurada ao denunciado a ampla defesa, mediante apresentação de defesa escrita.",
+          "posicao": [
+            864,
+            145
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-920-1991-sapl-1803.md",
+      "sha256": "eaab22d4377ce357c7db500651ed83214f4103c2d3cc3061c424d677c92ec939",
+      "sha256_fonte": "65af36e1bf01892cca7d31a73a189589edd5e5ab226972b8d4b59efe21ac1eba",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/fe86e205763df4d9641e4fc2902668c2c0b1e9b1265afa19063bb9d27c8559d1.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.759-2022-sapl-2993.md",
+      "sha256": "7ca617644aa2509fcbb0d76f27f1530fc253c825ae67ed57462bdd15da7c297f",
+      "sha256_fonte": "4fd8f850f6ddb8aea06147a490fcf1485bf7e80037076d441812bde59aca2343",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/7076ada8fdbb78cdaee1f6b30c6d84718094e2dc02737e5ba1b4bb56fc9db158.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            563,
+            138
+          ]
+        },
+        {
+          "texto": "O prazo para adesão ao Programa inicia-se em 01 de janeiro de 2022 e encerra-se 31 de agosto de 2022.",
+          "posicao": [
+            563,
+            146
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/decretos-legislativos/2022/decretos-legislativos-4-2022-sapl-2998.md",
+      "sha256": "ca86a2714f4f2c5830975c13ec353cac3ab271cf535f51005c49970edac06695",
+      "sha256_fonte": "514138dd304a6049e4baaf5c88105d63a61a5bbe2752f2dac108ddc9b78b8e40",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/238819198fcde32cb712d8296bcb3e880e72b41cdad051b18f512802bc2db2cb.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-916-1991-sapl-1799.md",
+      "sha256": "b3eb9cdf01e0f3befa36c562d2e94d8ea613869944c3c43e24712723ea1a1569",
+      "sha256_fonte": "6b49994c0b73f8c1ffe1c4b608a0121590f8e02b8b71655f5cd379c35e8b5c87",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/56f4df83a9389e8193bfd025677ba3761b5c0386395dbb7bf9c59a867f70b697.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-915-1991-sapl-1798.md",
+      "sha256": "4b0cfc53478ddf332bb2ed940fbf85e2dae00af61720ff9eddf8b0deabaad650",
+      "sha256_fonte": "80d47e194b45bb17503e2f1b3380d6cc0303896d553c7a4cd0651cf14231c349",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/6676761add127b3ccd31b424005a3450ef5da5b6fd044913168bc39ce28720c1.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.758-2022-sapl-2990.md",
+      "sha256": "8988cd05e6260133ae90655127842e4c268347df9d3b442ace190af0052ad5ae",
+      "sha256_fonte": "8b88fc389b0559320d497396a5a5bb765ee6252988b6255801635e9cc5a35bf5",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/ec55ea5a0fa3abd72af5395b205acd03e9cd66ea3cafe26ebe3c65e9af7ff10a.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            576,
+            127
+          ]
+        },
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            581,
+            127
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            581,
+            139
+          ]
+        },
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            590,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            590,
+            138
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            604,
+            137
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            604,
+            157
+          ]
+        },
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            613,
+            127
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            613,
+            139
+          ]
+        },
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            622,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            622,
+            138
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            636,
+            127
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            636,
+            139
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            645,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            645,
+            138
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            659,
+            140
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            664,
+            140
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.757-2022-sapl-2989.md",
+      "sha256": "0578618d5b4f67af4f70e85eb2fd793c6141a2a98dc59ea9e9d882fcf3fb567b",
+      "sha256_fonte": "b0a234546bd499e6d22b87c660752fe0563c93326a43faeaa62d79c6b7b346fc",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/50d9727d0e4669d9d2ab272abd8e7576ba189bf51d7cfc97bc8209912684718d.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            819,
+            127
+          ]
+        },
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            824,
+            127
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            824,
+            139
+          ]
+        },
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            833,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            833,
+            138
+          ]
+        },
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            847,
+            127
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            847,
+            139
+          ]
+        },
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            856,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            856,
+            138
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            870,
+            137
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            870,
+            157
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            879,
+            127
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            879,
+            139
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            888,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            888,
+            138
+          ]
+        },
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            902,
+            127
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            902,
+            139
+          ]
+        },
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            911,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            911,
+            138
+          ]
+        },
+        {
+          "texto": "Art. 5º.",
+          "posicao": [
+            925,
+            127
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            925,
+            139
+          ]
+        },
+        {
+          "texto": "Art. 5º.",
+          "posicao": [
+            934,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            934,
+            138
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            948,
+            140
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            953,
+            140
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            978,
+            127
+          ]
+        },
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            983,
+            127
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            983,
+            139
+          ]
+        },
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            992,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            992,
+            138
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            1006,
+            137
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1006,
+            157
+          ]
+        },
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            1015,
+            127
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1015,
+            139
+          ]
+        },
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            1024,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1024,
+            138
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            1038,
+            127
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1038,
+            139
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            1047,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1047,
+            138
+          ]
+        },
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            1061,
+            127
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1061,
+            139
+          ]
+        },
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            1070,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1070,
+            138
+          ]
+        },
+        {
+          "texto": "Art. 5º.",
+          "posicao": [
+            1084,
+            127
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1084,
+            139
+          ]
+        },
+        {
+          "texto": "Art. 5º.",
+          "posicao": [
+            1093,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1093,
+            138
+          ]
+        },
+        {
+          "texto": "Art. 6º.",
+          "posicao": [
+            1107,
+            127
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1107,
+            139
+          ]
+        },
+        {
+          "texto": "Art. 6º.",
+          "posicao": [
+            1116,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1116,
+            138
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1130,
+            140
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.756-2022-sapl-2984.md",
+      "sha256": "835aa065b94df2e82f101c609f806dcf6ae187e30058e051bd11743297147799",
+      "sha256_fonte": "795f766714bd6028443808cd480de713036b54be5789a0d15c8985451106ee45",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/6b6b44f29a419450ab5b1bed3a74fc52607de1274cdc7fefe87936f156dd384a.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-912-1991-sapl-1788.md",
+      "sha256": "fc2ae62fcb980c3e6cf05b7e2542ee10865f5b29205f9f89aca12ff9eaccc0d2",
+      "sha256_fonte": "60de9f35976093fcc38344ab4fd160114db196c88a7d84f4cc4f7f3850dceb89",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/f49acecbff62ac208b2497b4026849e79b5280b229b4303df818d5e311134e80.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            678,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            678,
+            138
+          ]
+        },
+        {
+          "texto": "Art. 5º.",
+          "posicao": [
+            692,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            692,
+            138
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            706,
+            134
+          ]
+        },
+        {
+          "texto": "– (Revogado)",
+          "posicao": [
+            706,
+            139
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            715,
+            134
+          ]
+        },
+        {
+          "texto": "– (Revogado)",
+          "posicao": [
+            715,
+            140
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            724,
+            134
+          ]
+        },
+        {
+          "texto": "– (Revogado)",
+          "posicao": [
+            724,
+            141
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.755-2022-sapl-2983.md",
+      "sha256": "d769c63d246449ba4ed093e473b7bceb3f90da8a76eac746438f6ec817c4e781",
+      "sha256_fonte": "e3d3e664932255b2917bc0863a42a305b0b4ff23dee2c955fd244d1b8e2ab229",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/fcca285067291cfe05cb64b9e378081c0459a902099c2ee98e7c3ddc1183992c.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-911-1991-sapl-1795.md",
+      "sha256": "d814e7d269f28e1f50423248652ff2c57f59d559befa8d4dad752e755e34c1b5",
+      "sha256_fonte": "12cfcfb5ecf6d5fe2e2362df8a7e87d49f68134c50571b87c67cf739486df718",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/f007c6c68e1090f7959ac7275ac17d61fc6e09d6031f581f90fea01a77c769ce.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.754-2022-sapl-2982.md",
+      "sha256": "d558b09925849351f1a9b04d96ae6a16ca46df920e762e4f1c95dbce7a835b92",
+      "sha256_fonte": "c79ceddc850a295ca45b58b63c60e2ed791014c79f2d7ec2e6b2f4907d37832f",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/c2ba39f90ba134822132b5fc6fb26ead07b4181352939efd0ff75a2b46e26ffe.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-910-1991-sapl-1746.md",
+      "sha256": "e954fe859e3d65df9ec4d4b9433742f650f97dc634e7ec07445c316837a41ab1",
+      "sha256_fonte": "6cab46483819c5aee777dbf22140dc5ae18cbdcd1aa8de2af6f6cb6bfc8df1aa",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/675388e7120ee1b1bfcea004d15cd40fd4b98bf2c5a93d314151405f6292c033.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 5º.",
+          "posicao": [
+            516,
+            126
+          ]
+        },
+        {
+          "texto": "O Imposto Sobre a Propriedade Predial e Territorial Urbana (IPTU) - quantificado em U.F.O. - será pago nos seguintes prazos:",
+          "posicao": [
+            516,
+            138
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            530,
+            134
+          ]
+        },
+        {
+          "texto": "– DE UMA SÓ VEZ: - Até 31 de maio, com 30% de desconto.",
+          "posicao": [
+            530,
+            139
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            541,
+            134
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            541,
+            140
+          ]
+        },
+        {
+          "texto": "EM TRÊS (03) PARCELAS, COM DESCONTO:",
+          "posicao": [
+            543,
+            17
+          ]
+        },
+        {
+          "texto": "- 1ª até 31 de maio, com 30% de desconto;",
+          "posicao": [
+            543,
+            61
+          ]
+        },
+        {
+          "texto": "- 2ª até 31 de agosto, com 20% de desconto;",
+          "posicao": [
+            543,
+            106
+          ]
+        },
+        {
+          "texto": "- 3ª até 31 de outubro, com 10% de desconto.",
+          "posicao": [
+            543,
+            153
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            545,
+            137
+          ]
+        },
+        {
+          "texto": "Após trinta e um (31) de outubro de 1991 o IPTU será calculado de acordo com a taxa referencial editada pelo Banco Central do Brasil.",
+          "posicao": [
+            545,
+            157
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.753-2022-sapl-2986.md",
+      "sha256": "31b7ec146bda761db853b914e590b5be8664898ea5144584d101ca92c93131f8",
+      "sha256_fonte": "28549372ae58ff950628c98bc2d9f1ad6d4ade2288a691f2439421a59661281a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/7294083a32aaaaa69ccea7c7ac2dbe400b32a41cfad60583e478df5419fdbe29.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-909-1991-sapl-1794.md",
+      "sha256": "26127a1917b774db111519af24197207dca879f725e6739190492e0bd3dd5b01",
+      "sha256_fonte": "f3aeb61b5f7c29e795ab88a5e5eacc8381a359423bebbdc52ca0366a55502100",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/6ca024251731b52c2540763b0443885dd18138fd4bdcf91d7f5e98dbdd0df88c.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.752-2022-sapl-2987.md",
+      "sha256": "4d00519a45e971d47ebcb849b2e6bbfbaa26701a81e85c4cb84912d5e6acdcfe",
+      "sha256_fonte": "454fe32a38f220ece6dcda5c053d4fddc4f5500dad4d4bd0f2c2221019183b85",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/07f36699d3fbc287dae8394da631d2b369f96c75606cc02440cd3f01031732ad.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-908-1991-sapl-1793.md",
+      "sha256": "cba52289401c7898c6159d64e4016234bf282572ab6362a98a15eaeae97528e2",
+      "sha256_fonte": "17c40bbdbc8e768e4f4c1034213a71d5e401f9b0b63dd50a585ab8e0aefaa416",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/b324dc56e0652cfb3e0559a583fbbc46ada1919013ee5a264c9f96a0b95badb8.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.751-2022-sapl-2988.md",
+      "sha256": "7f7c20f285f851818a5a5068367835cb2ae90e640561017f0749ce6f7a6a1f93",
+      "sha256_fonte": "fb91bda230d342e17d05c561b5c5914c38f72476d965b3772507fc7505d606af",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/85cea6e511beb5ff1f784549b0021beb5024a4049a24d9a39d6a199d146233ae.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.750-2022-sapl-2985.md",
+      "sha256": "ffb6596382418213c43ce74155610657819fa39c276d0dbcba41fd8219baf607",
+      "sha256_fonte": "e7067337ec6f69b32a953dc53c8dd6f39ebf5cd67bbd973e1243fe994475840c",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/68e4588742c0bfc064ecdf634af98ae7e02ff562279a231de0e0229cc3e2df94.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1991/leis-ordinarias-905-1991-sapl-1790.md",
+      "sha256": "3a52e5f85fd56045d47d6458fd64a0d8c3153c4d72209619c1926bde57d42cb6",
+      "sha256_fonte": "64e01dde45a6dedc2732e56865084e4de34ca28a4b96c5d336ba13f96957ce82",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/cb60313e8139b91735eeef107f4b94d36b2a3ba53022c6b08a2dd92b073b7029.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/decretos-legislativos/2022/decretos-legislativos-3-2022-sapl-2997.md",
+      "sha256": "169d8d19c6d29dd1c3901baa68704a23cefd7f23363c52e8a9a9ab29e99ac7d3",
+      "sha256_fonte": "fa4984a5c601806bed71346ddc4dfa20f61a2ba2840038590264b8dcda9ee4fd",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/24e063fd93008ee57bda1bf3b8dfdd1783cc58c43db9a19774dbfa7205f29d0b.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-904-1990-sapl-1789.md",
+      "sha256": "295be788a2f75221ac8aed5d67344d9b42da72b5901a4125249c8cf6eed879a8",
+      "sha256_fonte": "ce6b56250e562aa2b0ee34bed492563bedc4ec47275955fe22ea7afd9858b05a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/be4241f8a4388743355642853b20276d152d0c73a6db18f9d833086e927a35e6.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.749-2022-sapl-2980.md",
+      "sha256": "198a9003332982eb797f22f7f19f3f8dfc05aaea4717f7e3d8870d046c26a0b7",
+      "sha256_fonte": "aa2818b05fbf2064064f795cd1f6ec87eb222e1234b3fd7cf80d482dd887f493",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/6c56a4fc93f037091ddf14af7c883ab691358595edbaf1e73936f7ac360b2799.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.748-2022-sapl-2979.md",
+      "sha256": "74ecfffd948e96af94b8add8f3c44f6b3af4c7552819c5d6d7044d99104d2eb1",
+      "sha256_fonte": "4f28996e0c2c81d92a853792456f53c2468d71cc41cbb8f354005a2a226b77dc",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/cf7261ef0f4109aa629d1a9c1558c852b911fed96f82d685fb75584c4be17a11.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/decretos-legislativos/2022/decretos-legislativos-2-2022-sapl-2996.md",
+      "sha256": "3f78eb1ca55d837c455d89f6a8594b10b9414a462183dc74ce5e74521ce592ae",
+      "sha256_fonte": "9fec64e3828bcddaa1e97bd878a04b6ee80593593d107c9c2a907cc6668819c0",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/b80ca94e130cc4d911626f1f1ff753d5a237851594d88a98268f8bf881473a3c.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.747-2022-sapl-2978.md",
+      "sha256": "b54970ceaba4bb01e758fe48120928751fee03fc86edfdd72d58254614b3a2d3",
+      "sha256_fonte": "6d5dd52ffb4dcc9cbb4d9975c4c58114f0575be5daf5b7551e3157d98f21e397",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/bc64d81c564f9fee20d51f3da63ba309c9dd46f78794b4c666588775dbb37c0d.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-898-1990-sapl-1773.md",
+      "sha256": "a8777a89f9f10c8464f1e5190cdfde55692326eeb99e4503030425ebc8608b99",
+      "sha256_fonte": "6e6e7490c9c129a16b69401e6cdc5e720ddafff562726ce38eb19f48854bbda7",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/521bea49d314811ccc3ed8e7923abcee060ae93c6d221b24bcecb3bd2c63a291.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-ordinarias/2022/leis-ordinarias-2.746-2022-sapl-2977.md",
+      "sha256": "148fffb8570f539ffcddfc9bb251bde0aad7886ff03ad4d59dddd7f1b053378a",
+      "sha256_fonte": "8afdb9a518d61297ee93acabf68e316a5538e9c4d4381464733dfd8715eae14b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/c5cd693e58c7c17048380e46dbea9b462424c0d1500f77bd4e9de2bd3359d95e.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-897-1990-sapl-1772.md",
+      "sha256": "addbcbcbbb1c83d14a466112e2b02a0ce0096a17ebdb803955b015cb88714739",
+      "sha256_fonte": "96426cca9797bb2ca6af67e6158fbfc90a88cfe86aea5595a8c266909f6fc2dc",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/d1f7ab2780e1efe3ed0d72b9a6d5c88e23cc9b355ea05b946fd0812b06393ab1.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/leis-complementares/2022/leis-complementares-78-2022-sapl-2976.md",
+      "sha256": "596d8b18d849cb9a7d08cc8888a24b22383e989eacfecb0e93c7952b5616d8f4",
+      "sha256_fonte": "ef3c4adea7e57155c29f1fdeaa70cacf592a35d69f833695867f793c68b67ef1",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/072586a4e0a09218792a04cc9c6ceb92b5b48c28329ad4a4f564577a41424a40.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "§ 3º",
+          "posicao": [
+            495,
+            136
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            495,
+            144
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-896-1990-sapl-1771.md",
+      "sha256": "cb51a19ae60d5f3024b23c157c2567b63157bbe3aefac81ef190f87110b111b9",
+      "sha256_fonte": "43476f109b03b3b988ed26117a0e9045fc577c2ea2953b9fc8d11543ceb14ca6",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/259f4c74d14db8ac99bcc484a1c71db89ba4475bd9e84a7fd9bc4af2d2231e51.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-894-1990-sapl-1769.md",
+      "sha256": "92fd4bd7c669eca304d1599a162b645304575c5a6ade6ca1d542e3abbe4955dc",
+      "sha256_fonte": "ddaa96335f244feafb594226e40ded6e633ebb72584b2660a40562836de3dcaf",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/76b863bd80327488c5c469eb68e7a755acf9bbb60c28ddbc8f09b45810b90046.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-893-1990-sapl-1768.md",
+      "sha256": "b59330e064e74e71d9ea916cf2f15f2f7473462d9f22f1d3721b035372c7cc57",
+      "sha256_fonte": "ea4342cba39d971f3039fbf91ac06d97cca413dca9613a865ffafeca2f437b85",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/8aa5e65817b2e9a6ab0f90ec5cfbc3cb6b6f238e8b67b23599dfd200492d1795.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-892-1990-sapl-1767.md",
+      "sha256": "8e976d82dd42b3f1685d9e91535df42bd00b452e35ab74b2855ef04f05e43ac9",
+      "sha256_fonte": "f865680943bb52822e10d92458fdc682e6ac2b6b1a37fc0b3c5d684b8788063f",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/0f59f36e59e0a11d8f837d7a02c79ece294dc4ef8ea37480f2c68723f41e85bb.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-890-1990-sapl-1765.md",
+      "sha256": "097542f007145c0eab930435f51a776411786d5f7619df00391d177a32cf9c8e",
+      "sha256_fonte": "a4f23de8f082ff6bf8b46c761c49f36e521581f5d50e90c5e715d01e89ae8629",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/8484a5257483b462dd671bf6a2b535fd139807186560b390d5cab048f97899fe.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-889-1990-sapl-1764.md",
+      "sha256": "860734231c87b5c8f171c8c4ecf8d93531941dd0b1c814d8e6f2899c7f69564c",
+      "sha256_fonte": "9f96e1cc200a043cf95a549ad0efc25539a2cd79c5e4051556ad08f2d956d253",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/28bbfa4de1f1602d16575f56dc4e4e8044f6f6d440271fc8433a17f7a76cb2d8.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-887-1990-sapl-1762.md",
+      "sha256": "787ae0950d07c217da8257f5f1d44280b60f57f6642513f2175afab36a242ea7",
+      "sha256_fonte": "e9e8f87b055958d5000793c8ba8388b343103f9de2b5604e8e2ef70284586b75",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/1fa75fefe18c80e278e6013bcc3ac771d4f5a97b9e0865628c9223f4ef70d674.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-886-1990-sapl-1761.md",
+      "sha256": "616012f09ae68bbcc582747221cd080401ba6071285e41f2ec6f8787b8d398b9",
+      "sha256_fonte": "02871647a7555b3165821e5c2836f0f7dff31a31a6625c8e95cec71ef394a15e",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/8504a63e5885fc8c1a3d8284b5ec92fb4113adb68b19658f26614d3214d8ec3e.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-885-1990-sapl-1760.md",
+      "sha256": "f7dd641e13c30748c58e3f340393ac4e0e0dccd48f1f254117930846d62a69a0",
+      "sha256_fonte": "338ad5cbb6d08b38b1cb1311da9302231bcda2b65e65b5c9052a3dc396e1a461",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/bce3e295bee15a3356358ecbbdfcf19f9328dd1afc97de071c115fc0570dc307.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-884-1990-sapl-1759.md",
+      "sha256": "f373995781dfd74f308b529c7cd87b37c0fea6adc486fd718e94546568144974",
+      "sha256_fonte": "b14944877b199ca75bc2b1190759456c4b1285473feedbc68650f44efe150fa3",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/bd180ffb1c7696c333f910ee3531a3b832767665754d3e9a17dc394fd4550234.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-883-1990-sapl-1758.md",
+      "sha256": "571fd48bfb149de1865f3de0a2926bf4f889d796449b883dfaaf408912394b11",
+      "sha256_fonte": "e4d76d3b8cd707cb9bc456f381376c9e647a2941207272ec72dea0fd2864f7c1",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/7ac3a440209835da04f6304d7093fffb3ab40680da237e3e948aaaaa00d45a83.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-882-1990-sapl-1757.md",
+      "sha256": "cbeb65eb083aacf26e722c3e8efaa7182ecb1b93b5aaa3a1d50ef83ced7f84b4",
+      "sha256_fonte": "b9f2bef74b4cfa395183f0dd355e11f312b42a1c2681a26ad6dc87c5b3ae9fa9",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/5a5f874c4fb0c7ca644f9b85b42b5ea5fdfc910e2fbcb42c22b6b309f8f24842.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-881-1990-sapl-1551.md",
+      "sha256": "534cfbba321edaabf405bd0b701426740ccb280e443f9fb270b5c21e67366ff4",
+      "sha256_fonte": "2bfee2ead4668a7adbe498f4f3ea80d8a99416705de34b28d2b6757c91d5e5f6",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/e392571329d5371d4ece432345c69797e0f2a586a600ff9ebf6390ee74974f58.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-879-1990-sapl-1755.md",
+      "sha256": "cec166acfbc8d1a38c454c9d5e04d1af7aad88ee486f4efa0cec20f633e0b846",
+      "sha256_fonte": "8c971adcf075a35d702ab6ad0bb24584c7c7578fc2ccf2ba31ec5eb10668c08a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/a75f5cd20e9c4dc2f38428d9b140843fd85951495a89bb3722b6bcb63922f3d6.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-880-1990-sapl-1756.md",
+      "sha256": "831e04a68838c61626a6690bca9490ef9a2d3bf88b332883967790a250ec13c3",
+      "sha256_fonte": "f054b1104c44f1c536863686e57c3e3885345ea7fc404520bc15a08621d2f3b0",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/67dd94f53921564c0b792900a9977b6bb8de4f3ba94d729325f96ae25a729b82.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-878-1990-sapl-1754.md",
+      "sha256": "26608a48b38bbc78bbc51384bd360254e97e826a177fbc4e64f26109484def8f",
+      "sha256_fonte": "8379693384ec17c0e923771bebf3ef8c4b41b47046183c4aa909844fde9cb947",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/1662199bb7dc3c154ed59ed6e039c023db28dfe028e96de54474eb57fdc6f3b4.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-877-1990-sapl-1753.md",
+      "sha256": "4ca98ea49762f280244f5f36f8fed39245d821c2b10d765e934c3a9fea165b1c",
+      "sha256_fonte": "5dce3788d740199911eba962eac4c24a4571142ba82ae2c17e8d5d0e1d1b6664",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/a297b6e8c00123a9949131227baf11d646d67ada39de12d92d9de4604b29c228.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-876-1990-sapl-1752.md",
+      "sha256": "f7672d9ff5e779d9f488e0fa99e19bfb5b1c6d41a5f01d59d1788455369708d3",
+      "sha256_fonte": "c31d5246e51b980115edf511e5011a514c6ea9952aaf379818074f5f1f13d232",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/19aa8fa401308c587fad3ec6cce583489c20295e719107b725cc9e57e1ca2063.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-875-1990-sapl-1751.md",
+      "sha256": "8aa464db753dfc5ed15a8c82fd2dafbd1b63b76d31afb15b97b611526711de11",
+      "sha256_fonte": "3f6ddace955e5e926b3b1f1e288da204289fdce9327134bf6bb2a4961dacaae1",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/c51be5068fe54dff6bbb6a015ae4ecd9b93329e966fd43b87a3f28c672e12524.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-874-1990-sapl-1750.md",
+      "sha256": "82570c820be887ce289e7274573e20fe784bc208468538ceaf2eaaf88e14fb4c",
+      "sha256_fonte": "ab2d6c49357ab0c6dec935f18d5da40043bbb732b616e3af795f552b50808986",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/43818791ab70f8991ba9a5ec32c70eb048accd3344bac3bce3d4e3f85ff7d41d.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-873-1990-sapl-1749.md",
+      "sha256": "415562aac28b40c3400b81a1aec0f5c61017d9bdd6050c5736954381594d71e3",
+      "sha256_fonte": "4dfd3598163b735406f69972a35dcb6c59ed0a7a8c2755d9c627f48448625712",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/6345758d966a5f67b2787d5915e4ad41890cf307a0683f1b775ee736fe7ac4ec.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-872-1990-sapl-1748.md",
+      "sha256": "3b16e0c5cade6d75c56eb858152bbdacf4a5ce397a6923e01f5a7341d8dbb3fa",
+      "sha256_fonte": "8071ed960309033602176090f9d910480d8e610266e6c0e2f0f21f8f699571f9",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/f0625646c3183b403dfe461abc6318da9d6cf823a4471f8013626f8834574c98.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1990/leis-ordinarias-871-1990-sapl-1747.md",
+      "sha256": "03bd8911d94919f960b17ab964c4711cd1cadd055f2b87108b238eb3f21d946f",
+      "sha256_fonte": "bc9c17014d18147cb718947668feedb93d3a44a98b6f283d2e9ae3aededcff09",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/b0abdaebb011409785c46be1ee2198c6b6b3d9cd9bda09f65a6bfb4327b09695.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1989/leis-ordinarias-870-1989-sapl-1745.md",
+      "sha256": "f5110fa43ab18ae166f81638783e914ab3dcbdb6ea077a6d0f497134f0a087c8",
+      "sha256_fonte": "3f6cf98e24793bc27c3d77be3e9e7083c9308017628d8634b6a6e25d36fe72cb",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/b3baa83031f465e09ddb893bf878a0cf974290e1fbab97cd3f90816c24fc2578.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1989/leis-ordinarias-866-1989-sapl-1741.md",
+      "sha256": "85ff618a527bb36df6ddbc32d0ae72e4d1c4009803453d268c3c7349452fa093",
+      "sha256_fonte": "9de3cfbce0725e5cff3f59f13654664d790fc9c1877b9ed3a85d569c2b4a991f",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/357d900d60099850052282fc1f93e308ab98cd4ee9e4ef93c2811667dfbb0684.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            442,
+            40
+          ]
+        },
+        {
+          "texto": "27 de Dezembro de 1990",
+          "posicao": [
+            446,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            446,
+            66
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            452,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 903, de 27 de dezembro de 1990",
+          "posicao": [
+            452,
+            57
+          ]
+        },
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            580,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            580,
+            138
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            594,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            594,
+            138
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1989/leis-ordinarias-865-1989-sapl-1739.md",
+      "sha256": "f8cec05d87d804c3fe55a28b6bb35f57dfedde0738221ad32c45ea69679b87ec",
+      "sha256_fonte": "62470a37fd0757651e759b843f43ff6ab9dc895f63aae036e8581cc17ccf2db4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/6c1ca935c2762e3736ef374a0dc6495cd11a2c8fb8824b8ad383a8d6fc691b04.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            455,
+            40
+          ]
+        },
+        {
+          "texto": "27 de Dezembro de 1990",
+          "posicao": [
+            459,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            459,
+            66
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            465,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 903, de 27 de dezembro de 1990",
+          "posicao": [
+            465,
+            57
+          ]
+        },
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            602,
+            126
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            602,
+            138
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1989/leis-ordinarias-860-1989-sapl-1734.md",
+      "sha256": "6186f82cccfb41e60fa617945322c9cc5c22ed8d5aec3bd2dc0cfb94992b2a97",
+      "sha256_fonte": "d61363c1e8b7e9d4456064341a752263d708ca0f013efc30e1a14bde18b4862b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/20739dc5d782047316eab9fa6ea8036c3192ac249ee4060f0951b447dbc40145.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1989/leis-ordinarias-859-1989-sapl-1733.md",
+      "sha256": "577440b3bf565744cb7876a9fbf1c22d61a19c03ffa201f706c94fe20ba7eb61",
+      "sha256_fonte": "013bd839fc865154ebc9aa808a7bf8fee79f7e9ac0584019e6ca47a642eba4f7",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/2187f95a6bcc70b5c690f6528387c8613f231396d3c21748507f6205a5e71df2.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1989/leis-ordinarias-852-1989-sapl-1732.md",
+      "sha256": "d9b1b8e51f2d3a86c2609aeda19444e851dbbb457f6a2b52675c674f16c7c7c0",
+      "sha256_fonte": "2d2a30f45dd6903ee6cae0f1baef7d5e21d56a158ee5cd90942302b62964db46",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/154aed82c541404fa184fbfdf59724effc9d5175a5034d0afe5ebcfebea0ed8a.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1989/leis-ordinarias-851-1989-sapl-1731.md",
+      "sha256": "9006a642fb558c0314c04d9b68b2f93a9916873a170b7725f2db088dfbbb134b",
+      "sha256_fonte": "32c647d0ad1ead88e77066fd5d3e7dbb31d716faeb64947ffd4798e163f4e8a1",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/f7cdb0fd74f6d85dfd5e8403793241a536c11d9620e1e1fc8c2469ae932a483c.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1989/leis-ordinarias-850-1989-sapl-1730.md",
+      "sha256": "d3602629b23e2fea2abab61ac2fb88146c730e4d15e3a98e9f938f30ee72e41e",
+      "sha256_fonte": "104840a0f33e24e467d0a9dc6c101dee5fc9705e107c06d6c43361c7fd513f6f",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/581846a618d0f214f5a0fc64251a90326d198792610ea6f1049967b37c354af7.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1989/leis-ordinarias-849-1989-sapl-1729.md",
+      "sha256": "9166481d7ad6ae98ebbd298d6ec8653ff25fcf4bdcb26bf3ed44a18ac4332a4b",
+      "sha256_fonte": "c53d8651064544d292495d288dd2f58fcbb331579be545762de30744bdf53af2",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/5e0b9ba592cfcc2ecf0d4daf0e44af2c5ae30a7454b94efbebd2d0317a493b6a.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1989/leis-ordinarias-848-1989-sapl-1727.md",
+      "sha256": "48355f7e0b6c2eea3c2fc282427d3d869e2e287b4ca49c52b5bd2c7713654af3",
+      "sha256_fonte": "ae1c368fe0198df9fe64f18877573e63d99bc7a1c28bacc4cf3385b2fbe1f847",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/8828a9dc4c49959fb26650d9defc9d48483369bdce88c928619fdc0911bc8857.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1989/leis-ordinarias-847-1989-sapl-1726.md",
+      "sha256": "766e616e0cf1d95038100376b584f4c0fcd16fedd8b02d557bbf2bc8b41cefab",
+      "sha256_fonte": "7ccd26253b6048509d742536160d97f672839706c6e39bf8818f40107cac3bae",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/6454f754b043f83f6acee95744b021e23ec7e347606a814b3f001612e34feb93.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/1989/leis-ordinarias-844-1989-sapl-1724.md",
+      "sha256": "e8c9b3e86a76d32d2008aec9176744ed7166b4b3a5e1b87e6bb1e7ea46f63240",
+      "sha256_fonte": "95cd3cb9cb4b1250c7d7b52ddc3a5429e5be201a70e8538a5b6d2b21ad54f1a2",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/804d3a81f555a1063c0b0beb0a8fb28db43e3f83b24c9d1e5e73019a4d80be8f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    }
+  ],
+  "limite": "Texto fora do bloco pode ser histórico, alterado ou duplicado; retenção é preventiva, sem afirmar omissão antes de revisão. Os controles de seleção de vigência e de tokens por dispositivo continuam necessários."
+}

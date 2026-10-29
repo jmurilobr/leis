@@ -1,0 +1,79 @@
+---
+titulo: "Lei Ordinária nº 517, de 12 de julho de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "517"
+data: "2019-07-12"
+municipio: "Guadalupe"
+uf: "PI"
+codigo_ibge: "2204501"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guadalupe.pi.leg.br/norma/261"
+fonte_texto: "https://sapl.guadalupe.pi.leg.br/ta/125/text"
+sha256_fonte: "3cb58639e88a0cab60a94a5c1fe0543434e83dd966116892c0b44519dad37025"
+sha256_texto: "cc63194e8437015499891071d8c3f20484a24b16ef59c5b31a1c41bbc39f5b01"
+capturado_em_fonte: "2026-10-28T12:47:03.929022-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 517, de 12 de julho de 2019
+
+Dispõe sobre a gratificação para servidores vinculados à Secretaria de Educação de Guadalupe - PI, na forma que especifica
+
+
+A PREFEITA MUNICIPAL DE GUADALUPE, ESTADO DO PIAUÍ, faz saber que a Câmara Municipal aprovou e ela sanciona a seguinte Lei.
+
+
+Art. 1º.
+
+Fica criada a Gratificação pelo Atingimento de Metas - GAM, para os servidores vinculados à secretaria municipal de educação de Guadalupe - PI, em razão da melhoria da qualidade do ensino público, na forma desta Lei.
+
+
+Art. 2º.
+
+Farão jus à GAM os profissionais do magistério e os servidores administrativos, vinculados às escolas municipais, que atingirem metas de melhoria da qualidade do ensino.
+
+
+Art. 3º.
+
+As metas deverão levar em consideração avaliações externas, promovidas pelo Governo Federal, e internas, promovidas pela Secretaria de Educação municipal.
+
+
+Art. 4º.
+
+Delega-se à Secretária de Educação a elaboração de portaria regulamentar, o qual estabelecerá a forma e os critérios de concessão da gratificação, constando, obrigatoriamente, metas de avaliação dos alunos e de profissionais, de forma clara e objetiva.
+
+
+Art. 5º.
+
+A avaliação deverá ser semestral, estabelecendo direito à percepção da GAM aos servidores que atingirem as metas estabelecidas pelo período de 06 (seis) meses após o resultado.
+
+
+Parágrafo único
+
+Ao fim do período de percebimento da gratificação, o servidor apenas fará jus a novo recebimento caso atinja mais uma vez as metas estabelecidas.
+
+
+Art. 6º.
+
+Para os profissionais do magistério, o valor da gratificação GAM será de R$ 100,00 (cem reais) mensais e para os demais profissionais será de R$ 50,00 (cinquenta reais).
+
+
+Art. 7º.
+
+Fica o Poder Executivo autorizado a suplementar, transpor, remanejar, transferir ou utilizar, total ou parcialmente, as dotações orçamentárias aprovadas nas Leis Orçamentárias e em créditos adicionais para os objetivos desta Lei.
+
+
+Art. 8º.
+
+Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete da Prefeita Municipal de Guadalupe aos doze dias do mês de julho de dois mil e dezenove.  
+  
+Maria Jozeneide Fernandes Lima  
+Prefeita Municipal
+

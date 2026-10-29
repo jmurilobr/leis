@@ -1,0 +1,112 @@
+---
+titulo: "Lei Ordinária nº 501, de 21 de junho de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "501"
+data: "2018-06-21"
+municipio: "Guadalupe"
+uf: "PI"
+codigo_ibge: "2204501"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guadalupe.pi.leg.br/norma/244"
+fonte_texto: "https://sapl.guadalupe.pi.leg.br/ta/141/text"
+sha256_fonte: "016c562bd369af8795445d507b75637dd8cae94b20a596c343fb0f0cfae63f4f"
+sha256_texto: "a3b1904ebd3e29709ce1d9183e94d9912904edbb2c541e562932d91810e9300f"
+capturado_em_fonte: "2026-10-28T12:47:34.544059-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 501, de 21 de junho de 2018
+
+Dispõe sobre a implantação e regulamentação do Pelotão Mirim do Programa Educacional de Resistência às Drogas e a Violência - PROERD no Município de Guadalupe e dá outras providências.
+
+
+A PREFEITA MUNICIPAL DE GUADALUPE, ESTADO DO PIAUÍ, faz saber que o Plenário da Câmara Municipal de Guadalupe aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+
+I –
+
+O PROERD Municipal é um Programa desenvolvido pelas Polícias Militares do Brasil com atuação diretamente nas escolas onde Policiais Militares instrutores realizam seu trabalho instrutivo-preventivo, com aulas presenciais, utilizando-se de recursos e didáticas devidamente direcionados a cada público assistido de forma que aproxima e fortalece os trabalhos de Segurança Pública junto à comunidade, através dessa modalidade de policiamento comunitário;
+
+
+II –
+
+O Programa será ministrado por membros da Polícia Militar de Guadalupe - PI, através de atividades desempenhadas em Escola da Rede Municipal de Ensino, monitoradas pela Secretaria Municipal de educação e tem como objetivo principal a prevenção ao uso indevido
+
+
+III –
+
+Serão realizados trabalhos direcionados ao público alvo e de acordo com as discriminações abaixo mencionadas:
+
+
+a)
+
+Aplicação de instruções para crianças de 09 a 12 anos - 5º ano do Ensino Fundamental;
+
+
+b)
+
+Aplicação de instruções para pré-adolescentes de 13 a 14 anos - 7º ano do Ensino Fundamental;
+
+
+c)
+
+Aplicação de instruções para pais de alunos;
+
+
+d)
+
+Aplicação de instruções para professores de disciplinas diversas para atuarem como suporte na prevenção em suas respectivas áreas.
+
+
+Art. 2º.
+
+O instrutor do PROERD será exclusivamente um Policial Militar do Piauí, devidamente capacitado para esse fim, através de curso de formação de instrutores, oferecido por sua instituição de origem.
+
+
+Art. 3º.
+
+Caberá à Prefeitura Municipal de Guadalupe - PI, fornecer o material necessário à aplicação do Programa (Livro do estudante PROERD, folders, banners e camisetas) para alunos assistidos.
+
+
+Parágrafo único
+
+O Programa será desenvolvido durante o ano letivo, zona urbana e rural do município de Guadalupe - PI.
+
+
+Art. 4º.
+
+Ficará sob a responsabilidade da Assessoria Pedagógica Regional do PROERD, a organização e distribuição das atividades dos instrutores participantes.
+
+
+Art. 5º.
+
+A Assessoria Pedagógica Regional do PROERD deverá apresentar semestralmente relatório detalhado das atividades desenvolvidas pelo Programa, à Secretaria Municipal de Educação.
+
+
+Art. 6º.
+
+Caberá a Secretaria Municipal de Educação, em parceria com a Assessoria Pedagógica Regional do PROERD, a adequação do Programa nas Escolas da Rede Pública de Ensino, respeitando os critérios de funcionamento do Programa, visando o melhor desempenho e aprendizado dos instruendos.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 8º.
+
+Revogam-se as disposições em contrário.
+
+
+Gabinete da Prefeita Municipal de Guadalupe aos vinte e um dias do mês de junho de dois mil e dezoito.  
+  
+Maria Jozeneide Fernandes Lima  
+Prefeita Municipal
+

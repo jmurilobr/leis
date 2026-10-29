@@ -1,0 +1,1186 @@
+---
+titulo: "Lei Complementar-GPREF nº 90, de 06 de julho de 2023"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "90"
+data: "2023-07-06"
+municipio: "Guarujá do Sul"
+uf: "SC"
+codigo_ibge: "4206603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guarujadosul.sc.leg.br/norma/3078"
+fonte_texto: "https://sapl.guarujadosul.sc.leg.br/ta/1695/text"
+sha256_fonte: "1ae7a21f4c5db33c29ee13302584379b1306060dd028a21f27a614ffbe14d8a9"
+sha256_texto: "91cf7ba91cf2f162b3c36433bb9c7b32ce500b2e8eed0aaf7052fb43e6c27685"
+capturado_em_fonte: "2026-10-28T13:36:04.194153-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Complementar-GPREF nº 90, de 06 de julho de 2023
+
+O Prefeito Municipal de Guarujá do Sul, Estado de Santa Catarina, TORNA PÚBLICO a todos os habitantes deste Município que a Câmara Municipal de Vereadores, votou, aprovou e eu sanciono a seguinte Lei Complementar:
+
+
+#### CAPÍTULO I — DAS CONCEITUAÇÕES E DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+A presente Lei Complementar regulamenta a Política Municipal do Meio Ambiente e o Sistema Municipal de proteção, controle, fiscalização, melhoria da qualidade e licenciamento ambiental, cria o Fundo Municipal do Meio Ambiente, respeitadas as competências da União e do Estado.
+
+
+Art. 2º.
+
+Esta Lei Complementar tem por princípios:
+
+
+I –
+
+A ação do Município de Guarujá do Sul, autonomamente ou em colaboração com os municípios vizinhos, o Estado e a União ou entes públicos da administração indireta, na manutenção do equilíbrio ecológico, considerando o meio ambiente como patrimônio público a ser necessariamente assegurado e protegido, tendo em vista o uso coletivo;
+
+
+II –
+
+A racionalização do uso do solo, subsolo, da água e do ar;
+
+
+III –
+
+O planejamento e fiscalização do uso dos recursos ambientais do Município;
+
+
+IV –
+
+A proteção dos ecossistemas, com a preservação de áreas representativas;
+
+
+V –
+
+O controle e zoneamento das atividades potencial ou efetivamente poluidoras;
+
+
+VI –
+
+O acompanhamento do estado da qualidade ambiental;
+
+
+VII –
+
+A recuperação de áreas degradadas e proteção de áreas ameaçadas de degradação;
+
+
+VIII –
+
+A educação ambiental em todos os níveis do ensino, precipuamente na educação básica e ensino fundamental, inclusive a educação da comunidade, objetivando capacitá-la para participação ativa na defesa do meio ambiente.
+
+
+Parágrafo único
+
+As diretrizes para a proteção e melhoria da qualidade ambiental serão formuladas em instruções normativas do órgão municipal ambiental, resoluções do Conselho Municipal de Defesa do Meio Ambiente - COMDEMA e em planos administrativos, destinados a orientar a ação do governo municipal.
+
+
+#### CAPÍTULO II — DO SISTEMA MUNICIPAL DO MEIO AMBIENTE
+
+
+Art. 3º.
+
+O Sistema Municipal do Meio Ambiente é composto por órgãos e entidades do Município, responsáveis pela proteção e melhoria da qualidade ambiental, assim estruturado:
+
+
+I –
+
+órgão central: Secretaria ou Departamento Municipal de Meio Ambiente;
+
+
+II –
+
+órgãos auxiliares: secretarias, departamentos, fundações, entidades e outros órgãos municipais e/ou consórcio público com a atribuição de prestar suporte e apoio aos demais órgãos do sistema nas ações pertinentes a execução da Política Municipal do Meio Ambiente;
+
+
+III –
+
+órgão consultivo e deliberativo: Conselho Municipal de Defesa do Meio Ambiente - COMDEMA, com a função de assessorar, estudar e propor ao poder executivo as diretrizes de políticas governamentais para o meio ambiente e os recursos naturais e, deliberar, no âmbito de sua competência, sobre normas e padrões compatíveis com o meio ambiente ecologicamente equilibrado e essencial à sadia qualidade de vida, além de constituir órgão colegiado de última instância administrativa para a apreciação de eventuais recursos interpostos;
+
+
+IV –
+
+órgão executor: órgão ou departamento municipal, inclusive consórcio público, responsáveis pela execução de programas, projetos e licenciamento das atividades de impacto local e de controle e fiscalização de atividades capazes de provocar a degradação ambiental.
+
+
+##### Seção I — Do órgão central
+
+
+Art. 4º.
+
+À Secretaria ou Departamento Municipal de Meio Ambiente compete:
+
+
+I –
+
+planejar, formular, normatizar, supervisionar e controlar as políticas municipais pertinentes a proteção e preservação do meio ambiente;
+
+
+II –
+
+formular e coordenar programas, projetos, ações e estudos relativos à educação ambiental, às mudanças climáticas, à gestão ambiental, à promoção do desenvolvimento sustentável e à conservação ambiental;
+
+
+III –
+
+apoiar os programas municipais de gestão ambiental na obtenção de recursos financeiros;
+
+
+IV –
+
+elaborar e implantar, em parceria com órgãos públicos, empresas privadas e organizações não governamentais, programa e ações na área ambiental;
+
+
+V –
+
+apoiar e orientar ações de fiscalização ambiental no município;
+
+
+VI –
+
+receber e processar os pedidos de licenças ambientais.
+
+
+##### Seção II — Dos órgãos auxiliares
+
+
+Art. 5º.
+
+Compete aos órgãos auxiliares prestar suporte, apoio e auxílio às ações desenvolvidas pelos demais órgãos que compõe o Sistema Municipal do Meio Ambiente, em observância diretrizes governamentais fixadas para o meio ambiente.
+
+
+##### Seção III — Do órgão consultivo e deliberativo
+
+
+Art. 6º.
+
+O Conselho Municipal de Defesa do Meio Ambiente – COMDEMA, órgão consultivo e deliberativo, possui a função de assessorar, estudar e propor ao Poder Executivo as diretrizes de políticas governamentais para o meio ambiente e os recursos naturais, e deliberar, no âmbito de sua competência, sobre normas e padrões compatíveis com o meio ambiente ecologicamente equilibrado e essencial à sadia qualidade de vida, compete:
+
+
+I –
+
+fiscalizar as ações do órgão ambiental municipal e a utilização do Fundo Municipal do Meio Ambiente;
+
+
+II –
+
+estudar, propor e atualizar a Política Municipal do Meio Ambiente;
+
+
+III –
+
+zelar pelo pleno cumprimento da Política Ambiental;
+
+
+IV –
+
+apresentar ao Poder Executivo sugestões sobre:
+
+
+a)
+
+diretrizes de desenvolvimento ambiental do Município;
+
+
+b)
+
+alterações nas leis de uso do solo no Município;
+
+
+c)
+
+coleta e tratamento de resíduos de qualquer natureza;
+
+
+d)
+
+instalação ou expansão de empreendimentos de qualquer natureza, potencialmente causadores de impacto ambiental, em qualquer magnitude;
+
+
+e)
+
+uso e proteção dos recursos hídricos;
+
+
+f)
+
+imunização do corte de árvores ou áreas de relevante interesse ecológico e paisagístico;
+
+
+V –
+
+propor campanhas educativas para formar consciência pública da necessidade de proteger, conservar e melhorar o meio ambiente;
+
+
+VI –
+
+propor e acompanhar a implantação de novas unidades de conservação e assessorar a efetiva implantação das existentes;
+
+
+VII –
+
+manter intercâmbio com órgãos da administração federal, estadual e municipal, e com entidades não governamentais para receber e fornecer subsídios técnicos, úteis na defesa e recuperação do meio ambiente;
+
+
+VIII –
+
+decidir, em grau de recurso, como última instância administrativa, sobre multas e outras penalidades impostas pelo órgão municipal ambiental, podendo contar, para a emissão de suas decisões, com o apoio de outros órgãos colegiados de meio ambiente, além de suporte técnico e jurídico;
+
+
+IX –
+
+responder consultas sobre matéria de sua competência, orientando os interessados e a população sobre as normas de proteção ambiental;
+
+
+X –
+
+acompanhar, examinar e opinar sobre a implementação de normas, políticas e legislação referentes ao meio ambiente no Município;
+
+
+XI –
+
+estabelecer normas, critérios e padrões relativos ao controle e à manutenção da qualidade do meio ambiente, observada a legislação federal e estadual, com vistas ao uso racional dos recursos ambientais;
+
+
+XII –
+
+deliberar sobre a realização de estudos das alternativas e das possíveis consequências ambientais de projetos públicos ou privados, requisitando aos órgãos envolvidos as informações necessárias;
+
+
+XIII –
+
+propor e participar na elaboração de campanhas educativas relativas a problemas de saneamento básico, despoluição da água, ar e do solo, combate a vetores, proteção da fauna e da flora;
+
+
+XIV –
+
+sempre que cientificado de ações degradadoras do meio ambiente, proporá providências cabíveis à sua recuperação
+
+
+XV –
+
+elaborar e alterar seu regimento interno.
+
+
+Art. 7º.
+
+O Conselho Municipal de Defesa do Meio Ambiente – COMDEMA observará em sua composição a paridade de cinquenta por cento de representantes do Poder Público e cinquenta por cento de representantes da sociedade civil organizada, e para cada representante titular haverá um suplente, nomeados por Ato do Poder Executivo.
+
+
+§ 1º
+
+As entidades que irão compor o Conselho serão definidas no Regimento Interno, estatuído por Decreto do Poder Executivo, desde que sem fins lucrativos e que estejam vinculadas, por qualquer maneira, à atividade de proteção, educação, fiscalização e/ou melhoria da qualidade ambiental no Município de Guarujá do Sul ou no Estado de Santa Catarina.
+
+
+§ 2º
+
+A inclusão ou exclusão de entidades componentes do COMDEMA, somente será possível mediante aprovação por maioria absoluta dos componentes do Conselho.
+
+
+Art. 8º.
+
+O COMDEMA manterá com os órgãos das administrações municipal, estadual e federal, consórcios públicos, bem como órgãos não governamentais, intercâmbio com o objetivo de receber e fornecer subsídios técnicos para a defesa e recuperação do meio ambiente, bem como para o exercício de suas competências.
+
+
+Art. 9º.
+
+O mandato dos membros do COMDEMA será de 02 (dois) anos, podendo ser reconduzidos.
+
+
+Art. 10.
+
+O exercício das funções de membros do COMDEMA será gratuito e considerado como prestação de serviços relevantes ao Município.
+
+
+##### Seção IV — Do órgão Executor
+
+
+Art. 11.
+
+Ao órgão ou departamento municipal, inclusive consórcio público, compete:
+
+
+I –
+
+elaborar instruções normativas relativas às atividades de licenciamento, autorização e fiscalização ambientais, visando à padronização dos procedimentos administrativos e técnicos dos seus servidores;
+
+
+II –
+
+implementar sistemas informatizados de controle ambiental, entre os quais aqueles decorrentes do licenciamento ambiental, da gestão florestal e das autuações ambientais das atividades de sua competência;
+
+
+III –
+
+licenciar ou autorizar as atividades públicas ou privadas consideradas potencialmente causadoras de degradação ambiental, de impacto local, na forma prevista na Lei Complementar Nacional nº 140, de 8 de dezembro de 2011 e suas alterações;
+
+
+IV –
+
+fiscalizar, auditar e acompanhar o cumprimento das condicionantes determinadas no procedimento de licenciamento ambiental;
+
+
+V –
+
+lavrar auto de infração e encaminhá-lo ao órgão ambiental licenciador, para a instrução do correspondente processo administrativo;
+
+
+VI –
+
+propor convênios com órgãos da administração pública buscando eficiência no que se refere à fiscalização e ao licenciamento ambientais;
+
+
+VII –
+
+apoiar e executar, de forma articulada com os demais órgãos, as atividades de fiscalização ambiental de sua competência;
+
+
+VIII –
+
+fiscalizar e aplicar sanções administrativas, emitir notificação de fiscalização, lavrar auto de infração ambiental e conduzir o respectivo processo administrativo, bem como inscrever em dívida ativa os autuados devedores, quando da decisão não couber mais recurso administrativo;
+
+
+IX –
+
+promover a execução fiscal dos créditos decorrentes das atividades de competência dos órgãos executores do sistema estadual de meio ambiente;
+
+
+X –
+
+ingressar em juízo para obrigar o infrator a cumprir a determinação, após estarem esgotadas as medidas administrativas para fazer cumprir a lei; e
+
+
+XI –
+
+articular-se com o órgão ambiental estadual executor e órgãos ambientais locais no planejamento de ações de fiscalização e no atendimento de denúncias.
+
+
+#### CAPÍTULO III — DOS INSTRUMENTOS
+
+
+Art. 12.
+
+São Instrumentos da Política Municipal do Meio Ambiente:
+
+
+I –
+
+O Fundo Municipal de Meio Ambiente;
+
+
+II –
+
+A educação ambiental;
+
+
+III –
+
+O estabelecimento de padrões de qualidade ambiental;
+
+
+IV –
+
+A celebração de convênios e termos de cooperação técnica;
+
+
+V –
+
+A avaliação de impacto ambiental;
+
+
+VI –
+
+O licenciamento, a rescisão e a revogação de atividades efetiva e potencialmente poluidoras;
+
+
+VII –
+
+A fiscalização e aplicação de penalidades;
+
+
+VIII –
+
+O Sistema Municipal de Unidades de Conservação;
+
+
+IX –
+
+A criação e implantação de projetos e programas ambientais;
+
+
+X –
+
+As auditorias realizadas pelo órgão ambiental municipal ou com a sua autorização expressa.
+
+
+Art. 13.
+
+O Município de Guarujá do Sul poderá celebrar convênios com órgãos dos governos federal e estadual com vistas à execução e fiscalização de serviços, na forma da legislação vigente.
+
+
+§ 1º
+
+Poderá ser formalizado convênio de apoio e cooperação técnica e institucional com órgãos públicos e privados visando à aplicação da Política Municipal do Meio Ambiente e à aplicação das legislações ambientais federal, estadual e municipal.
+
+
+§ 2º
+
+Poderá integrar Consorcio Público na forma da legislação vigente visando à aplicação da Política Municipal do Meio Ambiente e à aplicação das legislações ambientais federal, estadual e municipal.
+
+
+#### CAPÍTULO IV — DO FUNDO MUNICIPAL DO MEIO AMBIENTE
+
+
+Art. 14.
+
+Fica instituído o Fundo Municipal do Meio Ambiente - FMMA, cujo objetivo é apoiar o desenvolvimento de ações que pela gestão racional e sustentável dos recursos naturais do Município, colaborem para que os munícipes, da presente e futuras gerações, tenham adequada qualidade de vida através do meio ambiente ecologicamente equilibrado.
+
+
+Parágrafo único
+
+O desenvolvimento dos programas e diretrizes de trabalho relacionados ao meio ambiente serão coordenados pela Secretaria ou Departamento Municipal de Meio Ambiente e pelo Conselho Municipal de Defesa do Meio Ambiente – COMDEMA.
+
+
+Art. 15.
+
+Constituem recursos financeiros do Fundo Municipal do Meio Ambiente - FMMA:
+
+
+I –
+
+as dotações constantes do orçamento geral do município;
+
+
+II –
+
+taxas e tarifas previstas em Lei;
+
+
+III –
+
+créditos adicionais suplementares a ele destinados;
+
+
+IV –
+
+as contribuições, subvenções e auxílios de órgãos da administração direta e indireta, federal, estadual e municipal;
+
+
+V –
+
+as receitas oriundas de convênios, acordos e contratos celebrados entre o município e instituições públicas e privadas, cuja execução seja, da competência do Conselho Municipal de Defesa do Meio Ambiente – COMDEMA ou da Secretaria ou Departamento Municipal de Meio Ambiente;
+
+
+VI –
+
+as dotações recebidas de pessoas físicas ou jurídicas ou de organismos públicos nacionais ou estrangeiros;
+
+
+VII –
+
+o produto da alienação de material ou equipamento inservíveis;
+
+
+VIII –
+
+a remuneração oriunda de aplicações financeiras;
+
+
+IX –
+
+produtos de taxas, preços públicos ou reembolso de despesas relativas a licenças ambientais emitidas pelo município;
+
+
+X –
+
+as multas aplicadas por infração à legislação ambiental;
+
+
+XI –
+
+as multas aplicadas através de Termo de Ajustamento de Conduta entre o município e o particular, com ou sem a anuência do Ministério Público, nos casos de regularização de Loteamentos ou Desmembramentos;
+
+
+XII –
+
+preços públicos cobrados pela prestação de serviços ambientais e pela análise de projetos ambientais;
+
+
+XIII –
+
+indenizações decorrentes de cobranças judiciais e extrajudiciais motivadas pelo parcelamento irregular ou clandestino ou ocupação indevida do solo urbano;
+
+
+XIV –
+
+condenações judiciais, cíveis, administrativas ou criminais, de pessoas físicas ou empreendimentos sediados no município ou que afetem o território municipal, decorrentes de atos ilícitos praticados contra o meio ambiente;
+
+
+XV –
+
+compensação financeira ambiental;
+
+
+XVI –
+
+outras receitas especificamente destinadas ao Fundo.
+
+
+§ 1º
+
+As receitas descritas neste artigo serão depositadas em conta específica do Fundo, mantida em instituição financeira oficial instalada no Município.
+
+
+§ 2º
+
+Quando não estiverem sendo utilizados em suas finalidades próprias, os recursos do fundo poderão ser aplicados, objetivando o aumento das receitas do Fundo, cujos resultados a ele reverterão.
+
+
+§ 3º
+
+O saldo financeiro do FMMA, apurado em balanço ao final de cada exercício, será transferido para o exercício seguinte, a crédito do mesmo Fundo.
+
+
+§ 4º
+
+A dotação prevista no Orçamento Municipal será automaticamente transferida para a conta do FMMA, tão logo os recursos pertinentes estejam disponíveis.
+
+
+Art. 16.
+
+Os recursos do Fundo Municipal do Meio Ambiente – FMMA serão aplicados na execução de projetos e atividades que visem:
+
+
+I –
+
+custear e financiar as ações de controle, fiscalização e defesa do Meio Ambiente, exercidas pelo Poder Público Municipal;
+
+
+II –
+
+financiar planos, programas, projetos e ações, governamentais ou privados, de interesse ambiental e sem fins lucrativos, que visem:
+
+
+a)
+
+proteção, recuperação, conservação de recursos naturais no Município ou estímulo a seu uso sustentado;
+
+
+b)
+
+capacitação e aperfeiçoamento de recursos humanos em questões ambientais, podendo, para tanto, celebrar convênios com entidades filantrópicas, governamentais ou privadas sem fins lucrativos;
+
+
+c)
+
+desenvolvimento de projetos de capacitação, educação e sensibilização voltados à melhoria da consciência ambiental, inclusive realização de cursos, congressos e seminários;
+
+
+d)
+
+combate à poluição, em todas as suas formas, melhoria do esgotamento sanitário e destinação adequada de resíduos urbanos, industriais e da construção civil;
+
+
+e)
+
+gestão, manejo, criação e manutenção de unidades de conservação municipais ou de outras áreas de interesse ambiental relevante, inclusive áreas verdes, parques, praças e áreas remanescentes;
+
+
+f)
+
+desenvolvimento de pesquisas científicas e tecnológicas voltadas à melhoria ambiental e à construção do processo de sustentabilidade do município;
+
+
+g)
+
+desenvolvimento e aperfeiçoamento dos instrumentos de gestão, planejamento, administração e controle das ações constantes na Política Municipal de Meio Ambiente;
+
+
+h)
+
+desenvolvimento de turismo sustentável e ecologicamente equilibrado;
+
+
+III –
+
+aquisição de material permanente e de consumo e de outros instrumentos necessários à execução de atividades inerentes à política municipal de meio ambiente;
+
+
+IV –
+
+contratação de serviços de terceiros, inclusive assessoria técnica e científica, para elaboração e execução de programas e projetos;
+
+
+V –
+
+incentivo ao uso de tecnologia ecologicamente equilibrada e não agressiva ao ambiente;
+
+
+VI –
+
+apoio à implantação e manutenção do cadastro de atividades econômicas, que utilizem ou degradem os recursos ambientais do Município e manutenção de um sistema de informações referentes ao meio ambiente e controle urbano, mediante a coleta e a catalogação de dados e informações e a construção de banco de dados;
+
+
+VII –
+
+atendimento de despesas diversas, de caráter de urgência e inadiáveis, necessárias à execução política municipal de meio ambiente;
+
+
+VIII –
+
+pagamentos de despesas relativas a valores e contrapartidas estabelecidas em convênios e contratos com órgãos públicos e privados de pesquisa e proteção ambiental;
+
+
+IX –
+
+outras ações de interesse e relevância pertinentes à proteção, recuperação e conservação ambientais do Município.
+
+
+§ 1º
+
+O Conselho Municipal de Defesa do Meio Ambiente - COMDEMA editará Resolução estabelecendo os termos de referência, os documentos obrigatórios, a forma e os procedimentos para apresentação e aprovação de projetos a serem apoiados pelo Fundo Municipal de Meio Ambiente, assim como a forma, o conteúdo e a periodicidade dos relatórios financeiros e de atividades e das prestações de contas que deverão ser apresentados pelos beneficiários.
+
+
+§ 2º
+
+Não poderão ser financiados pelo Fundo Municipal de Meio Ambiente - FMMA, projetos incompatíveis com quaisquer normas, critérios ou políticas municipais de preservação e proteção ao meio ambiente.
+
+
+Art. 17.
+
+Compete ao Conselho Municipal de Defesa do Meio Ambiente – COMDEMA estabelecer as diretrizes, prioridades e programas de alocação dos recursos do Fundo Municipal, em conformidade com a Política Municipal do Meio Ambiente obedecidas as diretrizes estaduais e federais.
+
+
+Art. 18.
+
+O Fundo será administrado pela Secretaria ou Departamento Municipal de Meio Ambiente observadas as diretrizes fixadas pelo Conselho Municipal de Defesa do Meio Ambiente – COMDEMA.
+
+
+Art. 19.
+
+O Fundo Municipal do Meio Ambiente somente poderá ser extinto:
+
+
+I –
+
+mediante Lei Municipal, após demonstração administrativa ou judicial de que ele não vem cumprindo com seus objetivos; ou
+
+
+II –
+
+mediante decisão judicial.
+
+
+Parágrafo único
+
+O patrimônio eventualmente apurado quando de sua extinção e as receitas de seus direitos creditórios serão absorvidos pelo Poder Público Municipal, na forma como a Lei ou decisão judicial, se for o caso, dispuser.
+
+
+Art. 20.
+
+Os demonstrativos financeiros do FMMA obedecerão, às disposições legais pertinentes em vigência.
+
+
+Art. 21.
+
+Os casos omissos relativos ao Fundo Municipal do Meio Ambiente, serão regulamentadas por Decreto do Poder Executivo, ouvido o Conselho Municipal de Conservação e Defesa do Meio Ambiente - COMDEMA.
+
+
+#### CAPÍTULO V — DAS CONDIÇÕES FÍSICAS
+
+
+##### Seção I — DA PROTEÇÃO DAS ÁGUAS
+
+
+Art. 22.
+
+As águas interiores situadas no Município de Guarujá do Sul são classificadas segundo a Resolução 357/2005 do Conselho Nacional do Meio Ambiente – CONAMA e suas alterações ou norma posterior que a substitua.
+
+
+Art. 23.
+
+É vedado o lançamento de efluentes de qualquer natureza e de esgotos urbanos, rurais e industriais sem o devido tratamento, em qualquer curso d’água do Município de Guarujá do Sul.
+
+
+Parágrafo único
+
+É proibido o lançamento de qualquer resíduo sólido, assim como resíduos provenientes da suinocultura e de matadouros, nos corpos d’água do Município de Guarujá do Sul.
+
+
+Art. 24.
+
+As edificações de uso industrial e/ou as estruturas e depósitos de armazenagem de substâncias capazes de causar riscos aos recursos hídricos deverão ser dotadas de dispositivos de segurança e prevenção de acidentes, de acordo com a legislação vigente e as normas técnicas, respeitando as áreas de proteção permanente previstas no Código Florestal Nacional.
+
+
+Art. 25.
+
+Para os padrões de qualidade da água no Município de Guarujá do Sul e de emissão de efluentes líquidos, será seguido o estipulado na resolução 357/2005 do Conselho Nacional do Meio Ambiente - CONAMA ou norma posterior que alterar ou substituir.
+
+
+##### Seção II — DA PROTEÇÃO DO SOLO
+
+
+Art. 26.
+
+Toda atividade de exploração de recursos naturais não renováveis, bem como a exploração de areia, pedras e cascalho nos leitos dos rios, subsolo e outros, fica condicionada à apresentação de Avaliação de Impacto Ambiental, conforme disposto na Resolução 001/1986 do Conselho Nacional do Meio Ambiente – CONAMA e suas alterações ou norma posterior que alterar ou substituir.
+
+
+Parágrafo único
+
+Em havendo degradação ou qualquer outra atividade ou obra considerada prejudicial ao meio ambiente, o agente infrator ou aquele que fizer funcionar o empreendimento, econômico ou não, deverá proceder às suas custas a recuperação da área, por meio de implantação de projeto de Recuperação de Áreas Degradadas, submetido à aprovação do órgão ambiental municipal.
+
+
+##### Seção III — DA PROTEÇÃO ATMOSFÉRICA
+
+
+Art. 27.
+
+É proibida a queima ao ar livre de resíduos sólidos, líquidos ou de qualquer outro material combustível.
+
+
+Art. 28.
+
+Ficam estabelecidos os padrões de qualidade do ar nos termos contidos na Resolução 03/1990 do Conselho Nacional do Meio Ambiente – CONAMA e suas alterações ou norma posterior que alterar ou substituir.
+
+
+Art. 29.
+
+Os padrões de emissões atmosféricas no Município de Guarujá do Sul seguirão os padrões estabelecidos pela Resolução 08/1990, do Conselho Nacional do Meio Ambiente – CONAMA e suas alterações ou norma posterior que alterar ou substituir.
+
+
+Art. 30.
+
+Compete ao órgão ambiental municipal, sem prejuízo da atribuição de outros órgãos estaduais ou federais legitimados, a fiscalização do cumprimento do padrão da qualidade do ar e emissões atmosféricas.
+
+
+#### CAPÍTULO VI — DAS ÁREAS DE PROTEÇÃO ESPECIAL E DAS ZONAS DE RESERVA AMBIENTAL
+
+
+##### Seção I — DAS ÁREAS DE PROTEÇÃO AO MEIO AMBIENTE
+
+
+Art. 31.
+
+As áreas de preservação ambiental são as constantes na Lei do Zoneamento Municipal.
+
+
+§ 1º
+
+O Poder Executivo Municipal poderá criar unidades de conservação municipais no município de Guarujá do Sul, em conformidade com a Lei Federal 9.985/2000 que estabelece o Sistema Nacional de Unidades de Conservação – SNUC ou norma posterior que alterar ou substituir.
+
+
+§ 2º
+
+O ato de criação das unidades de conservação deverá conter diretrizes para a regularização fundiária, demarcação e fiscalização adequada, bem como a indicação da respectiva área do entorno e estrutura de funcionamento.
+
+
+Art. 32.
+
+O Sistema Municipal de Unidades de Conservação deve ser integrado aos sistemas estadual e nacional.
+
+
+Art. 33.
+
+A alteração adversa, a redução da área ou a extinção das unidades de conservação somente será possível mediante lei municipal.
+
+
+Art. 34.
+
+O Município poderá reconhecer, na forma da lei, unidades de conservação de domínio privado.
+
+
+Parágrafo único
+
+O Município pode estimular e acatar iniciativas comunitárias para criação de unidades de conservação municipais.
+
+
+Art. 35.
+
+É proibido o corte raso das florestas, a exploração de pedreiras, macadame e barro, e outras atividades que degradem os recursos naturais e a paisagem nas faixas de terras dos locais adjacentes às unidades de conservação municipais, estaduais e federais.
+
+
+##### Seção II — DAS QUEIMADAS
+
+
+Art. 36.
+
+É proibido promover queimadas no Município de Guarujá do Sul.
+
+
+Art. 37.
+
+A utilização de fogo nas atividades agropastoris e florestais obedecerá ao Decreto Federal nº 2.661/1998 e suas alterações ou norma posterior que alterar ou substituir.
+
+
+##### Seção III — DA PROTEÇÃO DA COBERTURA VEGETAL
+
+
+Art. 38.
+
+O Município de Guarujá do Sul, por meio do órgão ambiental municipal, fiscalizará, no território municipal, o cumprimento do Código Florestal Nacional, da Lei nº 11.428/2006, do Decreto Federal n. 6.660/2008, da Lei nº 12651/2012 e da Lei Estadual nº 14.675/2009 ou norma posterior que alterar ou substituir.
+
+
+§ 1º
+
+Para efetuar o desmatamento ou corte eventual de árvores de espécie nativa, para qualquer finalidade, o proprietário do imóvel deverá solicitar autorização ao órgão ambiental.
+
+
+§ 2º
+
+Como forma de compensação ambiental ao corte, desde que respeitada a legislação federal e estadual vigentes, a autorização poderá ser condicionada ao replantio de espécies nativas em locais e quantidades definidos pelo órgão ambiental municipal, conforme o impacto ambiental gerado.
+
+
+##### Seção IV — DO PARCELAMENTO DO SOLO
+
+
+Art. 39.
+
+A arborização de logradouros públicos deverá ser feita com espécies nativas e sob o espaçamento indicados pelo órgão ambiental municipal, desde que não haja outra legislação municipal específica sobre o tema.
+
+
+Art. 40.
+
+A aprovação do parcelamento do solo urbano fica condicionada a anuência prévia do órgão ambiental municipal, ressalvada a competência estadual para o licenciamento ambiental.
+
+
+##### Seção V — DA PROTEÇÃO À FAUNA
+
+
+Art. 41.
+
+O órgão ambiental municipal cooperará com o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis – IBAMA, Instituto do Meio Ambiente de Santa Catarina – IMA e Policia Militar Ambiental, na apreensão e/ou libertação de qualquer animal silvestre, encontrado preso em cativeiro sem licenciamento.
+
+
+#### CAPÍTULO VII — DAS ATIVIDADES CAUSADORAS DE DEGRADAÇÃO AMBIENTAL
+
+
+Art. 42.
+
+O Município de Guarujá do Sul adotará a classificação de atividades potencialmente poluidoras instituída nas Resoluções 13 e 14/2012 do Conselho Estadual do Meio Ambiente – CONSEMA, bem como de suas eventuais alterações.
+
+
+Art. 43.
+
+Os órgãos e entidades da administração pública direta ou indireta e os empreendimentos privados que exerçam atividades potencialmente causadoras de poluição compatibilizarão seus planos, projetos e programas de investimento com os dispositivos desta Lei Complementar.
+
+
+#### CAPÍTULO VIII — DO LICENCIAMENTO AMBIENTAL
+
+
+Art. 44.
+
+A localização, construção, instalação, ampliação, modificação e operação de empreendimentos e atividades que utilizam recursos ambientais, consideradas efetiva ou potencialmente causadoras de degradação ou poluição ambiental, dependem de apresentação das licenças ambientais prévias - LAP, de instalação – LAI e de operação – LAO expedidas pelo órgão executor que compõe o Sistema Municipal do Meio Ambiente e que possui competência para tanto, bem como da aprovação dos projetos, acompanhados da avaliação de impacto ambiental ou dos relatórios de impacto ambiental.
+
+
+§ 1º
+
+São empreendimentos e atividades sujeitos ao licenciamento ambiental pelo órgão executor que compõe o Sistema Municipal do Meio Ambiente e que possui competência para tanto, todas aquelas delegadas ao Município ou Consórcio Público por meio de convênio pelos órgãos municipais/estaduais e/ou federais, sendo a licença expedida sempre em um único nível de competência.
+
+
+§ 2º
+
+Cabe ao órgão executor que compõe o Sistema Municipal do Meio Ambiente e que possui atribuições para tanto, definir os critérios de exigibilidade, o detalhamento e as informações necessárias ao licenciamento ambiental de sua competência, levando em consideração as especificidades, os riscos ambientais, o porte e outras características do empreendimento ou atividade.
+
+
+§ 3º
+
+O início das atividades dependerá da apresentação, pelo interessado, de outras licenças legalmente exigíveis.
+
+
+Art. 45.
+
+O órgão executor que compõe o Sistema Municipal do Meio Ambiente e que possui atribuição para a emissão de licenças ambientais, no exercício de sua competência, expedirá as seguintes licenças:
+
+
+a)
+
+Licença Ambiental Prévia - LAP, concedida na fase preliminar do planejamento do empreendimento ou atividade, aprovando sua localização e concepção, atestando a viabilidade ambiental e estabelecendo os requisitos básicos e condicionantes a serem atendidos nas próximas fases de implementação;
+
+
+b)
+
+Licença Ambiental de Instalação – LAI, que autoriza a instalação do empreendimento ou atividade de acordo com as especificações constantes dos planos, programas e projetos aprovados, incluindo as medidas de controle ambiental e demais condicionantes que constituam o motivo determinante;
+
+
+c)
+
+Licença Ambiental de Operação – LAO, que autoriza a operação de atividade ou empreendimento, após a verificação do efetivo cumprimento do que consta das licenças anteriores, com adoção das medidas de controle ambiental e demais condicionantes exigidos para a operação;
+
+
+§ 1º
+
+As licenças previstas nas alíneas a, b, c do caput deste artigo poderão se dar através de Licença por Adesão e Compromisso – LAC que, será concedida eletronicamente, para atividades que sejam enquadradas, cumulativamente, como de pequeno ou médio porte e de pequeno ou médio potencial poluidor degradador, assim definidos pelo CONSEMA, segundo os critérios e pré-condições estabelecidos pela autoridade licenciadora, mediante declaração de compromisso do empreendedor, conforme regulamentação específica do órgão competente.
+
+
+§ 2º
+
+As licenças ambientais poderão ser expedidas isoladas ou sucessivamente, de acordo com a natureza, características e fase do empreendimento ou atividade.
+
+
+§ 3º
+
+O requerimento de licenciamento ambiental deverá ser dirigido órgão central que compõe o Sistema Municipal do Meio Ambiente para o respectivo processamento, de forma física ou digital, conforme sistema implantado.
+
+
+§ 4º
+
+O órgão executor que compõe o Sistema Municipal do Meio Ambiente estabelecerá os prazos de validade de cada tipo de licença, especificando-o no respectivo documento, respeitando o cronograma de execução da atividade ou empreendimento, de acordo com a Resolução 237/1997 do Conselho Nacional do Meio Ambiente – CONAMA ou outra norma que a alterar ou substituir.
+
+
+§ 5º
+
+O órgão executor que compõe o Sistema Municipal do Meio Ambiente poderá adotar, com anuência do Conselho Municipal de Defesa do Meio Ambiente, procedimentos simplificados de licenciamento ambiental para atividades ou empreendimentos de baixo potencial de degradação ambiental, desde que observada a legislação estadual e federal.
+
+
+Art. 46.
+
+Para cada licenciamento ambiental será cobrada uma taxa específica e pré-estabelecida, em consonância com a legislação vigente
+
+
+#### CAPÍTULO IX — DAS TAXAS
+
+
+##### Seção I — DA TAXA DE LICENCIAMENTO AMBIENTAL
+
+
+Art. 47.
+
+Pelos serviços ambientais prestados, fica instituída a Taxa Municipal de Prestação de Serviços Ambientais, tendo como fato gerador o exercício do poder de polícia ou a prestação de serviços, através do município ou consórcio público, e será devida para:
+
+
+I –
+
+Análise prévia com vistoria para concessão de autorizações ambientais e/ou licenças ambientais (licença prévia, licença de instalação e licença de operação);
+
+
+II –
+
+Análise prévia para concessão de licenças simplificadas;
+
+
+III –
+
+Autorização de corte de vegetação - AuC e reposição florestal;
+
+
+IV –
+
+Autorização municipal simplificada de cortes de árvore;
+
+
+V –
+
+Averbação de reserva legal;
+
+
+VI –
+
+Certidão de conformidade ambiental, mediante vistoria ou não;
+
+
+VII –
+
+Autorização ambiental;
+
+
+VIII –
+
+Declaração de Atividade Não Constante;
+
+
+IX –
+
+Solicitação de alteração em licenças ambientais já expedidas.
+
+
+Parágrafo único
+
+Os valores referentes à taxa que trata o presente artigo serão calculados e cobrados de acordo com os parâmetros e critérios definidos pela legislação estadual vigente, em especial a Lei nº 14.262/2007 ou outra norma que a alterar ou substituir.
+
+
+Art. 48.
+
+Na análise de licenças ambientais de que tratam os incisos I e II do artigo anterior será observado o seguinte:
+
+
+I –
+
+A taxa exigida para as referidas atividades será graduada em função do porte e do potencial poluidor degradador, conforme previsão da legislação estadual a ser observada (Lei nº 14.262/2007 ou outra norma que a alterar ou substituir);
+
+
+II –
+
+As Licenças Ambientais terão prazo de validade em conformidade com o que dispuser a legislação federal, estadual e/ou regulamentação vigente, cabendo ao órgão executor do Sistema Municipal do Meio Ambiente a regulamentação dos procedimentos de licenciamento ambiental e de mitigação dos prazos das licenças ambientais, inclusive simplificadas e das certidões de conformidade ambiental; e
+
+
+III –
+
+A cobrança da análise dos pedidos de licenças ambientais será efetuada em cada uma das fases do processo de licenciamento, conforme determina a legislação em vigor.
+
+
+Art. 49.
+
+O sujeito passivo da Taxa Municipal de Prestação de Serviços Ambientais é a pessoa física ou jurídica cuja atividade esteja sujeita às leis ambientais e que requerer serviço submetido à sua incidência ou for o destinatário do exercício do poder de polícia.
+
+
+Art. 50.
+
+A Taxa Municipal de Prestação de Serviços Ambientais será recolhida até a data do requerimento do serviço ou atividade.
+
+
+Art. 51.
+
+No que couber, aplica-se subsidiariamente à Taxa Municipal de Prestação de Serviços Ambientais o disposto no Código Tributário Municipal e suas alterações e legislação municipal pertinente.
+
+
+Art. 52.
+
+Os valores recolhidos à União, Estado, a outro Município e Distrito Federal, a qualquer outro título, tais como taxas ou preços públicos de licenciamento ou fiscalização, não constituem crédito para compensação com a Taxa Municipal de Prestação de Serviços Ambientais de que trata esta Lei Complementar.
+
+
+#### CAPÍTULO X — DO CONTROLE DA PROTEÇÃO AMBIENTAL
+
+
+##### Seção I — DA FISCALIZAÇÃO
+
+
+Art. 53.
+
+A fiscalização do cumprimento dos dispositivos estabelecidos nesta Lei Complementar, bem como das normas decorrentes, será exercida pelo órgão central e executor do Sistema Municipal do Meio Ambiente.
+
+
+Parágrafo único
+
+A competência de que trata este artigo não exclui a de outros órgãos ou entidades federais ou estaduais no que tange à proteção e melhoria da qualidade ambiental.
+
+
+Art. 54.
+
+Os agentes fiscalizadores do Sistema Municipal do Meio Ambiente terão livre acesso, para fins de fiscalização, às instalações industriais, comerciais, agropecuárias, florestais ou outros particulares ou públicas, que exerçam atividades capazes de agredir o meio ambiente.
+
+
+##### Seção II — DAS INFRAÇÕES E PENALIDADES
+
+
+Art. 55.
+
+Para fins da presente legislação, consideram-se infrações ambientais e sanções administrativas aquelas previstas na legislação federal e estadual vigente, em especial aquelas previstas na Lei Federal nº 9.605/1998, no Decreto Federal nº 6514/2008, Lei Estadual nº 14.675/2009 e na Portaria conjunta IMA/CPMA nº 143/19 ou outras normas que as alterar ou substituir.
+
+
+##### Seção III — DO PROCESSO ADMINISTRATIVO
+
+
+Art. 56.
+
+As infrações ambientais serão apuradas em processo administrativo próprio, assegurado o direito à ampla defesa e contraditório.
+
+
+Art. 57.
+
+O processo para apuração de infrações ambientais será instaurado, pelo órgão do sistema ambiental municipal competente ou entidade designada e, seu processamento, observará os princípios básicos do processo administrativo e o disposto na legislação estadual e federal ambiental pertinente, assim como regulamento próprio e específico a ser editado pelo Poder Executivo.
+
+
+Art. 58.
+
+O processo administrativo ambiental será formado isolada ou conjuntamente, conforme o caso, de:
+
+
+I –
+
+Auto de infração ambiental;
+
+
+II –
+
+Relatório de fiscalização in loco ou documental;
+
+
+III –
+
+Defesa prévia;
+
+
+IV –
+
+Manifestação sobre defesa prévia ou contradita;
+
+
+V –
+
+Alegações Finais;
+
+
+VI –
+
+Decisão;
+
+
+VII –
+
+Recurso.
+
+
+Art. 59.
+
+Encerrada a instrução do processo administrativo ambiental, a autoridade ambiental julgadora emitirá decisão devidamente motivada.
+
+
+Art. 60.
+
+Da decisão proferida pela autoridade julgadora caberá recurso ao Conselho Municipal de Defesa do Meio Ambiente – CONDEMA que constituiu órgão colegiado da instância administrativa para a apreciação de recursos interpostos.
+
+
+Art. 61.
+
+O infrator deverá ser cientificado de todos os atos do processo administrativo ambiental.
+
+
+Art. 62.
+
+Quando verificado que não foram cumpridas, no prazo estipulado, as determinações estabelecidas nas decisões expedidas pela autoridade ambiental julgadora, referentes às obrigações ambientais, deverá o processo administrativo de fiscalização ambiental ser remetido ao setor competente para que sejam adotadas as providências cabíveis.
+
+
+#### CAPÍTULO XI — DAS DISPOSIÇÕES GERAIS E FINAIS
+
+
+Art. 63.
+
+Fica o Poder Executivo autorizado a adotar medidas de emergência, a fim de evitar episódios críticos de poluição ambiental, ou para impedir sua continuidade, em caso de grave e iminente risco para vidas humanas ou recursos naturais.
+
+
+Art. 64.
+
+O órgão ambiental municipal expedirá os regulamentos necessários à execução desta Lei Complementar.
+
+
+Art. 65.
+
+Fica autorizado o Poder Executivo a promover a realização de eventuais alterações orçamentárias necessárias a consecução da presente lei Complementar.
+
+
+Art. 66.
+
+Aplicam-se a presente Lei Complementar, subsidiariamente e em complementação, a legislação federal e estadual pertinente ao meio ambiente.
+
+
+Art. 67.
+
+Esta Lei Complementar entra em vigor na data de sua publicação, revogando eventuais disposições em contrário, em especial Lei Complementar nº 61/2019 de 05 de setembro de 2019, Lei Complementar nº 63/2020 de 21 de fevereiro de 2020, Lei Complementar 78/2022 de 25 de fevereiro de 2022.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE GUARUJÁ DO SUL – SC  
+06 de julho de 2023  
+71º ano da Fundação e 61º ano da Instalação.  
+Claudio Junior Weschenfelder  
+Prefeito Municipal  
+Registrado e publicado no Diário Oficial dos Municípios – DOM. www.diariomunicipal.sc.gov.br  
+Júlio Cesar Della Flora  
+Secretário da Administração e Fazenda
+

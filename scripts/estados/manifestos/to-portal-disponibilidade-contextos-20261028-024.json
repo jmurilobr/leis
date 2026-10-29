@@ -1,0 +1,77 @@
+{
+  "preparado_em": "2026-10-28T12:10:57.815864-03:00",
+  "selecao": "estaduais/TO/_fonte/auditorias/portal-disponibilidade-contextos-20261028-024/selecao002.json",
+  "sha256_selecao": "65c8626e26cba45a16992fa88d4edf03dde2c0c823fdebd46e08bbfaa157b325",
+  "codigo": "estaduais/TO/_fonte/auditorias/portal-disponibilidade-contextos-20261028-024/capturar-privado.py",
+  "sha256_codigo": "1d5b3a91ed78bf631394d9354e9f2241c981dc617b9f8407c15cccb4b4de8fb9",
+  "total_selecionado": 1,
+  "total_capturado": 1,
+  "capturas": [
+    {
+      "item": {
+        "id_ALETO": "7627",
+        "fonte": "https://www.al.to.leg.br/arquivo/7627",
+        "titulo_indice": "Lei nº 1382 de 2003 (ordinária)",
+        "numero": "1382",
+        "ano_titulo": "2003",
+        "tipo": "Lei Ordinária",
+        "pasta": "leis-ordinarias",
+        "data_cartao": "2013-09-27",
+        "data_literal": "| Data: 27/09/2013",
+        "ementa": "Autoriza o Poder Executivo a doar à Associação dos Servidores da Secretaria da Fazenda - Secretaria do Tesouro do Tocantins, duas áreas de terreno urbano que especifica.",
+        "divergencia_ano_cartao_titulo": true,
+        "indicacao_editorial_compilacao": false,
+        "indice": {
+          "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2013&pagPaginaAtual=8",
+          "iniciado_em": "2026-10-28T08:02:06.585571-03:00",
+          "capturado_em": "2026-10-28T08:02:10.370793-03:00",
+          "retorno_curl": 0,
+          "http": 200,
+          "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2013&pagPaginaAtual=8",
+          "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261028-004/96601c03171104c5f735fe09c4c096a19d6a39aa208905fb8e544d7578322bce.html.gz",
+          "sha256_fonte": "96601c03171104c5f735fe09c4c096a19d6a39aa208905fb8e544d7578322bce",
+          "sha256_cache": "24051c3adbea5f511f92e9ec408f961f3e8be51e807739ce27325b2204fea657",
+          "headers": {
+            "cache-control": "private",
+            "content-type": "text/html;charset=UTF-8",
+            "date": "Wed, 28 Oct 2026 10:59:02 GMT"
+          },
+          "headers_sessao_omitidos": true,
+          "ano_filtro": 2013,
+          "pagina": 8,
+          "total_registros_declarado": 186,
+          "paginas_esperadas": 10
+        },
+        "ano_filtro": 2013,
+        "pagina": 8
+      },
+      "url": "https://www.al.to.leg.br/arquivo/7627",
+      "iniciado_em": "2026-10-28T12:10:56.554709-03:00",
+      "capturado_em": "2026-10-28T12:10:57.812113-03:00",
+      "retorno_curl": 0,
+      "http": 200,
+      "url_final": "https://www.al.to.leg.br/arquivos/7627.pdf",
+      "cache": "estaduais/TO/_fonte/auditorias/portal-disponibilidade-contextos-20261028-024/fontes/293130cdd32bf1c5eec27ff7a62db75e39c5e030d951fdb3764ae5421c17fa72.bin.gz",
+      "sha256_fonte": "293130cdd32bf1c5eec27ff7a62db75e39c5e030d951fdb3764ae5421c17fa72",
+      "sha256_cache": "5e951815384a5e9d04fd3435177d095ba67197d02f0d9018d4491295bca2eb5f",
+      "bytes": 23997,
+      "PDF": true,
+      "headers": {
+        "cache-control": "private",
+        "location": "https://www.al.to.leg.br/arquivos/7627.pdf",
+        "content-length": "23997",
+        "date": "Wed, 28 Oct 2026 15:07:49 GMT",
+        "accept-ranges": "bytes",
+        "etag": "W/\"23997-1560775746558\"",
+        "last-modified": "Mon, 17 Jun 2019 12:49:06 GMT",
+        "content-type": "application/pdf"
+      },
+      "headers_sessao_omitidos": true
+    }
+  ],
+  "parada_conservadora": false,
+  "qualificados": 0,
+  "sem_MD": true,
+  "metas_inalteradas": true,
+  "headers_sessao_omitidos": true
+}

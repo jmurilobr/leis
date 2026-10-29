@@ -1,0 +1,266 @@
+---
+titulo: "Lei Ordinária nº 361, de 29 de agosto de 2016"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "361"
+data: "2016-08-29"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/2929"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1487/text"
+sha256_fonte: "b3ef2ccbb3e7fc5062d091d1ae332f72e253904a223e544731ed0c8021b79557"
+sha256_texto: "b3fc1ec4b6e07340ebcea59654b95aca7b2532e1d103f07dad3a6f4514323eac"
+capturado_em_fonte: "2026-10-28T11:34:54.014354-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 361, de 29 de agosto de 2016
+
+Dispõe sobre diretrizes e parâmetros para o desenvolvimento de políticas públicas educacionais voltadas à educação bilíngue Libras/Português escrito, a serem implantadas e implementadas no âmbito do Município de Formosa, e dá outras providências.
+
+
+Projeto de Lei Ordinária n.° 042/16 de autoria do Vereador Santiago Ferreira Ribeiro.
+
+O PREFEITO MUNICIPAL DE FORMOSA,
+
+Faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Esta Lei estabelece as diretrizes e os parâmetros que devem ser observados, no âmbito do Município de Formosa, para a implantação e o desenvolvimento de políticas públicas voltadas à educação bilíngue Libras/Português escrito para surdos.
+
+
+Parágrafo único.
+
+Para a educação bilíngue para surdos são utilizadas a Língua Brasileira de Sinais – Libras, como primeira língua, e a língua portuguesa escrita, como segunda língua, sendo estas as línguas de comunicação e de instrução das atividades escolares para o ensino de todas as disciplinas curriculares, em todos os níveis da educação básica.
+
+
+Art. 2º.
+
+O desenvolvimento das políticas públicas educacionais de que trata o art. 1º deve ser realizado por meio de escola pública bilíngue de Libras e Língua portuguesa escrita, em que devem ser ministradas todas as disciplinas curriculares, em todos os níveis da educação básica, e é assegurado de acordo com as seguintes diretrizes:
+
+
+I –
+
+garantir a criação da Escola Pública Integral Bilíngue Libras e Português escrito no Município de Formosa;
+
+
+II –
+
+oferecer comunicação em Libras e ensino de Libras, como primeira língua, e comunicação em português escrito e ensino de português escrito, como segunda língua;
+
+
+III –
+
+oferecer o ensino que atenda, prioritariamente, aos alunos surdos, deficientes auditivos e filhos de pais surdos;
+
+
+IV –
+
+estabelecer, como línguas de comunicação e instrução para o ensino das disciplinas curriculares e demais atividades pedagógicas garantidas nesta Lei, a Língua Brasileira de Sinais, como primeira língua, e a língua portuguesa escrita, como segunda língua;
+
+
+V –
+
+preservar os mesmos componentes curriculares da Base Nacional Comum no currículo da Escola Pública Integral Bilíngue Libras e Português Escrito, permitidas a adequação, a complementação e a suplementação, conforme necessário, garantindo-se o componente curricular Libras, em todos os níveis da educação básica;
+
+
+VI –
+
+incluir no quadro de profissionais administrativos e pedagógicos, professores ou instrutores de Libras, prioritariamente surdos; professores bilíngues de Libras e português que atuem em cada área específica do conhecimento; tradutores e intérpretes de Libras e português; guias intérpretes, quando for o caso; e profissionais bilíngues em Libras e português que atuem com a tecnologia de informação e de comunicação;
+
+
+VII –
+
+definir o quantitativo e o perfil dos profissionais que atenderão às especificidades do ensino, em geral, e do ensino de Libras e do português escrito;
+
+
+VIII –
+
+prever em seu Projeto Político Pedagógico, atividades de formação continuada em Libras, estudos surdos e culturais, envolvendo a equipe docente, a equipe gestora, a equipe de apoio da unidade educacional e toda a comunidade escolar;
+
+
+IX –
+
+oferecer projetos que atendam às especificidades e às necessidades educacionais dos alunos, dos seus familiares, do corpo docente da instituição e dos demais profissionais do quadro administrativo da escola, para melhorar a adequação dos conteúdos curriculares e a formação integral dos alunos;
+
+
+X –
+
+preparar o aluno para o exercício da cidadania, de forma consciente e linguisticamente competente.
+
+
+Art. 3º.
+
+As diretrizes para a implantação das políticas públicas educacionais a serem implementadas devem priorizar os seguintes parâmetros, entre outros que se fizerem necessários:
+
+
+I –
+
+implantação de projeto-piloto;
+
+
+II –
+
+elaboração dos princípios pedagógicos e das normas de funcionamento;
+
+
+III –
+
+elaboração do Projeto Político Pedagógico;
+
+
+IV –
+
+definição do quantitativo e do perfil dos profissionais surdos e dos profissionais bilíngues que atuarão em cada área específica da instituição;
+
+
+V –
+
+definição de critérios necessários para a seleção dos profissionais bilíngues, com comprovada fluência em Libras;
+
+
+VI –
+
+estímulo à organização e à ampliação de programas específicos para elaboração de material didático e paradidático em Libras e de Libras, e também em língua portuguesa escrita e de língua portuguesa escrita, com recursos de multimídia, bem como, estímulo à utilização de mídias e novas tecnologias como meios de inclusão educacional dos surdos nas atividades escolares;
+
+
+VII –
+
+realização da comunicação e das atividades pedagógicas da escola em Libras, como primeira língua, e em português escrito, como segunda língua;
+
+
+VIII –
+
+disponibilização aos alunos, em turno contrário ao do ensino, de atividades facultativas que levem à oralização da língua portuguesa, em parceria com a área da saúde;
+
+
+IX –
+
+produção de material didático e paradidático pelo próprio corpo docente, com o apoio de especialistas engajados nas universidades do Município, com estudos que contemplem a educação de surdos, a Língua Brasileira de Sinais, os estudos surdos identitários e culturais, o ensino do português escrito como segunda língua, entre outros;
+
+
+X –
+
+aplicação de metodologia de ensino de Libras como primeira língua e de língua portuguesa escrita como segunda língua, da pedagogia visual e de recursos visuais, com vistas à melhoria do acesso à informação;
+
+
+XI –
+
+articulação com as demais políticas públicas que visam às especificidades e às necessidades sociais dos alunos surdos;
+
+
+XII –
+
+garantia de condições que assegurem a continuidade de estudos dos surdos nas demais etapas e modalidades de ensino, incluindo cursos pré-vestibulares, nas atividades acadêmicas oferecidas no contraturno;
+
+
+XIII –
+
+garantia para a educação bilíngue para surdos, observadas a Língua Brasileira de Sinais, como primeira língua, e a língua portuguesa escrita, como segunda língua, sendo estas as línguas de comunicação e de instrução das atividades escolares para o ensino de todas as disciplinas curriculares, em todos os níveis da educação básica.
+
+
+§ 1º
+
+A garantia dos parâmetros necessários à implantação das políticas públicas educacionais estabelecidas nessa Lei deve incluir a oferta educacional das seguintes modalidades de ensino:
+
+
+I –
+
+educação precoce e infantil, da forma seguinte:
+
+
+a)
+
+estimulação precoce às crianças surdas, a partir da detecção da surdez;
+
+
+b)
+
+educação bilíngue às crianças surdas, do nascimento aos cinco anos, em creches, propiciando a sua imersão na Língua Brasileira de Sinais, a fim de promover a aquisição da linguagem, em período propício, e o conhecimento de mundo, sob a tutela de profissionais surdos, de forma a garantir o desenvolvimento linguístico, cognitivo, emocional, psíquico, social e cultural, bem como a formação da identidade das crianças surdas, a partir da promoção do desenvolvimento bilíngue dessas crianças;
+
+
+II –
+
+ensino fundamental: educação bilíngue às crianças surdas matriculadas no ensino fundamental;
+
+
+III –
+
+ensino médio: educação bilíngue aos alunos surdos matriculados no ensino médio;
+
+
+IV –
+
+Educação de Jovens e Adultos – EJA: atendimento no primeiro, no segundo e no terceiro segmentos, diurno e noturno, da Educação de jovens e Adultos surdos, conforme a idade, a necessidade e o interesse dos alunos e dos seus familiares;
+
+
+V –
+
+educação profissional, da forma seguinte:
+
+
+a)
+
+acesso da pessoa surda à educação profissional, com as mesmas garantias e recursos utilizados na educação regular;
+
+
+b)
+
+informação aos alunos surdos sobre educação profissional, propostas salariais, acesso a cursos profissionalizantes e concursos.
+
+
+§ 2º
+
+Para a implantação e a implementação do projeto-piloto de que trata o caput, I, deve ser assegurada a participação de entidades representativas dos surdos e de pesquisadores de instituições públicas que atuem em favor da inclusão social e educacional dos surdos, de forma a garantir:
+
+
+I –
+
+a participação de entidades e instituições que tenham conhecimento e experiência reconhecida para o desenvolvimento de suas ações conjuntas;
+
+
+II –
+
+o respaldo de pesquisas desenvolvidas, no Brasil e fora dele, por pesquisadores das áreas de Educação, Letras e Linguística, especializados na educação de surdos, na estrutura de Libras e no ensino de Libras e da língua portuguesa escrita como segunda língua.
+
+
+Art. 4º.
+
+Deve ser estimulada a participação dos estudantes surdos em eventos culturais e esportivos, com o intuito de promover o protagonismo surdo e a divulgação das atividades por eles desenvolvidas, com vistas à inclusão social, ao intercâmbio dos alunos surdos com outros participantes de eventos culturais e esportivos, à ampliação de oportunidades, à aquisição de hábitos e à identificação de talentos representativos nas áreas culturais e esportivas.
+
+
+Art. 5º.
+
+O Poder Executivo regulamentará esta Lei no prazo de noventa dias.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 29 de agosto de 2016.
+
+ITAMAR SEBASTIÃO BARRETO
+
+Prefeito Municipal
+
+Afixado no “placard” de publicidade.
+
+E encadernado em livro próprio.
+
+Data supra.
+
+.................................................................................................
+
+IANY MACÊDO TRONCHA
+
+Superintendente de Legislação e Documentação
+

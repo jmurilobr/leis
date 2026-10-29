@@ -1,0 +1,42 @@
+[
+  {
+    "origin": "_fonte/operacao_root_20261027/DOU3059-chamada-testes-root.log",
+    "copy": "reguladores/_fonte/auditorias/DOU3059-ROOT-20261028-001/DOU3059-chamada-testes-root.txt",
+    "sha256": "2f4a189723a9349378c92f8c5e4e50eda776b1cc44435fd28eeaf2d30f716421"
+  },
+  {
+    "origin": "_fonte/operacao_root_20261027/DOU3059-replay-root.log",
+    "copy": "reguladores/_fonte/auditorias/DOU3059-ROOT-20261028-001/DOU3059-replay-root.txt",
+    "sha256": "8464a11a971f6a34b99363be288a5af47f6a201d3d80cbd5f7a9ee96a9c51940"
+  },
+  {
+    "origin": "_fonte/operacao_root_20261027/DOU3059-HEAD-root.log",
+    "copy": "reguladores/_fonte/auditorias/DOU3059-ROOT-20261028-001/DOU3059-HEAD-root.txt",
+    "sha256": "4662eb15dba9b674eebc627fe66176e501b8c381c88be00ba3b7cc53e0eef74a"
+  },
+  {
+    "origin": "_fonte/operacao_root_20261027/DOU3059-delta8000-root.log",
+    "copy": "reguladores/_fonte/auditorias/DOU3059-ROOT-20261028-001/DOU3059-delta8000-root.txt",
+    "sha256": "2403536832e115542602ee06fa67d95df8b2bb240577bec844f1462da5d2be50"
+  },
+  {
+    "origin": "_fonte/operacao_root_20261027/DOU3059-envelope-root.log",
+    "copy": "reguladores/_fonte/auditorias/DOU3059-ROOT-20261028-001/DOU3059-envelope-root.txt",
+    "sha256": "0a2e0bc327e4acf7ecc211b332c21b6ed013b457ac46af5895e6950c6a3b367c"
+  },
+  {
+    "origin": "_fonte/operacao_root_20261027/DOU3059-bloqueio-testes-root.log",
+    "copy": "reguladores/_fonte/auditorias/DOU3059-ROOT-20261028-001/DOU3059-bloqueio-testes-root.txt",
+    "sha256": "888a0c0ed615e57d32cf72be501b0c355f33b8613c81dfdaa99db33d7959487e"
+  },
+  {
+    "origin": "_fonte/operacao_root_20261027/DOU3059-verificador-publico-root.log",
+    "copy": "reguladores/_fonte/auditorias/DOU3059-ROOT-20261028-001/DOU3059-verificador-publico-root.txt",
+    "sha256": "e83341019dbabe8b285f9c54582ea6857b62a979121f53a2e51e9f85bbe9d6eb"
+  },
+  {
+    "origin": "_fonte/operacao_root_20261027/DOU3059-replay-sem-privados-root.log",
+    "copy": "reguladores/_fonte/auditorias/DOU3059-ROOT-20261028-001/DOU3059-replay-sem-privados-root.txt",
+    "sha256": "8464a11a971f6a34b99363be288a5af47f6a201d3d80cbd5f7a9ee96a9c51940"
+  }
+]

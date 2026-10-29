@@ -1,0 +1,21 @@
+"""Replay estrutural HTML5 sem rede, promoção ou alteração de comparadores."""
+from pathlib import Path
+import sys,json,gzip,hashlib,ast,argparse,re,difflib
+B=Path(__file__).resolve().parent;ROOT=B.parents[3];sys.path.insert(0,str(ROOT/'scripts'));sys.path.insert(0,str(ROOT/'scripts/bin/qa-html5-20261027/python'))
+import html5lib
+from estados import pe_fidelidade_visivel as v
+from auditar_pontuacao_federal import contexto_numerico
+sha=lambda b:hashlib.sha256(b).hexdigest();ap=argparse.ArgumentParser();ap.add_argument('--qa',required=True);ap.add_argument('--saida',required=True);args=ap.parse_args();assert re.fullmatch(r'[a-z0-9_]+',args.qa) and re.fullmatch(r'[a-z0-9_]+',args.saida);D=B/args.saida;D.mkdir(exist_ok=False);sourcecode=ROOT/'federal/_fonte/auditorias/commonmark8886_20261027_001/replay_commonmark_html5.py';tree=ast.parse(sourcecode.read_text());names={'tag','visible','ancestor','matrices','alpha','roman','lists'};nodes=[n for n in tree.body if isinstance(n,ast.FunctionDef) and n.name in names or isinstance(n,ast.Assign) and any(isinstance(t,ast.Name) and t.id in {'BLOCK','SKIP'} for t in n.targets)];assert len(nodes)==9;env={};exec(compile(ast.Module(body=nodes,type_ignores=[]),str(sourcecode),'exec'),env);visible=env['visible'];matrices=env['matrices'];lists=env['lists'];prep=json.loads((B/args.qa/'preparo.json').read_bytes());replay=json.loads((B/args.qa/'replay.json').read_bytes());rs={r['path']:r for r in prep['registros']};out=[]
+for q in replay['registros']:
+ if not q['aprovado']:continue
+ r=rs[q['path']];raw=(ROOT/r['candidato']).read_bytes();assert sha(raw)==r['sha256_candidato']==q['sha256_candidato'];record={'path':r['path'],'candidato':r['candidato'],'sha256_candidato':sha(raw),'checks':{},'provas':{}}
+ try:
+  st=html5lib.parse(r['HTML_normativo_normalizado'],treebuilder='etree',namespaceHTMLElements=False);a=visible(st.find('body'));sm=matrices(st);sl=lists(st);record['fonte']={'sha256_visivel_HTML5':sha(a.encode()),'matrizes':sm,'listas':sl}
+  for engine,p in q['renders'].items():
+   h=p['html_renderizado'];assert sha(h.encode())==p['sha256_html_renderizado'];rt=html5lib.parse(h,treebuilder='etree',namespaceHTMLElements=False);b=visible(rt.find('body'));rm=matrices(rt);rl=lists(rt);record['checks'][engine]={'texto_pontuacao_HTML5':a==b,'assinatura_numerica_HTML5':v.assinatura_numerica(a)==v.assinatura_numerica(b),'contextos_numericos_HTML5':contexto_numerico(a)==contexto_numerico(b),'matrizes_HTML5_linhas_celulas_spans':sm==rm,'listas_HTML5_type_start_value':sl==rl};proof={'sha256_render':sha(h.encode()),'sha256_visivel_HTML5':sha(b.encode()),'matrizes':rm,'listas':rl}
+   if a!=b:proof['diferencas_textuais']=[{'operacao':op,'fonte':a[max(0,i-70):j+70],'render':b[max(0,k-70):l+70]} for op,i,j,k,l in difflib.SequenceMatcher(a=a,b=b,autojunk=True).get_opcodes() if op!='equal'][:12]
+   record['provas'][engine]=proof
+  record['aprovado']=all(all(x.values()) for x in record['checks'].values())
+ except Exception as e:record.update(aprovado=False,erro_estrutura=str(e))
+ out.append(record)
+summary={'candidatos_dois_motores_anteriores':len(out),'HTML5_aprovados':sum(r['aprovado'] for r in out),'HTML5_divergencias_ou_estrutura_a_rever':sum(not r['aprovado'] for r in out),'tabelas_fonte':sum(len(r.get('fonte',{}).get('matrizes',[])) for r in out)};result={'resumo':summary,'HTML5_engine':html5lib.__version__,'codigo_comparador_congelado':{'path':str(sourcecode.relative_to(ROOT)),'sha256':sha(sourcecode.read_bytes()),'metodo':'Somente AST das sete funções e conjuntos BLOCK/SKIP; nenhuma alteração ao comparador 8.886 anterior.'},'QA_fonte':{'path':str((B/args.qa/'replay.json').relative_to(ROOT)),'sha256':sha((B/args.qa/'replay.json').read_bytes())},'registros':out,'limites':'Comparação do DOM HTML5 real em cada render completo, preservando texto/sinais/números, listas intrínsecas e células/spans. Sem executar CSS/JavaScript, sem afirmar identidade visual ou render GitHub. Retém qualquer divergência ou estrutura não suportada.'};(D/'resultado.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n');(D/'resultado.json.gz').write_bytes(gzip.compress((json.dumps(result,ensure_ascii=False)+'\n').encode(),mtime=0));print(json.dumps(summary),flush=True)

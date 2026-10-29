@@ -1,0 +1,132 @@
+---
+titulo: "Lei Ordinária nº 1.518, de 08 de novembro de 2007"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1518"
+data: "2007-11-08"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2444"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/902/text"
+sha256_fonte: "3044c5c74a3574eb2de8d1dd227a5dd6110f5c84f1d131b9009f438e005302bb"
+sha256_texto: "8cce1ef4b9d45c254c876c9988f65c24afdd7ec84bd97e443c48db20fb27d97c"
+capturado_em_fonte: "2026-10-28T13:23:11.990361-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.518, de 08 de novembro de 2007
+
+Dispõe sobre o Programa de Regularização Fundiária da Vila Eletrosul e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu Prefeito Municipal sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo de Guaíra - PR, autorizado a outorgar Escritura Pública de Doação para fins de regularização fundiária, das áreas integrantes da Vila Eletrosul, para ocupantes de imóveis públicos dominicais que preencham os seguintes requisitos:
+
+
+I –
+
+comprovem posse incontestável do imóvel a mais de 05 (cinco) anos;
+
+
+II –
+
+sejam eleitores no Município.
+
+
+**§ 1º** O possuidor pode, para o fim de contar o prazo exigido por este artigo, acrescentar sua posse à de seu antecessor, contanto que ambas sejam contínuas.
+
+
+Art. 2º.
+
+Que são as seguintes as áreas passíveis de regularização fundiária da Vila Eletrosul:
+
+
+I –
+
+Residencial "A", com os lotes e quadras devidamente descritos na matrícula nº 9710 do Cartório de Registro de Imóveis de Guaíra;
+
+
+II –
+
+Residencial "B", com os lotes e quadras devidamente descritos na matrícula nº 10.425 do Cartório de Registro de Imóveis de Guaíra;
+
+
+III –
+
+Residencial "C", com os lotes e quadras devidamente descritos na matricula nº 10.350 do Cartório de Registro de Imóveis de Guaíra.
+
+
+Art. 3º.
+
+O interessado deverá protocolar o requerimento padrão para solicitação de regularização fundiária do imóvel ocupado para fins de moradia que figura como ANEXO I, instruído com os documentos que comprovem as condições e exigências do artigo anterior, além de cópias autenticadas da certidão de casamento ou nascimento, carteira de identidade e CPF.
+
+
+Art. 4º.
+
+O Chefe do Poder Executivo, após a manifestação do Conselho Municipal de Habitação de Interesse Social, Departamento de Obras e Procuradoria do Município, terá um prazo de até 90 (noventa) dias para decidir fundamentadamente o pedido, indeferindo para casos de imóveis:
+
+
+I –
+
+de uso comum do povo, ou de bens de uso especial;
+
+
+II –
+
+destinado a projeto de urbanização de interesses coletivos;
+
+
+III –
+
+de preservação ambiental e da proteção dos ecossistemas naturais;
+
+
+IV –
+
+não comprovarem as exigências contidas no artigo 1º desta lei.
+
+
+Art. 5º.
+
+Fica permitida a regularização de apenas 01 (um) imóvel por família, a cujos beneficiários fica totalmente vedado o recebimento de outro benefício desta mesma natureza de parte do Município.
+
+
+Art. 6º.
+
+Comprovada a existência de fraude pelo Município na regularização de área, o beneficiado fica excluído de todo e qualquer programa social financiado com recursos do tesouro municipal.
+
+
+Art. 7º.
+
+As doações para fins de moradia, deverão ser gravadas com cláusula de inaliabilidade pelo período de 03 (três) anos, e as despesas de escrituração e regularização da área construída sobre o imóvel doado correrão por conta do donatário, excetuados os casos que, comprovadamente através de parecer fundamentado de Assistentes Sociais do Município, não dispuseram condições de arcar com estas custas.
+
+
+Art. 8º.
+
+As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias consignadas no orçamento municipal vigente.
+
+
+Art. 9º.
+
+O Chefe do Poder Executivo regulamentará por Decreto esta Lei, no que for necessário.
+
+
+Art. 10.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito de Guaíra - PR, em 8 de novembro de 2007.  
+  
+Fabian Persi Vendruscolo  
+Prefeito Municipal
+

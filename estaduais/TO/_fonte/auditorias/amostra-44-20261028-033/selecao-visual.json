@@ -1,0 +1,4383 @@
+[
+  {
+    "captura": {
+      "item": {
+        "id_ALETO": "7386",
+        "fonte": "https://www.al.to.leg.br/arquivo/7386",
+        "titulo_indice": "Lei nº 1140 de 2000 (ordinária)",
+        "numero": "1140",
+        "ano_titulo": "2000",
+        "tipo": "Lei Ordinária",
+        "pasta": "leis-ordinarias",
+        "data_cartao": "2000-02-28",
+        "data_literal": "| Data: 28/02/2000",
+        "ementa": "Altera a Lei nº 862, de 22 de agosto de 1996, na parte que especifica.",
+        "divergencia_ano_cartao_titulo": false,
+        "indicacao_editorial_compilacao": false,
+        "indice": {
+          "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2000&pagPaginaAtual=4",
+          "iniciado_em": "2026-10-27T23:13:31.489366-03:00",
+          "capturado_em": "2026-10-27T23:13:32.450249-03:00",
+          "retorno_curl": 0,
+          "http": 200,
+          "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2000&pagPaginaAtual=4",
+          "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/52faf0ecadd5aadcdcda92af9a21d260abe82ed30b856146e8f8f239c38266a1.html.gz",
+          "sha256_fonte": "52faf0ecadd5aadcdcda92af9a21d260abe82ed30b856146e8f8f239c38266a1",
+          "sha256_cache": "47818237c4ac4cd12d4cf8b7444a497fcd82394069ed2725d1d23a2333204bfe",
+          "headers": {
+            "cache-control": "private",
+            "content-type": "text/html;charset=UTF-8",
+            "date": "Wed, 28 Oct 2026 02:10:25 GMT"
+          },
+          "headers_sessao_omitidos": true,
+          "ano_filtro": 2000,
+          "pagina": 4,
+          "total_registros_declarado": 86,
+          "paginas_esperadas": 5
+        },
+        "ano_filtro": 2000,
+        "pagina": 4
+      },
+      "url": "https://www.al.to.leg.br/arquivo/7386",
+      "iniciado_em": "2026-10-28T06:02:19.450056-03:00",
+      "capturado_em": "2026-10-28T06:02:20.401323-03:00",
+      "retorno_curl": 0,
+      "http": 200,
+      "url_final": "https://www.al.to.leg.br/arquivos/7386.pdf",
+      "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/395da47890e697a307fb6dcf6ae5eccbcc1e95ed8f048e1a2114c2388f3f72c6.bin.gz",
+      "sha256_fonte": "395da47890e697a307fb6dcf6ae5eccbcc1e95ed8f048e1a2114c2388f3f72c6",
+      "sha256_cache": "9c01606f06589411eb3466ee5b51c68c6acf1120c40d24717a03156443e33e5a",
+      "bytes": 28339,
+      "PDF": true,
+      "headers": {
+        "cache-control": "private",
+        "location": "https://www.al.to.leg.br/arquivos/7386.pdf",
+        "content-length": "28339",
+        "date": "Wed, 28 Oct 2026 08:59:13 GMT",
+        "accept-ranges": "bytes",
+        "etag": "W/\"28339-1560775744734\"",
+        "last-modified": "Mon, 17 Jun 2019 12:49:04 GMT",
+        "content-type": "application/pdf"
+      },
+      "headers_sessao_omitidos": true
+    },
+    "QA": {
+      "referencias_inline": [
+        {
+          "offset": 147,
+          "referencia_literal": "Lei nº 862, de 22 de agosto de 1996",
+          "contexto_literal": "LEI Nº 1.140, DE 28 DE FEVEREIRO DE 2000.\nPublicado no Diário Oficial nº 893\n\n\n\n\n                                                         Altera a Lei nº 862, de 22 de agosto de 1996, na\n                                                         parte que especifica.\n\n\n              O Governador do Estado do Tocantins,\n\n           Faço saber que a Assembléia Leg"
+        },
+        {
+          "offset": 477,
+          "referencia_literal": "Lei nº 862, de 22 de agosto de 1996",
+          "contexto_literal": " Estado do Tocantins,\n\n           Faço saber que a Assembléia Legislativa do Estado do Tocantins aprova e eu\nsanciono a seguinte Lei:\n\n          Art. 1º. O inciso II do art. 1º da Lei nº 862, de 22 de agosto de 1996, passa a viger\ncom a seguinte redação:\n\n              \"Art. 1º.......................................................................................\n\n              .............."
+        }
+      ],
+      "anotacoes_editoriais": [],
+      "publicacao_literal": "Publicado no Diário Oficial nº 893",
+      "ementa_PDF": "Altera a Lei nº 862, de 22 de agosto de 1996, na parte que especifica.",
+      "numero": "1140",
+      "tipo": "Lei Ordinária",
+      "data": "2000-02-28",
+      "epigrafe": "LEI Nº 1.140, DE 28 DE FEVEREIRO DE 2000",
+      "fechos": [
+        "Palácio Araguaia, em Palmas, aos 28 dias do mês de fevereiro de 2000"
+      ],
+      "sha256_corpo": "7b68637d22b18ea35a6382744ef811d68138c211cd365645e0510a6ba3e3e8ee",
+      "sha256_camada": "269ecc15bd3be25dd787300ec692ed7111db53d74b4c701377d6c208425930b1",
+      "sha256_fonte": "395da47890e697a307fb6dcf6ae5eccbcc1e95ed8f048e1a2114c2388f3f72c6",
+      "total_paginas": 3,
+      "granularidade": {
+        "cabecalhos": [
+          {
+            "tipo": "Lei Ordinária",
+            "numero": "1140",
+            "data": "2000-02-28"
+          }
+        ],
+        "promulgacoes": 1,
+        "fechos": 1,
+        "outros_atos": []
+      },
+      "visuais": [
+        {
+          "pagina": 1,
+          "caracteres": 944,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "BT",
+            "ET",
+            "Q",
+            "RG",
+            "Tc",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "Tw",
+            "W",
+            "cm",
+            "gs",
+            "h",
+            "l",
+            "m",
+            "n",
+            "q",
+            "rg"
+          ]
+        },
+        {
+          "pagina": 2,
+          "caracteres": 926,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "BT",
+            "ET",
+            "Q",
+            "RG",
+            "TJ",
+            "Tc",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "Tw",
+            "cm",
+            "gs",
+            "q",
+            "rg"
+          ]
+        },
+        {
+          "pagina": 3,
+          "caracteres": 47,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "BT",
+            "ET",
+            "Q",
+            "RG",
+            "Tc",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "Tw",
+            "cm",
+            "gs",
+            "q",
+            "rg"
+          ]
+        }
+      ],
+      "visibilidade_complementar": {
+        "total_paginas": 3,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          },
+          {
+            "pagina": 2,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          },
+          {
+            "pagina": 3,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      },
+      "geometria_recortes": {
+        "total_paginas": 3,
+        "total_recortes": 1,
+        "criterio": "Todos os glifos dentro da página e de cada interseção de recortes, usando união conservadora de TODOS os contornos do programa incorporado e FontBBox declarado. CTM/fontsize/escala/rise completos; q/Q preservado. Sem pintura de caminhos.",
+        "paginas": [
+          {
+            "pagina": 1,
+            "MediaBox": [
+              0.0,
+              0.0,
+              612.0,
+              792.0
+            ],
+            "recortes": [
+              {
+                "operador": 10,
+                "retangulo": [
+                  1.0,
+                  1.0,
+                  612.0,
+                  792.0
+                ],
+                "intersecao_ativa": [
+                  1.0,
+                  1.0,
+                  612.0,
+                  792.0
+                ]
+              }
+            ],
+            "margem_seguranca_pt": 1.0,
+            "glifos": 944,
+            "caixa_glifos": [
+              70.9598,
+              73.02968000000001,
+              561.6306200000001,
+              678.43808
+            ],
+            "sha256_prova_glifos": "bcf63545355dd3f583d775c0a64151489d965920083f27679011abf2cd65dc1f",
+            "fontes": [
+              {
+                "nome": "OXJBZY+Helvetica",
+                "sha256_programa": "5ee9c510436254741e0141a359c08dbc21c867825c398ea6745e7ff5b8bf6b79",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  0.0,
+                  -23.0,
+                  667.0,
+                  729.0
+                ],
+                "FontBBox_declarado": [
+                  0.0,
+                  -23.0,
+                  667.0,
+                  729.0
+                ],
+                "caixa_uniao": [
+                  0.0,
+                  -23.0,
+                  667.0,
+                  729.0
+                ]
+              },
+              {
+                "nome": "KXUALW+Times-Roman",
+                "sha256_programa": "916a1f4b2b1681563d4b3c4be127d47d6216ecf906ad84433a39cd0b952238e2",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  0.0,
+                  -218.0,
+                  775.0,
+                  684.0
+                ],
+                "FontBBox_declarado": [
+                  0.0,
+                  -218.0,
+                  775.0,
+                  683.0
+                ],
+                "caixa_uniao": [
+                  0.0,
+                  -218.0,
+                  775.0,
+                  684.0
+                ]
+              },
+              {
+                "nome": "PVAECI+Times-Bold",
+                "sha256_programa": "b3bf02570116c0b1f46149bc8bc99e7e8709b8aa9e4ddab426c2da7eee467b36",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  0.0,
+                  -206.0,
+                  981.0,
+                  923.0
+                ],
+                "FontBBox_declarado": [
+                  0.0,
+                  -206.0,
+                  981.0,
+                  923.0
+                ],
+                "caixa_uniao": [
+                  0.0,
+                  -206.0,
+                  981.0,
+                  923.0
+                ]
+              },
+              {
+                "nome": "GDZOXA+Times-Italic",
+                "sha256_programa": "cdd671d7f90cd870e4b3b2dd19febe4bed7aa5c992b048afdce006d33d6a9323",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  -147.0,
+                  -217.0,
+                  873.0,
+                  683.0
+                ],
+                "FontBBox_declarado": [
+                  -147.0,
+                  -217.0,
+                  873.0,
+                  683.0
+                ],
+                "caixa_uniao": [
+                  -147.0,
+                  -217.0,
+                  873.0,
+                  683.0
+                ]
+              }
+            ]
+          },
+          {
+            "pagina": 2,
+            "MediaBox": [
+              0.0,
+              0.0,
+              612.0,
+              792.0
+            ],
+            "recortes": [],
+            "margem_seguranca_pt": 1.0,
+            "glifos": 926,
+            "caixa_glifos": [
+              70.98352000000074,
+              110.0966200000001,
+              559.8125200000007,
+              675.69368
+            ],
+            "sha256_prova_glifos": "3e9cf039cc087ad72ecb320ad814233f7f20fe5ee33b4d017f01ff7ac0e0cdbf",
+            "fontes": [
+              {
+                "nome": "KXUALW+Times-Roman",
+                "sha256_programa": "916a1f4b2b1681563d4b3c4be127d47d6216ecf906ad84433a39cd0b952238e2",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  0.0,
+                  -218.0,
+                  775.0,
+                  684.0
+                ],
+                "FontBBox_declarado": [
+                  0.0,
+                  -218.0,
+                  775.0,
+                  683.0
+                ],
+                "caixa_uniao": [
+                  0.0,
+                  -218.0,
+                  775.0,
+                  684.0
+                ]
+              },
+              {
+                "nome": "GDZOXA+Times-Italic",
+                "sha256_programa": "cdd671d7f90cd870e4b3b2dd19febe4bed7aa5c992b048afdce006d33d6a9323",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  -147.0,
+                  -217.0,
+                  873.0,
+                  683.0
+                ],
+                "FontBBox_declarado": [
+                  -147.0,
+                  -217.0,
+                  873.0,
+                  683.0
+                ],
+                "caixa_uniao": [
+                  -147.0,
+                  -217.0,
+                  873.0,
+                  683.0
+                ]
+              }
+            ]
+          },
+          {
+            "pagina": 3,
+            "MediaBox": [
+              0.0,
+              0.0,
+              612.0,
+              792.0
+            ],
+            "recortes": [],
+            "margem_seguranca_pt": 1.0,
+            "glifos": 47,
+            "caixa_glifos": [
+              205.12,
+              649.13722,
+              426.8681800000001,
+              678.43808
+            ],
+            "sha256_prova_glifos": "5afa0574568c072eead852bd2bc5598a6e0fd2551029c0c16c594e836cb264d6",
+            "fontes": [
+              {
+                "nome": "KXUALW+Times-Roman",
+                "sha256_programa": "916a1f4b2b1681563d4b3c4be127d47d6216ecf906ad84433a39cd0b952238e2",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  0.0,
+                  -218.0,
+                  775.0,
+                  684.0
+                ],
+                "FontBBox_declarado": [
+                  0.0,
+                  -218.0,
+                  775.0,
+                  683.0
+                ],
+                "caixa_uniao": [
+                  0.0,
+                  -218.0,
+                  775.0,
+                  684.0
+                ]
+              },
+              {
+                "nome": "PVAECI+Times-Bold",
+                "sha256_programa": "b3bf02570116c0b1f46149bc8bc99e7e8709b8aa9e4ddab426c2da7eee467b36",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  0.0,
+                  -206.0,
+                  981.0,
+                  923.0
+                ],
+                "FontBBox_declarado": [
+                  0.0,
+                  -206.0,
+                  981.0,
+                  923.0
+                ],
+                "caixa_uniao": [
+                  0.0,
+                  -206.0,
+                  981.0,
+                  923.0
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "CommonMark_cercas_iguais": true,
+      "contextos_objetos": [],
+      "revogada": null,
+      "limite": "Somente camada textual fornecida no PDF sem raster/vetor/anotações PDF, com anotações textuais editoriais delimitadas e preservadas quando presentes. Não foi aplicado OCR nem certificada vigência global ou equivalência ao DOE. Referências a objetos exigem revisão complementar."
+    },
+    "apto_automatico": true,
+    "corpo": "estaduais/TO/_fonte/auditorias/portal-QA-referencias-20261028-032/corpos/7386.md",
+    "sha256_corpo": "7b68637d22b18ea35a6382744ef811d68138c211cd365645e0510a6ba3e3e8ee"
+  },
+  {
+    "captura": {
+      "item": {
+        "id_ALETO": "6262",
+        "fonte": "https://www.al.to.leg.br/arquivo/6262",
+        "titulo_indice": "Lei nº 26 de 2000 (complementar)",
+        "numero": "26",
+        "ano_titulo": "2000",
+        "tipo": "Lei Complementar",
+        "pasta": "leis-complementares",
+        "data_cartao": "2000-12-15",
+        "data_literal": "| Data: 15/12/2000",
+        "ementa": "Altera a Lei Complementar nº 10, de 11 de janeiro de 1996 e dá outras providências.",
+        "divergencia_ano_cartao_titulo": false,
+        "indicacao_editorial_compilacao": false,
+        "indice": {
+          "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2000&pagPaginaAtual=5",
+          "iniciado_em": "2026-10-27T23:13:32.691143-03:00",
+          "capturado_em": "2026-10-27T23:13:33.551498-03:00",
+          "retorno_curl": 0,
+          "http": 200,
+          "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2000&pagPaginaAtual=5",
+          "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/988da8f4c26b56253c1c9da8bea91f9f26704541168baf21d89d8e7ebcaea75f.html.gz",
+          "sha256_fonte": "988da8f4c26b56253c1c9da8bea91f9f26704541168baf21d89d8e7ebcaea75f",
+          "sha256_cache": "b585dd98ccf82c5a971f2af2a86aef5d537b86d9bcacf9251bcd343159bfc735",
+          "headers": {
+            "cache-control": "private",
+            "content-type": "text/html;charset=UTF-8",
+            "date": "Wed, 28 Oct 2026 02:10:26 GMT"
+          },
+          "headers_sessao_omitidos": true,
+          "ano_filtro": 2000,
+          "pagina": 5,
+          "total_registros_declarado": 86,
+          "paginas_esperadas": 5
+        },
+        "ano_filtro": 2000,
+        "pagina": 5
+      },
+      "url": "https://www.al.to.leg.br/arquivo/6262",
+      "iniciado_em": "2026-10-28T06:02:38.790962-03:00",
+      "capturado_em": "2026-10-28T06:02:39.607800-03:00",
+      "retorno_curl": 0,
+      "http": 200,
+      "url_final": "https://www.al.to.leg.br/arquivos/6262.pdf",
+      "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/36e1d37ce534144deb48f730289efe1a227c81c6db05071a0f8883d0dba99d78.bin.gz",
+      "sha256_fonte": "36e1d37ce534144deb48f730289efe1a227c81c6db05071a0f8883d0dba99d78",
+      "sha256_cache": "12a275f2f55899b50e8ad916cbfb40c3428fbfab2d1143e07da51a161a621a30",
+      "bytes": 25239,
+      "PDF": true,
+      "headers": {
+        "cache-control": "private",
+        "location": "https://www.al.to.leg.br/arquivos/6262.pdf",
+        "content-length": "25239",
+        "date": "Wed, 28 Oct 2026 08:59:32 GMT",
+        "accept-ranges": "bytes",
+        "etag": "W/\"25239-1560775733222\"",
+        "last-modified": "Mon, 17 Jun 2019 12:48:53 GMT",
+        "content-type": "application/pdf"
+      },
+      "headers_sessao_omitidos": true
+    },
+    "QA": {
+      "referencias_inline": [
+        {
+          "offset": 154,
+          "referencia_literal": "Lei Complementar nº 10, de 11 de janeiro\n                                                        de 1996",
+          "contexto_literal": "LEI COMPLEMENTAR Nº 26, DE 15 DE DEZEMBRO DE 2000.\nPublicado no Diário Oficial nº 998\n\n\n\n                                                        Altera a Lei Complementar nº 10, de 11 de janeiro\n                                                        de 1996 e dá outras providências.\n\n\n          O Presidente do Tribunal de Justiça, no exercício do cargo de Governador do\nEstado do Tocantins,\n\n           Faço saber que a Assembléia Legi"
+        },
+        {
+          "offset": 1178,
+          "referencia_literal": "Lei Complementar nº 10, de\n11 de janeiro de 1996",
+          "contexto_literal": "as e Registros Públicos.”\n\n              Art. 2º. Esta Lei Complementar entra em vigor na data de sua publicação.\n\n           Art. 3º. Revoga-se o parágrafo único do artigo 75, da Lei Complementar nº 10, de\n11 de janeiro de 1996.\n\n         Palácio Araguaia, em Palmas, aos 15 dias do mês de dezembro de 2000, 179º da\nIndependência, 112º da República e 12º do Estado.\n\n\n                                       "
+        }
+      ],
+      "anotacoes_editoriais": [],
+      "publicacao_literal": "Publicado no Diário Oficial nº 998",
+      "ementa_PDF": null,
+      "numero": "26",
+      "tipo": "Lei Complementar",
+      "data": "2000-12-15",
+      "epigrafe": "LEI COMPLEMENTAR Nº 26, DE 15 DE DEZEMBRO DE 2000",
+      "fechos": [
+        "Palácio Araguaia, em Palmas, aos 15 dias do mês de dezembro de 2000"
+      ],
+      "sha256_corpo": "0d1f2132960f5eb924d8d302f06d0877412ea58ea38fafd78ec51f3459f44325",
+      "sha256_camada": "67676d55d4acf6781fc99488e106f35020eef2be2124da05a1aa78b98ff3d4ec",
+      "sha256_fonte": "36e1d37ce534144deb48f730289efe1a227c81c6db05071a0f8883d0dba99d78",
+      "total_paginas": 1,
+      "granularidade": {
+        "cabecalhos": [
+          {
+            "tipo": "Lei Complementar",
+            "numero": "26",
+            "data": "2000-12-15"
+          }
+        ],
+        "promulgacoes": 1,
+        "fechos": 1,
+        "outros_atos": []
+      },
+      "visuais": [
+        {
+          "pagina": 1,
+          "caracteres": 1178,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "BT",
+            "ET",
+            "Q",
+            "RG",
+            "Tc",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "Tw",
+            "W",
+            "cm",
+            "gs",
+            "h",
+            "l",
+            "m",
+            "n",
+            "q",
+            "rg"
+          ]
+        }
+      ],
+      "visibilidade_complementar": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      },
+      "geometria_recortes": {
+        "total_paginas": 1,
+        "total_recortes": 1,
+        "criterio": "Todos os glifos dentro da página e de cada interseção de recortes, usando união conservadora de TODOS os contornos do programa incorporado e FontBBox declarado. CTM/fontsize/escala/rise completos; q/Q preservado. Sem pintura de caminhos.",
+        "paginas": [
+          {
+            "pagina": 1,
+            "MediaBox": [
+              0.0,
+              0.0,
+              612.0,
+              792.0
+            ],
+            "recortes": [
+              {
+                "operador": 10,
+                "retangulo": [
+                  1.0,
+                  1.0,
+                  612.0,
+                  792.0
+                ],
+                "intersecao_ativa": [
+                  1.0,
+                  1.0,
+                  612.0,
+                  792.0
+                ]
+              }
+            ],
+            "margem_seguranca_pt": 1.0,
+            "glifos": 1178,
+            "caixa_glifos": [
+              70.05438000000025,
+              169.01671414,
+              560.9730800000002,
+              675.71648
+            ],
+            "sha256_prova_glifos": "0bce93dd085342b8aee43ecf677d2afebf8d9d251ca1f456814d6c015c876ba7",
+            "fontes": [
+              {
+                "nome": "UPGHNO+Helvetica",
+                "sha256_programa": "42face4dba7fdc38fbf6c20f88b30606c311a12c959e0fd760e8baf3060a111b",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  0.0,
+                  -23.0,
+                  742.0,
+                  742.0
+                ],
+                "FontBBox_declarado": [
+                  0.0,
+                  -23.0,
+                  742.0,
+                  742.0
+                ],
+                "caixa_uniao": [
+                  0.0,
+                  -23.0,
+                  742.0,
+                  742.0
+                ]
+              },
+              {
+                "nome": "TPNCTZ+Times-Roman",
+                "sha256_programa": "a6652ef1cafc703f206b99ba8a8cac0ddcc7e09d6d21a7326503b5783ebeae3b",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  -70.0,
+                  -218.0,
+                  863.0,
+                  688.0
+                ],
+                "FontBBox_declarado": [
+                  -70.0,
+                  -218.0,
+                  863.0,
+                  688.0
+                ],
+                "caixa_uniao": [
+                  -70.0,
+                  -218.0,
+                  863.0,
+                  688.0
+                ]
+              },
+              {
+                "nome": "GEBHLV+Times-Bold",
+                "sha256_programa": "d4235bb12b1e6c3eab75bec50104f8e9aced2f9f00294ac1540abbc0edc82328",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  -57.0,
+                  -205.0,
+                  921.0,
+                  713.0
+                ],
+                "FontBBox_declarado": [
+                  -57.0,
+                  -205.0,
+                  921.0,
+                  713.0
+                ],
+                "caixa_uniao": [
+                  -57.0,
+                  -205.0,
+                  921.0,
+                  713.0
+                ]
+              },
+              {
+                "nome": "AIQCXY+Times-Italic",
+                "sha256_programa": "edc0e3b6e067b2f42765ebfaa6b8dbc5ca8caa18efd7e7778f66dec757592eef",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  -51.0,
+                  -206.0,
+                  688.0,
+                  683.0
+                ],
+                "FontBBox_declarado": [
+                  -51.0,
+                  -206.0,
+                  688.0,
+                  683.0
+                ],
+                "caixa_uniao": [
+                  -51.0,
+                  -206.0,
+                  688.0,
+                  683.0
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "CommonMark_cercas_iguais": true,
+      "contextos_objetos": [],
+      "revogada": null,
+      "limite": "Somente camada textual fornecida no PDF sem raster/vetor/anotações PDF, com anotações textuais editoriais delimitadas e preservadas quando presentes. Não foi aplicado OCR nem certificada vigência global ou equivalência ao DOE. Referências a objetos exigem revisão complementar."
+    },
+    "apto_automatico": true,
+    "corpo": "estaduais/TO/_fonte/auditorias/portal-QA-referencias-20261028-032/corpos/6262.md",
+    "sha256_corpo": "0d1f2132960f5eb924d8d302f06d0877412ea58ea38fafd78ec51f3459f44325"
+  },
+  {
+    "captura": {
+      "item": {
+        "id_ALETO": "6260",
+        "fonte": "https://www.al.to.leg.br/arquivo/6260",
+        "titulo_indice": "Lei nº 25 de 2000 (complementar)",
+        "numero": "25",
+        "ano_titulo": "2000",
+        "tipo": "Lei Complementar",
+        "pasta": "leis-complementares",
+        "data_cartao": "2000-11-27",
+        "data_literal": "| Data: 27/11/2000",
+        "ementa": "Altera a Lei Complementar nº 10, de 11 de janeiro de 1996 e dá outras providências.",
+        "divergencia_ano_cartao_titulo": false,
+        "indicacao_editorial_compilacao": false,
+        "indice": {
+          "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2000&pagPaginaAtual=5",
+          "iniciado_em": "2026-10-27T23:13:32.691143-03:00",
+          "capturado_em": "2026-10-27T23:13:33.551498-03:00",
+          "retorno_curl": 0,
+          "http": 200,
+          "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2000&pagPaginaAtual=5",
+          "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/988da8f4c26b56253c1c9da8bea91f9f26704541168baf21d89d8e7ebcaea75f.html.gz",
+          "sha256_fonte": "988da8f4c26b56253c1c9da8bea91f9f26704541168baf21d89d8e7ebcaea75f",
+          "sha256_cache": "b585dd98ccf82c5a971f2af2a86aef5d537b86d9bcacf9251bcd343159bfc735",
+          "headers": {
+            "cache-control": "private",
+            "content-type": "text/html;charset=UTF-8",
+            "date": "Wed, 28 Oct 2026 02:10:26 GMT"
+          },
+          "headers_sessao_omitidos": true,
+          "ano_filtro": 2000,
+          "pagina": 5,
+          "total_registros_declarado": 86,
+          "paginas_esperadas": 5
+        },
+        "ano_filtro": 2000,
+        "pagina": 5
+      },
+      "url": "https://www.al.to.leg.br/arquivo/6260",
+      "iniciado_em": "2026-10-28T06:02:40.000984-03:00",
+      "capturado_em": "2026-10-28T06:02:40.841623-03:00",
+      "retorno_curl": 0,
+      "http": 200,
+      "url_final": "https://www.al.to.leg.br/arquivos/6260.pdf",
+      "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/dde0bab655b4d2abe399b4f02a6817348607f6ad1202c1caf603ed4b34f21608.bin.gz",
+      "sha256_fonte": "dde0bab655b4d2abe399b4f02a6817348607f6ad1202c1caf603ed4b34f21608",
+      "sha256_cache": "8e9849a2c63716f5e7a255e41f6be2e954c7534039795ba7f2a10a6e162368fd",
+      "bytes": 28970,
+      "PDF": true,
+      "headers": {
+        "cache-control": "private",
+        "location": "https://www.al.to.leg.br/arquivos/6260.pdf",
+        "content-length": "28970",
+        "date": "Wed, 28 Oct 2026 08:59:33 GMT",
+        "accept-ranges": "bytes",
+        "etag": "W/\"28970-1560775733202\"",
+        "last-modified": "Mon, 17 Jun 2019 12:48:53 GMT",
+        "content-type": "application/pdf"
+      },
+      "headers_sessao_omitidos": true
+    },
+    "QA": {
+      "referencias_inline": [
+        {
+          "offset": 154,
+          "referencia_literal": "Lei Complementar nº 10, de 11 de\n                                                       janeiro de 1996",
+          "contexto_literal": "LEI COMPLEMENTAR Nº 25, DE 27 DE NOVEMBRO DE 2000.\nPublicado no Diário Oficial nº 993\n\n\n\n\n                                                       Altera a Lei Complementar nº 10, de 11 de\n                                                       janeiro de 1996 e dá outras providências.\n\n\n               O Governador do Estado do Tocantins,\n\n          Faço saber que a Assembléia Legislativa do Estado do Tocantins decreta e\neu sanciono a s"
+        }
+      ],
+      "anotacoes_editoriais": [],
+      "publicacao_literal": "Publicado no Diário Oficial nº 993",
+      "ementa_PDF": "Altera a Lei Complementar nº 10, de 11 de janeiro de 1996 e dá outras providências.",
+      "numero": "25",
+      "tipo": "Lei Complementar",
+      "data": "2000-11-27",
+      "epigrafe": "LEI COMPLEMENTAR Nº 25, DE 27 DE NOVEMBRO DE 2000",
+      "fechos": [
+        "Palácio Araguaia, em Palmas, aos 27 dias do mês de novembro de 2000"
+      ],
+      "sha256_corpo": "d187418b3997a8b99ff26c3f1367f0ab660b3ba5118319e5ad4801ffb73fb27c",
+      "sha256_camada": "28fb6a46aafcb37f3e0c3ea05080eb2e5ebb8bfb74d7d36a588ceafee2ca6208",
+      "sha256_fonte": "dde0bab655b4d2abe399b4f02a6817348607f6ad1202c1caf603ed4b34f21608",
+      "total_paginas": 2,
+      "granularidade": {
+        "cabecalhos": [
+          {
+            "tipo": "Lei Complementar",
+            "numero": "25",
+            "data": "2000-11-27"
+          }
+        ],
+        "promulgacoes": 1,
+        "fechos": 1,
+        "outros_atos": []
+      },
+      "visuais": [
+        {
+          "pagina": 1,
+          "caracteres": 1488,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "BT",
+            "ET",
+            "Q",
+            "RG",
+            "Tc",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "Tw",
+            "W",
+            "cm",
+            "gs",
+            "h",
+            "l",
+            "m",
+            "n",
+            "q",
+            "rg"
+          ]
+        },
+        {
+          "pagina": 2,
+          "caracteres": 593,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "BT",
+            "ET",
+            "Q",
+            "RG",
+            "Tc",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "Tw",
+            "cm",
+            "gs",
+            "q",
+            "rg"
+          ]
+        }
+      ],
+      "visibilidade_complementar": {
+        "total_paginas": 2,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          },
+          {
+            "pagina": 2,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      },
+      "geometria_recortes": {
+        "total_paginas": 2,
+        "total_recortes": 1,
+        "criterio": "Todos os glifos dentro da página e de cada interseção de recortes, usando união conservadora de TODOS os contornos do programa incorporado e FontBBox declarado. CTM/fontsize/escala/rise completos; q/Q preservado. Sem pintura de caminhos.",
+        "paginas": [
+          {
+            "pagina": 1,
+            "MediaBox": [
+              0.0,
+              0.0,
+              612.0,
+              792.0
+            ],
+            "recortes": [
+              {
+                "operador": 10,
+                "retangulo": [
+                  1.0,
+                  1.0,
+                  612.0,
+                  792.0
+                ],
+                "intersecao_ativa": [
+                  1.0,
+                  1.0,
+                  612.0,
+                  792.0
+                ]
+              }
+            ],
+            "margem_seguranca_pt": 1.0,
+            "glifos": 1488,
+            "caixa_glifos": [
+              69.97888999999992,
+              93.60117999999986,
+              563.4493600000011,
+              678.5919200000001
+            ],
+            "sha256_prova_glifos": "717989e9a705fc7ff146dcc37575be93d157fae0b41b3b83fb8c96e88add21d8",
+            "fontes": [
+              {
+                "nome": "UMPICK+Times-Bold",
+                "sha256_programa": "080292920a175aced273ac49c3f9fd7a24ddb7916b00d0c581b50d37177a1687",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  -57.0,
+                  -205.0,
+                  981.0,
+                  923.0
+                ],
+                "FontBBox_declarado": [
+                  -57.0,
+                  -205.0,
+                  981.0,
+                  923.0
+                ],
+                "caixa_uniao": [
+                  -57.0,
+                  -205.0,
+                  981.0,
+                  923.0
+                ]
+              },
+              {
+                "nome": "CPSRIA+Times-Roman",
+                "sha256_programa": "116dc4f0bf98911bf1b10860e705175cd580acec047a7295d1002f001db5f3a0",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  -70.0,
+                  -218.0,
+                  775.0,
+                  688.0
+                ],
+                "FontBBox_declarado": [
+                  -70.0,
+                  -218.0,
+                  775.0,
+                  688.0
+                ],
+                "caixa_uniao": [
+                  -70.0,
+                  -218.0,
+                  775.0,
+                  688.0
+                ]
+              },
+              {
+                "nome": "IOKDMW+Times-Italic",
+                "sha256_programa": "57104bb5d74b1f182d33690101dc9e4c774a04438893a202c90447721390861c",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  -147.0,
+                  -217.0,
+                  873.0,
+                  683.0
+                ],
+                "FontBBox_declarado": [
+                  -147.0,
+                  -217.0,
+                  873.0,
+                  683.0
+                ],
+                "caixa_uniao": [
+                  -147.0,
+                  -217.0,
+                  873.0,
+                  683.0
+                ]
+              }
+            ]
+          },
+          {
+            "pagina": 2,
+            "MediaBox": [
+              0.0,
+              0.0,
+              612.0,
+              792.0
+            ],
+            "recortes": [],
+            "margem_seguranca_pt": 1.0,
+            "glifos": 593,
+            "caixa_glifos": [
+              69.97736000000043,
+              433.6180799999999,
+              562.9107300000011,
+              675.5385200000001
+            ],
+            "sha256_prova_glifos": "6ff63629d0506a38dfd1fd729b23edea7067a91de2e6843e2276b969cbf86cb9",
+            "fontes": [
+              {
+                "nome": "UMPICK+Times-Bold",
+                "sha256_programa": "080292920a175aced273ac49c3f9fd7a24ddb7916b00d0c581b50d37177a1687",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  -57.0,
+                  -205.0,
+                  981.0,
+                  923.0
+                ],
+                "FontBBox_declarado": [
+                  -57.0,
+                  -205.0,
+                  981.0,
+                  923.0
+                ],
+                "caixa_uniao": [
+                  -57.0,
+                  -205.0,
+                  981.0,
+                  923.0
+                ]
+              },
+              {
+                "nome": "CPSRIA+Times-Roman",
+                "sha256_programa": "116dc4f0bf98911bf1b10860e705175cd580acec047a7295d1002f001db5f3a0",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  -70.0,
+                  -218.0,
+                  775.0,
+                  688.0
+                ],
+                "FontBBox_declarado": [
+                  -70.0,
+                  -218.0,
+                  775.0,
+                  688.0
+                ],
+                "caixa_uniao": [
+                  -70.0,
+                  -218.0,
+                  775.0,
+                  688.0
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "CommonMark_cercas_iguais": true,
+      "contextos_objetos": [],
+      "revogada": null,
+      "limite": "Somente camada textual fornecida no PDF sem raster/vetor/anotações PDF, com anotações textuais editoriais delimitadas e preservadas quando presentes. Não foi aplicado OCR nem certificada vigência global ou equivalência ao DOE. Referências a objetos exigem revisão complementar."
+    },
+    "apto_automatico": true,
+    "corpo": "estaduais/TO/_fonte/auditorias/portal-QA-referencias-20261028-032/corpos/6260.md",
+    "sha256_corpo": "d187418b3997a8b99ff26c3f1367f0ab660b3ba5118319e5ad4801ffb73fb27c"
+  },
+  {
+    "captura": {
+      "item": {
+        "id_ALETO": "6280",
+        "fonte": "https://www.al.to.leg.br/arquivo/6280",
+        "titulo_indice": "Lei nº 35 de 2002 (complementar)",
+        "numero": "35",
+        "ano_titulo": "2002",
+        "tipo": "Lei Complementar",
+        "pasta": "leis-complementares",
+        "data_cartao": "2002-12-30",
+        "data_literal": "| Data: 30/12/2002",
+        "ementa": "Altera dispositivos da Lei Complementar nº 10, de 11 de janeiro de 1996, que instituiu a lei orgânica do Poder Judiciário do Estado do Tocantins e dá outras providências.",
+        "divergencia_ano_cartao_titulo": false,
+        "indicacao_editorial_compilacao": false,
+        "indice": {
+          "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2002&pagPaginaAtual=4",
+          "iniciado_em": "2026-10-27T23:13:43.599822-03:00",
+          "capturado_em": "2026-10-27T23:13:44.489056-03:00",
+          "retorno_curl": 0,
+          "http": 200,
+          "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2002&pagPaginaAtual=4",
+          "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/8a34b7ad79d73b13283e126d1ad74819a5ee138c68bfd152ae2632a338664d1b.html.gz",
+          "sha256_fonte": "8a34b7ad79d73b13283e126d1ad74819a5ee138c68bfd152ae2632a338664d1b",
+          "sha256_cache": "51c9f7d233dafd6aff3eb2191ca0bde82a00a3866c84864b344aaaa3189a4260",
+          "headers": {
+            "cache-control": "private",
+            "content-type": "text/html;charset=UTF-8",
+            "date": "Wed, 28 Oct 2026 02:10:37 GMT"
+          },
+          "headers_sessao_omitidos": true,
+          "ano_filtro": 2002,
+          "pagina": 4,
+          "total_registros_declarado": 77,
+          "paginas_esperadas": 4
+        },
+        "ano_filtro": 2002,
+        "pagina": 4
+      },
+      "url": "https://www.al.to.leg.br/arquivo/6280",
+      "iniciado_em": "2026-10-28T06:05:17.843974-03:00",
+      "capturado_em": "2026-10-28T06:05:18.634229-03:00",
+      "retorno_curl": 0,
+      "http": 200,
+      "url_final": "https://www.al.to.leg.br/arquivos/6280.pdf",
+      "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/92560b271926ca53d9cec1447275e02bff58ce047b60d19efef2e4eb36e9542a.bin.gz",
+      "sha256_fonte": "92560b271926ca53d9cec1447275e02bff58ce047b60d19efef2e4eb36e9542a",
+      "sha256_cache": "3a65be8d15374e197d24b4563f9efd867f666658949319ee65798363cb4c9752",
+      "bytes": 30593,
+      "PDF": true,
+      "headers": {
+        "cache-control": "private",
+        "location": "https://www.al.to.leg.br/arquivos/6280.pdf",
+        "content-length": "30593",
+        "date": "Wed, 28 Oct 2026 09:02:11 GMT",
+        "accept-ranges": "bytes",
+        "etag": "W/\"30593-1560775733346\"",
+        "last-modified": "Mon, 17 Jun 2019 12:48:53 GMT",
+        "content-type": "application/pdf"
+      },
+      "headers_sessao_omitidos": true
+    },
+    "QA": {
+      "referencias_inline": [
+        {
+          "offset": 169,
+          "referencia_literal": "Lei Complementar nº 10, de\n                                                         11 de janeiro de 1996",
+          "contexto_literal": "LEI COMPLEMENTAR Nº 35, DE 30 DE DEZEMBRO DE 2002\nPublicado no Diário Oficial nº 1346\n\n\n\n                                                         Altera dispositivos da Lei Complementar nº 10, de\n                                                         11 de janeiro de 1996, que instituiu a lei orgânica\n                                                         do Poder Judiciário do Estado do Tocantins e dá\n                                            "
+        },
+        {
+          "offset": 744,
+          "referencia_literal": "Lei\nComplementar nº 10, de 11 de janeiro de 1996",
+          "contexto_literal": " a Assembléia Legislativa do Estado do Tocantins decreta e eu\nsanciono a seguinte Lei Complementar:\n            Art. 1º. Os incisos I e II, do artigo 35 e o caput do artigo 36, da Lei\nComplementar nº 10, de 11 de janeiro de 1996, passam a vigorar com as seguintes\nalterações:\n              “Art. 35. A Justiça Militar dividir-se-á em dois Conselhos:\n              I - o Especial, composto por um Juiz Auditor"
+        },
+        {
+          "offset": 2069,
+          "referencia_literal": "Lei Complementar nº 10, de 11 de\njaneiro de 1996",
+          "contexto_literal": "......................................................................................................................”\n           Art. 2º. Revoga-se o inciso III, do artigo 36 da Lei Complementar nº 10, de 11 de\njaneiro de 1996.\n              Art. 3º. Esta Lei entra em vigor em 1º de janeiro de 2003.\n         Palácio Araguaia, em Palmas, aos 30 dias do mês de dezembro de 2002; 181º da\nIndependência, 114º"
+        }
+      ],
+      "anotacoes_editoriais": [],
+      "publicacao_literal": "Publicado no Diário Oficial nº 1346",
+      "ementa_PDF": "Altera dispositivos da Lei Complementar nº 10, de 11 de janeiro de 1996, que instituiu a lei orgânica do Poder Judiciário do Estado do Tocantins e dá outras providências.",
+      "numero": "35",
+      "tipo": "Lei Complementar",
+      "data": "2002-12-30",
+      "epigrafe": "LEI COMPLEMENTAR Nº 35, DE 30 DE DEZEMBRO DE 2002",
+      "fechos": [
+        "Palácio Araguaia, em Palmas, aos 30 dias do mês de dezembro de 2002"
+      ],
+      "sha256_corpo": "6d930884369c1a7d422a67d5cb8744c8616053bfb5f77400ae897ecbe12c370f",
+      "sha256_camada": "6527752155c3dbd0d927b699909b0cfad2ba420257a3f1aa7c40e59ce138751a",
+      "sha256_fonte": "92560b271926ca53d9cec1447275e02bff58ce047b60d19efef2e4eb36e9542a",
+      "total_paginas": 2,
+      "granularidade": {
+        "cabecalhos": [
+          {
+            "tipo": "Lei Complementar",
+            "numero": "35",
+            "data": "2002-12-30"
+          }
+        ],
+        "promulgacoes": 1,
+        "fechos": 1,
+        "outros_atos": []
+      },
+      "visuais": [
+        {
+          "pagina": 1,
+          "caracteres": 1863,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "BT",
+            "ET",
+            "Q",
+            "RG",
+            "TJ",
+            "Tc",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "Tw",
+            "W",
+            "cm",
+            "gs",
+            "h",
+            "l",
+            "m",
+            "n",
+            "q",
+            "rg"
+          ]
+        },
+        {
+          "pagina": 2,
+          "caracteres": 20,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "BT",
+            "ET",
+            "Q",
+            "RG",
+            "Tc",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "Tw",
+            "cm",
+            "gs",
+            "q",
+            "rg"
+          ]
+        }
+      ],
+      "visibilidade_complementar": {
+        "total_paginas": 2,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          },
+          {
+            "pagina": 2,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      },
+      "geometria_recortes": {
+        "total_paginas": 2,
+        "total_recortes": 1,
+        "criterio": "Todos os glifos dentro da página e de cada interseção de recortes, usando união conservadora de TODOS os contornos do programa incorporado e FontBBox declarado. CTM/fontsize/escala/rise completos; q/Q preservado. Sem pintura de caminhos.",
+        "paginas": [
+          {
+            "pagina": 1,
+            "MediaBox": [
+              0.0,
+              0.0,
+              612.0,
+              792.0
+            ],
+            "recortes": [
+              {
+                "operador": 10,
+                "retangulo": [
+                  1.0,
+                  1.0,
+                  612.0,
+                  792.0
+                ],
+                "intersecao_ativa": [
+                  1.0,
+                  1.0,
+                  612.0,
+                  792.0
+                ]
+              }
+            ],
+            "margem_seguranca_pt": 1.0,
+            "glifos": 1863,
+            "caixa_glifos": [
+              69.05942000000108,
+              60.686339999999795,
+              563.5856200000011,
+              678.43808
+            ],
+            "sha256_prova_glifos": "d0c23d3d225934f0b3c2aad760a3a0127deb77785b1fbac5617b04cbe29731ea",
+            "fontes": [
+              {
+                "nome": "EBHYYK+Helvetica",
+                "sha256_programa": "0239047d7208422d8bd200088653db469a4cb5bf88e1662529c038f0583376d3",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  0.0,
+                  -23.0,
+                  742.0,
+                  742.0
+                ],
+                "FontBBox_declarado": [
+                  0.0,
+                  -23.0,
+                  742.0,
+                  742.0
+                ],
+                "caixa_uniao": [
+                  0.0,
+                  -23.0,
+                  742.0,
+                  742.0
+                ]
+              },
+              {
+                "nome": "EQDCVL+Times-BoldItalic",
+                "sha256_programa": "152ecb8645baaefc6d8aa9bf76e9a40b941cdc36ffaab06f25a6609c5455f24d",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  -120.0,
+                  -205.0,
+                  492.0,
+                  594.0
+                ],
+                "FontBBox_declarado": [
+                  -120.0,
+                  -205.0,
+                  492.0,
+                  594.0
+                ],
+                "caixa_uniao": [
+                  -120.0,
+                  -205.0,
+                  492.0,
+                  594.0
+                ]
+              },
+              {
+                "nome": "NKTHRU+Times-Bold",
+                "sha256_programa": "8efd9032d4f009e56fb5417d5c2e46b83f19f8d9c5b79325b53230aeceae43bf",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  -57.0,
+                  -206.0,
+                  981.0,
+                  923.0
+                ],
+                "FontBBox_declarado": [
+                  -57.0,
+                  -206.0,
+                  981.0,
+                  923.0
+                ],
+                "caixa_uniao": [
+                  -57.0,
+                  -206.0,
+                  981.0,
+                  923.0
+                ]
+              },
+              {
+                "nome": "AZBTVX+Times-Roman",
+                "sha256_programa": "c9e1a7d7b472a105aa6faa568326c2f466dab61be152723ebfd47087d6d0494d",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  -70.0,
+                  -218.0,
+                  775.0,
+                  688.0
+                ],
+                "FontBBox_declarado": [
+                  -70.0,
+                  -218.0,
+                  775.0,
+                  688.0
+                ],
+                "caixa_uniao": [
+                  -70.0,
+                  -218.0,
+                  775.0,
+                  688.0
+                ]
+              },
+              {
+                "nome": "NASLCL+Times-Italic",
+                "sha256_programa": "e7208c02c54159d6e7dc85551be7fc963d7b80488fba5891ce0b065a1962b45c",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  -147.0,
+                  -217.0,
+                  873.0,
+                  686.0
+                ],
+                "FontBBox_declarado": [
+                  -147.0,
+                  -217.0,
+                  873.0,
+                  683.0
+                ],
+                "caixa_uniao": [
+                  -147.0,
+                  -217.0,
+                  873.0,
+                  686.0
+                ]
+              }
+            ]
+          },
+          {
+            "pagina": 2,
+            "MediaBox": [
+              0.0,
+              0.0,
+              612.0,
+              792.0
+            ],
+            "recortes": [],
+            "margem_seguranca_pt": 1.0,
+            "glifos": 20,
+            "caixa_glifos": [
+              253.89280000000002,
+              664.01672,
+              375.24087,
+              675.75848
+            ],
+            "sha256_prova_glifos": "1dd8600a13e3c652bdc0cb4bdea2667d2713d00cd25bb5eb49c47a187be7defe",
+            "fontes": [
+              {
+                "nome": "AZBTVX+Times-Roman",
+                "sha256_programa": "c9e1a7d7b472a105aa6faa568326c2f466dab61be152723ebfd47087d6d0494d",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  -70.0,
+                  -218.0,
+                  775.0,
+                  688.0
+                ],
+                "FontBBox_declarado": [
+                  -70.0,
+                  -218.0,
+                  775.0,
+                  688.0
+                ],
+                "caixa_uniao": [
+                  -70.0,
+                  -218.0,
+                  775.0,
+                  688.0
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "CommonMark_cercas_iguais": true,
+      "contextos_objetos": [],
+      "revogada": null,
+      "limite": "Somente camada textual fornecida no PDF sem raster/vetor/anotações PDF, com anotações textuais editoriais delimitadas e preservadas quando presentes. Não foi aplicado OCR nem certificada vigência global ou equivalência ao DOE. Referências a objetos exigem revisão complementar."
+    },
+    "apto_automatico": true,
+    "corpo": "estaduais/TO/_fonte/auditorias/portal-QA-referencias-20261028-032/corpos/6280.md",
+    "sha256_corpo": "6d930884369c1a7d422a67d5cb8744c8616053bfb5f77400ae897ecbe12c370f"
+  },
+  {
+    "captura": {
+      "item": {
+        "id_ALETO": "6279",
+        "fonte": "https://www.al.to.leg.br/arquivo/6279",
+        "titulo_indice": "Lei nº 34 de 2002 (complementar)",
+        "numero": "34",
+        "ano_titulo": "2002",
+        "tipo": "Lei Complementar",
+        "pasta": "leis-complementares",
+        "data_cartao": "2002-11-05",
+        "data_literal": "| Data: 05/11/2002",
+        "ementa": "Altera a Lei Complementar nº 10, de 11 de janeiro de 1996.",
+        "divergencia_ano_cartao_titulo": false,
+        "indicacao_editorial_compilacao": false,
+        "indice": {
+          "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2002&pagPaginaAtual=4",
+          "iniciado_em": "2026-10-27T23:13:43.599822-03:00",
+          "capturado_em": "2026-10-27T23:13:44.489056-03:00",
+          "retorno_curl": 0,
+          "http": 200,
+          "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2002&pagPaginaAtual=4",
+          "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/8a34b7ad79d73b13283e126d1ad74819a5ee138c68bfd152ae2632a338664d1b.html.gz",
+          "sha256_fonte": "8a34b7ad79d73b13283e126d1ad74819a5ee138c68bfd152ae2632a338664d1b",
+          "sha256_cache": "51c9f7d233dafd6aff3eb2191ca0bde82a00a3866c84864b344aaaa3189a4260",
+          "headers": {
+            "cache-control": "private",
+            "content-type": "text/html;charset=UTF-8",
+            "date": "Wed, 28 Oct 2026 02:10:37 GMT"
+          },
+          "headers_sessao_omitidos": true,
+          "ano_filtro": 2002,
+          "pagina": 4,
+          "total_registros_declarado": 77,
+          "paginas_esperadas": 4
+        },
+        "ano_filtro": 2002,
+        "pagina": 4
+      },
+      "url": "https://www.al.to.leg.br/arquivo/6279",
+      "iniciado_em": "2026-10-28T06:05:19.053995-03:00",
+      "capturado_em": "2026-10-28T06:05:19.975619-03:00",
+      "retorno_curl": 0,
+      "http": 200,
+      "url_final": "https://www.al.to.leg.br/arquivos/6279.pdf",
+      "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/a10763a10c2c7a9b3abb65ef93c8dc4333aa5019bba1eeda272de7e13b50ed8f.bin.gz",
+      "sha256_fonte": "a10763a10c2c7a9b3abb65ef93c8dc4333aa5019bba1eeda272de7e13b50ed8f",
+      "sha256_cache": "51a39e2c13b7580342494495017a2ef0b939bb451940df83a39a89c31277b371",
+      "bytes": 25696,
+      "PDF": true,
+      "headers": {
+        "cache-control": "private",
+        "location": "https://www.al.to.leg.br/arquivos/6279.pdf",
+        "content-length": "25696",
+        "date": "Wed, 28 Oct 2026 09:02:12 GMT",
+        "accept-ranges": "bytes",
+        "etag": "W/\"25696-1560775733334\"",
+        "last-modified": "Mon, 17 Jun 2019 12:48:53 GMT",
+        "content-type": "application/pdf"
+      },
+      "headers_sessao_omitidos": true
+    },
+    "QA": {
+      "referencias_inline": [
+        {
+          "offset": 165,
+          "referencia_literal": "Lei Complementar nº 10, de 11 de\n                                                                 janeiro de 1996",
+          "contexto_literal": "LEI COMPLEMENTAR Nº 34, DE 05 DE NOVEMBRO DE 2002.\nPublicado no Diário Oficial nº 1309\n\n\n\n\n                                                                 Altera a Lei Complementar nº 10, de 11 de\n                                                                 janeiro de 1996.\n\n\n                     O Governador do Estado do Tocantins\n\n                Faço saber que a Assembléia Legislativa do Estado do Tocantins decreta e\neu sanciono a seguinte Lei Co"
+        },
+        {
+          "offset": 518,
+          "referencia_literal": "Lei Complementar n.º 10, de 11 de janeiro de\n1996",
+          "contexto_literal": "\n\n                Faço saber que a Assembléia Legislativa do Estado do Tocantins decreta e\neu sanciono a seguinte Lei Complementar:\n\n                Art. 1º. O caput do art. 14 da Lei Complementar n.º 10, de 11 de janeiro de\n1996, passa a vigorar com a seguinte redação:\n\n              “Art. 14. O Tribunal de Justiça compõe-se de doze (12) desembargadores,\nnomeados ou promovidos de acordo com as normas cons"
+        }
+      ],
+      "anotacoes_editoriais": [],
+      "publicacao_literal": "Publicado no Diário Oficial nº 1309",
+      "ementa_PDF": "Altera a Lei Complementar nº 10, de 11 de janeiro de 1996.",
+      "numero": "34",
+      "tipo": "Lei Complementar",
+      "data": "2002-11-05",
+      "epigrafe": "LEI COMPLEMENTAR Nº 34, DE 05 DE NOVEMBRO DE 2002",
+      "fechos": [
+        "Palácio Araguaia, em Palmas, aos 05 dias do mês de novembro de 2002"
+      ],
+      "sha256_corpo": "2e07655048f138aaf5f4c997534b667203ec050914deaa9578e4b60bff213380",
+      "sha256_camada": "9e573e9ff6fe676b99a9d8245a770a4fbb9e64bac8577afe674028cffc1663e9",
+      "sha256_fonte": "a10763a10c2c7a9b3abb65ef93c8dc4333aa5019bba1eeda272de7e13b50ed8f",
+      "total_paginas": 1,
+      "granularidade": {
+        "cabecalhos": [
+          {
+            "tipo": "Lei Complementar",
+            "numero": "34",
+            "data": "2002-11-05"
+          }
+        ],
+        "promulgacoes": 1,
+        "fechos": 1,
+        "outros_atos": []
+      },
+      "visuais": [
+        {
+          "pagina": 1,
+          "caracteres": 1008,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "BT",
+            "ET",
+            "Q",
+            "RG",
+            "Tc",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "Tw",
+            "W",
+            "cm",
+            "gs",
+            "h",
+            "l",
+            "m",
+            "n",
+            "q",
+            "rg"
+          ]
+        }
+      ],
+      "visibilidade_complementar": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      },
+      "geometria_recortes": {
+        "total_paginas": 1,
+        "total_recortes": 1,
+        "criterio": "Todos os glifos dentro da página e de cada interseção de recortes, usando união conservadora de TODOS os contornos do programa incorporado e FontBBox declarado. CTM/fontsize/escala/rise completos; q/Q preservado. Sem pintura de caminhos.",
+        "paginas": [
+          {
+            "pagina": 1,
+            "MediaBox": [
+              0.0,
+              0.0,
+              612.0,
+              792.0
+            ],
+            "recortes": [
+              {
+                "operador": 10,
+                "retangulo": [
+                  1.0,
+                  1.0,
+                  612.0,
+                  792.0
+                ],
+                "intersecao_ativa": [
+                  1.0,
+                  1.0,
+                  612.0,
+                  792.0
+                ]
+              }
+            ],
+            "margem_seguranca_pt": 1.0,
+            "glifos": 1008,
+            "caixa_glifos": [
+              69.05662000000042,
+              210.89691999999988,
+              562.47206,
+              678.43808
+            ],
+            "sha256_prova_glifos": "4137070ba30220e7176fde98bc2b9978e0a3e1997e57ad6b611144f997f05541",
+            "fontes": [
+              {
+                "nome": "EQDCVL+Times-BoldItalic",
+                "sha256_programa": "152ecb8645baaefc6d8aa9bf76e9a40b941cdc36ffaab06f25a6609c5455f24d",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  -120.0,
+                  -205.0,
+                  492.0,
+                  594.0
+                ],
+                "FontBBox_declarado": [
+                  -120.0,
+                  -205.0,
+                  492.0,
+                  594.0
+                ],
+                "caixa_uniao": [
+                  -120.0,
+                  -205.0,
+                  492.0,
+                  594.0
+                ]
+              },
+              {
+                "nome": "AVTJYK+Times-Roman",
+                "sha256_programa": "352989d53e7ae50afe3c86f604bced9604f31b3e8c8135e480be6338da28e636",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  -70.0,
+                  -218.0,
+                  775.0,
+                  688.0
+                ],
+                "FontBBox_declarado": [
+                  -70.0,
+                  -218.0,
+                  775.0,
+                  688.0
+                ],
+                "caixa_uniao": [
+                  -70.0,
+                  -218.0,
+                  775.0,
+                  688.0
+                ]
+              },
+              {
+                "nome": "MRPBVC+Helvetica",
+                "sha256_programa": "8a1949276776ebab7ed1796b42e256727057fe487877229f7a7f2b504c04b84a",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  0.0,
+                  -23.0,
+                  742.0,
+                  742.0
+                ],
+                "FontBBox_declarado": [
+                  0.0,
+                  -23.0,
+                  742.0,
+                  742.0
+                ],
+                "caixa_uniao": [
+                  0.0,
+                  -23.0,
+                  742.0,
+                  742.0
+                ]
+              },
+              {
+                "nome": "CLUDNQ+Times-Bold",
+                "sha256_programa": "bf387811d1a8bbc24a7a3b85bf6f192c781bc44ad7f4b6f327a13d05231d3ad9",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  -57.0,
+                  -205.0,
+                  981.0,
+                  923.0
+                ],
+                "FontBBox_declarado": [
+                  -57.0,
+                  -205.0,
+                  981.0,
+                  923.0
+                ],
+                "caixa_uniao": [
+                  -57.0,
+                  -205.0,
+                  981.0,
+                  923.0
+                ]
+              },
+              {
+                "nome": "TBQZPI+Times-Italic",
+                "sha256_programa": "e5ac7fa0501581751df9345168d81120e2f219ec13fec96836a3129df1d7a0fa",
+                "tipo_programa": "Type1C",
+                "caixa_programa_conservadora": [
+                  -147.0,
+                  -217.0,
+                  706.0,
+                  683.0
+                ],
+                "FontBBox_declarado": [
+                  -147.0,
+                  -217.0,
+                  706.0,
+                  683.0
+                ],
+                "caixa_uniao": [
+                  -147.0,
+                  -217.0,
+                  706.0,
+                  683.0
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "CommonMark_cercas_iguais": true,
+      "contextos_objetos": [],
+      "revogada": null,
+      "limite": "Somente camada textual fornecida no PDF sem raster/vetor/anotações PDF, com anotações textuais editoriais delimitadas e preservadas quando presentes. Não foi aplicado OCR nem certificada vigência global ou equivalência ao DOE. Referências a objetos exigem revisão complementar."
+    },
+    "apto_automatico": true,
+    "corpo": "estaduais/TO/_fonte/auditorias/portal-QA-referencias-20261028-032/corpos/6279.md",
+    "sha256_corpo": "2e07655048f138aaf5f4c997534b667203ec050914deaa9578e4b60bff213380"
+  },
+  {
+    "captura": {
+      "item": {
+        "id_ALETO": "48286",
+        "fonte": "https://www.al.to.leg.br/arquivo/48286",
+        "titulo_indice": "Lei nº 117 de 2019 (complementar)",
+        "numero": "117",
+        "ano_titulo": "2019",
+        "tipo": "Lei Complementar",
+        "pasta": "leis-complementares",
+        "data_cartao": "2019-03-14",
+        "data_literal": "| Data: 14/03/2019",
+        "ementa": "Revoga o inciso VI, do art. 23, da Lei Complementar nº 51, de 02 de janeiro de 2008, que institui a Lei Orgânica do Ministério Público.",
+        "divergencia_ano_cartao_titulo": false,
+        "indicacao_editorial_compilacao": false,
+        "indice": {
+          "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2019&pagPaginaAtual=12",
+          "iniciado_em": "2026-10-28T09:18:28.267236-03:00",
+          "capturado_em": "2026-10-28T09:18:29.309055-03:00",
+          "retorno_curl": 0,
+          "http": 200,
+          "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2019&pagPaginaAtual=12",
+          "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261028-007/eebf47d94f62a1338e08309a22190ae228789f3959314b3f404c0c9aaaf2a252.html.gz",
+          "sha256_fonte": "eebf47d94f62a1338e08309a22190ae228789f3959314b3f404c0c9aaaf2a252",
+          "sha256_cache": "7a416a5f40eb35a0bf2b194f4424f218d75b5632dfcc3191b994335106c8f898",
+          "headers": {
+            "cache-control": "private",
+            "content-type": "text/html;charset=UTF-8",
+            "date": "Wed, 28 Oct 2026 12:15:21 GMT"
+          },
+          "headers_sessao_omitidos": true,
+          "ano_filtro": 2019,
+          "pagina": 12,
+          "total_registros_declarado": 233,
+          "paginas_esperadas": 12
+        },
+        "ano_filtro": 2019,
+        "pagina": 12
+      },
+      "url": "https://www.al.to.leg.br/arquivo/48286",
+      "iniciado_em": "2026-10-28T09:28:51.629085-03:00",
+      "capturado_em": "2026-10-28T09:28:52.633087-03:00",
+      "retorno_curl": 0,
+      "http": 200,
+      "url_final": "https://www.al.to.leg.br/arquivos/lei_117-2019_48286.PDF",
+      "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-008/fontes/b94a677ecbb121a3c1ffe4b56dd2c70151025ca94fdfb1b85866dab5db0799aa.bin.gz",
+      "sha256_fonte": "b94a677ecbb121a3c1ffe4b56dd2c70151025ca94fdfb1b85866dab5db0799aa",
+      "sha256_cache": "6e8933b4cdf5cb2e38ed98d0e41730a498145f37a8a746168cfb70f7690ed673",
+      "bytes": 7171,
+      "PDF": true,
+      "headers": {
+        "cache-control": "private",
+        "location": "https://www.al.to.leg.br/arquivos/lei_117-2019_48286.PDF",
+        "content-length": "7171",
+        "date": "Wed, 28 Oct 2026 12:25:45 GMT",
+        "accept-ranges": "bytes",
+        "etag": "W/\"7171-1560775961466\"",
+        "last-modified": "Mon, 17 Jun 2019 12:52:41 GMT",
+        "content-type": "application/pdf"
+      },
+      "headers_sessao_omitidos": true
+    },
+    "QA": {
+      "referencias_inline": [
+        {
+          "offset": 166,
+          "referencia_literal": "Lei Complementar nº 51,\n                                           de 02 de janeiro de 2008",
+          "contexto_literal": "LEI COMPLEMENTAR Nº 117, DE 14 DE MARÇO DE 2019.\nPublicado no Diário Oficial nº 5.319\n\n\n                                           Revoga o inciso VI, do art. 23, da Lei Complementar nº 51,\n                                           de 02 de janeiro de 2008, que institui a Lei Orgânica do\n                                           Ministério Público.\n\n\n       O Governador do Estado do Tocantins,\n\n     Faço saber que a Assembleia Legi"
+        },
+        {
+          "offset": 572,
+          "referencia_literal": "Lei Complementar nº 51, de 02 de janeiro\nde 2008",
+          "contexto_literal": "ntins,\n\n     Faço saber que a Assembleia Legislativa do Estado do Tocantins, decreta e eu\nsanciono a seguinte Lei Complementar:\n\n     Art. 1º Revoga-se o inciso VI, do art. 23, da Lei Complementar nº 51, de 02 de janeiro\nde 2008.\n\n       Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação.\n\n     Palácio Araguaia, em Palmas, aos 14 dias do mês de março de 2019, 198º da\nIndependência, 131"
+        }
+      ],
+      "anotacoes_editoriais": [],
+      "publicacao_literal": "Publicado no Diário Oficial nº 5.319",
+      "ementa_PDF": "Revoga o inciso VI, do art. 23, da Lei Complementar nº 51, de 02 de janeiro de 2008, que institui a Lei Orgânica do Ministério Público.",
+      "numero": "117",
+      "tipo": "Lei Complementar",
+      "data": "2019-03-14",
+      "epigrafe": "LEI COMPLEMENTAR Nº 117, DE 14 DE MARÇO DE 2019",
+      "fechos": [
+        "Palácio Araguaia, em Palmas, aos 14 dias do mês de março de 2019"
+      ],
+      "sha256_corpo": "96517c82ed21b2b7163b533d8357053535da52671d32d383e8d4bd5cc36c5257",
+      "sha256_camada": "a4a7bd9e5bdcb530e64ab64d8cf25eff680bf7cecbdb9b89236020f066440d7d",
+      "sha256_fonte": "b94a677ecbb121a3c1ffe4b56dd2c70151025ca94fdfb1b85866dab5db0799aa",
+      "total_paginas": 1,
+      "granularidade": {
+        "cabecalhos": [
+          {
+            "tipo": "Lei Complementar",
+            "numero": "117",
+            "data": "2019-03-14"
+          }
+        ],
+        "promulgacoes": 1,
+        "fechos": 1,
+        "outros_atos": []
+      },
+      "visuais": [
+        {
+          "pagina": 1,
+          "caracteres": 709,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "BDC",
+            "BT",
+            "EMC",
+            "ET",
+            "G",
+            "TJ",
+            "Tc",
+            "Tf",
+            "Tm",
+            "g"
+          ]
+        }
+      ],
+      "visibilidade_complementar": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              595.32,
+              842.04
+            ],
+            "MediaBox": [
+              0,
+              0,
+              595.32,
+              842.04
+            ],
+            "marcacoes": [
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 0
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 1
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 2
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 3
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 4
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 5
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 6
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 7
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 8
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 9
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 10
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 11
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 12
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 13
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 14
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 15
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 16
+              }
+            ]
+          }
+        ]
+      },
+      "geometria_recortes": {
+        "total_recortes": 0,
+        "criterio": "Nenhum operador de caminho/recorte presente; gates anteriores conservados."
+      },
+      "CommonMark_cercas_iguais": true,
+      "contextos_objetos": [],
+      "revogada": null,
+      "limite": "Somente camada textual fornecida no PDF sem raster/vetor/anotações PDF, com anotações textuais editoriais delimitadas e preservadas quando presentes. Não foi aplicado OCR nem certificada vigência global ou equivalência ao DOE. Referências a objetos exigem revisão complementar."
+    },
+    "apto_automatico": true,
+    "corpo": "estaduais/TO/_fonte/auditorias/portal-QA-referencias-20261028-032/corpos/48286.md",
+    "sha256_corpo": "96517c82ed21b2b7163b533d8357053535da52671d32d383e8d4bd5cc36c5257"
+  },
+  {
+    "captura": {
+      "item": {
+        "id_ALETO": "43035",
+        "fonte": "https://www.al.to.leg.br/arquivo/43035",
+        "titulo_indice": "Lei nº 110 de 2017 (complementar)",
+        "numero": "110",
+        "ano_titulo": "2017",
+        "tipo": "Lei Complementar",
+        "pasta": "leis-complementares",
+        "data_cartao": "2017-10-17",
+        "data_literal": "| Data: 17/10/2017",
+        "ementa": "Altera a Lei Complementar nº 55, de 27 de maio de 2009, na parte que especifica.",
+        "divergencia_ano_cartao_titulo": false,
+        "indicacao_editorial_compilacao": false,
+        "indice": {
+          "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2017&pagPaginaAtual=9",
+          "iniciado_em": "2026-10-28T09:18:09.004852-03:00",
+          "capturado_em": "2026-10-28T09:18:09.836035-03:00",
+          "retorno_curl": 0,
+          "http": 200,
+          "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2017&pagPaginaAtual=9",
+          "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261028-007/c6c79682efc7d5a0062d96d0e5f0b887162cefd8016b662208d184b01fb7dd78.html.gz",
+          "sha256_fonte": "c6c79682efc7d5a0062d96d0e5f0b887162cefd8016b662208d184b01fb7dd78",
+          "sha256_cache": "43b0054913088e7b63f6e9988ca1049b3de2d79906f27d0baae8eb14303bacc9",
+          "headers": {
+            "cache-control": "private",
+            "content-type": "text/html;charset=UTF-8",
+            "date": "Wed, 28 Oct 2026 12:15:02 GMT"
+          },
+          "headers_sessao_omitidos": true,
+          "ano_filtro": 2017,
+          "pagina": 9,
+          "total_registros_declarado": 171,
+          "paginas_esperadas": 9
+        },
+        "ano_filtro": 2017,
+        "pagina": 9
+      },
+      "url": "https://www.al.to.leg.br/arquivo/43035",
+      "iniciado_em": "2026-10-28T09:32:23.665633-03:00",
+      "capturado_em": "2026-10-28T09:32:24.556431-03:00",
+      "retorno_curl": 0,
+      "http": 200,
+      "url_final": "https://www.al.to.leg.br/arquivos/lei_110-2017_43035.PDF",
+      "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-008/fontes/0936e82400646949c889839efe08dd6cacf8cc5567c1b2aa1619abb3c24fb770.bin.gz",
+      "sha256_fonte": "0936e82400646949c889839efe08dd6cacf8cc5567c1b2aa1619abb3c24fb770",
+      "sha256_cache": "f561d5728980106e679bb8c1eff61b66f114acb009524a0fd56a4acb0efbe927",
+      "bytes": 10826,
+      "PDF": true,
+      "headers": {
+        "cache-control": "private",
+        "location": "https://www.al.to.leg.br/arquivos/lei_110-2017_43035.PDF",
+        "content-length": "10826",
+        "date": "Wed, 28 Oct 2026 12:29:16 GMT",
+        "accept-ranges": "bytes",
+        "etag": "W/\"10826-1560775961386\"",
+        "last-modified": "Mon, 17 Jun 2019 12:52:41 GMT",
+        "content-type": "application/pdf"
+      },
+      "headers_sessao_omitidos": true
+    },
+    "QA": {
+      "referencias_inline": [
+        {
+          "offset": 162,
+          "referencia_literal": "Lei Complementar nº 55, de 27 de maio de 2009",
+          "contexto_literal": "LEI COMPLEMENTAR Nº 110, DE 17 DE OUTUBRO DE 2017.\nPublicada no Diário Oficial nº 4.972\n\n\n                                                               Altera a Lei Complementar nº 55, de 27 de maio de 2009,\n                                                               na parte que especifica.\n\n\n       O Governador do Estado do Tocantins\n\n      Faço saber que a Assembleia Legislativ"
+        },
+        {
+          "offset": 479,
+          "referencia_literal": "Lei Complementar nº 55, de 27 de maio de 2009",
+          "contexto_literal": "       O Governador do Estado do Tocantins\n\n      Faço saber que a Assembleia Legislativa do Estado do Tocantins decreta e eu sanciono a\nseguinte Lei Complementar:\n      Art. 1º A Lei Complementar nº 55, de 27 de maio de 2009, passa a vigorar com a\nseguinte redação:\n       “Art. 5º. ........................................................................................................................."
+        },
+        {
+          "offset": 4258,
+          "referencia_literal": "Lei Complementar n. 55, de 27 de\nmaio de 2009",
+          "contexto_literal": "...................................................................................................................(NR)”\n      Art. 2º A subseção II da Seção II do Capítulo III da Lei Complementar n. 55, de 27 de\nmaio de 2009, passa a vigorar com o seguinte título: “Da Escola Superior da Defensoria\nPública do Estado do Tocantins”.\n      Art. 3º. Os cargos de Coordenador do Centro de Estudos Jurídicos e"
+        }
+      ],
+      "anotacoes_editoriais": [],
+      "publicacao_literal": "Publicada no Diário Oficial nº 4.972",
+      "ementa_PDF": "Altera a Lei Complementar nº 55, de 27 de maio de 2009, na parte que especifica.",
+      "numero": "110",
+      "tipo": "Lei Complementar",
+      "data": "2017-10-17",
+      "epigrafe": "LEI COMPLEMENTAR Nº 110, DE 17 DE OUTUBRO DE 2017",
+      "fechos": [
+        "Palácio Araguaia, em Palmas, aos 17 dias do mês de outubro de 2017"
+      ],
+      "sha256_corpo": "07d2c54900aa0026320a28d1d92e648883b8d77fe6c5d1dd8b4ddf494dd5b600",
+      "sha256_camada": "9d64477ef720814bb3811f28158b5bb75d54f762074b74c1aaba6c310a97e731",
+      "sha256_fonte": "0936e82400646949c889839efe08dd6cacf8cc5567c1b2aa1619abb3c24fb770",
+      "total_paginas": 2,
+      "granularidade": {
+        "cabecalhos": [
+          {
+            "tipo": "Lei Complementar",
+            "numero": "110",
+            "data": "2017-10-17"
+          }
+        ],
+        "promulgacoes": 1,
+        "fechos": 1,
+        "outros_atos": []
+      },
+      "visuais": [
+        {
+          "pagina": 1,
+          "caracteres": 2881,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "'",
+            "BT",
+            "ET",
+            "G",
+            "Q",
+            "T*",
+            "TJ",
+            "TL",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "cm",
+            "g",
+            "q"
+          ]
+        },
+        {
+          "pagina": 2,
+          "caracteres": 1726,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "'",
+            "BT",
+            "ET",
+            "G",
+            "Q",
+            "TJ",
+            "TL",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "cm",
+            "g",
+            "q"
+          ]
+        }
+      ],
+      "visibilidade_complementar": {
+        "total_paginas": 2,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              595,
+              842
+            ],
+            "MediaBox": [
+              0,
+              0,
+              595,
+              842
+            ],
+            "marcacoes": []
+          },
+          {
+            "pagina": 2,
+            "CropBox": [
+              0,
+              0,
+              595,
+              842
+            ],
+            "MediaBox": [
+              0,
+              0,
+              595,
+              842
+            ],
+            "marcacoes": []
+          }
+        ]
+      },
+      "geometria_recortes": {
+        "total_recortes": 0,
+        "criterio": "Nenhum operador de caminho/recorte presente; gates anteriores conservados."
+      },
+      "CommonMark_cercas_iguais": true,
+      "contextos_objetos": [],
+      "revogada": null,
+      "limite": "Somente camada textual fornecida no PDF sem raster/vetor/anotações PDF, com anotações textuais editoriais delimitadas e preservadas quando presentes. Não foi aplicado OCR nem certificada vigência global ou equivalência ao DOE. Referências a objetos exigem revisão complementar."
+    },
+    "apto_automatico": true,
+    "corpo": "estaduais/TO/_fonte/auditorias/portal-QA-referencias-20261028-032/corpos/43035.md",
+    "sha256_corpo": "07d2c54900aa0026320a28d1d92e648883b8d77fe6c5d1dd8b4ddf494dd5b600"
+  },
+  {
+    "captura": {
+      "item": {
+        "id_ALETO": "42064",
+        "fonte": "https://www.al.to.leg.br/arquivo/42064",
+        "titulo_indice": "Lei nº 3239 de 2017 (ordinária)",
+        "numero": "3239",
+        "ano_titulo": "2017",
+        "tipo": "Lei Ordinária",
+        "pasta": "leis-ordinarias",
+        "data_cartao": "2017-07-17",
+        "data_literal": "| Data: 17/07/2017",
+        "ementa": "Altera a Lei nº 1.758, de 2 de janeiro de 2007, que reestrutura a Agência Reguladora de Serviços Públicos Delegados do Estado do Tocantins – ARESTO, dá nova denominação a esta e adota outras providências.",
+        "divergencia_ano_cartao_titulo": false,
+        "indicacao_editorial_compilacao": false,
+        "indice": {
+          "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2017&pagPaginaAtual=6",
+          "iniciado_em": "2026-10-28T09:18:05.352777-03:00",
+          "capturado_em": "2026-10-28T09:18:06.241122-03:00",
+          "retorno_curl": 0,
+          "http": 200,
+          "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2017&pagPaginaAtual=6",
+          "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261028-007/103d6e5ea9de285438e431d40a59108bc27041958a1c288684384d3c889bcd45.html.gz",
+          "sha256_fonte": "103d6e5ea9de285438e431d40a59108bc27041958a1c288684384d3c889bcd45",
+          "sha256_cache": "5239985a26ee7f61b8b1a4b542d69757e0db7015b795e48db4f170d6653f7b2e",
+          "headers": {
+            "cache-control": "private",
+            "content-type": "text/html;charset=UTF-8",
+            "date": "Wed, 28 Oct 2026 12:14:58 GMT"
+          },
+          "headers_sessao_omitidos": true,
+          "ano_filtro": 2017,
+          "pagina": 6,
+          "total_registros_declarado": 171,
+          "paginas_esperadas": 9
+        },
+        "ano_filtro": 2017,
+        "pagina": 6
+      },
+      "url": "https://www.al.to.leg.br/arquivo/42064",
+      "iniciado_em": "2026-10-28T09:32:58.226809-03:00",
+      "capturado_em": "2026-10-28T09:32:59.181877-03:00",
+      "retorno_curl": 0,
+      "http": 200,
+      "url_final": "https://www.al.to.leg.br/arquivos/lei_3239-2017_42064.PDF",
+      "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-008/fontes/c1d8173bef59e38c2b15efc5897ebb60eaa6385b95c904fc590ba9bf387781c8.bin.gz",
+      "sha256_fonte": "c1d8173bef59e38c2b15efc5897ebb60eaa6385b95c904fc590ba9bf387781c8",
+      "sha256_cache": "8ddf2123d6f0652d32ca8e23cfca20a7c224e39f437b523b6c1415133925149d",
+      "bytes": 14142,
+      "PDF": true,
+      "headers": {
+        "cache-control": "private",
+        "location": "https://www.al.to.leg.br/arquivos/lei_3239-2017_42064.PDF",
+        "content-length": "14142",
+        "date": "Wed, 28 Oct 2026 12:29:51 GMT",
+        "accept-ranges": "bytes",
+        "etag": "W/\"14142-1560775968126\"",
+        "last-modified": "Mon, 17 Jun 2019 12:52:48 GMT",
+        "content-type": "application/pdf"
+      },
+      "headers_sessao_omitidos": true
+    },
+    "QA": {
+      "referencias_inline": [
+        {
+          "offset": 248,
+          "referencia_literal": "Lei nº 1.758, de 2 de janeiro de 2007",
+          "contexto_literal": " 4.912\n*Declarada Inconstitucional pela Ação Direta de Inconstitucionalidade nº 0015200-30.2017.827.0000.\n\n\n\n                                                              Altera a Lei nº 1.758, de 2 de janeiro de 2007, que reestrutura a\n                                                              Agência Reguladora de Serviços Públicos Delegados do Estado\n                                      "
+        },
+        {
+          "offset": 800,
+          "referencia_literal": "Lei nº 1.758, de 2 de janeiro de 2007",
+          "contexto_literal": "idências.\n\n\n      O Governador do Estado do Tocantins:\n\n      Faço saber que a Assembleia Legislativa do Estado do Tocantins decreta e eu sanciono a\nseguinte Lei:\n\n      Art. 1º A Lei nº 1.758, de 2 de janeiro de 2007 passa a vigorar com as seguintes alterações:\n\n      “Art. 5º ......................................................................................................................"
+        }
+      ],
+      "anotacoes_editoriais": [
+        {
+          "linha_inicial": 3,
+          "trecho_literal": "*Declarada Inconstitucional pela Ação Direta de Inconstitucionalidade nº 0015200-30.2017.827.0000.",
+          "contexto_literal": "LEI Nº 3.239, DE 17 DE JULHO DE 2017.\nPublicada no Diário Oficial nº 4.912\n*Declarada Inconstitucional pela Ação Direta de Inconstitucionalidade nº 0015200-30.2017.827.0000.\n\n\n\n                                                              Altera a Lei nº 1.758, de 2 de janeiro de 2007, que reestrutura a\n                                                              Agência Reguladora de Serviços Públicos Delega"
+        }
+      ],
+      "publicacao_literal": "Publicada no Diário Oficial nº 4.912",
+      "ementa_PDF": null,
+      "numero": "3239",
+      "tipo": "Lei Ordinária",
+      "data": "2017-07-17",
+      "epigrafe": "LEI Nº 3.239, DE 17 DE JULHO DE 2017",
+      "fechos": [
+        "Palácio Araguaia, em Palmas, aos 17 dias do mês de julho de 2017"
+      ],
+      "sha256_corpo": "7a07b29047737861760394f75a04b5e002f633af31ea6cea284c7563ed255227",
+      "sha256_camada": "2a9e8249840c602c35fa354d659f79ec5225b2768c0beaf8093c1e6515dcf25a",
+      "sha256_fonte": "c1d8173bef59e38c2b15efc5897ebb60eaa6385b95c904fc590ba9bf387781c8",
+      "total_paginas": 1,
+      "granularidade": {
+        "cabecalhos": [
+          {
+            "tipo": "Lei Ordinária",
+            "numero": "3239",
+            "data": "2017-07-17"
+          }
+        ],
+        "promulgacoes": 1,
+        "fechos": 1,
+        "outros_atos": []
+      },
+      "visuais": [
+        {
+          "pagina": 1,
+          "caracteres": 2231,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "'",
+            "BT",
+            "ET",
+            "G",
+            "Q",
+            "T*",
+            "TJ",
+            "TL",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "cm",
+            "g",
+            "q"
+          ]
+        }
+      ],
+      "visibilidade_complementar": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              595,
+              842
+            ],
+            "MediaBox": [
+              0,
+              0,
+              595,
+              842
+            ],
+            "marcacoes": []
+          }
+        ]
+      },
+      "geometria_recortes": {
+        "total_recortes": 0,
+        "criterio": "Nenhum operador de caminho/recorte presente; gates anteriores conservados."
+      },
+      "CommonMark_cercas_iguais": true,
+      "contextos_objetos": [],
+      "revogada": null,
+      "limite": "Somente camada textual fornecida no PDF sem raster/vetor/anotações PDF, com anotações textuais editoriais delimitadas e preservadas quando presentes. Não foi aplicado OCR nem certificada vigência global ou equivalência ao DOE. Referências a objetos exigem revisão complementar."
+    },
+    "apto_automatico": true,
+    "corpo": "estaduais/TO/_fonte/auditorias/portal-QA-referencias-20261028-032/corpos/42064.md",
+    "sha256_corpo": "7a07b29047737861760394f75a04b5e002f633af31ea6cea284c7563ed255227"
+  },
+  {
+    "captura": {
+      "item": {
+        "id_ALETO": "40609",
+        "fonte": "https://www.al.to.leg.br/arquivo/40609",
+        "titulo_indice": "Lei nº 108 de 2016 (complementar)",
+        "numero": "108",
+        "ano_titulo": "2016",
+        "tipo": "Lei Complementar",
+        "pasta": "leis-complementares",
+        "data_cartao": "2016-12-16",
+        "data_literal": "| Data: 16/12/2016",
+        "ementa": "Altera A Lei Complementar nº 51, de 2 de janeiro de 2008, que Institui a Lei Orgânica do Ministerio Público do Estado do Tocantins.",
+        "divergencia_ano_cartao_titulo": false,
+        "indicacao_editorial_compilacao": false,
+        "indice": {
+          "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2016&pagPaginaAtual=7",
+          "iniciado_em": "2026-10-28T09:17:58.130137-03:00",
+          "capturado_em": "2026-10-28T09:17:59.040251-03:00",
+          "retorno_curl": 0,
+          "http": 200,
+          "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2016&pagPaginaAtual=7",
+          "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261028-007/d9056676f3715a03873ba1102a20a6ee95e8d8d16957005a30a3c94ea2c84965.html.gz",
+          "sha256_fonte": "d9056676f3715a03873ba1102a20a6ee95e8d8d16957005a30a3c94ea2c84965",
+          "sha256_cache": "6615510114cbb9b43227aefabc5da60ff7bffb6817759345b83b9680544de912",
+          "headers": {
+            "cache-control": "private",
+            "content-type": "text/html;charset=UTF-8",
+            "date": "Wed, 28 Oct 2026 12:14:51 GMT"
+          },
+          "headers_sessao_omitidos": true,
+          "ano_filtro": 2016,
+          "pagina": 7,
+          "total_registros_declarado": 128,
+          "paginas_esperadas": 7
+        },
+        "ano_filtro": 2016,
+        "pagina": 7
+      },
+      "url": "https://www.al.to.leg.br/arquivo/40609",
+      "iniciado_em": "2026-10-28T09:34:42.277141-03:00",
+      "capturado_em": "2026-10-28T09:34:43.249108-03:00",
+      "retorno_curl": 0,
+      "http": 200,
+      "url_final": "https://www.al.to.leg.br/arquivos/lei_108-2016_40609.PDF",
+      "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-008/fontes/a449b8baaf7a330db704f9291a4f94eacd782035b5ae29003998ce98bd351739.bin.gz",
+      "sha256_fonte": "a449b8baaf7a330db704f9291a4f94eacd782035b5ae29003998ce98bd351739",
+      "sha256_cache": "d8917defed6726884dbba0bd68091d198fcc298fbaa88d232e5bb416ae532182",
+      "bytes": 5998,
+      "PDF": true,
+      "headers": {
+        "cache-control": "private",
+        "location": "https://www.al.to.leg.br/arquivos/lei_108-2016_40609.PDF",
+        "content-length": "5998",
+        "date": "Wed, 28 Oct 2026 12:31:35 GMT",
+        "accept-ranges": "bytes",
+        "etag": "W/\"5998-1560775961374\"",
+        "last-modified": "Mon, 17 Jun 2019 12:52:41 GMT",
+        "content-type": "application/pdf"
+      },
+      "headers_sessao_omitidos": true
+    },
+    "QA": {
+      "referencias_inline": [
+        {
+          "offset": 163,
+          "referencia_literal": "Lei Complementar nº 51, de 2 de janeiro de\n                                                               2008",
+          "contexto_literal": "LEI COMPLEMENTAR Nº 108, DE 16 DE DEZEMBRO DE 2016.\nPublicada no Diário Oficial nº 4.765\n\n\n                                                               Altera A Lei Complementar nº 51, de 2 de janeiro de\n                                                               2008, que Institui a Lei Orgânica do Ministerio\n                                                               Público do Estado do Tocantins.\n\n\n       O Governador do Estado do Tocant"
+        },
+        {
+          "offset": 632,
+          "referencia_literal": "Lei Complementar nº 51, de 2 de\njaneiro de 2008",
+          "contexto_literal": "tins:\n\n      Faço saber que a Assembleia Legislativa do Estado do Tocantins decreta e eu\nsanciono a seguinte Lei Complementar:\n\n      Art. 1° É acrescido o inciso X ao art. 131 da Lei Complementar nº 51, de 2 de\njaneiro de 2008, com a seguinte redação:\n\n       “Art.131. ...................................................................................................................\n\n       ............"
+        }
+      ],
+      "anotacoes_editoriais": [],
+      "publicacao_literal": "Publicada no Diário Oficial nº 4.765",
+      "ementa_PDF": "Altera A Lei Complementar nº 51, de 2 de janeiro de 2008, que Institui a Lei Orgânica do Ministerio Público do Estado do Tocantins.",
+      "numero": "108",
+      "tipo": "Lei Complementar",
+      "data": "2016-12-16",
+      "epigrafe": "LEI COMPLEMENTAR Nº 108, DE 16 DE DEZEMBRO DE 2016",
+      "fechos": [
+        "Palácio Araguaia, em Palmas, aos 16 dias do mês de dezembro de 2016"
+      ],
+      "sha256_corpo": "f89096c5fbfd95433e15b0c5b9585b41961e0d2ee1b2775a033e22dc142e25f3",
+      "sha256_camada": "e18a65a98b68a55185766e2a292352a2ee06292400e81e6930cb540c5028e30f",
+      "sha256_fonte": "a449b8baaf7a330db704f9291a4f94eacd782035b5ae29003998ce98bd351739",
+      "total_paginas": 1,
+      "granularidade": {
+        "cabecalhos": [
+          {
+            "tipo": "Lei Complementar",
+            "numero": "108",
+            "data": "2016-12-16"
+          }
+        ],
+        "promulgacoes": 1,
+        "fechos": 1,
+        "outros_atos": []
+      },
+      "visuais": [
+        {
+          "pagina": 1,
+          "caracteres": 1220,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "'",
+            "BT",
+            "ET",
+            "G",
+            "Q",
+            "T*",
+            "TJ",
+            "TL",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "cm",
+            "g",
+            "q"
+          ]
+        }
+      ],
+      "visibilidade_complementar": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              595,
+              842
+            ],
+            "MediaBox": [
+              0,
+              0,
+              595,
+              842
+            ],
+            "marcacoes": []
+          }
+        ]
+      },
+      "geometria_recortes": {
+        "total_recortes": 0,
+        "criterio": "Nenhum operador de caminho/recorte presente; gates anteriores conservados."
+      },
+      "CommonMark_cercas_iguais": true,
+      "contextos_objetos": [],
+      "revogada": null,
+      "limite": "Somente camada textual fornecida no PDF sem raster/vetor/anotações PDF, com anotações textuais editoriais delimitadas e preservadas quando presentes. Não foi aplicado OCR nem certificada vigência global ou equivalência ao DOE. Referências a objetos exigem revisão complementar."
+    },
+    "apto_automatico": true,
+    "corpo": "estaduais/TO/_fonte/auditorias/portal-QA-referencias-20261028-032/corpos/40609.md",
+    "sha256_corpo": "f89096c5fbfd95433e15b0c5b9585b41961e0d2ee1b2775a033e22dc142e25f3"
+  },
+  {
+    "captura": {
+      "item": {
+        "id_ALETO": "39583",
+        "fonte": "https://www.al.to.leg.br/arquivo/39583",
+        "titulo_indice": "Lei nº 105 de 2016 (complementar)",
+        "numero": "105",
+        "ano_titulo": "2016",
+        "tipo": "Lei Complementar",
+        "pasta": "leis-complementares",
+        "data_cartao": "2016-05-18",
+        "data_literal": "| Data: 18/05/2016",
+        "ementa": "Altera a Lei Complementar nº 55, de 27 de maio de 2009 que Organiza a Defensoria Pública do Estado do Tocantins, e adota outras providências.",
+        "divergencia_ano_cartao_titulo": false,
+        "indicacao_editorial_compilacao": false,
+        "indice": {
+          "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2016&pagPaginaAtual=7",
+          "iniciado_em": "2026-10-28T09:17:58.130137-03:00",
+          "capturado_em": "2026-10-28T09:17:59.040251-03:00",
+          "retorno_curl": 0,
+          "http": 200,
+          "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2016&pagPaginaAtual=7",
+          "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261028-007/d9056676f3715a03873ba1102a20a6ee95e8d8d16957005a30a3c94ea2c84965.html.gz",
+          "sha256_fonte": "d9056676f3715a03873ba1102a20a6ee95e8d8d16957005a30a3c94ea2c84965",
+          "sha256_cache": "6615510114cbb9b43227aefabc5da60ff7bffb6817759345b83b9680544de912",
+          "headers": {
+            "cache-control": "private",
+            "content-type": "text/html;charset=UTF-8",
+            "date": "Wed, 28 Oct 2026 12:14:51 GMT"
+          },
+          "headers_sessao_omitidos": true,
+          "ano_filtro": 2016,
+          "pagina": 7,
+          "total_registros_declarado": 128,
+          "paginas_esperadas": 7
+        },
+        "ano_filtro": 2016,
+        "pagina": 7
+      },
+      "url": "https://www.al.to.leg.br/arquivo/39583",
+      "iniciado_em": "2026-10-28T09:42:37.921618-03:00",
+      "capturado_em": "2026-10-28T09:42:39.132284-03:00",
+      "retorno_curl": 0,
+      "http": 200,
+      "url_final": "https://www.al.to.leg.br/arquivos/lei_105-2016_39583.PDF",
+      "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-011/fontes/f2e09fb6c361c06a6492eec26e52036ec0079d5f6346b58e5165412dd6df8dd5.bin.gz",
+      "sha256_fonte": "f2e09fb6c361c06a6492eec26e52036ec0079d5f6346b58e5165412dd6df8dd5",
+      "sha256_cache": "f254baa1436a991299a3c19f5f94dd23ae75083f1292fdf7bd88e63364118457",
+      "bytes": 6205,
+      "PDF": true,
+      "headers": {
+        "cache-control": "private",
+        "location": "https://www.al.to.leg.br/arquivos/lei_105-2016_39583.PDF",
+        "content-length": "6205",
+        "date": "Wed, 28 Oct 2026 12:39:31 GMT",
+        "accept-ranges": "bytes",
+        "etag": "W/\"6205-1560775961346\"",
+        "last-modified": "Mon, 17 Jun 2019 12:52:41 GMT",
+        "content-type": "application/pdf"
+      },
+      "headers_sessao_omitidos": true
+    },
+    "QA": {
+      "referencias_inline": [
+        {
+          "offset": 188,
+          "referencia_literal": "Lei Complementar nº 55, de 27 de maio de 2009",
+          "contexto_literal": "LEMENTAR Nº 105, DE 18 DE MAIO DE 2016.\n*(Republicada para correção de erro material) Diário Oficial 4.626\n\n\n                                                              Altera a Lei Complementar nº 55, de 27 de maio de 2009\n                                                              que Organiza a Defensoria Pública do Estado do Tocantins,\n                                                           "
+        },
+        {
+          "offset": 626,
+          "referencia_literal": "Lei Complementar nº 55, de 27 de maio de 2009",
+          "contexto_literal": "\n      O Governador do Estado do Tocantins:\n\n      Faço saber que a Assembleia Legislativa do Estado do Tocantins decreta eu sanciono a\nseguinte Lei Complementar:\n\n      Art. 1º A Lei Complementar nº 55, de 27 de maio de 2009, que organiza a Defensoria\nPública do Estado do Tocantins passa a vigorar com as seguintes alterações:\n\n      “Art. 27............................................................."
+        }
+      ],
+      "anotacoes_editoriais": [],
+      "publicacao_literal": null,
+      "ementa_PDF": null,
+      "numero": "105",
+      "tipo": "Lei Complementar",
+      "data": "2016-05-18",
+      "epigrafe": "LEI COMPLEMENTAR Nº 105, DE 18 DE MAIO DE 2016",
+      "fechos": [
+        "Palácio Araguaia, em Palmas, aos 18 dias do mês de maio de 2016"
+      ],
+      "sha256_corpo": "09129aa3873f54e38e5b7433a105f5762a82c431c63be22cd8661a41e30a0861",
+      "sha256_camada": "808d664aa1c74c84380b39f5fbf90af7c2a223a581e21669c24fbe87a8810fac",
+      "sha256_fonte": "f2e09fb6c361c06a6492eec26e52036ec0079d5f6346b58e5165412dd6df8dd5",
+      "total_paginas": 1,
+      "granularidade": {
+        "cabecalhos": [
+          {
+            "tipo": "Lei Complementar",
+            "numero": "105",
+            "data": "2016-05-18"
+          }
+        ],
+        "promulgacoes": 1,
+        "fechos": 1,
+        "outros_atos": []
+      },
+      "visuais": [
+        {
+          "pagina": 1,
+          "caracteres": 1858,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "'",
+            "BT",
+            "ET",
+            "G",
+            "Q",
+            "T*",
+            "TJ",
+            "TL",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "cm",
+            "g",
+            "q"
+          ]
+        }
+      ],
+      "visibilidade_complementar": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              595,
+              842
+            ],
+            "MediaBox": [
+              0,
+              0,
+              595,
+              842
+            ],
+            "marcacoes": []
+          }
+        ]
+      },
+      "geometria_recortes": {
+        "total_recortes": 0,
+        "criterio": "Nenhum operador de caminho/recorte presente; gates anteriores conservados."
+      },
+      "CommonMark_cercas_iguais": true,
+      "contextos_objetos": [],
+      "revogada": null,
+      "limite": "Somente camada textual fornecida no PDF sem raster/vetor/anotações PDF, com anotações textuais editoriais delimitadas e preservadas quando presentes. Não foi aplicado OCR nem certificada vigência global ou equivalência ao DOE. Referências a objetos exigem revisão complementar."
+    },
+    "apto_automatico": true,
+    "corpo": "estaduais/TO/_fonte/auditorias/portal-QA-referencias-20261028-032/corpos/39583.md",
+    "sha256_corpo": "09129aa3873f54e38e5b7433a105f5762a82c431c63be22cd8661a41e30a0861"
+  },
+  {
+    "captura": {
+      "item": {
+        "id_ALETO": "39219",
+        "fonte": "https://www.al.to.leg.br/arquivo/39219",
+        "titulo_indice": "Lei nº 104 de 2016 (complementar)",
+        "numero": "104",
+        "ano_titulo": "2016",
+        "tipo": "Lei Complementar",
+        "pasta": "leis-complementares",
+        "data_cartao": "2016-03-28",
+        "data_literal": "| Data: 28/03/2016",
+        "ementa": "Altera a Lei Complementar nº 51, de 2 de janeiro de 2008, que Institui a Lei Orgânica do Ministério Público do Estado do Tocantins.",
+        "divergencia_ano_cartao_titulo": false,
+        "indicacao_editorial_compilacao": false,
+        "indice": {
+          "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2016&pagPaginaAtual=7",
+          "iniciado_em": "2026-10-28T09:17:58.130137-03:00",
+          "capturado_em": "2026-10-28T09:17:59.040251-03:00",
+          "retorno_curl": 0,
+          "http": 200,
+          "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2016&pagPaginaAtual=7",
+          "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261028-007/d9056676f3715a03873ba1102a20a6ee95e8d8d16957005a30a3c94ea2c84965.html.gz",
+          "sha256_fonte": "d9056676f3715a03873ba1102a20a6ee95e8d8d16957005a30a3c94ea2c84965",
+          "sha256_cache": "6615510114cbb9b43227aefabc5da60ff7bffb6817759345b83b9680544de912",
+          "headers": {
+            "cache-control": "private",
+            "content-type": "text/html;charset=UTF-8",
+            "date": "Wed, 28 Oct 2026 12:14:51 GMT"
+          },
+          "headers_sessao_omitidos": true,
+          "ano_filtro": 2016,
+          "pagina": 7,
+          "total_registros_declarado": 128,
+          "paginas_esperadas": 7
+        },
+        "ano_filtro": 2016,
+        "pagina": 7
+      },
+      "url": "https://www.al.to.leg.br/arquivo/39219",
+      "iniciado_em": "2026-10-28T09:43:21.883703-03:00",
+      "capturado_em": "2026-10-28T09:43:22.857971-03:00",
+      "retorno_curl": 0,
+      "http": 200,
+      "url_final": "https://www.al.to.leg.br/arquivos/lei_104-2016_39219.PDF",
+      "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-011/fontes/112bb9a233a1771d3bfd49efa513fa5256ec37861860a036d5127b2313151c32.bin.gz",
+      "sha256_fonte": "112bb9a233a1771d3bfd49efa513fa5256ec37861860a036d5127b2313151c32",
+      "sha256_cache": "685815c487b3b82b29c69a9b1b8d405ebdc322c0ff5bd66142b86d48c6757205",
+      "bytes": 7765,
+      "PDF": true,
+      "headers": {
+        "cache-control": "private",
+        "location": "https://www.al.to.leg.br/arquivos/lei_104-2016_39219.PDF",
+        "content-length": "7765",
+        "date": "Wed, 28 Oct 2026 12:40:15 GMT",
+        "accept-ranges": "bytes",
+        "etag": "W/\"7765-1560775961342\"",
+        "last-modified": "Mon, 17 Jun 2019 12:52:41 GMT",
+        "content-type": "application/pdf"
+      },
+      "headers_sessao_omitidos": true
+    },
+    "QA": {
+      "referencias_inline": [
+        {
+          "offset": 160,
+          "referencia_literal": "Lei Complementar nº 51, de 2 de janeiro de 2008",
+          "contexto_literal": "LEI COMPLEMENTAR N° 104, DE 28 DE MARÇO DE 2016.\nPublicada no Diário Oficial nº 4.587\n\n\n                                                               Altera a Lei Complementar nº 51, de 2 de janeiro de 2008,\n                                                               que Institui a Lei Orgânica do Ministério Público do Estado\n                                                       "
+        },
+        {
+          "offset": 644,
+          "referencia_literal": "Lei Complementar nº 51,\nde 2 de janeiro de 2008",
+          "contexto_literal": " saber que a Assembleia Legislativa do Estado do Tocantins decreta e eu sanciono a\nseguinte Lei Complementar:\n      Art. 1° É acrescida a alínea “f”, ao inciso VIII, do art. 20 da Lei Complementar nº 51,\nde 2 de janeiro de 2008, com a seguinte redação:\n       “Art. 20….....................................................................................................................\n       ............."
+        },
+        {
+          "offset": 1387,
+          "referencia_literal": "Lei Complementar nº 51, de 2 de janeiro de 2008",
+          "contexto_literal": "..................................................\n     f) em concursos de promoção ou remoção pelo critério de antiguidade ou\nmerecimento.”\n     Art. 2° O inciso V do art. 131 da Lei Complementar nº 51, de 2 de janeiro de 2008,\npassa a vigorar com a seguinte alteração:\n       “Art. 131........................................................................................................................"
+        },
+        {
+          "offset": 1884,
+          "referencia_literal": "Lei Complementar nº 51, de 2 de janeiro\nde 2008",
+          "contexto_literal": "........................................................\n       V – verba indenizatória de representação do Ministério Público.”\n     Art. 3º O artigo 135 e seu parágrafo único da Lei Complementar nº 51, de 2 de janeiro\nde 2008, passa a vigorar com a seguinte alteração:\n     “Art. 135. Ao Procurador-Geral de Justiça e ao Corregedor-Geral do Ministério\nPúblico serão atribuídas verbas indenizatórias mensai"
+        }
+      ],
+      "anotacoes_editoriais": [],
+      "publicacao_literal": "Publicada no Diário Oficial nº 4.587",
+      "ementa_PDF": "Altera a Lei Complementar nº 51, de 2 de janeiro de 2008, que Institui a Lei Orgânica do Ministério Público do Estado do Tocantins.",
+      "numero": "104",
+      "tipo": "Lei Complementar",
+      "data": "2016-03-28",
+      "epigrafe": "LEI COMPLEMENTAR N° 104, DE 28 DE MARÇO DE 2016",
+      "fechos": [
+        "Palácio Araguaia, em Palmas, aos 28 dias do mês de março de 2016"
+      ],
+      "sha256_corpo": "b18ef490b53dcb72a445ef9c4e3a8b963482218191bb998fb40dbb1b7fa4f3ef",
+      "sha256_camada": "c0cfcf74355e0cffc3406436fc2753a531f36d26b6df5ae48be89a7e4d2f0973",
+      "sha256_fonte": "112bb9a233a1771d3bfd49efa513fa5256ec37861860a036d5127b2313151c32",
+      "total_paginas": 1,
+      "granularidade": {
+        "cabecalhos": [
+          {
+            "tipo": "Lei Complementar",
+            "numero": "104",
+            "data": "2016-03-28"
+          }
+        ],
+        "promulgacoes": 1,
+        "fechos": 1,
+        "outros_atos": []
+      },
+      "visuais": [
+        {
+          "pagina": 1,
+          "caracteres": 2403,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "'",
+            "BT",
+            "ET",
+            "G",
+            "Q",
+            "T*",
+            "TJ",
+            "TL",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "cm",
+            "g",
+            "q"
+          ]
+        }
+      ],
+      "visibilidade_complementar": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              595,
+              842
+            ],
+            "MediaBox": [
+              0,
+              0,
+              595,
+              842
+            ],
+            "marcacoes": []
+          }
+        ]
+      },
+      "geometria_recortes": {
+        "total_recortes": 0,
+        "criterio": "Nenhum operador de caminho/recorte presente; gates anteriores conservados."
+      },
+      "CommonMark_cercas_iguais": true,
+      "contextos_objetos": [],
+      "revogada": null,
+      "limite": "Somente camada textual fornecida no PDF sem raster/vetor/anotações PDF, com anotações textuais editoriais delimitadas e preservadas quando presentes. Não foi aplicado OCR nem certificada vigência global ou equivalência ao DOE. Referências a objetos exigem revisão complementar."
+    },
+    "apto_automatico": true,
+    "corpo": "estaduais/TO/_fonte/auditorias/portal-QA-referencias-20261028-032/corpos/39219.md",
+    "sha256_corpo": "b18ef490b53dcb72a445ef9c4e3a8b963482218191bb998fb40dbb1b7fa4f3ef"
+  },
+  {
+    "captura": {
+      "item": {
+        "id_ALETO": "38772",
+        "fonte": "https://www.al.to.leg.br/arquivo/38772",
+        "titulo_indice": "Lei nº 102 de 2016 (complementar)",
+        "numero": "102",
+        "ano_titulo": "2016",
+        "tipo": "Lei Complementar",
+        "pasta": "leis-complementares",
+        "data_cartao": "2016-01-06",
+        "data_literal": "| Data: 06/01/2016",
+        "ementa": "Altera a Lei Complementar nº 10, de 11 de janeiro de 1996.",
+        "divergencia_ano_cartao_titulo": false,
+        "indicacao_editorial_compilacao": false,
+        "indice": {
+          "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2016&pagPaginaAtual=7",
+          "iniciado_em": "2026-10-28T09:17:58.130137-03:00",
+          "capturado_em": "2026-10-28T09:17:59.040251-03:00",
+          "retorno_curl": 0,
+          "http": 200,
+          "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2016&pagPaginaAtual=7",
+          "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261028-007/d9056676f3715a03873ba1102a20a6ee95e8d8d16957005a30a3c94ea2c84965.html.gz",
+          "sha256_fonte": "d9056676f3715a03873ba1102a20a6ee95e8d8d16957005a30a3c94ea2c84965",
+          "sha256_cache": "6615510114cbb9b43227aefabc5da60ff7bffb6817759345b83b9680544de912",
+          "headers": {
+            "cache-control": "private",
+            "content-type": "text/html;charset=UTF-8",
+            "date": "Wed, 28 Oct 2026 12:14:51 GMT"
+          },
+          "headers_sessao_omitidos": true,
+          "ano_filtro": 2016,
+          "pagina": 7,
+          "total_registros_declarado": 128,
+          "paginas_esperadas": 7
+        },
+        "ano_filtro": 2016,
+        "pagina": 7
+      },
+      "url": "https://www.al.to.leg.br/arquivo/38772",
+      "iniciado_em": "2026-10-28T09:43:29.124829-03:00",
+      "capturado_em": "2026-10-28T09:43:30.160734-03:00",
+      "retorno_curl": 0,
+      "http": 200,
+      "url_final": "https://www.al.to.leg.br/arquivos/lei_102-2016_38772.PDF",
+      "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-011/fontes/3e5bc9534869e5866223997f2376e3a7a747570b009a9809ef3d26492ae87364.bin.gz",
+      "sha256_fonte": "3e5bc9534869e5866223997f2376e3a7a747570b009a9809ef3d26492ae87364",
+      "sha256_cache": "28960cf0ddfe1a47cf0d16a26ed0a8eb37764c9be47afea4ebaad73e824a4116",
+      "bytes": 12866,
+      "PDF": true,
+      "headers": {
+        "cache-control": "private",
+        "location": "https://www.al.to.leg.br/arquivos/lei_102-2016_38772.PDF",
+        "content-length": "12866",
+        "date": "Wed, 28 Oct 2026 12:40:22 GMT",
+        "accept-ranges": "bytes",
+        "etag": "W/\"12866-1560775961322\"",
+        "last-modified": "Mon, 17 Jun 2019 12:52:41 GMT",
+        "content-type": "application/pdf"
+      },
+      "headers_sessao_omitidos": true
+    },
+    "QA": {
+      "referencias_inline": [
+        {
+          "offset": 160,
+          "referencia_literal": "Lei Complementar nº 10, de 11 de janeiro de 1996",
+          "contexto_literal": "LEI COMPLEMENTAR Nº 102, DE 6 DE JANEIRO DE 2016.\nPublicada no Diário Oficial nº 4.534\n\n\n                                                              Altera a Lei Complementar nº 10, de 11 de janeiro de 1996.\n\n\n       O Governador do Estado do Tocantins\n      Faço saber que a Assembleia Legislativa do Estado do Tocantins decreta e eu sanciono a\nseguinte Lei Complementar:\n     Art. 1º "
+        },
+        {
+          "offset": 419,
+          "referencia_literal": "Lei Complementar nº 10, de 11 de janeiro de 1996",
+          "contexto_literal": "do do Tocantins\n      Faço saber que a Assembleia Legislativa do Estado do Tocantins decreta e eu sanciono a\nseguinte Lei Complementar:\n     Art. 1º Os art. 34, 35, 36, 39 e 40 da Lei Complementar nº 10, de 11 de janeiro de 1996,\npassam a vigorar com as seguintes alterações:\n      “Art. 34. A Justiça Militar é constituída, em primeiro grau, por um Juiz de Direito e\npelos Conselhos da Justiça Militar, com "
+        }
+      ],
+      "anotacoes_editoriais": [],
+      "publicacao_literal": "Publicada no Diário Oficial nº 4.534",
+      "ementa_PDF": "Altera a Lei Complementar nº 10, de 11 de janeiro de 1996.",
+      "numero": "102",
+      "tipo": "Lei Complementar",
+      "data": "2016-01-06",
+      "epigrafe": "LEI COMPLEMENTAR Nº 102, DE 6 DE JANEIRO DE 2016",
+      "fechos": [
+        "Palácio Araguaia, em Palmas, aos 6 dias do mês de janeiro de 2016"
+      ],
+      "sha256_corpo": "78259823320e3ccaa03d816f5b027bd77b903099a5ad71d09cce21a5e696d2f0",
+      "sha256_camada": "cbf5ce28f23b74db11ac1541d8b792c873b0b20c65e89f01d82163b447bd5c1b",
+      "sha256_fonte": "3e5bc9534869e5866223997f2376e3a7a747570b009a9809ef3d26492ae87364",
+      "total_paginas": 2,
+      "granularidade": {
+        "cabecalhos": [
+          {
+            "tipo": "Lei Complementar",
+            "numero": "102",
+            "data": "2016-01-06"
+          }
+        ],
+        "promulgacoes": 1,
+        "fechos": 1,
+        "outros_atos": []
+      },
+      "visuais": [
+        {
+          "pagina": 1,
+          "caracteres": 2812,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "'",
+            "BT",
+            "ET",
+            "G",
+            "Q",
+            "T*",
+            "TJ",
+            "TL",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "cm",
+            "g",
+            "q"
+          ]
+        },
+        {
+          "pagina": 2,
+          "caracteres": 2471,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "'",
+            "BT",
+            "ET",
+            "G",
+            "Q",
+            "TJ",
+            "TL",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "cm",
+            "g",
+            "q"
+          ]
+        }
+      ],
+      "visibilidade_complementar": {
+        "total_paginas": 2,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              595,
+              842
+            ],
+            "MediaBox": [
+              0,
+              0,
+              595,
+              842
+            ],
+            "marcacoes": []
+          },
+          {
+            "pagina": 2,
+            "CropBox": [
+              0,
+              0,
+              595,
+              842
+            ],
+            "MediaBox": [
+              0,
+              0,
+              595,
+              842
+            ],
+            "marcacoes": []
+          }
+        ]
+      },
+      "geometria_recortes": {
+        "total_recortes": 0,
+        "criterio": "Nenhum operador de caminho/recorte presente; gates anteriores conservados."
+      },
+      "CommonMark_cercas_iguais": true,
+      "contextos_objetos": [],
+      "revogada": null,
+      "limite": "Somente camada textual fornecida no PDF sem raster/vetor/anotações PDF, com anotações textuais editoriais delimitadas e preservadas quando presentes. Não foi aplicado OCR nem certificada vigência global ou equivalência ao DOE. Referências a objetos exigem revisão complementar."
+    },
+    "apto_automatico": true,
+    "corpo": "estaduais/TO/_fonte/auditorias/portal-QA-referencias-20261028-032/corpos/38772.md",
+    "sha256_corpo": "78259823320e3ccaa03d816f5b027bd77b903099a5ad71d09cce21a5e696d2f0"
+  },
+  {
+    "captura": {
+      "item": {
+        "id_ALETO": "38572",
+        "fonte": "https://www.al.to.leg.br/arquivo/38572",
+        "titulo_indice": "Lei nº 99 de 2015 (complementar)",
+        "numero": "99",
+        "ano_titulo": "2015",
+        "tipo": "Lei Complementar",
+        "pasta": "leis-complementares",
+        "data_cartao": "2015-07-17",
+        "data_literal": "| Data: 17/07/2015",
+        "ementa": "Altera a Lei Complementar n° 51, de 2 de janeiro de 2008, que Institui a Lei Orgânica do Ministério Público do Estado do Tocantins e dá outras providências.",
+        "divergencia_ano_cartao_titulo": false,
+        "indicacao_editorial_compilacao": false,
+        "indice": {
+          "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2015&pagPaginaAtual=6",
+          "iniciado_em": "2026-10-28T09:17:49.419448-03:00",
+          "capturado_em": "2026-10-28T09:17:50.289737-03:00",
+          "retorno_curl": 0,
+          "http": 200,
+          "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2015&pagPaginaAtual=6",
+          "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261028-007/f90a1d5773f0d185770ece7417ea61a4eddc510eb96e36243fc1d2a73150f605.html.gz",
+          "sha256_fonte": "f90a1d5773f0d185770ece7417ea61a4eddc510eb96e36243fc1d2a73150f605",
+          "sha256_cache": "8a83c686d323f62da8242775b65c449c6335df23c6f10509f77d080bb8ff49ee",
+          "headers": {
+            "cache-control": "private",
+            "content-type": "text/html;charset=UTF-8",
+            "date": "Wed, 28 Oct 2026 12:14:42 GMT"
+          },
+          "headers_sessao_omitidos": true,
+          "ano_filtro": 2015,
+          "pagina": 6,
+          "total_registros_declarado": 120,
+          "paginas_esperadas": 6
+        },
+        "ano_filtro": 2015,
+        "pagina": 6
+      },
+      "url": "https://www.al.to.leg.br/arquivo/38572",
+      "iniciado_em": "2026-10-28T09:45:07.961876-03:00",
+      "capturado_em": "2026-10-28T09:45:08.973978-03:00",
+      "retorno_curl": 0,
+      "http": 200,
+      "url_final": "https://www.al.to.leg.br/arquivos/lei_99-2015_38572.PDF",
+      "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-011/fontes/b1d21b91d3d7e68d75f19c5850174c0d05d945130ee2e1c64164dc816dd409d9.bin.gz",
+      "sha256_fonte": "b1d21b91d3d7e68d75f19c5850174c0d05d945130ee2e1c64164dc816dd409d9",
+      "sha256_cache": "1f4f460ff01d7ec0de1af06854a1711c3dc1b13fe7e8ff2dd05d25f056d7dab1",
+      "bytes": 6449,
+      "PDF": true,
+      "headers": {
+        "cache-control": "private",
+        "location": "https://www.al.to.leg.br/arquivos/lei_99-2015_38572.PDF",
+        "content-length": "6449",
+        "date": "Wed, 28 Oct 2026 12:42:01 GMT",
+        "accept-ranges": "bytes",
+        "etag": "W/\"6449-1560775970154\"",
+        "last-modified": "Mon, 17 Jun 2019 12:52:50 GMT",
+        "content-type": "application/pdf"
+      },
+      "headers_sessao_omitidos": true
+    },
+    "QA": {
+      "referencias_inline": [
+        {
+          "offset": 159,
+          "referencia_literal": "Lei Complementar n° 51, de 2 de janeiro de 2008",
+          "contexto_literal": "LEI COMPLEMENTAR N° 99, DE 17 DE JULHO DE 2015.\nPublicada no Diário Oficial nº 4.417\n\n\n                                                               Altera a Lei Complementar n° 51, de 2 de janeiro de 2008,\n                                                               que Institui a Lei Orgânica do Ministério Público do Estado\n                                                       "
+        },
+        {
+          "offset": 626,
+          "referencia_literal": "Lei Complementar n° 051, de 2 de janeiro de 2008",
+          "contexto_literal": "vernador do Estado do Tocantins\n\n      Faço saber que a Assembleia Legislativa do Estado do Tocantins decreta e eu sanciono a\nseguinte Lei Complementar:\n\n     Art. 1° O art. 93 da Lei Complementar n° 051, de 2 de janeiro de 2008, passa a vigorar\ncom a seguinte redação:\n\n       “Art. 93 …..................................................................................................................\n\n    "
+        }
+      ],
+      "anotacoes_editoriais": [],
+      "publicacao_literal": "Publicada no Diário Oficial nº 4.417",
+      "ementa_PDF": "Altera a Lei Complementar n° 51, de 2 de janeiro de 2008, que Institui a Lei Orgânica do Ministério Público do Estado do Tocantins e dá outras providências.",
+      "numero": "99",
+      "tipo": "Lei Complementar",
+      "data": "2015-07-17",
+      "epigrafe": "LEI COMPLEMENTAR N° 99, DE 17 DE JULHO DE 2015",
+      "fechos": [
+        "Palácio Araguaia, em Palmas, aos 17 dias do mês de julho de 2015"
+      ],
+      "sha256_corpo": "9fced34039787f6fdb4583a417abd3acab77c61cccef2cc913c26f0d2aa6c175",
+      "sha256_camada": "1a9983deaf3e32abcfb85fc2c3d7c313f9dcd44fc4f8fe5557db951c640e20cc",
+      "sha256_fonte": "b1d21b91d3d7e68d75f19c5850174c0d05d945130ee2e1c64164dc816dd409d9",
+      "total_paginas": 1,
+      "granularidade": {
+        "cabecalhos": [
+          {
+            "tipo": "Lei Complementar",
+            "numero": "99",
+            "data": "2015-07-17"
+          }
+        ],
+        "promulgacoes": 1,
+        "fechos": 1,
+        "outros_atos": []
+      },
+      "visuais": [
+        {
+          "pagina": 1,
+          "caracteres": 1139,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "'",
+            "BT",
+            "ET",
+            "G",
+            "Q",
+            "T*",
+            "TJ",
+            "TL",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "cm",
+            "g",
+            "q"
+          ]
+        }
+      ],
+      "visibilidade_complementar": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              595,
+              842
+            ],
+            "MediaBox": [
+              0,
+              0,
+              595,
+              842
+            ],
+            "marcacoes": []
+          }
+        ]
+      },
+      "geometria_recortes": {
+        "total_recortes": 0,
+        "criterio": "Nenhum operador de caminho/recorte presente; gates anteriores conservados."
+      },
+      "CommonMark_cercas_iguais": true,
+      "contextos_objetos": [],
+      "revogada": null,
+      "limite": "Somente camada textual fornecida no PDF sem raster/vetor/anotações PDF, com anotações textuais editoriais delimitadas e preservadas quando presentes. Não foi aplicado OCR nem certificada vigência global ou equivalência ao DOE. Referências a objetos exigem revisão complementar."
+    },
+    "apto_automatico": true,
+    "corpo": "estaduais/TO/_fonte/auditorias/portal-QA-referencias-20261028-032/corpos/38572.md",
+    "sha256_corpo": "9fced34039787f6fdb4583a417abd3acab77c61cccef2cc913c26f0d2aa6c175"
+  },
+  {
+    "captura": {
+      "item": {
+        "id_ALETO": "35430",
+        "fonte": "https://www.al.to.leg.br/arquivo/35430",
+        "titulo_indice": "Lei nº 94 de 2014 (complementar)",
+        "numero": "94",
+        "ano_titulo": "2014",
+        "tipo": "Lei Complementar",
+        "pasta": "leis-complementares",
+        "data_cartao": "2014-06-26",
+        "data_literal": "| Data: 26/06/2014",
+        "ementa": "Altera a Lei Complementar n° 51, de 2 de janeiro de 2008, que Institui a Lei Orgânica do Ministério Público do Estado do Tocantins e dá outras providências.",
+        "divergencia_ano_cartao_titulo": false,
+        "indicacao_editorial_compilacao": false,
+        "indice": {
+          "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2014&pagPaginaAtual=6",
+          "iniciado_em": "2026-10-28T08:02:19.779823-03:00",
+          "capturado_em": "2026-10-28T08:02:21.005367-03:00",
+          "retorno_curl": 0,
+          "http": 200,
+          "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2014&pagPaginaAtual=6",
+          "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261028-004/b0dc00442b562a08cc6127af2cde472e53620aa62307bdcd9fcf74365cca98fe.html.gz",
+          "sha256_fonte": "b0dc00442b562a08cc6127af2cde472e53620aa62307bdcd9fcf74365cca98fe",
+          "sha256_cache": "6ca6be8d99cef7be136c19763d0bf5ec1579a17a02138e273152553e3aeb5a1a",
+          "headers": {
+            "cache-control": "private",
+            "content-type": "text/html;charset=UTF-8",
+            "date": "Wed, 28 Oct 2026 10:59:13 GMT"
+          },
+          "headers_sessao_omitidos": true,
+          "ano_filtro": 2014,
+          "pagina": 6,
+          "total_registros_declarado": 117,
+          "paginas_esperadas": 6
+        },
+        "ano_filtro": 2014,
+        "pagina": 6
+      },
+      "url": "https://www.al.to.leg.br/arquivo/35430",
+      "iniciado_em": "2026-10-28T09:47:16.936058-03:00",
+      "capturado_em": "2026-10-28T09:47:17.763690-03:00",
+      "retorno_curl": 0,
+      "http": 200,
+      "url_final": "https://www.al.to.leg.br/arquivos/lei_94-2014_35430.PDF",
+      "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-011/fontes/8d5039b3f6d5588a86490b3da50c6eb6ed736e9c15febb604d87cb6d16caf220.bin.gz",
+      "sha256_fonte": "8d5039b3f6d5588a86490b3da50c6eb6ed736e9c15febb604d87cb6d16caf220",
+      "sha256_cache": "b316160b41063ac5c421e69e3a5a147dcebd369973283165c807decccbd1fe04",
+      "bytes": 8190,
+      "PDF": true,
+      "headers": {
+        "cache-control": "private",
+        "location": "https://www.al.to.leg.br/arquivos/lei_94-2014_35430.PDF",
+        "content-length": "8190",
+        "date": "Wed, 28 Oct 2026 12:44:10 GMT",
+        "accept-ranges": "bytes",
+        "etag": "W/\"8190-1560775970110\"",
+        "last-modified": "Mon, 17 Jun 2019 12:52:50 GMT",
+        "content-type": "application/pdf"
+      },
+      "headers_sessao_omitidos": true
+    },
+    "QA": {
+      "referencias_inline": [
+        {
+          "offset": 159,
+          "referencia_literal": "Lei Complementar n° 51, de 2 de janeiro de 2008",
+          "contexto_literal": "LEI COMPLEMENTAR N° 94, DE 26 DE JUNHO DE 2014.\nPublicada no Diário Oficial nº 4.156\n\n                                                                Altera a Lei Complementar n° 51, de 2 de janeiro de 2008,\n                                                                que Institui a Lei Orgânica do Ministério Público do Estado\n                                                      "
+        },
+        {
+          "offset": 613,
+          "referencia_literal": "Lei Complementar n° 51, de 2 de janeiro de 2008",
+          "contexto_literal": ".\n\n        O Governador do Estado do Tocantins\n      Faço saber que a Assembleia Legislativa do Estado do Tocantins decreta e eu sanciono a\nseguinte Lei:\n     Art. 1º O art. 8° da Lei Complementar n° 51, de 2 de janeiro de 2008, passa a vigorar\ncom a seguinte alteração:\n        “Art. 8° …......................................................................................................................"
+        },
+        {
+          "offset": 1082,
+          "referencia_literal": "Lei Complementar nº 51, de 2 de janeiro de 2008",
+          "contexto_literal": "...............................................................................................\n        VI - a Subprocuradoria Geral de Justiça.”\n      Art. 2° O §2° do art. 9° da Lei Complementar nº 51, de 2 de janeiro de 2008, passa a\nvigorar com a seguinte alteração:\n        “Art. 9º …......................................................................................................................"
+        },
+        {
+          "offset": 1733,
+          "referencia_literal": "Lei Complementar nº 51, de 2 de janeiro de 2008",
+          "contexto_literal": "o\nSubprocurador Geral de Justiça, a quem caberá substituí-lo, para todos os efeitos, nos seus\nimpedimentos, férias, licenças, afastamentos e ausências.”\n     Art. 3° O art. 130 da Lei Complementar nº 51, de 2 de janeiro de 2008, passa a vigorar\ncom a seguinte redação:\n      “Art. 130. O Membro do Ministério Público convocado ou designado para substituição\nterá direito ao subsídio do cargo que ocupar temp"
+        },
+        {
+          "offset": 2028,
+          "referencia_literal": "Lei Complementar n° 51, de 2 de janeiro de\n2008",
+          "contexto_literal": "do Ministério Público convocado ou designado para substituição\nterá direito ao subsídio do cargo que ocupar temporariamente.”\n        Art. 4° Fica revogado o § 5º, do art. 131, da Lei Complementar n° 51, de 2 de janeiro de\n2008.\n     Art. 5° O art. 135 da Lei Complementar n° 51, de 2 de janeiro de 2008, passa a vigorar\ncom a seguinte alteração:\n        “Art. 135..........................................."
+        },
+        {
+          "offset": 2104,
+          "referencia_literal": "Lei Complementar n° 51, de 2 de janeiro de 2008",
+          "contexto_literal": "ao subsídio do cargo que ocupar temporariamente.”\n        Art. 4° Fica revogado o § 5º, do art. 131, da Lei Complementar n° 51, de 2 de janeiro de\n2008.\n     Art. 5° O art. 135 da Lei Complementar n° 51, de 2 de janeiro de 2008, passa a vigorar\ncom a seguinte alteração:\n        “Art. 135......................................................................................................................."
+        }
+      ],
+      "anotacoes_editoriais": [],
+      "publicacao_literal": "Publicada no Diário Oficial nº 4.156",
+      "ementa_PDF": "Altera a Lei Complementar n° 51, de 2 de janeiro de 2008, que Institui a Lei Orgânica do Ministério Público do Estado do Tocantins e dá outras providências.",
+      "numero": "94",
+      "tipo": "Lei Complementar",
+      "data": "2014-06-26",
+      "epigrafe": "LEI COMPLEMENTAR N° 94, DE 26 DE JUNHO DE 2014",
+      "fechos": [
+        "Palácio Araguaia, em Palmas, aos 26 dias do mês de junho de 2014"
+      ],
+      "sha256_corpo": "9c8bb0c288499ff7f0d1a8e08b856193b0cae2f68d9791f86d0a8dea09bd9587",
+      "sha256_camada": "0708ec5b7444c93ab0e0504982a00526534ddd6f4e4eea92baa216a0570bfc17",
+      "sha256_fonte": "8d5039b3f6d5588a86490b3da50c6eb6ed736e9c15febb604d87cb6d16caf220",
+      "total_paginas": 1,
+      "granularidade": {
+        "cabecalhos": [
+          {
+            "tipo": "Lei Complementar",
+            "numero": "94",
+            "data": "2014-06-26"
+          }
+        ],
+        "promulgacoes": 1,
+        "fechos": 1,
+        "outros_atos": []
+      },
+      "visuais": [
+        {
+          "pagina": 1,
+          "caracteres": 2498,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "'",
+            "BT",
+            "ET",
+            "G",
+            "Q",
+            "T*",
+            "TJ",
+            "TL",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "cm",
+            "g",
+            "q"
+          ]
+        }
+      ],
+      "visibilidade_complementar": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              595,
+              842
+            ],
+            "MediaBox": [
+              0,
+              0,
+              595,
+              842
+            ],
+            "marcacoes": []
+          }
+        ]
+      },
+      "geometria_recortes": {
+        "total_recortes": 0,
+        "criterio": "Nenhum operador de caminho/recorte presente; gates anteriores conservados."
+      },
+      "CommonMark_cercas_iguais": true,
+      "contextos_objetos": [],
+      "revogada": null,
+      "limite": "Somente camada textual fornecida no PDF sem raster/vetor/anotações PDF, com anotações textuais editoriais delimitadas e preservadas quando presentes. Não foi aplicado OCR nem certificada vigência global ou equivalência ao DOE. Referências a objetos exigem revisão complementar."
+    },
+    "apto_automatico": true,
+    "corpo": "estaduais/TO/_fonte/auditorias/portal-QA-referencias-20261028-032/corpos/35430.md",
+    "sha256_corpo": "9c8bb0c288499ff7f0d1a8e08b856193b0cae2f68d9791f86d0a8dea09bd9587"
+  },
+  {
+    "captura": {
+      "item": {
+        "id_ALETO": "23705",
+        "fonte": "https://www.al.to.leg.br/arquivo/23705",
+        "titulo_indice": "Lei nº 62 de 2009 (complementar)",
+        "numero": "62",
+        "ano_titulo": "2009",
+        "tipo": "Lei Complementar",
+        "pasta": "leis-complementares",
+        "data_cartao": "2009-12-18",
+        "data_literal": "| Data: 18/12/2009",
+        "ementa": "Altera a Lei Complementar nº 10, de 11 de janeiro de 1996, que institui a Lei Orgânica do Poder Judiciário do Estado do Tocantins.",
+        "divergencia_ano_cartao_titulo": false,
+        "indicacao_editorial_compilacao": false,
+        "indice": {
+          "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2009&pagPaginaAtual=14",
+          "iniciado_em": "2026-10-27T23:25:55.003618-03:00",
+          "capturado_em": "2026-10-27T23:25:55.866169-03:00",
+          "retorno_curl": 0,
+          "http": 200,
+          "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2009&pagPaginaAtual=14",
+          "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-004/631d7a283a32dd06afbc1b5795ab33afc6acbc067a0e2f19990c8827365e998e.html.gz",
+          "sha256_fonte": "631d7a283a32dd06afbc1b5795ab33afc6acbc067a0e2f19990c8827365e998e",
+          "sha256_cache": "9b080951cc7471ff5ad8b3ce761a76c032eeb5dded2c36d627785850d0e7d5b1",
+          "headers": {
+            "cache-control": "private",
+            "content-type": "text/html;charset=UTF-8",
+            "date": "Wed, 28 Oct 2026 02:22:48 GMT"
+          },
+          "headers_sessao_omitidos": true,
+          "ano_filtro": 2009,
+          "pagina": 14,
+          "total_registros_declarado": 279,
+          "paginas_esperadas": 14
+        },
+        "ano_filtro": 2009,
+        "pagina": 14
+      },
+      "url": "https://www.al.to.leg.br/arquivo/23705",
+      "iniciado_em": "2026-10-28T10:05:33.400550-03:00",
+      "capturado_em": "2026-10-28T10:05:34.369953-03:00",
+      "retorno_curl": 0,
+      "http": 200,
+      "url_final": "https://www.al.to.leg.br/arquivos/23705.pdf",
+      "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-014/fontes/93d9a5fd6716083a62cabcdd14a90a83aebdf04da14272d446091f866c1ea2ad.bin.gz",
+      "sha256_fonte": "93d9a5fd6716083a62cabcdd14a90a83aebdf04da14272d446091f866c1ea2ad",
+      "sha256_cache": "96414e929958687d3927a672668bc939262c6f09011c22c66adcb9bcc52557b2",
+      "bytes": 13154,
+      "PDF": true,
+      "headers": {
+        "cache-control": "private",
+        "location": "https://www.al.to.leg.br/arquivos/23705.pdf",
+        "content-length": "13154",
+        "date": "Wed, 28 Oct 2026 13:02:26 GMT",
+        "accept-ranges": "bytes",
+        "etag": "W/\"13154-1560775618554\"",
+        "last-modified": "Mon, 17 Jun 2019 12:46:58 GMT",
+        "content-type": "application/pdf"
+      },
+      "headers_sessao_omitidos": true
+    },
+    "QA": {
+      "referencias_inline": [
+        {
+          "offset": 154,
+          "referencia_literal": "Lei Complementar nº 10, de 11 de janeiro de 1996",
+          "contexto_literal": "LEI COMPLEMENTAR Nº 62, DE 18 DE DEZEMBRO DE 2009.\nPublicado no Diário Oficial nº 3.041\n\n\n                                                       Altera a Lei Complementar nº 10, de 11 de janeiro de 1996, que\n                                                       institui a Lei Orgânica do Poder Judiciário do Estado do Tocantins.\n\n\n\n         O Vice Governador do Estado do Tocantin"
+        },
+        {
+          "offset": 568,
+          "referencia_literal": "Lei Complementar nº 10, de 11 de janeiro de 1996",
+          "contexto_literal": "exercício do cargo de Governador do\nEstado\n        Faço saber que a Assembleia Legislativa do Estado do Tocantins decreta e eu sanciono a\nseguinte Lei:\n       Art. 1º O Art. 25 da Lei Complementar nº 10, de 11 de janeiro de 1996, passa a vigorar\ncom a seguinte alteração:\n         “Art. 25. ....................................................................................................................."
+        }
+      ],
+      "anotacoes_editoriais": [],
+      "publicacao_literal": "Publicado no Diário Oficial nº 3.041",
+      "ementa_PDF": null,
+      "numero": "62",
+      "tipo": "Lei Complementar",
+      "data": "2009-12-18",
+      "epigrafe": "LEI COMPLEMENTAR Nº 62, DE 18 DE DEZEMBRO DE 2009",
+      "fechos": [
+        "Palácio Araguaia, em Palmas, aos 18 dias do mês de dezembro de 2009"
+      ],
+      "sha256_corpo": "6a93e2157852d74ddfe2ec32dfd9b5857fc78318eaa9cfb7177ecc4ca4f3b6a1",
+      "sha256_camada": "eb885354deaa024f6767ce1b3e7de0b35e857038ff2a298e2f9485c6667c4b46",
+      "sha256_fonte": "93d9a5fd6716083a62cabcdd14a90a83aebdf04da14272d446091f866c1ea2ad",
+      "total_paginas": 1,
+      "granularidade": {
+        "cabecalhos": [
+          {
+            "tipo": "Lei Complementar",
+            "numero": "62",
+            "data": "2009-12-18"
+          }
+        ],
+        "promulgacoes": 1,
+        "fechos": 1,
+        "outros_atos": []
+      },
+      "visuais": [
+        {
+          "pagina": 1,
+          "caracteres": 2146,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "BDC",
+            "BT",
+            "EMC",
+            "ET",
+            "T*",
+            "TD",
+            "TJ",
+            "Tc",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "Tw",
+            "gs"
+          ]
+        }
+      ],
+      "visibilidade_complementar": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              595.22,
+              842
+            ],
+            "MediaBox": [
+              0,
+              0,
+              595.22,
+              842
+            ],
+            "marcacoes": [
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 0
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 1
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 2
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 3
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 4
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 5
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 6
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 7
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 8
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 9
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 10
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 11
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 12
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 13
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 14
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 15
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 16
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 17
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 18
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 19
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 20
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 21
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 22
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 23
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 24
+              }
+            ]
+          }
+        ]
+      },
+      "geometria_recortes": {
+        "total_recortes": 0,
+        "criterio": "Nenhum operador de caminho/recorte presente; gates anteriores conservados."
+      },
+      "CommonMark_cercas_iguais": true,
+      "contextos_objetos": [],
+      "revogada": null,
+      "limite": "Somente camada textual fornecida no PDF sem raster/vetor/anotações PDF, com anotações textuais editoriais delimitadas e preservadas quando presentes. Não foi aplicado OCR nem certificada vigência global ou equivalência ao DOE. Referências a objetos exigem revisão complementar."
+    },
+    "apto_automatico": true,
+    "corpo": "estaduais/TO/_fonte/auditorias/portal-QA-referencias-20261028-032/corpos/23705.md",
+    "sha256_corpo": "6a93e2157852d74ddfe2ec32dfd9b5857fc78318eaa9cfb7177ecc4ca4f3b6a1"
+  },
+  {
+    "captura": {
+      "item": {
+        "id_ALETO": "20735",
+        "fonte": "https://www.al.to.leg.br/arquivo/20735",
+        "titulo_indice": "Lei nº 56 de 2009 (complementar)",
+        "numero": "56",
+        "ano_titulo": "2009",
+        "tipo": "Lei Complementar",
+        "pasta": "leis-complementares",
+        "data_cartao": "2009-06-15",
+        "data_literal": "| Data: 15/06/2009",
+        "ementa": "Altera a Lei Complementar nº 10, de 11 de janeiro de 1996, que instituiu a Lei Orgânica do Poder Judiciário do Estado do Tocantins e dá outras providências.",
+        "divergencia_ano_cartao_titulo": false,
+        "indicacao_editorial_compilacao": false,
+        "indice": {
+          "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2009&pagPaginaAtual=14",
+          "iniciado_em": "2026-10-27T23:25:55.003618-03:00",
+          "capturado_em": "2026-10-27T23:25:55.866169-03:00",
+          "retorno_curl": 0,
+          "http": 200,
+          "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2009&pagPaginaAtual=14",
+          "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-004/631d7a283a32dd06afbc1b5795ab33afc6acbc067a0e2f19990c8827365e998e.html.gz",
+          "sha256_fonte": "631d7a283a32dd06afbc1b5795ab33afc6acbc067a0e2f19990c8827365e998e",
+          "sha256_cache": "9b080951cc7471ff5ad8b3ce761a76c032eeb5dded2c36d627785850d0e7d5b1",
+          "headers": {
+            "cache-control": "private",
+            "content-type": "text/html;charset=UTF-8",
+            "date": "Wed, 28 Oct 2026 02:22:48 GMT"
+          },
+          "headers_sessao_omitidos": true,
+          "ano_filtro": 2009,
+          "pagina": 14,
+          "total_registros_declarado": 279,
+          "paginas_esperadas": 14
+        },
+        "ano_filtro": 2009,
+        "pagina": 14
+      },
+      "url": "https://www.al.to.leg.br/arquivo/20735",
+      "iniciado_em": "2026-10-28T10:36:00.160611-03:00",
+      "capturado_em": "2026-10-28T10:36:01.972000-03:00",
+      "retorno_curl": 0,
+      "http": 200,
+      "url_final": "https://www.al.to.leg.br/arquivos/20735.pdf",
+      "cache": "estaduais/TO/_fonte/auditorias/portal-lote-restantes-20261028-018/fontes/921b681098b2fe21c46bc21c094bc9e9a3235cbb301685f1167595d9f47f794d.bin.gz",
+      "sha256_fonte": "921b681098b2fe21c46bc21c094bc9e9a3235cbb301685f1167595d9f47f794d",
+      "sha256_cache": "7f4c370944c214c4767abca3e974dc1022f8fdfc82645f6e84b5a99b86d7ce7a",
+      "bytes": 11894,
+      "PDF": true,
+      "headers": {
+        "cache-control": "private",
+        "location": "https://www.al.to.leg.br/arquivos/20735.pdf",
+        "content-length": "11894",
+        "date": "Wed, 28 Oct 2026 13:32:54 GMT",
+        "accept-ranges": "bytes",
+        "etag": "W/\"11894-1560775592666\"",
+        "last-modified": "Mon, 17 Jun 2019 12:46:32 GMT",
+        "content-type": "application/pdf"
+      },
+      "headers_sessao_omitidos": true
+    },
+    "QA": {
+      "referencias_inline": [
+        {
+          "offset": 149,
+          "referencia_literal": "Lei Complementar nº 10, de 11 de janeiro de 1996",
+          "contexto_literal": "LEI COMPLEMENTAR Nº 56, DE 15 DE JUNHO DE 2009.\nPublicado no Diário Oficial nº 2.912\n\n\n                                                     Altera a Lei Complementar nº 10, de 11 de janeiro de 1996, que\n                                                     instituiu a Lei Orgânica do Poder Judiciário do Estado do\n                                                     Tocantins "
+        },
+        {
+          "offset": 594,
+          "referencia_literal": "Lei Complementar n° 10, de 11 de janeiro de 1996",
+          "contexto_literal": "rnador do Estado do Tocantins\n\n   Faço saber que a Assembléia Legislativa do Estado do Tocantins decreta e eu\nsanciono a seguinte Lei Complementar:\n\n    Art.1º O §1º do art. 25 da Lei Complementar n° 10, de 11 de janeiro de 1996, passa\na vigorar com a seguinte redação:\n\n    “Art. 25........................................................................................................................\n\n   "
+        }
+      ],
+      "anotacoes_editoriais": [],
+      "publicacao_literal": "Publicado no Diário Oficial nº 2.912",
+      "ementa_PDF": "Altera a Lei Complementar nº 10, de 11 de janeiro de 1996, que instituiu a Lei Orgânica do Poder Judiciário do Estado do Tocantins e dá outras providências.",
+      "numero": "56",
+      "tipo": "Lei Complementar",
+      "data": "2009-06-15",
+      "epigrafe": "LEI COMPLEMENTAR Nº 56, DE 15 DE JUNHO DE 2009",
+      "fechos": [
+        "Palácio Araguaia, em Palmas, aos 15 dias do mês de junho de 2009"
+      ],
+      "sha256_corpo": "d76c8dd9a8aedf77e43e6ae1aa42722d34b711e94f150ede255bfd8c38db6a66",
+      "sha256_camada": "4aacc070b9c19822144ff88335446ab116cde533afe12b56403cfa463f9b6815",
+      "sha256_fonte": "921b681098b2fe21c46bc21c094bc9e9a3235cbb301685f1167595d9f47f794d",
+      "total_paginas": 1,
+      "granularidade": {
+        "cabecalhos": [
+          {
+            "tipo": "Lei Complementar",
+            "numero": "56",
+            "data": "2009-06-15"
+          }
+        ],
+        "promulgacoes": 1,
+        "fechos": 1,
+        "outros_atos": []
+      },
+      "visuais": [
+        {
+          "pagina": 1,
+          "caracteres": 1583,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "BDC",
+            "BT",
+            "EMC",
+            "ET",
+            "TD",
+            "TJ",
+            "Tc",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "Tr",
+            "Ts",
+            "Tw",
+            "Tz",
+            "g",
+            "gs",
+            "i"
+          ]
+        }
+      ],
+      "visibilidade_complementar": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              595.22,
+              842
+            ],
+            "MediaBox": [
+              0,
+              0,
+              595.22,
+              842
+            ],
+            "marcacoes": [
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 0
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 1
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 2
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 3
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 4
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 5
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 6
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 7
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 8
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 9
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 10
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 11
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 12
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 13
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 14
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 15
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 16
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 17
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 18
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 19
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 20
+              }
+            ]
+          }
+        ]
+      },
+      "geometria_recortes": {
+        "total_recortes": 0,
+        "criterio": "Nenhum operador de caminho/recorte presente; gates anteriores conservados."
+      },
+      "CommonMark_cercas_iguais": true,
+      "contextos_objetos": [],
+      "revogada": null,
+      "limite": "Somente camada textual fornecida no PDF sem raster/vetor/anotações PDF, com anotações textuais editoriais delimitadas e preservadas quando presentes. Não foi aplicado OCR nem certificada vigência global ou equivalência ao DOE. Referências a objetos exigem revisão complementar."
+    },
+    "apto_automatico": true,
+    "corpo": "estaduais/TO/_fonte/auditorias/portal-QA-referencias-20261028-032/corpos/20735.md",
+    "sha256_corpo": "d76c8dd9a8aedf77e43e6ae1aa42722d34b711e94f150ede255bfd8c38db6a66"
+  },
+  {
+    "captura": {
+      "item": {
+        "id_ALETO": "7394",
+        "fonte": "https://www.al.to.leg.br/arquivo/7394",
+        "titulo_indice": "Lei nº 1148 de 2000 (ordinária)",
+        "numero": "1148",
+        "ano_titulo": "2000",
+        "tipo": "Lei Ordinária",
+        "pasta": "leis-ordinarias",
+        "data_cartao": "2000-04-12",
+        "data_literal": "| Data: 12/04/2000",
+        "ementa": "Altera a Lei nº 1.125, de 1º de fevereiro de 2000, na parte que especifica.*REVOGADA PELA LEI Nº 1.277, DE 12/12/2001.",
+        "divergencia_ano_cartao_titulo": false,
+        "indicacao_editorial_compilacao": true,
+        "indice": {
+          "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2000&pagPaginaAtual=3",
+          "iniciado_em": "2026-10-27T23:13:30.288643-03:00",
+          "capturado_em": "2026-10-27T23:13:31.131075-03:00",
+          "retorno_curl": 0,
+          "http": 200,
+          "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2000&pagPaginaAtual=3",
+          "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/718bfe4632a995b335b97cba6333283fd770447bc0eac5fede0bcc572a680367.html.gz",
+          "sha256_fonte": "718bfe4632a995b335b97cba6333283fd770447bc0eac5fede0bcc572a680367",
+          "sha256_cache": "66e91e34605ea6ceadfca3a109067af0c4c67e9eec68e329b88ee964dc6e6e20",
+          "headers": {
+            "cache-control": "private",
+            "content-type": "text/html;charset=UTF-8",
+            "date": "Wed, 28 Oct 2026 02:10:24 GMT"
+          },
+          "headers_sessao_omitidos": true,
+          "ano_filtro": 2000,
+          "pagina": 3,
+          "total_registros_declarado": 86,
+          "paginas_esperadas": 5
+        },
+        "ano_filtro": 2000,
+        "pagina": 3
+      },
+      "url": "https://www.al.to.leg.br/arquivo/7394",
+      "iniciado_em": "2026-10-28T12:22:36.384852-03:00",
+      "capturado_em": "2026-10-28T12:22:37.314988-03:00",
+      "retorno_curl": 0,
+      "http": 200,
+      "url_final": "https://www.al.to.leg.br/arquivos/7394.pdf",
+      "cache": "estaduais/TO/_fonte/auditorias/portal-contextos-compilados-20261028-028/fontes/764d68819e37a4d50ccc784930dcb8bb3dc7cee46960c5aacd52b2eb0b5985b8.bin.gz",
+      "sha256_fonte": "764d68819e37a4d50ccc784930dcb8bb3dc7cee46960c5aacd52b2eb0b5985b8",
+      "sha256_cache": "70620acb1811ebb835207bcb69f0f6053107d3df2bbcb7b59e165e9ca0e5d8ca",
+      "bytes": 81812,
+      "PDF": true,
+      "headers": {
+        "cache-control": "private",
+        "location": "https://www.al.to.leg.br/arquivos/7394.pdf",
+        "content-length": "81812",
+        "date": "Wed, 28 Oct 2026 15:19:29 GMT",
+        "accept-ranges": "bytes",
+        "etag": "W/\"81812-1560775744830\"",
+        "last-modified": "Mon, 17 Jun 2019 12:49:04 GMT",
+        "content-type": "application/pdf"
+      },
+      "headers_sessao_omitidos": true
+    },
+    "QA": {
+      "referencias_inline": [
+        {
+          "offset": 185,
+          "referencia_literal": "Lei nº 1.125, de 1º de fevereiro de 2000",
+          "contexto_literal": "º 1.148, DE 12 DE ABRIL DE 2000.\nPublicado no Diário Oficial nº 911\nRevogada pela Lei nº 1.277, de 12/12/2001.\n\n\n\n\n                                                        Altera a Lei nº 1.125, de 1º de fevereiro de 2000, na\n                                                        parte que especifica.\n\n\n              O Governador do Estado do Tocantins,\n\n          Faço saber que a Assembléia Legis"
+        },
+        {
+          "offset": 513,
+          "referencia_literal": "Lei nº 1.125, de 1º de fevereiro de 2000",
+          "contexto_literal": "dor do Estado do Tocantins,\n\n          Faço saber que a Assembléia Legislativa do Estado do Tocantins aprova e eu\nsanciono a seguinte Lei:\n\n          Art. 1º. O § 1º do art. 1º da Lei nº 1.125, de 1º de fevereiro de 2000, passa a\nvigorar com a seguinte redação:\n\n              “Art. 1º..............................................................................................\n\n          § 1º. O P"
+        }
+      ],
+      "anotacoes_editoriais": [
+        {
+          "linha_inicial": 3,
+          "trecho_literal": "Revogada pela Lei nº 1.277, de 12/12/2001.",
+          "contexto_literal": "LEI Nº 1.148, DE 12 DE ABRIL DE 2000.\nPublicado no Diário Oficial nº 911\nRevogada pela Lei nº 1.277, de 12/12/2001.\n\n\n\n\n                                                        Altera a Lei nº 1.125, de 1º de fevereiro de 2000, na\n                                                        parte que especifica.\n\n\n              O Governador do Estado do Tocan"
+        }
+      ],
+      "publicacao_literal": "Publicado no Diário Oficial nº 911",
+      "ementa_PDF": null,
+      "numero": "1148",
+      "tipo": "Lei Ordinária",
+      "data": "2000-04-12",
+      "epigrafe": "LEI Nº 1.148, DE 12 DE ABRIL DE 2000",
+      "fechos": [
+        "Palácio Araguaia, em Palmas, aos 12 dias do mês de abril de 2000"
+      ],
+      "sha256_corpo": "612ea478e1392f206f5bf6979d809d23e099d895741caecb10487593bbd44698",
+      "sha256_camada": "cbb185f59c434cef064a47a5087a4d28454113be6ededf2f303b1361331f2e04",
+      "sha256_fonte": "764d68819e37a4d50ccc784930dcb8bb3dc7cee46960c5aacd52b2eb0b5985b8",
+      "total_paginas": 1,
+      "granularidade": {
+        "cabecalhos": [
+          {
+            "tipo": "Lei Ordinária",
+            "numero": "1148",
+            "data": "2000-04-12"
+          }
+        ],
+        "promulgacoes": 1,
+        "fechos": 1,
+        "outros_atos": []
+      },
+      "visuais": [
+        {
+          "pagina": 1,
+          "caracteres": 1064,
+          "raster": 0,
+          "linhas": 0,
+          "retangulos": 0,
+          "curvas": 0,
+          "anotacoes": 0,
+          "operadores": [
+            "'",
+            "BT",
+            "ET",
+            "Q",
+            "RG",
+            "T*",
+            "TJ",
+            "TL",
+            "Td",
+            "Tf",
+            "Tj",
+            "Tm",
+            "cm",
+            "gs",
+            "q",
+            "rg"
+          ]
+        }
+      ],
+      "visibilidade_complementar": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      },
+      "geometria_recortes": {
+        "total_recortes": 0,
+        "criterio": "Nenhum operador de caminho/recorte presente; gates anteriores conservados."
+      },
+      "CommonMark_cercas_iguais": true,
+      "contextos_objetos": [],
+      "revogada": null,
+      "limite": "Somente camada textual fornecida no PDF sem raster/vetor/anotações PDF, com anotações textuais editoriais delimitadas e preservadas quando presentes. Não foi aplicado OCR nem certificada vigência global ou equivalência ao DOE. Referências a objetos exigem revisão complementar."
+    },
+    "apto_automatico": true,
+    "corpo": "estaduais/TO/_fonte/auditorias/portal-QA-referencias-20261028-032/corpos/7394.md",
+    "sha256_corpo": "612ea478e1392f206f5bf6979d809d23e099d895741caecb10487593bbd44698"
+  }
+]

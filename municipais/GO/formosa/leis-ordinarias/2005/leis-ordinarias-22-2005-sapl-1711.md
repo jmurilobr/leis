@@ -1,0 +1,223 @@
+---
+titulo: "Lei Ordinária nº 22, de 05 de julho de 2005"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "22"
+data: "2005-07-05"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/1711"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1644/text"
+sha256_fonte: "c10371e7b3a08713d90950085654d39ab8d3d45b7d735004932256e5cb1b594e"
+sha256_texto: "0d446d83f51f1aa238c254d46c45de734a761113f8212b37314cf2b3c2a1c8bf"
+capturado_em_fonte: "2026-10-28T12:11:46.837439-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 22, de 05 de julho de 2005
+
+Cria o Conselho Municipal de Controle Social do Programa Bolsa Família - PBF, e dá outras providências.
+
+
+O PREFEITO MUNICIPAL
+
+Faço saber que a Câmara Municipal de Formosa aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal de Controle Social do Programa Bolsa Família – PBF, órgão consultivo e de funcionamento permanente.
+
+
+Art. 2º.
+
+Ao Conselho Municipal de Controle Social do Programa Bolsa Família – PBF cabe estimular a integração e a cooperação entre os conselhos setoriais existentes (Saúde, Educação, Assistência Social, Segurança Alimentar, da Criança e do Adolescente entre outros), bem como articular-se com os mesmos, de maneira a acompanhar a oferta dos serviços de educação e de saúde, e o atendimento prioritário às famílias em maior grau de vulnerabilidade.
+
+
+Art. 3º.
+
+Compete ainda ao Conselho, sem detrimento de outras atribuições, as seguintes atividades:
+
+
+I –
+
+no que se refere ao cadastramento único:
+
+
+a)
+
+contribuir para a construção e manutenção de um cadastro qualificado, que reflita a realidade socioeconômica do município, e assegure a fidedignidade dos dados e a equidade no acesso aos benefícios das políticas públicas, voltadas para as pessoas com menor renda;
+
+
+b)
+
+identificar os potenciais beneficiários do PBF, sobretudo as populações tradicionais e em situações específicas de vulnerabilidade e aquelas que se encontram em situação de extrema pobreza, assim como solicitar ao Poder Público municipal seu cadastramento; e
+
+
+c)
+
+conhecer os dados cadastrais dos beneficiários do Bolsa Família, periodicamente atualizados e sem prejuízo das implicações ético-legais relativas ao uso da informação;
+
+
+II –
+
+no que se refere à gestão dos benefícios:
+
+
+a)
+
+avaliar, periodicamente, a relação de beneficiários do PBF;
+
+
+b)
+
+solicitar, mediante justificativa, ao gestor municipal, o bloqueio ou o cancelamento de benefícios referentes às famílias que não atendam aos critérios de elegibilidade do Programa;
+
+
+c)
+
+acompanhar os atos de gestão de benefícios do PBF e dos Programas Remanescentes realizados pelo gestor municipal;
+
+
+III –
+
+no que se refere ao controle das condicionalidades:
+
+
+a)
+
+acompanhar a oferta por parte dos governos locais dos serviços públicos necessários ao cumprimento das condicionalidades do PBF pelas famílias beneficiárias;
+
+
+b)
+
+articular-se com os conselhos setoriais existentes no município para garantia da oferta dos serviços para o cumprimento das condicionalidades;
+
+
+c)
+
+conhecer a lista dos beneficiários que não cumpriram as condicionalidades, periodicamente atualizada e sem prejuízo das implicações ético-legais relativas ao uso da informação;
+
+
+d)
+
+acompanhar e analisar o resultado e as repercussões do acompanhamento do cumprimento de condicionalidades no município; e
+
+
+e)
+
+contribuir para o aperfeiçoamento da rede de proteção social, estimulando o Poder Público a acompanhar as famílias com dificuldades no cumprimento das condicionalidades;
+
+
+IV –
+
+no que se refere aos programas complementares, acompanhar e estimular a integração e a oferta de outras políticas públicas que favoreçam a emancipação das famílias beneficiárias do PBF, em especial das famílias em situação de descumprimento das condicionalidades, de sua condição de exclusão social, articuladas entre os conselhos setoriais existentes no município, os entes federados e a sociedade civil;
+
+
+V –
+
+no que se refere à fiscalização, monitoramento e avaliação do PBF:
+
+
+a)
+
+acompanhar, avaliar e subsidiar a fiscalização e o monitoramento do processo de cadastramento nos municípios, da seleção dos beneficiários, da concessão e manutenção dos benefícios, do controle do cumprimento das condicionalidades, da articulação de ações complementares para os beneficiários do Programa, e da gestão do Programa como um todo;
+
+
+b)
+
+exercer o controle social articulado com os fluxos, procedimentos, instrumentos e metodologias de fiscalização dos órgãos de controle estatais;
+
+
+c)
+
+comunicar às instituições integrantes da Rede Pública de Fiscalização do Programam Bolsa Família (Ministérios Públicos Estaduais e Federal, Controladoria Geral da União e Tribunal de Contas da União), e à SENARC a existência de eventual irregularidade no município no que se refere à gestão e execução do PBF; e
+
+
+d)
+
+contribuir para a realização de avaliações e diagnósticos que permitam aferir a eficácia, efetividade e eficiência do Programa Bolsa Família;
+
+
+VI –
+
+no que se refere à participação social:
+
+
+a)
+
+estimular a participação comunitária no controle da execução do PBF, em seu respectivo âmbito administrativo; e
+
+
+b)
+
+contribuir para a formulação e disseminação de estratégias de informação à sociedade sobre o programa;
+
+
+VII –
+
+no que se refere à capacitação:
+
+
+a)
+
+identificar as necessidades de capacitação de seus membros;
+
+
+b)
+
+auxiliar os Governos Federal, Estadual e Municipal na organização da capacitação dos membros das instâncias de controle social e dos gestores municipais do PBF.
+
+
+Art. 4º.
+
+O Conselho Municipal de Controle Social do Programa Bolsa Família – PBF terá organização paritária e será composto por representantes da sociedade diretamente envolvidos nas atividades correlatas ao mesmo e nomeados pelo Chefe do Poder Executivo, na forma que se segue:
+
+
+\- 02 (dois) membros da Secretaria Municipal de Trabalho e Promoção Social;
+
+\- 02 (dois) membros da Secretaria Municipal de Educação;
+
+\- 02 (dois) membros da Secretaria Municipal de Saúde;
+
+\- 02 (dois) membros do Lions Clube de Formosa;
+
+\- 02 (dois) membros do Lions Clube Formosa da Imperatriz;
+
+\- 02 (dois) membros da Associação São Vicente de Paula.
+
+
+Art. 5º.
+
+A participação no Conselho Municipal de Controle do Programa Bolsa Família – PBF não será remunerada.
+
+
+Parágrafo único.
+
+O mandato dos conselheiros de que trata este artigo será de 02 (dois) anos, podendo ser reconduzidos por igual período.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 05 de julho de 2005.
+
+SEBASTIÃO MONTEIRO GUIMARÃES FILHO
+
+Prefeito Municipal
+
+Afixado no "placard" de publicidade  
+E encadernado em livro próprio.  
+Data supra  
+  
+..................................................................................................  
+Mara Cristina A. R. Muniz  
+Superintendente de Legislação e Documentação
+

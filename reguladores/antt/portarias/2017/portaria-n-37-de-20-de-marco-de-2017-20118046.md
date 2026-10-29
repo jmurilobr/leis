@@ -1,0 +1,42 @@
+---
+titulo: "PORTARIA Nº 37, DE 20 DE MARÇO DE 2017"
+orgao: "Ministério dos Transportes, Portos e Aviação Civil/AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES/SUPERINTENDÊNCIA DE INFRAESTRUTURA E SERVIÇOS DE TRANSPORTE FERROVIÁRIO DE CARGAS"
+tipo: "Portaria"
+numero: "37"
+data: 2017-03-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/03/2017, seção 1, p. 87"
+data_publicacao: 2017-03-22
+edicao: "56"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-37-de-20-de-marco-de-2017-20118046"
+sha256_html_fonte: 01a426bb62a4863e86eff9363740563006b4dd4f4f2796ba63f740cd415db884
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 37, DE 20 DE MARÇO DE 2017
+
+PORTARIA Nº 37, DE 20 DE MARÇO DE 2017
+
+O SUPERINTENDENTE DE INFRAESTRUTURA E SERVIÇOSDE TRANSPORTE FERROVIÁRIO DE CARGAS DAAGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES ANTT,no uso de suas atribuições e em conformidade com o dispostona Deliberação ANTT nº 158/2010 e alterações, com a ResoluçãoANTT nº 2.695/2008, com a Resolução ANTT nº 4.131/2013 e alteraçõese com o que consta dos autos do Processo ANTT nº50510.073236/2016-59, resolve:
+
+**Art. 1º** Autorizar a implantação de passarela de pedestres nokm 608+019 da malha ferroviária concedida à Concessionária FerroviaCentro-Atlântica S.A. - FCA, no município de Santa Luzia/MG(bairro Carreira Comprida), integrante da Prioridade 1 da relação deprojetos indicados no Anexo I da Resolução ANTT nº 4.131/2013,alterada pela Resolução ANTT nº 4.750/2015.
+
+**Art. 2º** O valor reconhecido da obra fica limitado a R$2.455.622,81 (dois milhões, quatrocentos e cinquenta e cinco mil,seiscentos e vinte e dois reais, e oitenta e um centavos), para o estadode Minas Gerais, com data-base de janeiro de 2016, cujos dispêndiosdeverão ser comprovados pela Concessionária em seus lançamentoscontábeis destacados.
+
+**Parágrafo único.** O valor apresentado no caput do art. 2º jácontempla o impacto do benefício do Regime Especial de Incentivospara o Desenvolvimento da Infraestrutura - REIDI.
+
+**Art. 3º** A Concessionária deverá apresentar mensalmente àANTT os relatórios de monitoramento da implantação do objeto autorizado,bem como, informar esta Agência em até 30 (trinta) dias daconclusão da referida obra.
+
+**Parágrafo único.** O acompanhamento das obras será feitopela Gerência de Projetos Ferroviários e observará o disposto naDeliberação ANTT nº 419/2015.
+
+**Art. 4º** Verificado o efetivo término da obra, a ANTT expedirádocumento constatando a sua conclusão.
+
+**Art. 5º** Após constatada a conclusão da obra, a Concessionáriadeverá transferir a propriedade do ativo ao Poder Concedenteno prazo de até 180 (cento e oitenta) dias.
+
+**Art. 6º** Esta portaria entra em vigor na data de sua publicação.
+
+ALEXANDRE PORTO MENDES DE SOUZA
+
+ALEXANDRE PORTO MENDES DE SOUZA
+
+Este conteúdo não substitui o publicado na versão certificada.

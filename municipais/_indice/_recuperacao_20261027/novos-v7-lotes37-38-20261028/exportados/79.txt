@@ -1,0 +1,74 @@
+---
+titulo: "Lei Ordinária nº 1.806, de 19 de dezembro de 2012"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1806"
+data: "2012-12-19"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2709"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/1041/text"
+sha256_fonte: "544c60de2148e5e2f1b8f5f49328a850c00eb87c5653e047ef817cb742343745"
+sha256_texto: "13746bbcd280b86cf5702049d10f3cd5b89d16b9d164fb1e679b962ea2ed5f1e"
+capturado_em_fonte: "2026-10-28T13:17:51.181042-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.806, de 19 de dezembro de 2012
+
+Cria o Comitê Gestor Municipal do Programa Irradiando Saúde da Secretaria de Estado da Saúde - 20ª RS, no Município de Guaíra - Paraná.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou e eu Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o Comitê Gestor Municipal do Programa Irradiando Saúde da Secretaria de Estado da Saúde - 20ª RS, no Município de Guaíra com as atribuições de planejar, coordenar, a gerir e implementar o Programa no Município, por meio de parceria de ações firmados com a 20ª Regional de Saúde articulando com os atores locais a formalização de cooperação técnica e educacional, bem como apoiar e colaborar na busca da resolução de demandas oriundas dos demais conselhos existentes no Município e que sejam comprovadamente de interesse da saúde pública da comunidade local, definidas nesta lei e na sua regulamentação.
+
+
+§ 1º
+
+As funções de membros do Comitê Municipal Gestor do Programa Irradiando Saúde não serão remuneradas.
+
+
+§ 2º
+
+Integram o Comitê Gestor Municipal representantes (titular e suplente) das áreas trabalhadas no Município: Câmara Municipal; Secretarias Municipais; Associação Comercial e Industrial; Conselhos Municipais (de Agricultura e Meio Ambiente, Saúde, Educação, Assistência Social, Criança e Adolescente, Idoso etc.); do Governo Estadual (SEAB, NRE, SESA, PM/PR etc.); do Governo Federal ( MPF, MEC, MMA, MDS, MS etc.); de entidades classistas (sindicatos, APMs, Associações Comunitárias, etc); das instituições de ensino superior públicas e privadas; de entidades não-governamentais (ONGs, igrejas, pastorais, etc.); dos programas e serviços da 20ª Regional de Saúde instituídos no Município; dos órgãos de imprensa local; dos clubes de serviço e demais parceiros.
+
+
+§ 3º
+
+A coordenação do Comitê Gestor de que trata o caput será exercida por quatro de seus membros: dois coordenadores (titular e suplente) e dois secretários (titular e suplente) e relator (titular e suplente) indicados e aprovados pelos demais membros com mandato de um ano, podendo ser reconduzidos por mais um mandato, observadas as normas do regulamento.
+
+
+Art. 2º.
+
+O Comitê Gestor terá caráter consultivo, com os objetivos de congregar os interesses da comunidade, permitindo a participação de todos os segmentos sociais; compatibilizar os interesses dos diferentes usuários; participar na elaboração dos planos de saúde e dos programas anuais e plurianuais de investimentos e acompanhar sua implementação; propor a elaboração de estudos, pesquisas e projetos de interesse da comunidade; acompanhar a execução das ações e serviços no âmbito da 20ª Regional de Saúde.
+
+
+Art. 3º.
+
+Caberá aos secretários municipais afins ou seus representantes a gestão operacional das ações previstas nos Planos de Trabalho ajustados e definidos pelo Comitê Gestor e, com participação/parceria com 20ª Regional de Saúde, enquanto as atividades de acompanhamento caberão ao Comitê Gestor e cada um dos entes congregados.
+
+
+Art. 4º.
+
+As condições de organização e funcionamento do Comitê Gestor de que trata o caput do artigo primeiro serão detalhadas por meio de regulamento próprio, a ser editado pelo Poder Executivo no prazo máximo de 60 (sessenta) dias a partir da publicação desta Lei.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data da sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 19 de dezembro de 2012.  
+  
+DR. MANOEL KUBA  
+Prefeito Municipal
+

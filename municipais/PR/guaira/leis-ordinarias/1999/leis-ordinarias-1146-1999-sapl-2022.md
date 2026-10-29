@@ -1,0 +1,291 @@
+---
+titulo: "Lei Ordinária nº 1.146, de 21 de maio de 1999"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1146"
+data: "1999-05-21"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2022"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/578/text"
+sha256_fonte: "f3ad43b831eabee3a35554fade21e83584c7e037634fee9f5c8a4b7a61d6a965"
+sha256_texto: "4c1adcf99939efe8732dd3185e812f9f3158b69335512952b2b618fb3b19f8da"
+capturado_em_fonte: "2026-10-28T13:32:46.425467-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.146, de 21 de maio de 1999
+
+Cria o Conselho Municipal de Turismo e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, estado do Paraná, aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o CONSELHO MUNICIPAL DE TURISMO DE GUAÍRA, de caráter consultivo, deliberativo e permanente, com finalidade de estabelecer e garantir as diretrizes e prioridades do desenvolvimento turístico do município de Guaíra.
+
+
+Art. 2º.
+
+Ao CONSELHO MUNICIPAL DE TURISMO DE GUAÍRA, compete:
+
+
+I –
+
+colaborar com os Poderes Executivo e Legislativo, no planejamento, organização, coordenação e fiscalização das diretrizes, objetivando o desenvolvimento turístico no município;
+
+
+II –
+
+integrar a comunidade e os Poderes Públicos, criando uma política de turismo e formando uma cultura turística junto a população;
+
+
+III –
+
+acompanhar e analisar projetos e programas de governo, voltados ao turismo;
+
+
+IV –
+
+apoiar e incentivar iniciativas municipais e regionais, de caráter público e privado, que tenham como objetivo o desenvolvimento turístico e integrado de Guaíra e Região;
+
+
+V –
+
+elaborar, o Regimento Interno a ser aprovado por decreto do Executivo, e promover sua atualização quando necessário;
+
+
+VI –
+
+promover gestões junto a quem de direito para captação de novos investimentos em beneficio dos setores turístico local e regional;
+
+
+VII –
+
+elaborar, e fazer cumprir um calendário anual de eventos turísticos para o município e região;
+
+
+VIII –
+
+elaborar, com entidades especializadas, projetos que resultem na criação de um acervo de patrimônio turístico;
+
+
+IX –
+
+elaborar, com entidades especializadas, projetos de campanhas de conscientização da comunidade para a importância do turismo no progresso da região;
+
+
+X –
+
+discutir e propor a criação do Fundo Municipal de Turismo.
+
+
+Art. 3º.
+
+O CONSELHO MUNICIPAL DE TURISMO DE GUAÍRA será composto paritariamente por pessoas com atuação profissional ligadas à atividade turística, interessadas e já atuantes nos processos de crescimento sócio econômico de Guaíra e região, além de representantes; dos poderes públicos, a serem nomeados por meio de Decreto do Executivo Municipal, que irá instituir, no prazo máximo de 30 (trinta) dias da publicação desta Lei, o Regimento lnterno regulamentador das atividades do Conselho.
+
+
+Art. 4º.
+
+A Diretoria do CONSELHO MUNICIPAL DE TURISMO será composta dos seguintes membros:
+
+
+I –
+
+Presidente;
+
+
+II –
+
+Vice-presidente;
+
+
+III –
+
+Secretário Executivo;
+
+
+IV –
+
+Conselheiros (02).
+
+
+§ 1º
+
+O presidente do Conselho será substituído nos impedimentos legais e eventuais pelo Vice presidente e, na sua falta, por um representante escolhido dentre os representantes à reunião.
+
+
+§ 2º
+
+O Presidente e o vice presidente do conselho serão eleitos pela maioria absoluta dos seus representantes, na primeira reunião.
+
+
+§ 3º
+
+O Conselho contará com um secretário Executivo a ser indicado e nomeado pelo Prefeito Municipal de Guaíra.
+
+
+§ 4º
+
+A Secretaria Municipal de Turismo prestará o necessário apoio técnico e administrativo as atividades do Conselho municipal de Turismo.
+
+
+§ 5º
+
+Os órgãos e instituições, inclusive as financeiras, que interagirem como conselho, poderão participar das reuniões, se convidados, sendo - lhes facultado manifestar-se sobre assuntos abordados, sem entretanto, ter direito a voto.
+
+
+§ 6º
+
+Pelas atividades exercidas no Conselho, os seus membros, titulares ou suplentes, não receberão qualquer tipo de remuneração, vantagens ou benefícios.
+
+
+§ 7º
+
+O mandato de cada representante será de dois anos, permitida uma recondução por igual período.
+
+
+Art. 5º.
+
+Ao Presidente do CONSELHO MUNICIPAL DE TURISMO, dentre outras atribuições compete:
+
+
+a)
+
+cumprir e fazer cumprir as resoluções e o Regimento Interno do Conselho;
+
+
+b)
+
+comunicar aos representantes do conselho, a convocação de reuniões com antecedência mínima de 48 (quarenta e oito horas), através de ofício ou edital, com ciência do convocado.
+
+
+c)
+
+representar o Conselho em juízo ou fora dele;
+
+
+d)
+
+dirigir, executar e disciplinar os trabalhos do Conselho;
+
+
+e)
+
+solicitar ao Prefeito, por deliberação dos componentes do Conselho, informações necessárias ao seu regular e perfeito funcionamento;
+
+
+f)
+
+rubricar, juntamente com o Secretário, todos os livros destinados ao serviço do Conselho;
+
+
+g)
+
+manter em nome do conselho, todos os contatos e gestões de direito com o Prefeito e com mais autoridades.
+
+
+Art. 6º.
+
+Ao Vice Presidente compete substituir o Presidente no desempenho de suas funções, sempre que o mesmo se encontrar ausente no recinto destinado às reuniões do Conselho na hora do início dos trabalhos, cedendo-lhe o lugar tão logo ele se fizer presente.
+
+
+Parágrafo único
+
+Compete ainda, ao vice-presidente, desempenhar as atribuições de Presidente quando este lhe transmitir exercício do cargo por impedimento legal.
+
+
+Art. 7º.
+
+Ao Secretário Executivo do CONSELHO, compete:
+
+
+a)
+
+constatar a presença dos componentes do Conselho após abrir as reuniões, confrontando - a com livro de presenças anotando os que compareceram e os que faltaram, com causa justificada ou não, e consignar outras ocorrências sobre o assunto, bem como encerrar o referido livro ao final da reunião.
+
+
+b)
+
+ler a Ata da reunião anterior, os expedientes que devam ser de conhecimento dos membros do CONSELHO e outros por determinação do Presidente;
+
+
+c)
+
+superintender a redação da ata, resumindo os trabalhos da reunião, assinando - a junta ente com o Presidente e demais componentes do Conselho presentes na reunião;
+
+
+d)
+
+manter atualizados os arquivos de normas, correspondências e demais documentos de interesse do conselho;
+
+
+e)
+
+assinar juntamente com o Presidente todos os Documentos oriundos das reuniões do Conselho;
+
+
+f)
+
+executar outras funções afins.
+
+
+Art. 8º.
+
+A organização e o funcionamento deste CONSELHO serão disciplinados em Regimento Interno, a ser aprovado por maioria absoluta de seus membros efetivos, no prazo de 60 (sessenta) dias, a contar da data da sua instalação.
+
+
+Art. 9º.
+
+O CONSELHO MUNICIPAL DE TURISMO deliberará por maioria absoluta nas plenárias que ocorrerão mensalmente ou extraordinariamente.
+
+
+a)
+
+Caberá ao Presidente, além do voto comum, o voto de desempate;
+
+
+b)
+
+as deliberações do Conselho serão registradas em ata, lavrada em livro próprio e dada conhecimento ao Prefeito e a Câmara Municipal de Guaíra;
+
+
+Art. 10.
+
+O poder Executivo dotará o Conselho com as instalações necessárias ao seu funcionamento e bom êxito de suas atribuições.
+
+
+Art. 11.
+
+As sessões do Conselho Municipal de Turismo serão públicas e amplamente divulgadas.
+
+
+Art. 12.
+
+Os casos omissos deste ato serão resolvidos no âmbito administrativo pelo CONSELHO MUNICIPAL DE TURISMO em primeira instância, e pelo Prefeito Municipal em última instância.
+
+
+Parágrafo único
+
+Poderá ser prevista, no Regimento Interno, a criação de Grupos Temáticos, temporários ou permanentes, de acordo com as necessidades específicas com o objetivo de subsidiar as deliberações do Conselho, sendo que, em nenhuma hipótese, o número de componentes desses grupos será superior ao de representantes no Conselho.
+
+
+Art. 13.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Edifício da Prefeitura Municipal de Guaíra, em 21 de maio de 1999.  
+  
+DR. MANOEL KUBA  
+Prefeito Municipal
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

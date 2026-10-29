@@ -1,0 +1,177 @@
+---
+titulo: "Lei Ordinária nº 586, de 05 de junho de 2012"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "586"
+data: "2012-06-05"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/107"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1882/text"
+sha256_fonte: "859656f4d9058af602ba98ccee3bd49f51379b3fa1f708a45fcdbdae26524d18"
+sha256_texto: "89ff59a494f02074e2a41d66793a813b6f60b14606c8ab4780c224682626f134"
+capturado_em_fonte: "2026-10-28T11:51:28.904718-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 586, de 05 de junho de 2012
+
+Institui o Sistema de Informações sobre Violência nas Escolas, da Rede Municipal de Ensino em Formosa e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE FORMOSA,  
+Faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído o Sistema de Informações sobre Violência nas Escolas da rede municipal de ensino de Formosa, com os seguintes objetivos:
+
+
+a)
+
+mapear e monitorar condutas ou atos de violência ocorridos no ambiente escolar envolvendo alunos, professores, dirigentes e agentes públicos que atuam nas escolas;
+
+
+b)
+
+identificar estabelecimentos de ensino com mais ocorrências relacionadas à violência;
+
+
+c)
+
+intensificar ações sociais nas escolas identificadas;
+
+
+d)
+
+colaborar com a formação de políticas públicas necessárias à redução da violência no ambiente escolar;
+
+
+e)
+
+adotar providências cabíveis, com vistas à redução da sensação de impunidade;
+
+
+f)
+
+aperfeiçoar, economizar e adequar recursos públicos;
+
+
+g)
+
+colaborar com a melhoria e a qualidade dos serviços educacionais prestados na rede municipal de ensino, proporcionando um ambiente adequado ao aprendizado e desenvolvimento do educando;
+
+
+h)
+
+valorizar o corpo docente das escolas;
+
+
+i)
+
+fortalecer a humanização e acolhimento do corpo discente.
+
+
+Parágrafo único.
+
+Para efeitos desta Lei, entende-se como conduta ou ato de violência o fato que provoque constrangimento físico ou moral, por meio de coação ou força física que resulte em atentado à integridade dos alunos, professores, dirigentes e agentes públicos que atuam nas escolas, bem como qualquer ação que resulte em dano ao patrimônio público ou social.
+
+
+Art. 2º.
+
+O sistema deverá identificar as escolas onde ocorrem conduta ou atos de violência, suas principais causas, o perfil das vítimas e dos agressores, o local dos fatos, bem como outros fatores considerados relevantes para a sua análise.
+
+
+Art. 3º.
+
+Os dados coletados no sistema de informações que dispõe esta Lei deverão ser encaminhados a Secretaria Municipal de Educação para serem compilados, tabulados, sistematizados e analisados com vistas à elaboração de relatórios que irão orientar ou subsidiar ações sociais, políticas públicas de prevenção, estudos e pesquisas com o objetivo de reduzir ou erradicar a violência no ambiente escolar.
+
+
+Art. 4º.
+
+Poderão ser adotadas diversas medidas de combate à violência, de acordo com a peculiaridade de cada escola, entre as quais:
+
+
+a)
+
+implantação de projetos pedagógicos específicos nas escolas que sofrem com os maiores índices de violência, com vistas ao reconhecimento dos direitos humanos e a promoção da cultura da paz;
+
+
+b)
+
+campanhas educativas de conscientização, valorização da vida e do exercício da cidadania;
+
+
+c)
+
+ações culturais, esportivas e sociais como forma de fortalecer a conexão entre a escola e a comunidade;
+
+
+d)
+
+qualificação e capacitação do corpo docente e agentes públicos que atuam na rede municipal de ensino;
+
+
+e)
+
+seminários, debates e eventos que estimulem a reflexão e o combate à violência.
+
+
+Art. 5º.
+
+As escolas da rede municipal de ensino ficam obrigadas a notificar qualquer conduta ou ato de violência, formalizando-o em termo de ocorrência especialmente elaborado para esse fim.
+
+
+Art. 6º.
+
+Termo de ocorrência é o registro informativo destinado a caracterizar o fato relacionado à conduta ou ato de violência ocorrido no ambiente escolar, sem prejuízo das demais providências a serem adotadas, conforme legislação em vigor.
+
+
+§ 1º
+
+O termo de ocorrência deverá ser devidamente preenchido e encaminhado ao órgão da administração municipal competente, conforme estabelecido em decreto regulamentador.
+
+
+§ 2º
+
+Poderão figurar como declarantes os dirigentes, professores e funcionários, pais ou responsáveis ou ainda qualquer cidadão que tiver conhecimento ou presenciado conduta ou ato de violência ocorrido no interior de estabelecimento de ensino, desde que plenamente identificados.
+
+
+§ 3º
+
+A administração municipal deverá manter sigilo, quando solicitado, providenciando, junto aos órgãos competentes, proteção aos declarantes.
+
+
+Art. 7º.
+
+As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 8º.
+
+O Poder Executivo Municipal regulamentará esta Lei no prazo de 90 (noventa) dias.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 05 de junho de 2012.
+
+PEDRO IVO DE CAMPOS FARIA  
+Prefeito Municipal
+
+Afixado no “placard” de publicidade.  
+E encadernado em livro próprio.  
+Data supra.  
+..................................................................................................  
+IANY MACÊDO TRONCHA  
+Superintendente de Legislação e Documentação
+

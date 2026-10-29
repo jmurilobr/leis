@@ -1,0 +1,124 @@
+---
+titulo: "Lei Ordinária nº 1.697, de 25 de outubro de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1697"
+data: "2010-10-25"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2625"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/960/text"
+sha256_fonte: "06b0585b6d632c192097cb6eaa856012b1193d634858b8fd606b106d13590538"
+sha256_texto: "66f59fe8314c33feca3bd4ff4b78e6e65c39f080f6e8340758b084b4be759c0c"
+capturado_em_fonte: "2026-10-28T13:21:34.828754-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.697, de 25 de outubro de 2010
+
+Dispõe sobre a instituição do "Concurso Minha Cidade Tem História", concede as respectivas premiações e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou e eu Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído no Município de Guaíra, através da Secretaria Municipal de Educação e Cultura, o "Concurso minha cidade tem história" - com o objetivo primordial de revelar e premiar os trabalhos originais, individuais e coletivos, de caráter histórico, nos diferentes temas/modalidades estabelecidos no regulamento anexo.
+
+
+§ 1º
+
+Poderão participar do concurso os alunos da Educação Infantil, Ensino Fundamental do 1º ao 5º ano e Educação de Jovens e Adultos, matriculados nas escolas públicas e particulares do município de Guaíra.
+
+
+§ 2º
+
+Será permitido apenas um trabalho por tema/modalidade por escola participante, devendo, se for o caso, a unidade escolar realizar uma pré-seleção dos trabalhos.
+
+
+Art. 2º.
+
+As inscrições serão gratuitas, e os trabalhos deverão ser entregues até a data de 20 de outubro de 2010, no Departamento de Cultura, de conformidade com o regulamento para o "Concurso minha cidade tem história", que é parte integrante desta lei.
+
+
+Art. 3º.
+
+O julgamento será realizado através de uma Comissão Julgadora, a ser nomeada pelo Executivo Municipal, que considerará de acordo com cada faixa etária, os seguintes critérios:
+
+
+a)
+
+Criatividade da idéia desenvolvida;
+
+
+b)
+
+Coerência com o tema;
+
+
+c)
+
+Pesquisa sobre o tema (livros e outros recursos);
+
+
+d)
+
+Clareza e originalidade do trabalho.
+
+
+Art. 4º.
+
+Os trabalhos enviados para o concurso ficarão expostos em local a ser definido, no período de 01 a 15 de novembro de 2010, fazendo parte das comemorações alusivas ao aniversário da Cidade.
+
+
+Art. 5º.
+
+A premiação consistirá:
+
+
+a)
+
+às escolas que tiverem alunos participantes do concurso, receberão certificado de participação;
+
+
+b)
+
+aos alunos vencedores em cada uma das modalidades, receberão medalha, certificado de participação e uma bicicleta;
+
+
+c)
+
+Ao aluno vencedor da Escola de Jovens e Adultos,receberá 1 ( uma ) bicicleta.
+
+
+Art. 6º.
+
+A divulgação dos resultados será no dia 29 de outubro de 2010, no site oficial do município e em outros meios de comunicação local.
+
+
+Art. 7º.
+
+A Comissão Organizadora, será nomeada pelo Senhor Prefeito Municipal através de Decreto.
+
+
+Art. 8º.
+
+Para atender as despesas referente a aquisição das premiações de que trata a presente lei, serão utilizados os recursos provenientes do Plano Pluri Anual - PPA, Lei de Diretrizes Orçamentárias - LDO e Lei Orçamentária Anual - LOA.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra - Pr,. em 25 de outubro de 2010.  
+  
+DR. MANOEL KUBA,  
+Prefeito Municipal.
+

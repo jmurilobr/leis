@@ -1,0 +1,184 @@
+---
+titulo: "Lei Ordinária nº 639, de 04 de novembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "639"
+data: "2025-11-04"
+municipio: "Guadalupe"
+uf: "PI"
+codigo_ibge: "2204501"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guadalupe.pi.leg.br/norma/667"
+fonte_texto: "https://sapl.guadalupe.pi.leg.br/ta/664/text"
+sha256_fonte: "26db2b775a893359bc190b8958e2220b117aced0c0b102503a671bc3e6a39dcc"
+sha256_texto: "d12c4bc57b9424e7d48214ce74d48b5ab131763eafa724fa7c2e6715b4890afb"
+capturado_em_fonte: "2026-10-28T12:42:20.269199-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 639, de 04 de novembro de 2025
+
+Dispõe sobre a limpeza de terrenos urbanos baldios do Município de Guadalupe e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE GUADALUPE, ESTADO DO PIAUÍ, no uso das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal aprovou e ela sanciona a seguinte Lei:
+
+
+#### CAPÍTULO I — DA HIGIENE DAS HABITAÇÕES E TERRENOS
+
+
+Art. 1º.
+
+Todos os terrenos baldios adjacentes ou não em áreas já edificadas deverão ser murados e ou cercados e convenientemente conservados pelos senhores proprietários ou possuidores no que diz respeito à limpeza dos mesmos através do uso de capinação ou de outros meios adequados.
+
+
+Art. 2º.
+
+Para efeitos desta Lei, entende-se por terrenos baldios, os terrenos sem construções, os terrenos com construções e desabitados, os terrenos com calçadas sem pavimento, os terrenos que embora habitados, permaneçam sujos, colocando em risco a saúde da vizinhança e dos transeuntes.
+
+
+Art. 3º.
+
+Para efeitos desta Lei entende-se por limpeza de terrenos:
+
+
+I –
+
+A capinação mecânica e ou roçagem do mato eventualmente crescido nos terrenos.
+
+
+II –
+
+Remoção de detritos, entulhos e lixos depositados no terreno baldio.
+
+
+Parágrafo único
+
+Fica proibido o uso de herbicidas ou qualquer emprego de fogo como forma de limpeza na vegetação, lixo, ou de quaisquer detritos e objetos, nos imóveis edificados e não edificados.
+
+
+#### CAPÍTULO II — DA FISCALIZAÇÃO
+
+
+Art. 4º.
+
+A fiscalização será exercida pela Secretaria Municipal de Meio Ambiente, que ficara incumbida de realizar inspeções, lavrar notificações, autuar e multar, além de outros procedimentos administrativos que se tornem necessários.
+
+
+Art. 5º.
+
+Constatada pela fiscalização municipal a existência de terreno baldio que infrinja o disposto no art. Io desta Lei, o proprietário do lote será notificado para que, no prazo máximo e improrrogável de 15 (quinze) dias, proceda à limpeza do terreno baldio, sob pena de aplicação de multa.
+
+
+Parágrafo único
+
+Caso o órgão competente não consiga notificar o proprietário pessoalmente ou por correspondência, será notificado através do Diário Oficial dos Municípios.
+
+
+Art. 6º.
+
+Qualquer munícipe poderá reclamar por escrito, através de requerimento endereçado a Secretaria Municipal de Meio Ambiente, a existência de terrenos baldios que necessitem de limpeza.
+
+
+Parágrafo único
+
+O munícipe terá seu requerimento protocolado e isento de taxas de expediente e sua reclamação deverá ser comprovada por fiscal da Prefeitura.
+
+
+Art. 7º.
+
+Quando notificado a tomar as providencias exigidas, fica ele obrigado a comunicar a Secretaria Municipal de Meio Ambiente, para que efetue nova vistoria no local e ateste a execução do serviço em campo, o que deverá constar na própria notificação.
+
+
+Parágrafo único
+
+O notificado que, comprovadamente executar os serviços de capinação, roçada ou limpeza do terreno objeto da notificação no prazo estabelecido no art. 6 desta Lei, estará livre da aplicação da multa, e, se reincidente, será reduzida pela metade.
+
+
+#### CAPÍTULO III — DA LIMPEZA EXECUTADA PELO PODER PÚBLICO
+
+
+Art. 8º.
+
+Decorrido o prazo concedido para que uma habitação ou terreno seja limpo, sem que o proprietário tenha tomado qualquer providencia nesse sentido, o Executivo Municipal, através da Secretaria Municipal de Meio Ambiente, poderá mandar executar o serviço pela Secretaria de Infraestrutura ou outro órgão encarregado, apresentando-lhe a respectiva conta, mediante notificação.
+
+
+§ 1º
+
+A autoridade pública municipal competente poderá indicar as zonas urbanas e respectivas ruas onde os terrenos devem ser murados, cercados e asseados com prioridade.
+
+
+§ 2º
+
+Os terrenos baldios não enquadrados no parágrafo anterior serão fechados, pelo menos, com cerca aramadas.
+
+
+Art. 9º.
+
+Após o serviço de limpeza feito pela Secretaria de Infraestrutura, a mesma irá notificar a Secretaria Municipal de Meio Ambiente que aplicará a multa conforme disposto no Art. 5º desta Lei.
+
+
+#### CAPÍTULO IV — DOS VALORES DAS MULTAS
+
+
+Art. 10.
+
+A multa será aplicada de acordo com serviço prestado pela Secretaria de Infraestrutura.
+
+
+I –
+
+Serviço de Roçada será cobrado 15% (quinze por cento) da UFG (Unidade Fiscal do Munícipio) por metro quadrado roçado.
+
+
+II –
+
+Serviço de Retro Escavadeira será cobrado 65% do UFG (Unidade Fiscal do Munícipio) a hora trabalhada.
+
+
+III –
+
+Serviços de Caminhão para retirada de entulhos será cobrado 50% da UFG (Unidade Fiscal do Munícipio) por carrada.
+
+
+Art. 11.
+
+O valor da multa aplicada será cobrado de forma imediata pelo município ou poderá ser incluso no IPTU do lote onde foi realizado o serviço, a critério do município.
+
+
+Parágrafo único
+
+Em caso de inclusão no IPTU, caso proprietário queira regularizar a dívida com antecedência, deverá procurar o Setor de Tributos do Município.
+
+
+#### CAPÍTULO V — DISPOSIÇÕES FINAIS
+
+
+Art. 12.
+
+As despesas decorrentes desta lei correrão por conta de dotações orçamentárias próprias.
+
+
+Art. 13.
+
+O Chefe do Poder Executivo Municipal regulamentará esta Lei no prazo de 60 (sessenta) dias, fixando os valores das multas em relação ao tamanho dos terrenos.
+
+
+Art. 14.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Guadalupe, aos quatro dias do mês de novembro de dois mil e vinte e cinco.
+
+Jesse James Lima Miranda  
+Prefeito Municipal
+
+Sancionada, Publicada e Registrada, a presente Lei em quatro de novembro de dois mil e vinte e cinco.
+
+Edson Sousa Rodrigues  
+Secretário Municipal de Planejamento e Gestão
+

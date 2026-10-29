@@ -1,0 +1,147 @@
+{
+  "HEAD_recuperacao": "437bce53bec67cc65c8a72727425d53ab9cb7fe3",
+  "originais": {
+    "federal/_fonte/auditorias/promocao730_20261028_001/promover730.py": "945b76a245200ff213233ef3a110848e11f534036475b907e0f374195dbec459",
+    "federal/_fonte/auditorias/promocao730_20261028_001/replay730.py": "8b060787a6c51dd32a288946467acc486d1cc8b6d00e59f469cd0b83b452ef5c",
+    "federal/_fonte/auditorias/promocao730_20261028_001/recibo730.json": "612460a0d97d3ab6c4bff0f339f1307b4057d3e4ce78302720a1bff2ba644ca3",
+    "federal/_fonte/auditorias/promocao730_20261028_001/recibo_promocao730.json": "798a408de14cf5e7236692bbe56538a3613ef8588978858ffa9d81ec4d751951"
+  },
+  "versoes_logicas": {
+    "scripts/html2md.py": {
+      "path_exportado": "federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/scripts/html2md.py",
+      "sha256_original_esperado": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6",
+      "origem_bytes": "Git HEAD 437bce53bec67cc65c8a72727425d53ab9cb7fe3:scripts/html2md.py",
+      "sha256_worktree_observado": "743075f8f9a2a377105b2a9edb66dc4106d717d7ba0e52c9438087af02d98b8c",
+      "divergente_no_worktree": true
+    },
+    "scripts/comum.py": {
+      "path_exportado": "federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/scripts/comum.py",
+      "sha256_original_esperado": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24",
+      "origem_bytes": "Artefato antecedente no disco, já confrontado com o SHA original",
+      "sha256_worktree_observado": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24",
+      "divergente_no_worktree": false
+    },
+    "scripts/identidade_decreto.py": {
+      "path_exportado": "federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/scripts/identidade_decreto.py",
+      "sha256_original_esperado": "c7fd847bad0ae3a3432f43f0f4a5568f8236f61833aff514945d5eeafa6e9f94",
+      "origem_bytes": "Artefato antecedente no disco, já confrontado com o SHA original",
+      "sha256_worktree_observado": "c7fd847bad0ae3a3432f43f0f4a5568f8236f61833aff514945d5eeafa6e9f94",
+      "divergente_no_worktree": false
+    },
+    "scripts/identidade_decreto_revisao.py": {
+      "path_exportado": "federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/scripts/identidade_decreto_revisao.py",
+      "sha256_original_esperado": "c1808f41532d41f6ea668177408743e7297f571b55f1709ec984977661771283",
+      "origem_bytes": "Artefato antecedente no disco, já confrontado com o SHA original",
+      "sha256_worktree_observado": "c1808f41532d41f6ea668177408743e7297f571b55f1709ec984977661771283",
+      "divergente_no_worktree": false
+    },
+    "scripts/integridade_anexos_decreto.py": {
+      "path_exportado": "federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/scripts/integridade_anexos_decreto.py",
+      "sha256_original_esperado": "e7acf0ce9ada5bb7d0e062dd20afd66724fef43109328046ef519a6e8a23abac",
+      "origem_bytes": "Artefato antecedente no disco, já confrontado com o SHA original",
+      "sha256_worktree_observado": "e7acf0ce9ada5bb7d0e062dd20afd66724fef43109328046ef519a6e8a23abac",
+      "divergente_no_worktree": false
+    },
+    "scripts/integridade_html_federal.py": {
+      "path_exportado": "federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/scripts/integridade_html_federal.py",
+      "sha256_original_esperado": "70945b86695a163f233875e23e01bf5f9c02a01dae6c4949dbda37b3b496214d",
+      "origem_bytes": "Artefato antecedente no disco, já confrontado com o SHA original",
+      "sha256_worktree_observado": "70945b86695a163f233875e23e01bf5f9c02a01dae6c4949dbda37b3b496214d",
+      "divergente_no_worktree": false
+    },
+    "scripts/auditar_pontuacao_federal.py": {
+      "path_exportado": "federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/scripts/auditar_pontuacao_federal.py",
+      "sha256_original_esperado": "bec7972a3d8138c61f4eb527738fd32e3bf39da0eed7913ac178771c53a778e9",
+      "origem_bytes": "Artefato antecedente no disco, já confrontado com o SHA original",
+      "sha256_worktree_observado": "bec7972a3d8138c61f4eb527738fd32e3bf39da0eed7913ac178771c53a778e9",
+      "divergente_no_worktree": false
+    },
+    "scripts/estados/pe_fidelidade_visivel.py": {
+      "path_exportado": "federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/scripts/estados/pe_fidelidade_visivel.py",
+      "sha256_original_esperado": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+      "origem_bytes": "Artefato antecedente no disco, já confrontado com o SHA original",
+      "sha256_worktree_observado": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+      "divergente_no_worktree": false
+    },
+    "scripts/preparar_lote_decretos_cache.py": {
+      "path_exportado": "federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/scripts/preparar_lote_decretos_cache.py",
+      "sha256_original_esperado": "b962db077e49db9ba3a7eccf25942c2516f6b939982089ccb2ad6f845ba5a7e8",
+      "origem_bytes": "Artefato antecedente no disco, já confrontado com o SHA original",
+      "sha256_worktree_observado": "b962db077e49db9ba3a7eccf25942c2516f6b939982089ccb2ad6f845ba5a7e8",
+      "divergente_no_worktree": false
+    },
+    "scripts/baixar_federal.py": {
+      "path_exportado": "federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/scripts/baixar_federal.py",
+      "sha256_original_esperado": "4889285109716ea3f7e753e8af2991b874d1f3b7265488756a98e0610c703495",
+      "origem_bytes": "Git HEAD 437bce53bec67cc65c8a72727425d53ab9cb7fe3:scripts/baixar_federal.py",
+      "sha256_worktree_observado": "e9211dcf5ec131a80d430995a0bbe343b05172fe57fa769819308ba21ae338f4",
+      "divergente_no_worktree": true
+    },
+    "federal/_fonte/auditorias/commonmark8886_20261027_001/replay_commonmark_html5.py": {
+      "path_exportado": "federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/federal/_fonte/auditorias/commonmark8886_20261027_001/replay_commonmark_html5.py",
+      "sha256_original_esperado": "824b00a5b40d1ab58b044d95bacef947b0b2862a8978c15bd136f27500ac67d6",
+      "origem_bytes": "Artefato antecedente no disco, já confrontado com o SHA original",
+      "sha256_worktree_observado": "824b00a5b40d1ab58b044d95bacef947b0b2862a8978c15bd136f27500ac67d6",
+      "divergente_no_worktree": false
+    },
+    "federal/_fonte/auditorias/alimentacao_normas_20261028_019/qualificar_snapshot_v4.py": {
+      "path_exportado": "federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/federal/_fonte/auditorias/alimentacao_normas_20261028_019/qualificar_snapshot_v4.py",
+      "sha256_original_esperado": "4ec29f40be70d3749a030149a1e4a484748a8c6013148fda7144569e9a663c33",
+      "origem_bytes": "Artefato antecedente no disco, já confrontado com o SHA original",
+      "sha256_worktree_observado": "4ec29f40be70d3749a030149a1e4a484748a8c6013148fda7144569e9a663c33",
+      "divergente_no_worktree": false
+    },
+    "federal/_fonte/auditorias/alimentacao_normas_20261028_019/preparar_replay_portavel.py": {
+      "path_exportado": "federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/federal/_fonte/auditorias/alimentacao_normas_20261028_019/preparar_replay_portavel.py",
+      "sha256_original_esperado": "e372e954931edf2853f5b93684fe933dc3a57f2722cb4cd386863e369059ba47",
+      "origem_bytes": "Artefato antecedente no disco, já confrontado com o SHA original",
+      "sha256_worktree_observado": "e372e954931edf2853f5b93684fe933dc3a57f2722cb4cd386863e369059ba47",
+      "divergente_no_worktree": false
+    },
+    "federal/_fonte/auditorias/alimentacao_normas_20261028_019/retencoes_contextuais001/retencoes.json": {
+      "path_exportado": "federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/federal/_fonte/auditorias/alimentacao_normas_20261028_019/retencoes_contextuais001/retencoes.json",
+      "sha256_original_esperado": "e9cd9699ab8518bd3b8fa5510af3261c066abed3a4eb96ab0642472d8fc4d7bc",
+      "origem_bytes": "Artefato antecedente no disco, já confrontado com o SHA original",
+      "sha256_worktree_observado": "e9cd9699ab8518bd3b8fa5510af3261c066abed3a4eb96ab0642472d8fc4d7bc",
+      "divergente_no_worktree": false
+    },
+    "federal/_fonte/auditorias/alimentacao_normas_20261028_019/retencoes_contextuais001/fontes_provas.jsonl.gz": {
+      "path_exportado": "federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/federal/_fonte/auditorias/alimentacao_normas_20261028_019/retencoes_contextuais001/fontes_provas.jsonl.gz",
+      "sha256_original_esperado": "d12c08b7954bdc728416011b63b74faf24a2c080eaadaf4f9c8ded6817fc4c0e",
+      "origem_bytes": "Artefato antecedente no disco, já confrontado com o SHA original",
+      "sha256_worktree_observado": "d12c08b7954bdc728416011b63b74faf24a2c080eaadaf4f9c8ded6817fc4c0e",
+      "divergente_no_worktree": false
+    },
+    "federal/_fonte/auditorias/alimentacao_normas_20261028_019/contextossnapshot.json": {
+      "path_exportado": "federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/federal/_fonte/auditorias/alimentacao_normas_20261028_019/contextossnapshot.json",
+      "sha256_original_esperado": "ef58c80917643c58c5f9dae747fee46427439da9aba5abbbcd9898dd0a5447c8",
+      "origem_bytes": "Artefato antecedente no disco, já confrontado com o SHA original",
+      "sha256_worktree_observado": "ef58c80917643c58c5f9dae747fee46427439da9aba5abbbcd9898dd0a5447c8",
+      "divergente_no_worktree": false
+    }
+  },
+  "auxiliares": [
+    {
+      "path_logico": "scripts/auditar.py",
+      "path_exportado": "federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/scripts/auditar.py",
+      "sha256": "a49009efb2d02a3059bf5cbaddc39529c24e2630e377f46cf419c765033ca648",
+      "origem_bytes": "Git HEAD 437bce53bec67cc65c8a72727425d53ab9cb7fe3:scripts/auditar.py",
+      "papel": "Dependência transitiva auxiliar declarada neste complemento; não inventa SHA antecedente"
+    },
+    {
+      "path_logico": "scripts/datas.py",
+      "path_exportado": "federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/scripts/datas.py",
+      "sha256": "0d6cdbc1113d5fe15a471aa8cde3eb1653d1e1484b0904a5a13b9ca10e1349fc",
+      "origem_bytes": "Git HEAD 437bce53bec67cc65c8a72727425d53ab9cb7fe3:scripts/datas.py",
+      "papel": "Dependência transitiva auxiliar declarada neste complemento; não inventa SHA antecedente"
+    },
+    {
+      "path_logico": "runtime Node marcado no replay original",
+      "path_exportado": "federal/_fonte/auditorias/export730_legado87_20261028_001/codigo/vendor/marked.esm.mjs",
+      "sha256": "0b4487359ce6b85108708e7a532e1242a27f4718241e7b2de109ac6cd307d2dc",
+      "origem_bytes": "reguladores/_fonte/auditorias/orgao_dedup_2017_20261028_002/codigo/marked.esm.mjs",
+      "papel": "Mesmos bytes do runtime observado; replay dos candidatos comprova os resultados armazenados"
+    }
+  ],
+  "limites": "Não altera recibos antecedentes nem SHA esperado. O caminho lógico usa um arquivo arquivado com exatamente os bytes originalmente exigidos; módulos do worktree divergentes são preservados e excluídos do mapa efetivo. Dados/candidatos continuam nos snapshots imutáveis."
+}

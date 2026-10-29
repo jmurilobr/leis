@@ -1,0 +1,154 @@
+---
+titulo: "Lei Ordinária nº 1.751, de 29 de novembro de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1751"
+data: "2011-11-29"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2667"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/1002/text"
+sha256_fonte: "190ecd9a3e8050893b08cde705b674c22a80857991c46ef22ba54cd53d0529e6"
+sha256_texto: "e2a5f994979db4ca3c4f676e421083e35d293fc72c56ef608ff765d8afc802d1"
+capturado_em_fonte: "2026-10-28T13:19:33.549289-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.751, de 29 de novembro de 2011
+
+Autoriza o Poder Executivo Municipal a contratar operações de crédito com a Agência de Fomento do Paraná S.A.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná aprovou, e eu Prefeito Municipal sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a contratar com a Agência de Fomento do Paraná S.A., operações de crédito, até o limite de R$ 1.200.000,00 (hum milhão e duzentos mil reais).
+
+
+Parágrafo único
+
+O valor das operações de crédito estão condicionados a obtenção pela municipalidade, de autorização para a sua realização, em cumprimento aos dispositivos legais aplicáveis ao endividamento público através de Resoluções emanadas do Senado Federal e pela Lei Complementar nº 101, de 04.05.2000 (Lei de Responsabilidade Fiscal).
+
+
+Art. 2º.
+
+Os prazos de amortização e carência, os encargos financeiros e outras condições de vencimento e liquidação da dívida a ser contratada, obedecerão às normas pertinentes estabelecidas pelas autoridades monetárias federais, e notadamente o que dispõe o normativo do Senado Federal, bem como as normas específicas da Agência de Fomento do Paraná S.A.
+
+
+Art. 3º.
+
+Os recursos oriundos das operações de crédito autorizadas por esta Lei serão aplicados na execução dos seguintes projetos:
+
+
+I –
+
+PAVIMENTAÇÃO DE VIAS URBANAS (RECAPE);
+
+
+II –
+
+PRAÇA.
+
+
+Art. 4º.
+
+Em garantia das operações de crédito de que trata esta Lei, fica o Poder Executivo Municipal autorizado a ceder à Agência de Fomento do Paraná S.A., as parcelas que se fizerem necessárias da quota-parte do Imposto Sobre Operações Relativas a Circulação de Mercadorias e Serviços - ICMS e do Fundo de Participação dos Municípios - FPM, ou tributos que os venham a substituir, em montantes necessários para amortizar as prestações do principal e dos acessórios, na forma do que venha a ser contratado.
+
+
+Art. 5º.
+
+Para garantir o pagamento do principal atualizado monetariamente, juros, multas e demais encargos financeiros decorrentes das operações referidas nesta Lei, o Poder Executivo Municipal, poderá outorgar à Agência de Fomento do Paraná S.A., mandato pleno, para receber e dar quitação das referidas obrigações financeiras, com poderes para substabelecer.
+
+
+Art. 6º.
+
+O prazo e a forma definitiva de pagamento do principal reajustável, acrescidos dos juros e demais encargos incidentes sobre as operações financeiras, obedecidos os limites desta Lei, serão estabelecidos pelo Poder Executivo Municipal com a entidade financiadora, conforme elencado no contrato de operação de crédito.
+
+
+Art. 7º.
+
+Anualmente, a partir do exercício financeiro subseqüente ao da contratação das operações de crédito, o orçamento do Município consignará dotações próprias para a amortização do principal e dos acessórios das dívidas contratadas.
+
+
+Art. 8º.
+
+Face a autorização para contratação de Operações de Crédito junto a Agência de Fomento do Paraná S.A., fica aberto no Orçamento Fiscal (Lei Municipal 1714 de 21/01/2011) Crédito Suplementar no valor de valor R$ 1.200.000,00 (hum milhão e duzentos mil reais) pela ementa 6 - Crédito Suplementar - Operação de crédito nas seguintes categorias:  
+  
+RECEITA  
+20.00.00.00 RECEITA DE CAPITAL  
+21.00.00.00 OPERAÇÕES DE CRÉDITO  
+2110.00.00 OPERAÇÕES DE CRÉDITO INTERNAS  
+21.14.00.00 OPERAÇÕES DE CRÉDITO INTERNAS - C  
+21.14.05.00 OPERAÇÕES DE CRÉDITO INTERNASP/ PROG. DE MODERNIZAÇÃO DA ADMINISTRAÇÃO  
+21.14.05.02 OPERAÇÕES DE CRÉDITO INTERNASP/ PROG. DE  
+MODERNIZAÇÃO DA ADMINISTRAÇÃO PÚBLICA................................................R$ 1.200.000,00  
+  
+DESPESAS  
+1000 SECRETARIA MUNICIPAL DE INFRAESTRUTURA Fonte  
+1002 DPTO DE OBRAS  
+15.451.0046.1.018 Construções em Vias e Logradouros públicos  
+44.90.51.00 Obras e Instalações 11612................................................R$ 1.200.000,00
+
+
+Art. 9º.
+
+A execução desta Lei decorrerá das receitas orçamentárias, advindas de Operação de Crédito no exercício de 2011, e não terá redução por se tratar de valores não previstos no orçamento do exercício de 2011.
+
+
+Art. 10.
+
+Em decorrência da abertura do Crédito Suplementar constante do artigo 8º, com recursos de arrecadação de Operação de Crédito no valor de R$ 1.200.000,00 (hum milhão e duzentos mil reais), as Receitas e Despesas e parte das metas físicas programadas para o exercício de 2011 na ação orçamentária estabelecida no ANEXO II da Lei nº 1662 de 18/01/2010 (Plano Plurianual), ficam reprogramadas na forma abaixo descrita.  
+  
+RECEITA  
+20.00.00.00 RECEITA DE CAPITAL  
+21.00.00.00 OPERAÇÕES DE CRÉDITO  
+2110.00.00 OPERAÇÕES DE CRÉDITO INTERNAS  
+21.14.00.00 OPERAÇÕES DE CRÉDITO INTERNAS - C  
+21.14.05.00 OPERAÇÕES DE CRÉDITO INTERNASP/ PROG. DE MODERNIZAÇÃO DA ADMINISTRAÇÃO  
+21.14.05.02 OPERAÇÕES DE CRÉDITO INTERNASP/ PROG. DE  
+MODERNIZAÇÃO DA ADMINISTRAÇÃO PÚBLICA................................................R$ 1.200.000,00  
+  
+DESPESAS  
+1000 SECRETARIA MUNICIPAL DE INFRAESTRUTURA Fonte  
+1002 DPTO DE OBRAS  
+15.451.0046.1.018 Construções em Vias e Logradouros públicos  
+44.90.51.00 Obras e Instalações 11612................................................R$ 1.200.000,00
+
+
+Art. 11.
+
+Em decorrência da abertura do Crédito Suplementar constante do artigo 8º, com recursos de arrecadação de Operação de Crédito no valor de R$ 1.200.000,00 (hum milhão e duzentos mil reais), as Receitas e Despesas e parte das metas físicas programadas para e exercício de 2011 na ação orçamentária estabelecida no ANEXO I da Lei de Diretrizes Orçamentárias (Lei Municipal 1687 de 06/07/2010 e 1705 de 07/12/2010), ficam reprogramadas na forma abaixo descrita:  
+  
+RECEITAS  
+20.00.00.00 RECEITA DE CAPITAL  
+21.00.00.00 OPERAÇÕES DE CRÉDITO  
+2110.00.00 OPERAÇÕES DE CRÉDITO INTERNAS  
+21.14.00.00 OPERAÇÕES DE CRÉDITO INTERNAS - C  
+21.14.05.00 OPERAÇÕES DE CRÉDITO INTERNASP/ PROG. DE MODERNIZAÇÃO DA ADMINISTRAÇÃO  
+21.14.05.02 OPERAÇÕES DE CRÉDITO INTERNASP/ PROG. DE MODERNIZAÇÃO  
+DA ADMINISTRAÇÃO PÚBLICA.............................................................R$ 1.200.000,00  
+  
+DESPESAS  
+1000 SECRETARIA MUNICIPAL DE INFRAESTRUTURA Fonte  
+1002 DPTO DE OBRAS  
+15.451.0046.1.018 Construções em Vias e Logradouros públicos  
+44.90.51.00 Obras e Instalações 11612................................................R$ 1.200.000,00
+
+
+Art. 12.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 29 de novembro de 2011.  
+  
+DR. MANOEL KUBA  
+Prefeito Municipal
+

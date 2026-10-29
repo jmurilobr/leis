@@ -1,0 +1,185 @@
+---
+titulo: "Lei Ordinária nº 1.169, de 17 de abril de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1169"
+data: "2026-04-17"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/6085"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/2576/text"
+sha256_fonte: "6d4cc0a05bb528ba50c97ee77ecd8a7f4933f43a3d4437f75b21110fe4163c24"
+sha256_texto: "53a77874dba5440e3f26812ee272e869bde92af10418cee532db6cb3d3821360"
+capturado_em_fonte: "2026-10-28T11:01:29.382749-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.169, de 17 de abril de 2026
+
+Autoriza o Poder Executivo a instituir a Carteira Municipal de Identificação da Pessoa com Deficiência (PCD) no Município de Formosa-GO e dá outras providências.
+
+
+Projeto de Lei Ordinária nº 38/26, de autoria do Vereador Marcus Vinicius Moreira Viana, aprovado em 14 de abril de 2026.
+
+A PREFEITA MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais conferidas pela Constituição Federal e nos termos do Inciso III do art. 69 da Lei Orgânica Municipal, de 5 de abril de 1990, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Toda pessoa com deficiência, nos termos da Lei Brasileira de Inclusão da Pessoa com Deficiência, tem direito a obter a Carteira Municipal de Identificação da Pessoa com Deficiência (PCD) junto ao órgão municipal competente, a qual terá validade como instrumento de identificação para fins de acesso a direitos, prioridades e benefícios sociais decorrentes de políticas públicas.
+
+
+§ 1º
+
+Considera-se pessoa com deficiência aquela que possui impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, que, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas.
+
+
+§ 2º
+
+A Carteira Municipal de Identificação da Pessoa com Deficiência não substitui documentos pessoais, mas constitui meio hábil de comprovação da condição de deficiência para fins de atendimento prioritário e acesso a serviços.
+
+
+Art. 2º.
+
+A Carteira conterá as seguintes informações:
+
+
+I –
+
+nome completo, número do documento de identidade (RG) e CPF;
+
+
+II –
+
+data de nascimento;
+
+
+III –
+
+endereço completo;
+
+
+IV –
+
+fotografia recente;
+
+
+V –
+
+nome e telefone do cuidador ou responsável legal, quando houver;
+
+
+VI –
+
+tipo de deficiência;
+
+
+VII –
+
+grau de intensidade da deficiência, quando constar no laudo médico;
+
+
+VIII –
+
+informações médicas essenciais, como alergias, medicamentos em uso e tipo sanguíneo, mediante autorização do titular ou responsável legal;
+
+
+IX –
+
+número de registro e data de emissão.
+
+
+Parágrafo único.
+
+As informações constantes na Carteira observarão as disposições da Lei Geral de Proteção de Dados Pessoais, garantindo-se o sigilo e a proteção dos dados pessoais do titular.
+
+
+Art. 3º.
+
+A solicitação da Carteira deverá ser acompanhada de:
+
+
+I –
+
+documento oficial de identificação com foto;
+
+
+II –
+
+comprovante de residência no Município de Formosa-GO;
+
+
+III –
+
+laudo médico que ateste a deficiência e, quando possível, o grau de intensidade e a Classificação Internacional de Doenças (CID).
+
+
+Parágrafo único.
+
+O laudo poderá ser emitido por profissional da rede pública ou privada de saúde.
+
+
+Art. 4º.
+
+O documento destinado às pessoas com deficiência deverá conter elementos visuais diferenciados que facilitem sua identificação, observados critérios de acessibilidade e sem prejuízo à preservação da dignidade, intimidade e vida privada do titular.
+
+
+Art. 5º.
+
+A Carteira terá validade de 5 (cinco) anos, podendo ser renovada mediante atualização cadastral.
+
+
+Parágrafo único.
+
+Nos casos de deficiência temporária ou passível de reversão, o prazo de validade poderá ser inferior, conforme constar do laudo médico.
+
+
+Art. 6º.
+
+O Poder Executivo poderá disponibilizar selo ou adesivo de identificação para veículos que transportem pessoas com deficiência, mediante cadastro do beneficiário, observadas as normas de trânsito vigentes.
+
+
+Art. 7º.
+
+A gestão, emissão e controle da Carteira ficarão sob responsabilidade do órgão municipal designado pelo Poder Executivo, podendo haver atuação integrada entre as Secretarias Municipais de Saúde, Desenvolvimento Social e Educação.
+
+
+Art. 8º.
+
+O Poder Executivo poderá firmar convênios e parcerias com órgãos públicos e entidades privadas para viabilizar a emissão da Carteira e integração de dados, respeitada a legislação vigente.
+
+
+Art. 9º.
+
+As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 10.
+
+O Poder Executivo regulamentará esta Lei no prazo de 90 (noventa) dias, contados da data de sua publicação.
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete da Prefeita, 17 de abril de 2026.
+
+SIMONE DIAS RIBEIRO DE MELO  
+Prefeita Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra
+
+Iany Macedo Troncha  
+Assessora I – Assessoria em Atos Oficiais  
+na Subprocuradoria Geral Consultiva  
+Decreto nº 1.711, de 28 de abril de 2025
+

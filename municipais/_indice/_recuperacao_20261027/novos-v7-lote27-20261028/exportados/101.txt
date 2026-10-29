@@ -1,0 +1,90 @@
+---
+titulo: "Lei Ordinária nº 1.104, de 06 de outubro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1104"
+data: "2025-10-06"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/5780"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/2509/text"
+sha256_fonte: "b454e3abc1d2406235fca6e1ab594021915cb4f4de4795e3ca29d63eaff4a07e"
+sha256_texto: "f394217a7dbdc367312fe19ace6c49eb9e89a5a9ffd9712f2f94b77c59c6bad1"
+capturado_em_fonte: "2026-10-28T11:03:46.005005-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.104, de 06 de outubro de 2025
+
+Institui a “Semana Municipal da Enfermagem” no calendário oficial do município de Formosa Goiás.
+
+
+Projeto de Lei Ordinária nº 35/25, de autoria do Vereador Rogerio Pereira da Silva, aprovado em 09 de setembro de 2025.
+
+A PREFEITA MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais conferidas pela Constituição Federal e nos termos do Inciso III do art. 69 da Lei Orgânica Municipal, de 5 de abril de 1990, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituída, no âmbito do Município de Formosa, a “Semana Municipal da Enfermagem”, a ser comemorada anualmente no período de 12 a 20 de maio, passando a integrar o Calendário Oficial de Eventos do município de Formosa.
+
+
+Art. 2º.
+
+A Semana da Enfermagem tem como objetivo:
+
+
+I –
+
+valorizar os profissionais da enfermagem que atuam no município;
+
+
+II –
+
+promover palestras, seminários, cursos e atividades educativas sobre o papel da enfermagem na saúde pública;
+
+
+III –
+
+estimular a integração entre os profissionais da saúde e a comunidade;
+
+
+IV –
+
+proporcionar debates sobre as condições de trabalho e a formação dos profissionais da área.
+
+
+Art. 3º.
+
+Durante a Semana da Enfermagem, o Poder Público poderá, em parceria com instituições de saúde e ensino, sindicatos e conselhos de classe, realizar atividades alusivas à data.
+
+
+Art. 4º.
+
+As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete da Prefeita, em 06 (seis) de outubro de 2025.
+
+SIMONE DIAS RIBEIRO DE MELO  
+Prefeita Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra
+
+Iany Macedo Troncha  
+Assessora I – Assessoria em Atos Oficiais  
+na Subprocuradoria Geral Consultiva  
+Decreto nº 1.711, de 28 de abril de 2025
+

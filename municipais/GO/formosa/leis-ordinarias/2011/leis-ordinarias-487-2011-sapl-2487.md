@@ -1,0 +1,177 @@
+---
+titulo: "Lei Ordinária nº 487, de 20 de outubro de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "487"
+data: "2011-10-20"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/2487"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1935/text"
+sha256_fonte: "8f24fb10092c1dcf072b8daf14ecd305ef7a9e1371bb816638c8e4f4c8e0a84b"
+sha256_texto: "6ea7cfb1d253db0ad867c2e14052673ef212d86ff353332b87f8bd6f31eb723a"
+capturado_em_fonte: "2026-10-28T11:55:01.692398-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 487, de 20 de outubro de 2011
+
+Cria Lei da Ficha Limpa Municipal que disciplina sobre a nomeação para cargos em comissão e funções gratificadas no âmbito dos órgãos do Poder Executivo e Legislativo Municipal e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE FORMOSA,  
+Faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Esta Lei denominada de “Ficha Limpa” disciplina critérios para nomeação de cargos de comissão e funções gratificadas visando à probidade e moralidade administrativa protegendo a sociedade do abuso do poder político e econômico sendo aplicado complementarmente aos dispositivos na esfera federal, estadual e municipal.
+
+
+Art. 2º.
+
+Fica vedada a nomeação para cargos no âmbito do Poder Executivo, de Secretários Municipais, Procurador Geral do Município, Assessores e Diretores e Equivalentes, da administração direta e indireta, do Poder Legislativo todo e qualquer nomeado por livre nomeação e exoneração de pessoas enquadradas nas seguintes hipóteses:
+
+
+I –
+
+os que tenham contra sua pessoa representação julgada procedente pela Justiça Eleitoral ou Justiça Comum, em decisão transitada em julgado ou proferida por órgão colegiado, em segunda instância em processo de apuração de abuso do poder econômico ou político, desde a decisão até o transcurso do prazo de 08 (oito) anos;
+
+
+II –
+
+os que forem condenados, em decisão transitada em julgado ou proferida por órgão judicial colegiado, em segunda instância, desde a condenação até o transcurso do prazo de 08 (oito) anos após o cumprimento da pena, pelos crimes:
+
+
+a)
+
+contra a economia popular, a fé pública, a administração pública ou o patrimônio público;
+
+
+b)
+
+contra o patrimônio privado, o sistema financeiro, o mercado de capitais e os previstos na Lei que regula a falência;
+
+
+c)
+
+contra o meio ambiente ou a saúde pública;
+
+
+d)
+
+eleitorais, para os quais a Lei comine pena privativa de liberdade;
+
+
+e)
+
+de abuso de autoridade, nos casos em que houver condenação à perda do cargo ou à inabilitação para o exercício de função pública;
+
+
+f)
+
+de lavagem ou ocultação de bens, direitos e valores;
+
+
+g)
+
+de tráfico de entorpecentes e drogas afins, racismo, tortura, terrorismo ou hediondos;
+
+
+h)
+
+de redução à condição análoga à de escravo;
+
+
+i)
+
+contra a vida e a dignidade sexual;
+
+
+j)
+
+praticados por organização criminosa, quadrilha ou bando;
+
+
+l)
+
+os que forem demitidos do serviço público em decorrência de processo administrativo ou judicial, pelo prazo de 08 (oito) anos, contado da decisão, salvo se o ato houver sido suspenso ou anulado pelo Poder Judiciário ou pela própria Administração.
+
+
+Art. 3º.
+
+Todos os atos efetuados em desobediência às vedações previstas serão considerados nulos.
+
+
+Art. 4º.
+
+Caberá ao Chefe do Poder Executivo, e ao Presidente de Câmara de vereadores através de seus respectivos órgãos competentes e de forma individualizada, a fiscalização dos atos em obediência a presente Lei, com a possibilidade de requerer aos órgãos competentes informações e documentos que entender necessários para o cumprimento das exigências legais.
+
+
+Art. 5º.
+
+O nomeado ou designado, obrigatoriamente antes da posse, terá ciência das restrições e declarará por escrito que não se encontra inserido nas vedações do Art. 2º desta Lei.
+
+
+Art. 6º.
+
+As autoridades competentes, dentro do prazo de 90 (noventa) dias, contados da publicação da Lei, promoverão a exoneração dos ocupantes de cargos de provimento em comissão que se enquadrem nas situações previstas no Art. 2º, sob pena de responsabilidade.
+
+
+Parágrafo único.
+
+Os atos de exoneração produzirão efeitos a contar de suas respectivas publicações.
+
+
+Art. 7º.
+
+As denúncias de descumprimento da presente Lei poderão ser formuladas por qualquer pessoa, por escrito ou verbalmente, caso em que deverão ser reduzidas a termo, sendo vedado, todavia, o anonimato.
+
+
+§ 1º
+
+A denúncia deverá ser processada mesmo se vier desacompanhada de prova ou indicação da forma como obtê-la, não podendo ser desconsiderada em qualquer hipótese, salvo quando demonstrada de plano sua inveracidade, ou quando de má-fé o denunciante.
+
+
+§ 2º
+
+Encaminhada à denúncia para funcionário incompetente para conhecê-la, esta será imediatamente enviada para a autoridade competente, sob pena de responsabilidade.
+
+
+§ 3º
+
+A autoridade que não tomar as providências cabíveis, ou, de qualquer forma, frustrar a aplicação das disposições da presente Lei, responderá pelo ato na forma da legislação municipal.
+
+
+Art. 8º.
+
+A apuração administrativa a que se refere o Art. 7º não excluirá a atuação do Ministério Público, das autoridades policiais e demais legitimados para o questionamento do ato respectivo.
+
+
+Art. 9º.
+
+As denúncias de descumprimento desta Lei deverão ser encaminhadas ao Ministério Público, que ordenará as providências cabíveis na espécie.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito, Prefeitura Municipal de Formosa, em 20 de outubro de 2011.
+
+PEDRO IVO DE CAMPOS FARIA  
+Prefeito Municipal
+
+Afixado no “placard” de publicidade.  
+E encadernado em livro próprio.  
+Data supra.  
+.............................................................................  
+RENATA PENETRA  
+Gestora de Contratos e Documentos
+

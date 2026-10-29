@@ -1,0 +1,9 @@
+from pathlib import Path
+import json,hashlib,datetime,collections
+B=Path(__file__).resolve().parent;R=B.parents[3];D=B.parent/'promocao674_20261028_001';sha=lambda b:hashlib.sha256(b).hexdigest();m=json.loads((B/'pacote_final001/lote_final.json').read_bytes());counts=collections.Counter();rows=[]
+for r in m['publicaveis_privados']:
+ raw=(R/r['candidato']).read_text();date=next(x.split(': ',1)[1].strip('"')for x in raw.splitlines()if x.startswith('baixado_em: '));utc=r['fontes']['texto']['captura_utc'];local=datetime.datetime.fromisoformat(utc).astimezone(datetime.timezone(datetime.timedelta(hours=-3))).date().isoformat();assert date==local;counts[local]+=1;rows.append({'path':r['path'],'sha256_candidato':r['sha256_candidato'],'captura_UTC':utc,'captura_Recife':local,'baixado_em':date})
+(B/'verificacao_datas_captura.json').write_text(json.dumps({'resumo':dict(counts),'registros':rows,'limites':'Captura real da fonte com offset, não nome da pasta ou data de preparo.'},ensure_ascii=False,indent=2)+'\n')
+for directory,names in [(B,['preparar_replay_portavel.py','replay_portavel_final.py','recibo_replay_portavel_final.json','replay_portavel_final.log','verificacao_datas_captura.json',Path(__file__).name]),(D,['promover674.py','replay674.py','recibo674.json','recibo_promocao674.json','testes_limites674.py','testes_limites674.json','testes_seguranca674.py','testes.log','dryrun.log'])]:
+ prefix='entrega-replay-portavel'if directory==B else'entrega';ps=[directory/n for n in names];lp=directory/(prefix+'-paths.txt');lp.write_text(''.join(str(p.relative_to(R))+'\n'for p in ps));(directory/(prefix+'-hashes.json')).write_text(json.dumps({'sha256_lista':sha(lp.read_bytes()),'arquivos':[{'path':str(p.relative_to(R)),'sha256':sha(p.read_bytes())}for p in ps]},ensure_ascii=False,indent=2)+'\n')
+print(dict(counts));print((D/'dryrun.log').read_text())

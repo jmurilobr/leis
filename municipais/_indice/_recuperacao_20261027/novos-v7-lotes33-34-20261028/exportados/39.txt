@@ -1,0 +1,111 @@
+---
+titulo: "Lei Ordinária nº 289, de 27 de dezembro de 2002"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "289"
+data: "2002-12-27"
+municipio: "Guadalupe"
+uf: "PI"
+codigo_ibge: "2204501"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guadalupe.pi.leg.br/norma/551"
+fonte_texto: "https://sapl.guadalupe.pi.leg.br/ta/547/text"
+sha256_fonte: "7338cffc9e6740443d01c85ea6f1b0c8dc3117ea5988a0c637bce4cf1ad2f3a0"
+sha256_texto: "02114c2f4c8b39224992b70a498ae40541d2c86729fe97028f77d700ab110864"
+capturado_em_fonte: "2026-10-28T12:54:50.577320-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 289, de 27 de dezembro de 2002
+
+Estima a Receita e Fixa a despesa do Município de Guadalupe do Piauí para o exercício de 2003, e dá outros providências
+
+
+O Prefeito Municipal de Gudalupe, Estado do Piauí, faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte lei.
+
+
+Art. 1º.
+
+Esta Lei estima a Receita e fixa a Despesa do Município de Guadalupe - Piauí para o exercício financeiro de 2003 compreendendo:
+
+
+I –
+
+O orçamento fiscal referente ao Poder Legislativo e ao Poder Executivo do Município, seus órgãos, fundos e entidades da administração direta;
+
+
+II –
+
+O Orçamento da Seguridade Social, abrangendo todos os órgãos e entidade a ele vinculado, da administração direta, bem como os fundos instituídos e mantidos pelo Poder Público.
+
+
+Art. 2º.
+
+A Receita total é estimado em R$ 14.991.389,39 (quatorze milhões. novecentos e noventa e um mil, trezentos e oitenta e nove reais e trinta e nove centavos), e decorrerá da arrecadação de tributos, de outras receitas correntes e de capital e de recursos diretamente arrecadados pelas entidades do município, de acordo com o seguinte desdobramento:
+
+
+Receita Total R$ 1,00  
+Especificação da receita  
+  
+RECEITAS CORRENTES  
+Receita Tributária 303.308,00  
+Receita Patrimonial 110.560,00  
+Transferências Correntes 8.067.593,39  
+  
+RECEITAS DE CAPITAL  
+Transferências de Capital 6.508.928,00  
+  
+Total da Receita 14.991.389,39
+
+
+Art. 3º.
+
+A despesa total, no mesmo valor da receita total é fixada:
+
+
+No orçamento fiscal em R$ 14.991.389,39 (quatorze milhões. novecentos e noventa e um mil, trezentos e oitenta e nove reais e trinta e nove centavos).  
+  
+O quadro a seguir demonstra a programação orçamentária agregada em seu mais alto nível, por função de governo, que evidencia as prioridades das ações governamentais
+
+
+<table><tbody><tr><td colspan="3">Quadro Demonstrativo de Despesa por Função</td></tr><tr><td>CÓDIGO</td><td>FUNÇÃO</td><td>TOTAL</td></tr><tr><td>01</td><td>Legislativa</td><td>361.260,39</td></tr><tr><td>02</td><td>Judiciária</td><td>44.000,00</td></tr><tr><td>04</td><td>Administrativa</td><td>2.689.956,00</td></tr><tr><td>06</td><td>Segurança Pública</td><td>13.850,00</td></tr><tr><td>08</td><td>Assistência Social</td><td>953.086,00</td></tr><tr><td>10</td><td>Saúde</td><td>1.562.094,00</td></tr><tr><td>12</td><td>Educação</td><td>3.493.381,00</td></tr><tr><td>13</td><td>Cultura</td><td>46.7000,00</td></tr><tr><td>14</td><td>Direito da Cidadania</td><td>24.200,00</td></tr><tr><td>15</td><td>Urbanismo</td><td>2.280.000,00</td></tr><tr><td>16</td><td>Habitação</td><td>547.000,00</td></tr><tr><td>17</td><td>Saneamento</td><td>2.042.860,00</td></tr><tr><td>18</td><td>Gestão Ambiente</td><td>13.142,00</td></tr><tr><td>20</td><td>Agricultura</td><td>256.725,00</td></tr><tr><td>23</td><td>Comércio e Serviço</td><td>58.499,00</td></tr><tr><td>24</td><td>Comunicação</td><td>94.651,00</td></tr><tr><td>25</td><td>Energia</td><td>201.920,00</td></tr><tr><td>26</td><td>Transporte</td><td>54.082,00</td></tr><tr><td>27</td><td>Desporto e Lazer</td><td>175.565,00</td></tr><tr><td>28</td><td>Encargos Especiais</td><td>78.418,00</td></tr><tr><td colspan="2">TOTAL</td><td>14.991.389,39</td></tr></tbody></table>
+
+
+Art. 4º.
+
+Fica o Poder Executivo autorizado a:
+
+
+I –
+
+Abrir créditos suplementares com a finalidade de atender insuficiência nas dotações orçamentárias, até o limite 50% (cinqíienta por cento), do valor total da despesa fixada nesta lei, utilizando como fontes de recursos às definidas no artigo 43, da lei Federal n° 4.320, de 17 de março de 1964.
+
+
+II –
+
+Realizar operações de crédito por antecipação das receitas, até o limite de 15% (quinze por cento) das receitas correntes, conforme artigo 7º, inciso II, da lei Federal n° 4.320, de 17 de março de 1964.
+
+
+Art. 5º.
+
+Conforme o disposto na Lei de Diretrizes Orçamentárias o Poder Executivo poderá atualizar as receitas e despesas constante desta lei, dentro do exercício financeiro de 2003, pelo índice geral de preços - M/FGV - Fundação Getúlio Vargas, caso haja limite da disponibilidade da receita municipal.
+
+
+Art. 6º.
+
+Esta Lei entrará era vigor na data de sua publicação, tendo efeito a partir de 01 de janeiro de 2003.
+
+
+Art. 7º.
+
+Revogam-se as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Guadalupe (PI) em 27 de dezembro de 2002.  
+  
+Georgiano Fernandes Lima Filho  
+Prefeito Municipal
+

@@ -1,0 +1,42 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "node": "v26.12.0",
+  "bibliotecas": [
+    {
+      "modulo": "markdown_it",
+      "distribuicao": "markdown-it-py",
+      "versao": "4.0.0",
+      "origem_local": "/Volumes/ExternalSSD/GitHub/constituicao/scripts/bin/qa-20261027/python/markdown_it/__init__.py",
+      "limites": "Versão usada no complemento, sem inventar pinagem antecedente que não foi registrada."
+    },
+    {
+      "modulo": "mdurl",
+      "distribuicao": "mdurl",
+      "versao": "0.1.2",
+      "origem_local": "/Volumes/ExternalSSD/GitHub/constituicao/scripts/bin/qa-20261027/python/mdurl/__init__.py",
+      "limites": "Versão usada no complemento, sem inventar pinagem antecedente que não foi registrada."
+    },
+    {
+      "modulo": "html5lib",
+      "distribuicao": "html5lib",
+      "versao": "1.1",
+      "origem_local": "/Volumes/ExternalSSD/GitHub/constituicao/scripts/bin/qa-html5-20261027/python/html5lib/__init__.py",
+      "limites": "Versão usada no complemento, sem inventar pinagem antecedente que não foi registrada."
+    },
+    {
+      "modulo": "webencodings",
+      "distribuicao": "webencodings",
+      "versao": "0.6.1",
+      "origem_local": "/Volumes/ExternalSSD/GitHub/constituicao/scripts/bin/qa-20261027/python/webencodings/__init__.py",
+      "limites": "Versão usada no complemento, sem inventar pinagem antecedente que não foi registrada."
+    },
+    {
+      "modulo": "six",
+      "distribuicao": "six",
+      "versao": "1.17.0",
+      "origem_local": "/Volumes/ExternalSSD/GitHub/constituicao/scripts/bin/qa-html5-20261027/python/six.py",
+      "limites": "Versão usada no complemento, sem inventar pinagem antecedente que não foi registrada."
+    }
+  ],
+  "arquivos_vendor": 148
+}

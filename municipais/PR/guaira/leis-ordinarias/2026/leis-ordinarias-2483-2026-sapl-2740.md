@@ -1,0 +1,265 @@
+---
+titulo: "Lei Ordinária nº 2.483, de 01 de julho de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2483"
+data: "2026-07-01"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2740"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/1075/text"
+sha256_fonte: "d0ed2c932aa0a8d3902b8f3ffc507ab08050e349031af0e6789aea1c3eb9ebef"
+sha256_texto: "cb267dc51b4bb2e9da82a1fe17c6455fe966d1fb5ae417d44d1843ac7cfd4479"
+capturado_em_fonte: "2026-10-28T13:05:48.757109-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.483, de 01 de julho de 2026
+
+Institui o Fórum Municipal de Educação - FME do Município de Guaíra, Estado do Paraná, e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído no Município de Guaíra, Estado do Paraná, o Fórum Municipal de Educação- FME, de caráter Municipal, com finalidade de discutir a política educacional e coordenar amplo debate com a sociedade a respeito das questões educacionais, com vistas a acompanhar, junto aos órgãos competentes, a tramitação de projetos de Lei referentes à Política Municipal de Educação, em especial a de projetos de Leis dos planos decenais de educação definidos no Artigo 214 da Constituição Federal e na Lei nº 15.388, de 14 de abril de 2026, que institui o Plano Nacional de Educação (PNE), para o decênio 2026-2036, que estabelece objetivos, metas e estratégias para a política educacional brasileira, organizados em torno dos pilares acesso, qualidade e equidade.
+
+
+Parágrafo único
+
+O Fórum Municipal de Educação deverá estabelecer sistemática de acompanhamento e avaliação de suas próprias ações, com apontamento dos resultados obtidos e justificação de sua manutenção, a serem submetidos ao Conselho Municipal de Educação e à Secretaria Municipal de Educação do Município de Guaíra, Estado do Paraná.
+
+
+Art. 2º.
+
+Compete ao Fórum Municipal de Educação:
+
+
+I –
+
+monitorar e supervisionar as metas do Plano Municipal de Educação – PME;
+
+
+II –
+
+organizar, planejar e coordenar as Conferências Municipais de Educação;
+
+
+III –
+
+promover debates sobre políticas públicas educacionais;
+
+
+IV –
+
+acompanhar a execução das metas e estratégias do Plano Municipal de Educação -PME;
+
+
+V –
+
+propor políticas para melhoria da qualidade da educação municipal;
+
+
+VI –
+
+estimular a participação da sociedade civil nas discussões educacionais;
+
+
+VII –
+
+acompanhar a aplicação de recursos destinados à educação, observadas as competências dos órgãos de controle;
+
+
+VIII –
+
+emitir pareceres, recomendações e orientações sobre assuntos educacionais;
+
+
+IX –
+
+promover a articulação entre os órgãos públicos e entidades ligadas à educação;
+
+
+X –
+
+elaborar e aprovar seu Regimento Interno;
+
+
+XI –
+
+acompanhar e avaliar o Plano Municipal de Educação – PME;
+
+
+XII –
+
+convocar, planejar e coordenar a realização das Conferências Municipais de Educação, e divulgar suas deliberações;
+
+
+XIII –
+
+elaborar seu regimento interno e propor às Conferências Municipais e seu regimento;
+
+
+XIV –
+
+acompanhar e avaliar o processo de implementação das deliberações da Conferência Municipal de Educação;
+
+
+XV –
+
+planejar e organizar espaços de debate sobre as políticas nacional, estadual e municipal de educação, tendo como referência o Plano Nacional de Educação;
+
+
+XVI –
+
+estimular o debate para a elaboração do Plano Municipal de Educação e acompanhar a sua implementação.
+
+
+Parágrafo único
+
+As Conferências ocorrerão conforme calendário nacional e estadual de educação ou sempre que necessário.
+
+
+Art. 3º.
+
+O Fórum Municipal de Educação de Guaíra, Estado do Paraná, será integrado por membros dos seguintes órgãos e entidades sendo constituído por titular e suplente:
+
+
+I –
+
+um representante da Secretaria Municipal de Educação;
+
+
+II –
+
+um representante do Conselho Municipal de Educação;
+
+
+III –
+
+um representante da Câmara de Vereadores;
+
+
+IV –
+
+um representante do Conselho do FUNDEB;
+
+
+V –
+
+um representante do Conselho Municipal da Alimentação Escolar;
+
+
+VI –
+
+um representante das escolas estaduais;
+
+
+VII –
+
+um representante das escolas privadas;
+
+
+VIII –
+
+um representante dos Conselhos Escolares da Rede Municipal;
+
+
+IX –
+
+um representante de pais de alunos;
+
+
+X –
+
+um representante de professores da educação infantil;
+
+
+XI –
+
+um representante de professores do ensino fundamental;
+
+
+XII –
+
+um representante da Escola Especial;
+
+
+XIII –
+
+um representante do Conselho Municipal dos Direitos da Criança e Adolescentes;
+
+
+XIV –
+
+um representante do Conselho Tutelar;
+
+
+XV –
+
+um representante de diretores da Rede Municipal;
+
+
+XVI –
+
+um representante do Comitê Transporte Escolar.
+
+
+§ 1º
+
+Os representantes titulares e seus respectivos suplentes serão nomeados por ato do Prefeito.
+
+
+§ 2º
+
+Os representantes titulares a que se referem e seus respectivos suplentes, serão nomeados após indicação dos respectivos órgãos e entidades representativas dos segmentos considerados.
+
+
+Art. 4º.
+
+A estrutura e os procedimentos operacionais serão definidos no seu Regimento Interno, aprovados em reunião convocada para esse fim, observadas as disposições da presente Lei.
+
+
+Parágrafo único
+
+Até a aprovação de seu Regimento Interno, o Fórum Municipal de Educação será coordenado pela Secretaria Municipal de Educação.
+
+
+Art. 5º.
+
+O Fórum Municipal de Educação – FME terá funcionamento permanente e se reunirá ordinariamente a cada 4 (quatro) meses, preferencialmente no primeiro mês de cada quadrimestre, ou extraordinariamente, por convocação de seu coordenador, ou por requerimento da maioria dos seus membros.
+
+
+Art. 6º.
+
+O Fórum Municipal de Educação – FME e as Conferências Municipais de Educação estarão administrativamente vinculadas a Secretaria Municipal de Educação, e receberão o suporte técnico e administrativo desta Secretaria para garantir seu funcionamento.
+
+
+Art. 7º.
+
+A participação no Fórum Municipal de Educação será considerada de relevante interesse público e não será remunerada.
+
+
+Art. 8º.
+
+A eleição da Coordenação Geral e Coordenação Adjunta ocorrerá entre os membros do Fórum, conforme disposto no Regimento Interno.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 1° de julho de 2026.
+
+***GILEADE GABRIEL OSTI***
+
+Prefeito Municipal
+

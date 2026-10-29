@@ -30,7 +30,7 @@ FASES = {
 
 PLANO = [
     # ----------------------------------------------------------------- Constituição e leis federais
-    Item("Constituição Federal", "Constituição de 1988 (texto vigente)", "constituicao.md", 1, 1,
+    Item("Constituição Federal", "Constituição de 1988 (texto compilado; edição no cabeçalho)", "constituicao.md", 1, 1,
          "https://www.planalto.gov.br"),
     Item("Constituição Federal", "Constituições históricas (1824, 1891, 1934, 1937, 1946, 1967, 1969)",
          "federal/constituicoes-historicas", 7, 1, "https://www.planalto.gov.br"),

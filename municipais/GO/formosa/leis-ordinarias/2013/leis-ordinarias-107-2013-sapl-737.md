@@ -1,0 +1,64 @@
+---
+titulo: "Lei Ordinária nº 107, de 06 de dezembro de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "107"
+data: "2013-12-06"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/737"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1723/text"
+sha256_fonte: "a0b6dc0758c1a86708d4622b6028ee4fc9c5c1efa7a39b74f64740aa0f0bf4af"
+sha256_texto: "105ce6dd89da906764fe1e71eaed63eae8c3ee617b1b707a529eee56955e5a4d"
+capturado_em_fonte: "2026-10-28T11:45:05.719981-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 107, de 06 de dezembro de 2013
+
+Autoriza a desafetação da área pública localizada no Loteamento Jardim Califórnia, com frente para Rua do Mercado, e fundo para a Quadra nº 18, assim como a doação de parte dessa gleba ao Patrimônio Imobiliário do Estado de Goiás ocupado por escola que menciona e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE FORMOSA,
+
+Faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal, autorizado a executar a desafetação da gleba de terreno constituída pela área reservada para Mercado, mais o espaço livre existente entre essa área e quadra nº 18, do Loteamento denominado Jardim Califórnia nesta cidade.
+
+
+Parágrafo único.
+
+O espaço físico de que trata o “Caput” deste Artigo, objeto da autorização de desafetação, tem os seguintes limites e confrontações: Frente – confrontando-se com a Rua do Mercado e medindo 63,00 m (sessenta e três metros); Fundo – confrontando-se com a Quadra nº 18 e medindo 63,00 m (sessenta e três metros); Lado Direito - confrontando-se com a Avenida Coronel Salviano Guimarães medindo 40,98 m (quarenta metros e noventa e oito centímetros); Lado Esquerdo - confrontando-se com a Rua Lázaro de Melo medindo 37,00 m (trinta e sete metros), mais chanfros de 4,69 m (quatro metros e sessenta e nove centímetros) totalizando uma superfície de 2.432,32 m² (dois mil e quatrocentos e trinta e dois metros e trinta e dois centímetros quadrados).
+
+
+Art. 2º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a doar ao Patrimônio Imobiliário do Estado de Goiás, para que se regularize a situação fundiária da Escola Estadual Leônidas Ribeiro Magalhães a parcela de terreno de 1.895,50 m² (mil e oitocentos e noventa e cinco metros e cinquenta centímetros quadrados) inserida dentro da Gleba descrita no Parágrafo Único do Art. 1º desta Lei, com os seguintes limites e confrontações: Frente – confrontando-se com a Rua do Mercado medindo 44,50 m (quarenta e quatro metros e cinquenta centímetros) mais um chanfro de 4,04 m (quatro metros e quatro centímetros) na extremidade que faz esquina com a Rua Salviano Guimarães; Fundo – confrontando-se com os lotes 01 e 28 da Quadra nº 18, na distância de 47,50 m (quarenta e sete metros e cinquenta centímetros); Lado Direito - confrontando-se com a Rua Salviano Guimarães medindo 40,00 m (quarenta metros); Lado Esquerdo - confrontando-se com moradias irregulares em uma extensão de 40,00 m (quarenta metros). Perfazendo uma superfície total de 1.895,50 m² (hum mil e oitocentos e noventa e cinco metros e cinquenta centímetros quadrados).
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 06 de dezembro de 2013.
+
+ITAMAR SEBASTIÃO BARRETO
+
+Prefeito Municipal
+
+Afixado no “placard” de publicidade.  
+E encadernado em livro próprio.  
+Data supra.  
+.................................................................................................  
+RENATA PENETRA  
+Superintendente de Legislação e Documentação
+

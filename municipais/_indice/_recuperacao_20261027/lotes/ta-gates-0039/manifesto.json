@@ -1,0 +1,51 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 172,
+  "aprovados_nestes_gates": 89,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0039/sapl.garca.sp.leg.br.prefixo.jsonl",
+      "sha256": "d359e51fa87f6efcf0c066f43492c59b2c7dfefa9a787bd6b9d3ab5e1db7bb14",
+      "bytes": 210449
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0039/sapl.garca.sp.leg.br.tipos.json",
+      "url": "https://sapl.garca.sp.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "0e82d3b508063f2c81c6ff2d829f1945344ce04017a5aad2cda246eb7c9148e4"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0039/sapl.garca.sp.leg.br.anexos.json",
+      "sha256": "a431c5c8f4109b7664d4a37b7eb9c534b76992de4293319980aef1450a25b033"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0039/sapl.guaira.pr.leg.br.prefixo.jsonl",
+      "sha256": "72ef21bb98dbaeaa631fd45884edd384d589283daad065b712bbbbd4caef7675",
+      "bytes": 284116
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0039/sapl.guaira.pr.leg.br.tipos.json",
+      "url": "https://sapl.guaira.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "67206e250a33513801023c4668463a89de86ac0dad2cbffa0ddd5b4a7421fedb"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0039/sapl.guaira.pr.leg.br.anexos.json",
+      "sha256": "5cab55b620d8f7860e85e63f8da1c059b152190269d0b4a34b1aa0ef2a774cbd"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0039/sapl.guariba.sp.leg.br.prefixo.jsonl",
+      "sha256": "aeee8092378bc9181c1035eb973b6e9a7366fd2eb93e0053519495815b705994",
+      "bytes": 27891
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0039/sapl.guariba.sp.leg.br.tipos.json",
+      "url": "https://sapl.guariba.sp.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "a2ccb09fd15c863f30769854880d0471b7ec88028f8a51611424470cd5ef1e6a"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0039/sapl.guariba.sp.leg.br.anexos.json",
+      "sha256": "662a9283a8844afa4733c7b298c8eeabc26a87a3b180f9048ba1e0e26d158f96"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

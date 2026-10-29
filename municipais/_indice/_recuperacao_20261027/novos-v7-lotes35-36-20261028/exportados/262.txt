@@ -1,0 +1,478 @@
+---
+titulo: "Lei Ordinária nº 2.473, de 27 de abril de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2473"
+data: "2026-04-27"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2725"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/1062/text"
+sha256_fonte: "4427af64fd223de27b18bc8de79b92b90ac898ae7ef9e2651babd27f37a0a133"
+sha256_texto: "5ebc9ddf68270491fda354629a46c1462dc45b01440712e3bc8aac49db8306bb"
+capturado_em_fonte: "2026-10-28T13:06:10.901983-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.473, de 27 de abril de 2026
+
+Institui o Programa Acolhimento familiar para a Pessoa Idosa no Município de Guaíra, Estado do Paraná, e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Fica instituído no Município de Guaíra, Estado do Paraná, o Programa de Acolhimento Familiar para a Pessoa Idosa, na modalidade de Família Extensa, destinado ao atendimento de pessoas idosas de ambos os sexos, em conformidade com a Lei Federal nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa).
+
+
+Art. 2º.
+
+Para os efeitos desta Lei, considera-se público do Programa de Acolhimento Familiar, a pessoa idosa com idade igual ou superior a 60 (sessenta) anos, residente no Município de Guaíra, que se encontre em situação de ameaça ou violação de direitos e que necessite de proteção social, observadas, entre outras, as seguintes situações:
+
+
+I –
+
+violência física, psicológica ou sexual;
+
+
+II –
+
+negligência ou abandono;
+
+
+III –
+
+vínculos familiares fragilizados ou rompidos;
+
+
+IV –
+
+ausência de condições de autossustentabilidade ou de permanência com a família.
+
+
+Art. 3º.
+
+O Programa de Acolhimento Familiar para a Pessoa Idosa, tem por objetivos:
+
+
+I –
+
+garantir o direito à convivência familiar e comunitária;
+
+
+II –
+
+prevenir o acolhimento institucional promovendo e fortalecendo as famílias das pessoas idosas em situação de risco social e/ou violação de direitos, residentes em Guaíra;
+
+
+III –
+
+reduzir a quantidade de pessoas idosas acolhidas em instituições de longa permanência e em permanência de leito hospitalar após alta médica;
+
+
+IV –
+
+fortalecer a função protetiva da família;
+
+
+V –
+
+priorizar o acesso da pessoa idosa à política de saúde e seus insumos;
+
+
+VI –
+
+prover o repasse de recursos financeiros para as famílias incluídas no Programa;
+
+
+VII –
+
+expandir políticas públicas para a pessoa idosa no município de Guaíra.
+
+
+#### CAPÍTULO II — DA MODALIDADE E DOS REQUISITOS
+
+
+Art. 4º.
+
+Para os efeitos desta Lei, a modalidade de família extensa admitida no Programa Acolhimento Familiar para a Pessoa Idosa é aquela que se estende para além da unidade pais e descendentes ou da unidade do casal, formada por parentes próximos ou por pessoas com vínculo de amizade, com os quais a pessoa idosa convive e mantém relação de afinidade e afetividade.
+
+
+Parágrafo único
+
+O acolhimento é de caráter voluntário e não gera vínculo empregatício com o Município.
+
+
+Art. 5º.
+
+A Família Extensa para se habilitar ao Programa deve cumprir os seguintes requisitos:
+
+
+I –
+
+apresentar os seguintes documentos:
+
+
+a)
+
+carteira de identidade;
+
+
+b)
+
+Cadastro de Pessoa Física - CPF;
+
+
+c)
+
+título de eleitor, exceto quando dispensado o voto;
+
+
+d)
+
+comprovante de residência, mediante apresentação das últimas três faturas de água, luz ou telefone.
+
+
+II –
+
+possuir inscrição no Cadastro único para Programas Sociais - CADÚnico;
+
+
+III –
+
+o responsável pelos cuidados com a pessoa idosa ter idade superior a 18 (dezoito) anos, independente do estado civil;
+
+
+IV –
+
+residir no Município de Guaíra/PR há no mínimo 06 meses;
+
+
+V –
+
+dispor de residência com estrutura física que ofereça condições mínimas de mobilidade, habitabilidade e acessibilidade;
+
+
+VI –
+
+receber parecer favorável da equipe técnica do programa composta pelos profissionais da Secretaria Municipal de Assistência Social.
+
+
+Art. 6º.
+
+O tempo de permanência da pessoa idosa no programa será de 6 (seis) meses a 2 (dois) anos, mediante avaliação semestral pela equipe técnica, podendo haver prorrogação excepcional, com base em parecer fundamentado, quando constatada a necessidade de continuidade do acompanhamento.
+
+
+#### CAPÍTULO III — DAS COMPETÊNCIAS
+
+
+Art. 7º.
+
+A gestão do Programa Acolhimento Familiar para a Pessoa Idosa, é de responsabilidade da Secretaria Municipal de Assistência Social – SEMAS e da Secretaria Municipal da Saúde - SMS, cada qual na esfera de suas competências e sua execução ocorrerá por meio das Políticas Públicas e da Rede Socioassistencial do município.
+
+
+Art. 8º.
+
+Compete à Secretaria Municipal de Assistência Social – SEMAS:
+
+
+I –
+
+promover e coordenar o Programa de Acolhimento Familiar para a Pessoa Idosa, destinado ao atendimento de pessoas idosas em situação de ameaça ou violação de direitos, nos termos desta Lei;
+
+
+II –
+
+definir a quantidade de pessoas idosas a serem beneficiadas pelo Programa, considerando o diagnóstico da demanda, a disponibilidade orçamentária e a capacidade de atendimento da equipe técnica;
+
+
+III –
+
+identificar e cadastrar as pessoas idosas a serem atendidas pelo Programa;
+
+
+IV –
+
+identificar e orientar as famílias extensas que receberão as pessoas idosas;
+
+
+V –
+
+inserir ou atualizar o Cadastro Único das famílias selecionadas;
+
+
+VI –
+
+elaborar o Plano Individual e/ou Familiar de Atendimento em conjunto com a Secretaria Municipal de Saúde – SMS e a família;
+
+
+VII –
+
+orientar as famílias quanto aos direitos da pessoa idosa e ao acesso às políticas públicas e serviços da rede de atendimento;
+
+
+VIII –
+
+monitorar as famílias selecionadas por meio de visitas domiciliares, reuniões da rede intersetorial, entre outras estratégias;
+
+
+IX –
+
+realizar o encaminhamento das famílias para atendimento na rede de serviços e nas demais políticas públicas, conforme as necessidades identificadas pela equipe técnica responsável pelo acompanhamento;
+
+
+X –
+
+orientar as famílias extensas quanto às regras e ao funcionamento do Programa;
+
+
+XI –
+
+repassar a bolsa-auxílio às famílias extensas inseridas no Programa, após o ingresso da pessoa idosa e mediante cadastro financeiro;
+
+
+XII –
+
+suspender o repasse da bolsa-auxílio quando constatada a utilização inadequada do benefício;
+
+
+XIII –
+
+realizar acompanhamento e orientações técnicas quanto à aplicação do valor da bolsa-auxílio repassada às famílias extensas;
+
+
+XIV –
+
+preencher a Notificação Obrigatória em casos de maus-tratos ou violação de direitos, bem como promover os demais encaminhamentos necessários;
+
+
+XV –
+
+apresentar a demanda do Programa ao Conselho Municipal dos Direitos da Pessoa Idosa e ao Conselho Municipal de Assistência Social para definição dos recursos a serem utilizados anualmente;
+
+
+XVI –
+
+encaminhar semestralmente ao Conselho Municipal dos Direitos da Pessoa Idosa e ao Conselho Municipal de Assistência Social relatório informativo acerca da situação global do Programa.
+
+
+Art. 9º.
+
+Compete à Secretaria Municipal da Saúde - SMS:
+
+
+I –
+
+realizar o acompanhamento de saúde das pessoas idosas participantes do Programa por meio das equipes de atenção à saúde nos territórios de abrangência, inclusive com atendimento domiciliar quando necessário;
+
+
+II –
+
+encaminhar o idoso para internamento hospitalar na rede SUS, de acordo com orientação/critérios médicos;
+
+
+III –
+
+realizar o acompanhamento de saúde pela equipe multiprofissional quando necessário;
+
+
+IV –
+
+acompanhar as pessoas idosas em condições especiais de saúde, seja de alimentação diferenciada, oxigenoterapia ou outras condições de agravamento de fragilidades;
+
+
+V –
+
+prover os medicamentos essenciais, os quais serão entregues mediante receita médica, após o atendimento mensal, no caso daqueles de uso contínuo;
+
+
+VI –
+
+realizar avaliação da pessoa idosa e solicitações necessárias para o seu suporte e acompanhamento, como por exemplo, receitas para aquisição de fraldas, conforme regulamentação das farmácias conveniadas à rede SUS;
+
+
+VII –
+
+acompanhar as condições de saúde e os cuidados dispensados às pessoas idosas pelas famílias extensas, por meio de visitas domiciliares realizadas pela equipe de saúde;
+
+
+VIII –
+
+orientar as famílias acolhedoras quanto aos cuidados necessários à saúde e ao bem-estar da pessoa idosa acolhida, sempre que necessário;
+
+
+IX –
+
+prestar suporte de saúde às famílias participantes do Programa de Acolhimento Familiar, de acordo com os protocolos estabelecidos pela SMS, bem como realizar as notificações e comunicações aos órgãos competentes em casos de suspeita ou confirmação de maus-tratos ou violação de direitos da pessoa idosa, dando ciência à SEMAS e à Rede de Proteção.
+
+
+Art. 10.
+
+O Programa contará com equipe técnica de referência vinculada à Secretaria Municipal de Assistência Social – SEMAS, responsável pela execução, acompanhamento e monitoramento das ações previstas nesta Lei, com apoio das equipes da Secretaria Municipal de Saúde – SMS no que se refere às ações de saúde da pessoa idosa.
+
+
+#### CAPÍTULO IV — DAS ATRIBUIÇÕES DA FAMÍLIA ACOLHEDORA
+
+
+Art. 11.
+
+Caberá às famílias extensas:
+
+
+I –
+
+atender a pessoa idosa em suas necessidades básicas;
+
+
+II –
+
+assegurar a convivência familiar e comunitária da pessoa idosa;
+
+
+III –
+
+viabilizar o acesso da pessoa idosa aos serviços socioassistenciais e às demais políticas públicas, sempre que necessário;
+
+
+IV –
+
+garantir cuidados, amparo, conforto e dignidade à pessoa idosa participante do Programa Acolhimento Familiar;
+
+
+V –
+
+gerenciar o valor da Bolsa Auxílio repassada, destinando-o ao atendimento das necessidades da pessoa idosa acolhida e às condições necessárias ao seu cuidado e bem-estar, conforme orientações de utilização formuladas pela equipe de acompanhamento;
+
+
+VI –
+
+atender e seguir as orientações da Secretaria Municipal de Assistência Social e da Secretaria Municipal da Saúde quanto aos cuidados com a pessoa idosa e à garantia de seus direitos;
+
+
+VII –
+
+informar à equipe técnica responsável quaisquer situações que possam comprometer a continuidade ou a permanência da pessoa idosa no Programa.
+
+
+Art. 12.
+
+O desligamento da pessoa idosa do Programa de Acolhimento Familiar poderá ocorrer a qualquer tempo, mediante avaliação da equipe técnica responsável pelo acompanhamento, nas seguintes situações:
+
+
+I –
+
+restabelecimento das condições familiares que possibilitem o retorno da pessoa idosa ao convívio com sua família de origem;
+
+
+II –
+
+encaminhamento para outra modalidade de atendimento ou proteção social;
+
+
+III –
+
+descumprimento das orientações do Programa pela família extensa;
+
+
+IV –
+
+manifestação de vontade da pessoa idosa, quando preservada sua capacidade de decisão;
+
+
+V –
+
+falecimento da pessoa idosa acolhida;
+
+
+VI –
+
+outras situações avaliadas pela equipe técnica responsável, visando à proteção e ao melhor interesse da pessoa idosa.
+
+
+Parágrafo único
+
+O desligamento será precedido de avaliação técnica e devidamente registrado pela equipe responsável pelo acompanhamento do Programa.
+
+
+#### CAPÍTULO V — DO REPASSE FINANCEIRO
+
+
+Art. 13.
+
+Será repassado mensalmente à Família Extensa uma Bolsa Auxílio destinada ao atendimento das necessidades da pessoa idosa acolhida, cujo valor será estabelecido anualmente por Decreto.
+
+
+§ 1º
+
+O valor da Bolsa Auxílio poderá variar de acordo com o grau de dependência da pessoa idosa acolhida, conforme critérios definidos em decreto específico.
+
+
+§ 2º
+
+Os critérios para classificação do grau de dependência e os respectivos valores da Bolsa Auxílio serão definidos em decreto a ser publicado posteriormente pelos órgãos competentes.
+
+
+§ 3º
+
+Os recursos para custear a Bolsa Auxílio poderão ser advindos de créditos orçamentários alocados na Lei Orçamentária Anual do Município, devidamente previstos no Fundo Municipal de Assistência Social – FMAS e/ou no Fundo Municipal dos Direitos da Pessoa Idosa – FMDPI.
+
+
+Art. 14.
+
+A Família Extensa selecionada pela equipe técnica da SEMAS para participar do Programa Acolhimento Familiar tem a garantia do recebimento de uma Bolsa Auxílio por pessoa idosa, observadas as seguintes condições:
+
+
+I –
+
+o repasse da Bolsa Auxílio será realizado com periodicidade mensal à Família Extensa durante o período de permanência da pessoa idosa naquela família;
+
+
+II –
+
+nos casos em que a permanência da pessoa idosa for inferior a 1 (um) mês, a família receberá a Bolsa Auxílio proporcional aos dias de permanência;
+
+
+III –
+
+o valor da Bolsa Auxílio será repassado por meio de depósito em conta bancária da pessoa responsável pelos cuidados da pessoa idosa, inscrita no Programa de Acolhimento Familiar para a Pessoa Idosa;
+
+
+IV –
+
+excepcionalmente, uma única família poderá receber mais de uma pessoa idosa desde que possuam entre si grau de parentesco (casais, irmãos, filhos, por exemplo) e nesta hipótese, família poderá receber Bolsas Auxílio correspondentes ao número de pessoas idosas participantes do Programa de Acolhimento Familiar;
+
+
+V –
+
+a interrupção do acolhimento familiar, por quaisquer motivos, implica na suspensão do repasse da Bolsa Auxílio.
+
+
+#### CAPÍTULO VI — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 15.
+
+O Programa de Acolhimento Familiar para a Pessoa Idosa será regulamentado por meio de decreto específico, no qual serão definidos os critérios, procedimentos operacionais e demais disposições necessárias à sua execução.
+
+
+Art. 16.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 27 de abril de 2026.
+
+***GILEADE GABRIEL OSTI***
+
+Prefeito Municipal
+

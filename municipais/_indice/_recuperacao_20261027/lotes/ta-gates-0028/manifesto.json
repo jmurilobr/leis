@@ -1,0 +1,65 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 434,
+  "aprovados_nestes_gates": 142,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0028/sapl.fernao.sp.leg.br.prefixo.jsonl",
+      "sha256": "0504422f65a6186695b6db6aa10fcaac27f04db993c92a443037081fbd8dcc4a",
+      "bytes": 152510
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0028/sapl.fernao.sp.leg.br.tipos.json",
+      "url": "https://sapl.fernao.sp.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "53fadaabc0b88fd3d901edf13778cdc434fa1c70a327166b04ebd1e42141ef94"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0028/sapl.fernao.sp.leg.br.anexos.json",
+      "sha256": "e22092556d7b762167afec82e34247ae39d01dd3827d0babc6fedcffdc5f85ee"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0028/sapl.formosa.go.leg.br.prefixo.jsonl",
+      "sha256": "096f6ae9bf57b8a3587496a22f97fc21e93a72ee7c78738edd559e186b1745b5",
+      "bytes": 703767
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0028/sapl.formosa.go.leg.br.tipos.json",
+      "url": "https://sapl.formosa.go.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "29dc0d94137aba1af54249808ce584f5ee07c34d47f8767281042f93ab39eaf2"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0028/sapl.formosa.go.leg.br.anexos.json",
+      "sha256": "76f0c4859418f13104f1739412ffb0015355b7b9789149237640646aa1957b0e"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0028/sapl.fortim.ce.leg.br.prefixo.jsonl",
+      "sha256": "c22da4feb8e3e8bb7136aa3e7dade8ee4b8140ae73dd4cad9c7d96c6fa516fb4",
+      "bytes": 58198
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0028/sapl.fortim.ce.leg.br.tipos.json",
+      "url": "https://sapl.fortim.ce.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "ee0f9221871a985a7461f5f3825f62da0faa9914712ef1b3e7905ec70a802008"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0028/sapl.fortim.ce.leg.br.anexos.json",
+      "sha256": "9c2f7624f66bcbe7b55d6ffb1ea02a7cce66a22f920fbd0a9f77ea53b6f392e8"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0028/sapl.fozdoiguacu.pr.leg.br.prefixo.jsonl",
+      "sha256": "6efeca0d7f4c5f2960d49b9d3f9d3667eaef486a5a89ea7ad55b8726819ddbc3",
+      "bytes": 534823
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0028/sapl.fozdoiguacu.pr.leg.br.tipos.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "019735e6af9acd43aaea6437243c606667e2918b16db1e38773626db476e5853"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0028/sapl.fozdoiguacu.pr.leg.br.anexos.json",
+      "sha256": "15ebc695ed0e3495addad2359c21e5ba1a91bb3e1b690a73d88d0dbd23f3c18d"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

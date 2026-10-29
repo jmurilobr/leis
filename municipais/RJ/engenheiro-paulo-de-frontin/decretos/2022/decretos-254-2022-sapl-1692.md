@@ -1,0 +1,56 @@
+---
+titulo: "DECRETO EXECUTIVO-PMEPF nº 254, de 27 de setembro de 2022"
+tipo: "Decreto"
+tipo_na_fonte: "DECRETO EXECUTIVO"
+numero: "254"
+data: "2022-09-27"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/1692"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/2320/text"
+sha256_fonte: "99b6b08806f4aa3cd42393cbbc2b267136c4c22bb8fce54a4221d0792adb41b3"
+sha256_texto: "606445a346be8c95b4fdb5656eeef5ccdbe01e90e4c94116e800379ae927d239"
+capturado_em_fonte: "2026-10-28T10:45:01.871852-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# DECRETO EXECUTIVO-PMEPF nº 254, de 27 de setembro de 2022
+
+O Prefeito Municipal de Eng. Paulo de Frontin, no uso de suas atribuições legais, e com fulcro no disposto no artigo 4º da Lei Municipal nº 1.584 de 14 de dezembro de 2021,
+
+
+DECRETA:
+
+
+Art. 1º.
+
+Fica aberto um Crédito Adicional suplementar de R$ 350.000,00 (Trezentos e Cinquenta Mill Reais), para suprimento da dotação orçamentária, como segue:
+
+
+Org. Un Função Sub função Programa Proj/ Ativ Elemento de Despesa Fonte Valor R$  
+02 001 04 122 2001 2.201 3.3.90.39.00.00.00.0 1.704 350.000,00
+
+
+Art. 2º.
+
+O crédito de que trata o artigo anterior, será compensado com o Excesso de Arrecadação apurado no exercício de 2022, na forma do demonstrativo abaixo e consoante o art.43, & 3º da Lei Federal 4.320 de 17/03/1964.
+
+
+Art. 3º.
+
+Este Decreto entra em vigor na data de sua edição, revogando as disposições em contrário.
+
+
+Engenheiro Paulo de Frontin, 27 de Setembro de 2022.
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal
+

@@ -1,0 +1,14 @@
+{
+  "HEAD": "5049394a3924887143fb9a5e0816046e7c0a7232",
+  "novas_normas": 352,
+  "baseline_efetivo": "municipais/_indice/_recuperacao_20261027/baseline-head-novos-apos36293-20261028/manifesto.json",
+  "sha256_baseline_efetivo": "dd081032d784134d1915b511bf1f2b5d036b86d17d43a2b518c1872b7b69712e",
+  "confronto_ROOT": "municipais/_indice/_recuperacao_20261027/novos352-ROOT-20261028/municipal352-dedup-root.json",
+  "origem_replay_ROOT": "municipais/_indice/_recuperacao_20261027/publicacao-novos352-apos36293-20261028/manifesto.json",
+  "sha256_origem_replay_ROOT": "cc15d00e12ff4e41bc608ef3cf8098aa36a8669ff5ed5dd05fc83936ff1df943",
+  "origem_overlay": "municipais/_indice/_recuperacao_20261027/publicacao-novos352-apos36293-20261028/manifesto.json",
+  "sha256_origem_overlay": "cc15d00e12ff4e41bc608ef3cf8098aa36a8669ff5ed5dd05fc83936ff1df943",
+  "artefatos_antecedentes_identicos": 3013,
+  "adicoes_overlay_sem_alterar_antecedentes": 28,
+  "criterio": "ROOT repetiu replay V3 integral 352 sobre o overlay atualizado. Artefatos compartilhados permanecem byte idênticos; os seis controles de publicação anteriores omitidos do overlay foram preservados adicionalmente pelo ROOT, sem nova contagem. ROOT leu 36.293 blobs HEAD completos por OID e repetiu dedup sem colisões. Campos baseline/confronto históricos dos manifestos originais ficam preservados; os efetivos desta publicação são identificados explicitamente neste recibo. Nenhuma mudança canônica municipal desde o baseline atualizado."
+}

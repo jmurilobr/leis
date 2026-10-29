@@ -1,0 +1,99 @@
+---
+titulo: "Lei Ordinária nº 241, de 27 de maio de 2009"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "241"
+data: "2009-05-27"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/2149"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/2184/text"
+sha256_fonte: "e013eadb6c3d033e7fed819cbcf716b3930adb0eaa9307947ef52b6e7065c4fd"
+sha256_texto: "3bb0b0ce85d723546b7c58036589f11f970fbb2e20a6baee685600b497949e0d"
+capturado_em_fonte: "2026-10-28T12:04:37.395241-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 241, de 27 de maio de 2009
+
+Torna obrigatória a afixação de cartaz a respeito da garantia estendida ou similar em todos os estabelecimentos comerciais do Município de Formosa e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE FORMOSA,  
+Faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Os estabelecimentos comerciais do Município de Formosa ficam obrigados a afixar cartaz orientando os consumidores a respeito do caráter opcional da chamada “Garantia Estendida” ou “Similar”, com a mesma finalidade.
+
+
+Parágrafo único.
+
+Para fins desta Lei considera-se “Garantia Estendida”:
+
+
+a)
+
+Eletrônicos / Telefonia / Computadores:
+
+
+Aquela que garante o reparo gratuito do produto na eventualidade de falha ou de qualquer outro defeito técnico de fabricação, após a expiração da garantia dada pelo fabricante.
+
+
+b)
+
+Veículos / Motocicletas:
+
+
+Aquela que oferece ao cliente o direito de reparar seu bem, sem custos, no caso de uma pane (mecânica ou elétrica) ocorridas nas peças ou conjuntos após a garantia de fábrica.
+
+
+Art. 2º.
+
+O cartaz mencionado no art. 1º deverá conter no mínimo, as seguintes expressões:
+
+
+“GARANTIA ESTENDIDA”
+
+A garantia estendida oferecida por este estabelecimento NÃO É OBRIGATÓRIA e o consumidor tem o direito de exigir informações detalhadas a respeito de seu funcionamento.  
+A garantia estendida é uma forma de seguro e o consumidor tem o direito de receber a respectiva apólice no ato de sua aceitação.
+
+
+Art. 3º.
+
+O cartaz que trata esta Lei deverá ser afixado, obrigatoriamente, nos setores da caixa e crediário ou equivalentes.
+
+
+Art. 4º.
+
+Fica facultado ao Poder Executivo Municipal, juntamente com o órgão de defesa do consumidor a dar ampla divulgação da presente Lei.
+
+
+Art. 5º.
+
+O Poder Executivo Municipal regulamentará a presente Lei no prazo de 60 (sessenta) dias, quanto às dimensões do cartaz e as multas a serem aplicadas aos infratores.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 27 de maio de 2009.
+
+PEDRO IVO DE CAMPOS FARIA  
+Prefeito Municipal
+
+Afixado no “placard” de publicidade.  
+E encadernado em livro próprio.  
+Data supra
+
+RENATA PENETRA  
+Superintendente de Legislação e Documentação
+

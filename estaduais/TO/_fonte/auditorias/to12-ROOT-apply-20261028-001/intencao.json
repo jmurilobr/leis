@@ -1,0 +1,99 @@
+{
+  "preparado_em": "2026-10-28T13:36:21.368768-03:00",
+  "modo": "apply_ROOT",
+  "HEAD": "8d17d5af4aa87a73f45754b7af13921d59b6f6f8",
+  "total_HEAD": 3506,
+  "total": 12,
+  "manifesto": "scripts/estados/manifestos/to12-proposta-privada-20261028-001.json",
+  "sha256_manifesto": "01d7fccfc7fb8efa133d6f2b9b2db7a8520d617a8d47b36b20f29c9fc3ce7a08",
+  "mapa_sha": "estaduais/TO/_fonte/auditorias/to12-privado-20261028-001/final/hashes.json",
+  "sha256_mapa": "87a82e676861abaaa7516e1631ad958763056cf1b7ee7a581e69f76538c42587",
+  "dedup": "Blobs integrais do HEAD atual: ID no namespace ALETO/SAPL TO, arquivo por host/path/query, pasta+número literal+ano e paths; também dedup interno.",
+  "documentos": [
+    {
+      "path": "estaduais/TO/leis-ordinarias/2000/l-1155-2000-aleto7401.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to12-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2000/l-1155-2000-aleto7401.md",
+      "sha256": "a66680f04fbab0cfff0715d010179be5e3bdb668cd3e0dbef122e0771ef864a5",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to12-ROOT-apply-20261028-001/backup/estaduais/TO/leis-ordinarias/2000/l-1155-2000-aleto7401.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2000/l-1147-2000-aleto7393.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to12-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2000/l-1147-2000-aleto7393.md",
+      "sha256": "c10e619f5e8efc89d4690c0c0f5081fecf461c29bd867023aa500eae567f97d0",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to12-ROOT-apply-20261028-001/backup/estaduais/TO/leis-ordinarias/2000/l-1147-2000-aleto7393.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2003/l-1369-2003-aleto27455.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to12-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2003/l-1369-2003-aleto27455.md",
+      "sha256": "559277739e9d405a2403a8fd9ad9dcfe1caeb88c2bc364f5225b37c760f44527",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to12-ROOT-apply-20261028-001/backup/estaduais/TO/leis-ordinarias/2003/l-1369-2003-aleto27455.md"
+    },
+    {
+      "path": "estaduais/TO/leis-complementares/2019/lc-116-2019-aleto48282.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to12-privado-20261028-001/candidatos/estaduais/TO/leis-complementares/2019/lc-116-2019-aleto48282.md",
+      "sha256": "d2f38697460e4bfc5b8031912a9931dbc761f98ab1417f82b2107848de343595",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to12-ROOT-apply-20261028-001/backup/estaduais/TO/leis-complementares/2019/lc-116-2019-aleto48282.md"
+    },
+    {
+      "path": "estaduais/TO/leis-complementares/2016/lc-103-2016-aleto38773.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to12-privado-20261028-001/candidatos/estaduais/TO/leis-complementares/2016/lc-103-2016-aleto38773.md",
+      "sha256": "a428aab9ccf4f4f94aaa628c530afdb5ec6eaa9249bf50df851e383d46fa54ee",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to12-ROOT-apply-20261028-001/backup/estaduais/TO/leis-complementares/2016/lc-103-2016-aleto38773.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2013/l-2755-2013-aleto42077.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to12-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2013/l-2755-2013-aleto42077.md",
+      "sha256": "e0417acc31f407cf5e2266c6c8435e9fb7693f08de87097583d4ea475b97c7c4",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to12-ROOT-apply-20261028-001/backup/estaduais/TO/leis-ordinarias/2013/l-2755-2013-aleto42077.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2012/l-2594-2012-aleto29995.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to12-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2012/l-2594-2012-aleto29995.md",
+      "sha256": "cbb1151cd618b813179a8293486885adcf4a8e1b68fa086faabf4d4f5efb101a",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to12-ROOT-apply-20261028-001/backup/estaduais/TO/leis-ordinarias/2012/l-2594-2012-aleto29995.md"
+    },
+    {
+      "path": "estaduais/TO/leis-complementares/2012/lc-78-2012-aleto30736.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to12-privado-20261028-001/candidatos/estaduais/TO/leis-complementares/2012/lc-78-2012-aleto30736.md",
+      "sha256": "7cb022e5821e0e0abe1f0d817914d3b16326204aba351b8a56bb67201b41e26f",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to12-ROOT-apply-20261028-001/backup/estaduais/TO/leis-complementares/2012/lc-78-2012-aleto30736.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2011/l-2489-2011-aleto29040.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to12-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2011/l-2489-2011-aleto29040.md",
+      "sha256": "043acf93f544a1767823c20940a19df5d4bea73c10f6adc39a66699d8615d9e8",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to12-ROOT-apply-20261028-001/backup/estaduais/TO/leis-ordinarias/2011/l-2489-2011-aleto29040.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2011/l-2488-2011-aleto29039.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to12-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2011/l-2488-2011-aleto29039.md",
+      "sha256": "3cbdb362f5e613f110fa48843587ded4fc2c252fbf034f88ca89d3fc52c41534",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to12-ROOT-apply-20261028-001/backup/estaduais/TO/leis-ordinarias/2011/l-2488-2011-aleto29039.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2010/l-2407-2010-aleto26124.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to12-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2010/l-2407-2010-aleto26124.md",
+      "sha256": "e8d92ea75c6f0d9b7c19f8ab6a5f6122d5046e65e39b30542e2c196fcaa26942",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to12-ROOT-apply-20261028-001/backup/estaduais/TO/leis-ordinarias/2010/l-2407-2010-aleto26124.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2006/l-1679-2006-aleto7925.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to12-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2006/l-1679-2006-aleto7925.md",
+      "sha256": "788baecd63fa98d197b7d8f11753f8aba2a71b4ebb438a63f6a288f9d256c4ff",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to12-ROOT-apply-20261028-001/backup/estaduais/TO/leis-ordinarias/2006/l-1679-2006-aleto7925.md"
+    }
+  ],
+  "limite": "Commit/push não executados. Atomicidade por arquivo, não global; journal registra progresso para recuperação ROOT."
+}

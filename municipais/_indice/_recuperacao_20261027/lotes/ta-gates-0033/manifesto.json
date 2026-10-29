@@ -1,0 +1,51 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 363,
+  "aprovados_nestes_gates": 1,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0033/sapl.fozdoiguacu.pr.leg.br.prefixo.jsonl",
+      "sha256": "8c04a3116da100b567c5cdd0d97557aedfd566132d9e76b396d10467fc9c7546",
+      "bytes": 487921
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0033/sapl.fozdoiguacu.pr.leg.br.tipos.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "019735e6af9acd43aaea6437243c606667e2918b16db1e38773626db476e5853"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0033/sapl.fozdoiguacu.pr.leg.br.anexos.json",
+      "sha256": "15ebc695ed0e3495addad2359c21e5ba1a91bb3e1b690a73d88d0dbd23f3c18d"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0033/sapl.garca.sp.leg.br.prefixo.jsonl",
+      "sha256": "ec6ad00acaa56579c2fd2e53b7ae1114ba59228bf9798696809e5d2de64c8921",
+      "bytes": 648096
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0033/sapl.garca.sp.leg.br.tipos.json",
+      "url": "https://sapl.garca.sp.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "0e82d3b508063f2c81c6ff2d829f1945344ce04017a5aad2cda246eb7c9148e4"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0033/sapl.garca.sp.leg.br.anexos.json",
+      "sha256": "a431c5c8f4109b7664d4a37b7eb9c534b76992de4293319980aef1450a25b033"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0033/sapl.gloria.ba.leg.br.prefixo.jsonl",
+      "sha256": "70ae7d04c334354dbaf99866ae4d9c8fe4c4efe683c8fcc9a286705606d8bb8e",
+      "bytes": 6421
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0033/sapl.gloria.ba.leg.br.tipos.json",
+      "url": "https://sapl.gloria.ba.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "5c14646f1575f301c4fcb8aeb0b79b520bcc425531da59c3995d5f7ccfefa82c"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0033/sapl.gloria.ba.leg.br.anexos.json",
+      "sha256": "e074ab2daef47848c38cdc981d619c966b48eebec003656b1170b4d661d82c58"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

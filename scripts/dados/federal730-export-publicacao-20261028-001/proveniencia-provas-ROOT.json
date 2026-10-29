@@ -1,0 +1,35 @@
+{
+  "provas": [
+    {
+      "origem_ROOT": "_fonte/operacao_root_20261027/export730-testes-root.log",
+      "copia_publica": "scripts/dados/federal730-export-publicacao-20261028-001/provas-ROOT/export730-testes-root.txt",
+      "sha256": "ada5fefda98ffe18c2f8d1e98b1765eb251d29be02a181f0b65abb2cdef7a4d5",
+      "bytes": 1273
+    },
+    {
+      "origem_ROOT": "_fonte/operacao_root_20261027/limites-export730-ROOT.json",
+      "copia_publica": "scripts/dados/federal730-export-publicacao-20261028-001/provas-ROOT/limites-export730-ROOT.json",
+      "sha256": "cb36ec2400179b172e938320efba67ef28ede2a7b8638b8b8a3873e32bce19e9",
+      "bytes": 1986
+    },
+    {
+      "origem_ROOT": "_fonte/operacao_root_20261027/export730-mapa-root.log",
+      "copia_publica": "scripts/dados/federal730-export-publicacao-20261028-001/provas-ROOT/export730-mapa-root.txt",
+      "sha256": "33c2c7eaf4f60f5f4b0b3f72d0b0e7c70fedc201b8e5f9b68c6ac4088b3c1d5f",
+      "bytes": 45
+    },
+    {
+      "origem_ROOT": "_fonte/operacao_root_20261027/export730-dry-root-v2.log",
+      "copia_publica": "scripts/dados/federal730-export-publicacao-20261028-001/provas-ROOT/export730-dry-root-v2.txt",
+      "sha256": "4d84081c3943316b83f392399565e9643a330d23d2f862a16ebf16487a37a867",
+      "bytes": 309
+    },
+    {
+      "origem_ROOT": "_fonte/operacao_root_20261027/export730-apply-root.log",
+      "copia_publica": "scripts/dados/federal730-export-publicacao-20261028-001/provas-ROOT/export730-apply-root.txt",
+      "sha256": "9d0a3b1c2f8e24a46fe65d3a14cb2d8e79e1236bbc57f71e207a59798ba2d26a",
+      "bytes": 511
+    }
+  ],
+  "limites": "Cópias byte a byte das provas ROOT; originais compartilhados não alterados nem incluídos no mapa."
+}

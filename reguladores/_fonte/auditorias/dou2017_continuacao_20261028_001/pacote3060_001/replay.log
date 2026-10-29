@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/Volumes/ExternalSSD/GitHub/constituicao/reguladores/_fonte/auditorias/dou2017_continuacao_20261028_001/pacote3060_001/replay3060.py", line 47, in <module>
+    assert visible(roots[0])==visible(fragment_dom.find('body')) and matrices(roots[0])==matrices(fragment_dom) and lists(roots[0])==lists(fragment_dom),(path,'Extração integral do HTML normativo diverge do DOM completo')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: ('reguladores/mapa/portarias/2017/portaria-n-42-de-27-de-julho-de-2017-19205835.md', 'Extração integral do HTML normativo diverge do DOM completo')

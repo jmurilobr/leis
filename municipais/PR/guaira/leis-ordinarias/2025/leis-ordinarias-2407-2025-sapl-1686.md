@@ -1,0 +1,92 @@
+---
+titulo: "Lei Ordinária nº 2.407, de 30 de maio de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2407"
+data: "2025-05-30"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/1686"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/163/text"
+sha256_fonte: "24817cd89fe58dbfa7d8e79266c54fe4ac091742ff6ea5f426cc6511b46bd65b"
+sha256_texto: "6187d9ab51c7394d163b249b3153a316058844da76b302367d6833c312edbca4"
+capturado_em_fonte: "2026-10-28T13:08:54.181809-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.407, de 30 de maio de 2025
+
+Estabelece o Programa Cuidando da Pele no âmbito do Município de Guaíra.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo obrigado a fornecer, gratuitamente, protetor solar para as pessoas diagnosticadas com câncer de pele, albinismo, lúpus eritematosos e vitiligo que precisem do uso contínuo de protetor solar como medida de tratamento.
+
+
+Art. 2º.
+
+As pessoas diagnosticadas com as doenças abrangidas por esta Lei poderão requerer o fornecimento gratuito de protetor solar, mediante apresentação de laudo médico emitido por Médico vinculado ao Sistema Único de Saúde (SUS), devidamente registrado no Conselho Regional de Medicina (CRM).
+
+
+§ 1º
+
+O laudo médico deverá especificar a necessidade do uso do protetor solar como parte do tratamento ou prevenção das doenças de pele do paciente, bem como o fator de proteção solar (FPS).
+
+
+§ 2º
+
+O laudo fornecido por clínico geral terá validade até que o paciente seja consultado por médico especialista.
+
+
+§ 3º
+
+O laudo deverá conter, no mínimo, as conclusões obtidas através de exame clínico e o diagnóstico da doença.
+
+
+§ 4º
+
+O protetor será fornecido apenas às pessoas que residirem no Município de Guaíra, Estado do Paraná.
+
+
+Art. 3º.
+
+O protetor solar fornecido deverá ser adequado às necessidades de cada paciente, considerando a gravidade da doença de pele diagnosticada e as orientações médicas.
+
+
+Art. 4º.
+
+O fornecimento do protetor solar será realizado de forma contínua, com reposição periódica, conforme a necessidade médica e a recomendação do profissional de saúde.
+
+
+Art. 5º.
+
+O Poder Executivo regulamentará, no prazo de 60 (sessenta) dias, a partir da publicação desta Lei, os procedimentos necessários para a implementação do fornecimento gratuito do protetor solar, incluindo os critérios de distribuição, a quantidade anual de fornecimento e as condições de solicitação do benefício.
+
+
+Parágrafo único
+
+O Poder Executivo poderá ampliar o rol de doenças beneficiadas por esta Lei.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 30 de maio de 2025.
+
+GILEADE GABRIEL OSTI
+
+Prefeito Municipal
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

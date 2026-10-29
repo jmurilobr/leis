@@ -1,0 +1,83 @@
+{
+  "registros": [
+    {
+      "path": "federal/decretos/1910/dec-2348-1910-12-28.md",
+      "urn": "urn:lex:br:federal:decreto:1910-12-28;2348",
+      "sha256_HTML": "24c486dcd7928a122ff98225398bfad60ae35d762690b81eae727081ac1993e5",
+      "sha256_metadados": "456c814e49b8f709d859e8a6cf800c6f2dbcf590629070a3b90ea63a2799533a",
+      "sha256_MD_preliminar": "1fe068bda3d204d5fa6b20b3ce9a5cbbf681f8fe454b6ee9da0bb4e9d55a455b",
+      "epigrafe": {
+        "numero": "2348",
+        "data": "1910-12-28",
+        "epigrafe": "DECRETO N. 2.348 – DE 28 DE DEZEMBRO DE 1910"
+      },
+      "fonte": {
+        "url": "https://normas.leg.br/api/public/binario/d1ad1820-28d8-4fe5-ac91-b000614f6d6a/texto",
+        "accept": "text/html",
+        "captura_utc": "2026-10-28T16:23:51.295983+00:00",
+        "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+        "status_http": 200,
+        "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_018/requests/c7c598d5a7e8761328dffa51bae86411d711faf03a32a5ac74a5257c68729fa9.raw.gz",
+        "sha256_raw": "24c486dcd7928a122ff98225398bfad60ae35d762690b81eae727081ac1993e5",
+        "bytes": 7960
+      },
+      "prefixo_antes_primeiro_artigo": "DECRETO N. 2.348 – DE 28 DE DEZEMBRO DE 1910\n\nAutoriza o Presidente da Republica a abrir ao Ministerio da Justiça e Negocios Interiores os creditos supplementares na importancia de 3:015$714, para pagamento de despezas de salarios dos auxillares de ctaalogação da Bibliotheca Nacional e dos operarios da Casa de Correcção.\n\nO Presidente da Republica dos Estados Unidos do Brazil:\n\nFaço saber que o Congresso Nacional decretou e eu sancciono a seguinte resolução:",
+      "primeiro_bloco_de_artigo": "**Artigo unico.** Fica o Presidente da Republica autorizado a abrir ao Ministerio da Justiça e Negocios Interiores o credito de 3:015$714, sendo 2:285$714 supplementar á verba n. 31, 730$ supplementar á verba n. 16, do art. 20 da lei n. 2.221, de 30 de dezembro de 1909, afim de occorrer as despesas com o pagamento de salarios de auxiliares de catalogação da Bibliotheca Nacional e dos operarios da Casa de Correção, nos termos do art. 41 da mesma lei; revogadas as disposições em contrario.",
+      "fecho_principal_qualificado": {
+        "literal_normalizado": "RIO DE JANEIRO, 28 DE DEZEMBRO DE 1910",
+        "data": "1910-12-28",
+        "bloco_literal": "Rio de Janeiro, 28 de dezembro de 1910, 89º da Independencia e 22º da Republica."
+      },
+      "limite_documento_incorporado": null,
+      "titulos_HTML_invisiveis": [
+        "###DEC-02348-0-000-28-12-1910@@@"
+      ],
+      "epigrafes_concorrentes_em_title": [],
+      "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+      "autoridade_PRESIDENTE_no_prefixo": true,
+      "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+      "autoridade_literal": "Autoriza o Presidente da Republica a abrir ao Ministerio da Justiça e Negocios Interiores os creditos supplementares na importancia de 3:015$714, para pagamento de despezas de salarios dos auxillares de ctaalogação da Bibliotheca Nacional e dos operarios da Casa de Correcção.",
+      "ocorrencias_contextuais": []
+    },
+    {
+      "path": "federal/decretos/1910/dec-2232-1910-01-06.md",
+      "urn": "urn:lex:br:federal:decreto:1910-01-06;2232",
+      "sha256_HTML": "418de933d2ce9f34aeab17040fac3a59cd085a52d5b504d511e4c75e104bf408",
+      "sha256_metadados": "7e475693911b45c3bedc9dc033955a7df5bcf06e52127fec6e79109d0f75e6f7",
+      "sha256_MD_preliminar": "8891c929afa5394496b385698a0b49a33072a4a8c984250360005f7e1ae6acf7",
+      "epigrafe": {
+        "numero": "2232",
+        "data": "1910-01-06",
+        "epigrafe": "DECRETO N. 2.232 – DE 6 DE JANEIRO DE 1910"
+      },
+      "fonte": {
+        "url": "https://normas.leg.br/api/public/binario/2ba19551-9197-43e0-b5aa-7c14c7988e47/texto",
+        "accept": "text/html",
+        "captura_utc": "2026-10-28T16:34:32.284788+00:00",
+        "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+        "status_http": 200,
+        "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_018/requests/6f1511113fd7f5114da684c14f71a47f96eb90ae2a4410b8b21fc446472dfbfe.raw.gz",
+        "sha256_raw": "418de933d2ce9f34aeab17040fac3a59cd085a52d5b504d511e4c75e104bf408",
+        "bytes": 43898
+      },
+      "prefixo_antes_primeiro_artigo": "DECRETO N. 2.232 – DE 6 DE JANEIRO DE 1910\n\nReorganiza o Serviço de Saude do exercito\n\nO Presidente da Republica dos Estados Unidos do Brazil:\n\nFaço saber que o Congresso Nacional decretou e eu sancciono a seguinte resolução:",
+      "primeiro_bloco_de_artigo": "**Art. 1º.** O Serviço de Saude do Exercito continúa a cargo da 6ª Divisão do Departamento da Guerra, autonoma em todas as questões technicas, mas sob a dependencia da autoridade militar superior nas de disciplina e administração.",
+      "fecho_principal_qualificado": {
+        "literal_normalizado": "RIO DE JANEIRO, 6 DE JANEIRO DE 1910",
+        "data": "1910-01-06",
+        "bloco_literal": "Rio de Janeiro, 6 de janeiro de 1910, 89º da Independencia e 22º da Republica."
+      },
+      "limite_documento_incorporado": null,
+      "titulos_HTML_invisiveis": [
+        "DECRETO N"
+      ],
+      "epigrafes_concorrentes_em_title": [],
+      "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+      "autoridade_PRESIDENTE_no_prefixo": true,
+      "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+      "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brazil:",
+      "ocorrencias_contextuais": []
+    }
+  ],
+  "limites": "Alertas de identidade, não alias presumidos."
+}

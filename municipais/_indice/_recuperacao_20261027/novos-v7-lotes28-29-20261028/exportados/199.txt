@@ -1,0 +1,223 @@
+---
+titulo: "Resolução nº 69, de 17 de novembro de 2021"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "69"
+data: "2021-11-17"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/4511"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1395/text"
+sha256_fonte: "1a60f6ef92698205a3ea5cef80cbc1fcfad3cc6d5a33eadf9ead1ecb6a260f88"
+sha256_texto: "7243efbfff42b1988daf79348facf3f2117ac7764740fae99e784d52b719b423"
+capturado_em_fonte: "2026-10-28T11:21:27.342532-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Resolução nº 69, de 17 de novembro de 2021
+
+Institui o Programa “Câmara Verde” na Câmara Municipal de Formosa.
+
+
+Projeto de Resolução n° 17/21, de autoria da Mesa Diretora - Acinemar Gonçalves Costa (Nema) – Presidente, Roberta Brito Schwerz Funghetto (Roberta Brito) – Vice-Presidente, Welio Antonio da Silva (Welio de Iraci Chegou) – Primeiro-Secretário, Catia Rodrigues Silva (Cátia Rodrigues) – Segunda-Secretária e Filipe Vilarins Lacerda (Filipe Vilarins) – Terceiro Secretário, aprovado em 4 de novembro de 2021.
+
+A CÂMARA MUNICIPAL DE FORMOSA aprova:
+
+
+Art. 1º.
+
+Fica instituído o programa "Câmara Verde" no âmbito da Câmara de Vereadores de Formosa.
+
+
+Art. 2º.
+
+O programa "Câmara Verde" compreende ações concretas visando realizar e orientar práticas em favor do melhor aproveitamento de materiais utilizados nos serviços da Câmara de Vereadores e dos resíduos decorrentes da referida utilização, bem como na preservação do meio ambiente.
+
+
+Art. 3º.
+
+O programa "Câmara Verde" parte da responsabilidade ambiental do Poder Legislativo, na adoção de práticas ecologicamente corretas, gerando maior qualidade no desenvolvimento de suas funções, contribuindo com o desenvolvimento sustentável no Município.
+
+
+Art. 4º.
+
+As ações a serem adotadas no desenvolvimento do programa "Câmara Verde" serão definidas e praticadas:
+
+
+I –
+
+de forma a garantir o cumprimento das diretrizes desta Resolução e da Legislação vigente;
+
+
+II –
+
+em consonância com as regras legais e regulamentares pertinentes à aquisição de materiais, serviços, bem como na realização dos serviços dos diversos setores da Câmara de Vereadores;
+
+
+III –
+
+de forma a envolver vereadores, servidores, estagiários e trabalhadores de empresas prestadoras de serviços terceirizados nesta Casa Legislativa.
+
+
+Art. 5º.
+
+O programa "Câmara Verde" da Câmara Municipal contempla as seguintes ações:
+
+
+I –
+
+adoção de coleta seletiva:
+
+
+a)
+
+o lixo seco deverá ser enviado para reciclagem ou reutilização;
+
+
+II –
+
+configuração das impressoras e máquinas xerocopiadoras da Câmara Municipal no modo frente-e-verso, visando à redução de gasto de papéis;
+
+
+III –
+
+substituição gradual do uso de documentos em papel pelo meio eletrônico;
+
+
+IV –
+
+adoção de protocolo e sistema de trâmite virtual, com geração de apenas uma cópia, em papel, das proposituras apenas na Divisão de Expediente Legislativo, quando as proposições, mediante aposição de numeração e verificação das formalidades necessárias, estiverem prontas para irem ao Plenário, ficando o sistema disponível para os gabinetes gerarem diretamente cópias das proposituras já enviadas para o Plenário, dentro do seu limite de gasto, sempre que necessárias;
+
+
+V –
+
+adequação do bicicletário à demanda e à necessidade dos ciclistas;
+
+
+VI –
+
+instalação de luminárias mais econômicas e de menor consumo de energia;
+
+
+VII –
+
+modernização e manutenção do sistemas de ar-condicionado e na limpeza de filtros para diminuir o impacto ambiental;
+
+
+VIII –
+
+postos de coleta de pilhas e baterias;
+
+
+IX –
+
+implantação do programa de neutralização das emissões de gases do efeito estufa por meio do plantio de árvores;
+
+
+X –
+
+fornecimento de canecas aos servidores visando à redução/abolição do uso de copos descartáveis pelos servidores;
+
+
+XI –
+
+substituição dos sacos de lixo feitos de plástico comum por outros de material que forem comprovadamente menos prejudiciais ao meio ambiente;
+
+
+a)
+
+a utilização destes sacos plásticos mais sustentáveis deverá ser reduzida e limitada apenas aos casos em que a natureza do lixo produzido o exigir, devendo em cada setor, com exceção da área dos banheiros, ter apenas um único balde com saco plástico para acondicionamento de copos descartáveis, utilizados pelo público externo, ou papéis com resíduos líquidos ou orgânicos;
+
+
+b)
+
+o setor de limpeza poderá utilizar os sacos plásticos para coletar o lixo existente nos baldes dos setores;
+
+
+XII –
+
+promoção de campanhas em favor de conscientização em matéria ambiental;
+
+
+XIII –
+
+afixação no átrio da Câmara de gasto mensal com energia elétrica, consumo de água e telefone, com gráfico contendo a evolução mês a mês, acompanhado de mensagem estimulando o consumo responsável por parte dos servidores;
+
+
+XIV –
+
+afixação de mensagens nos setores, banheiros e instalações lembrando aos servidores e, nos casos das áreas acessíveis, munícipes, a necessidade de evitar o desperdício de energia elétrica, água e uso do telefone;
+
+
+XV –
+
+construção de um reservatório para a captação de água da chuva, a ser reutilizada, mediante um sistema de recalque (bomba d´água + encanamento), na descarga dos sanitários ou lavagem, em serviços de limpeza em geral, desta Câmara Municipal:
+
+
+a)
+
+a) estudos desenvolverão as melhores e mais viáveis técnicas que possibilitem o incremento do reuso de água por esta Edilidade;
+
+
+XVI –
+
+instalação nos vasos sanitários da descarga ecológica;
+
+
+XVII –
+
+todos os cartuchos utilizados nas impressoras de propriedade da Câmara deverão ser, quando já utilizados, coletados pela Divisão de Informática da Câmara, que deverá dar-lhes a destinação ecológica mais adequada;
+
+
+XVIII –
+
+esta Edilidade tomará providências para a aquisição da certificação ISO 14001.
+
+
+Art. 6º.
+
+A promoção de campanhas em favor da conscientização em matéria ambiental visa esclarecer o indivíduo sobre sua importância enquanto agente com capacidade de intervir favorável ou desfavoravelmente no meio ambiente, orientando-o a reger suas posturas, públicas ou privadas, em favor daquelas que não causem danos ao meio ambiente ou causem o mínimo inevitável.
+
+
+Parágrafo único.
+
+Promoção das campanhas de que trata este artigo será efetivada conforme as disponibilidades técnicas, administrativas e financeiras da Câmara Municipal, permitida a celebração de convênios e parcerias.
+
+
+Art. 7º.
+
+O Diretor Administrativo manterá sistema de acompanhamento qualificativo e quantitativo quanto às ações que esta Câmara adotar do Programa "Câmara Verde".
+
+
+Art. 8º.
+
+O programa "Câmara Verde" abrange, também, ações relacionadas ao uso racional da água, da energia elétrica, do uso de equipamentos e outras ações de preservação ambiental.
+
+
+Art. 9º.
+
+As despesas com a execução desta Resolução correrão por conta de dotações orçamentárias próprias.
+
+
+Art. 10.
+
+Esta Resolução entrará em vigor na data de sua publicação.
+
+
+Câmara Municipal de Formosa, 17 de novembro de 2021.
+
+ACINEMAR GONÇALVES COSTA
+
+Presidente
+
+Publicado no Portal da Câmara.
+
+CRISTINNE LOPES FARIA GONÇALVES FREITAS
+
+Assessora Legislativa
+

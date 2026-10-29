@@ -1,0 +1,126 @@
+---
+titulo: "Lei Ordinária nº 908, de 29 de setembro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "908"
+data: "2023-09-29"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/5159"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/2247/text"
+sha256_fonte: "4d59eec24fd7865c9732e3709d7534870bcbcd14161284539340735134b6ebeb"
+sha256_texto: "36ca1fa30e04ebe74d8fb7bbdc11caafec48e1327998818460218cbc847f3ca3"
+capturado_em_fonte: "2026-10-28T11:11:54.266008-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 908, de 29 de setembro de 2023
+
+Dispõe sobre Criação e Denominação de CMEI - Centro Municipal de Educação Infantil Luiz Alberto Maguito Vilela e dá outras providências.
+
+
+Projeto de Lei Ordinária nº 37/23, de autoria do Poder Executivo, aprovado em 28 de setembro de 2023.
+
+O PREFEITO MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais, conferidas pela Constituição da República e Lei Municipal nº 01/90, de 05 de abril de 1.990 – Lei Orgânica Municipal - LOM, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado e denominado de CMEI - Centro Municipal de Educação Infantil Luiz Alberto Maguito Vilela, como parte integrante da rede de ensino do município de Formosa-GO, localizado na Avenida Maestro João Luiz do Espírito Santo, s/nº, Quadra 9A, Parque Laguna II.
+
+
+Art. 2º.
+
+A Prefeitura Municipal providenciará a colocação de placas indicativas no local, bem como a devida comunicação à Empresa Brasileira de Correios e Telégrafos – ECT, SANEAGO, Companhia de Energia Elétrica do Município Formosa, OI (Brasil Telecom) e Cartórios de Registros de Imóveis.
+
+
+Art. 3º.
+
+A justificativa da presente Lei é parte integrante da mesma, e com ela se publica.
+
+
+Art. 4º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 29 de setembro de 2023.
+
+Gustavo Marques de Oliveira  
+Prefeito Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra  
+......................................................................................................  
+Iany Macêdo Troncha  
+Superint. Executiva de Documentação e Legislação  
+Decreto nº 3.497, de 11 de julho de 2023
+
+
+**Justificativa**
+
+Temos a grata satisfação de submeter à análise para apreciação e votação dessa Égide casa Legislativa o Projeto de Lei que “Dispõe sobre Criação e Denominação de CMEI - Centro Municipal de Educação Infantil **Luiz Alberto Maguito Vilela**, localizado na Avenida Maestro João Luiz do Espírito Santo, s nº , Quadra 9 A, Parque Laguna II, neste Município.
+
+Essa propositura legislativa tem como ponto inicial demonstrar que no mundo do trabalho, os Centros Municipais de Educação Infantil são instituições sociais imprescindíveis que visam proporcionar a guarda, alimentação, prevenção da saúde e ações educativas para a criança bem como, ações junto à família e à comunidade. Assim, é fundamental que se garanta às crianças dessa faixa etária, o direito de se desenvolver e aprender em instituições educativas que, em ação complementar a família propiciem um trabalho de cuidar e educar com qualidade, de modo que as crianças possam vivenciar processos educativos que contribuam efetivamente com o seu processo de desenvolvimento.  
+  
+Com intuito de ampliar e garantir um maior acesso a vagas nos Centros Municipais de Educação Infantil aos munícipes, propõem-se a criação e denominação do CMEI em tela atendendo o que dispõe o artigo 208, Incisos I e IV da Constituição Federal de 1988; as determinações legais contidas nos artigos 29 e 30 da Lei nº 9.394/96, de 20 de dezembro de 1996, que “Institui as diretrizes e bases da Educação Nacional”; e ainda as disposições expressas nos artigos 53 e 54 da Lei 8.069/90, de 13 de julho de 1990, que “Dispõe sobre o Estatuto da Criança e do Adolescente”.
+
+Outro fator importante nesta propositura legislativa é dar a denominação ao respectivo Centro Municipal de Educação Infantil reconhecendo e homenageando ao Governador e Prefeito **Luiz Alberto Maguito Vilela** “in memorian”, costumeiramente lembrado por ter sido governador de Goiás e prefeito de Aparecida de Goiânia, filho de Joaquim Morais Vilela e Nazime Martins Vilela, nasceu em Jataí, no sudoeste do estado de Goiás, no dia 24 de janeiro de 1949.
+
+Atualmente, era casado com Flávia Teles. Pai de quatro filhos, Vanessa, Daniel, Maria Beatriz e Miguel. Sendo os dois primeiros do primeiro casamento e os demais do segundo. Com a atual esposa, Flávia Teles, ele tem uma enteada Anna Liz, também foi casado com Sandra Regina Carvalho Vilela e Carmen Sílvia.
+
+Aos 17 anos, arriscou-se na carreira de jogador de futebol. Chegou a ser jogador profissional pelo time de sua cidade, o Jataiense. Foi nessa carreira que passou de “Luiz Alberto” para “Maguito Vilela”. “Eu era muito magrinho, e a torcida pedia que eu entrasse em campo. Às vezes eu ficava na reserva do time, que era um clube adulto, e a torcida pedia “magrinho, magrin, maguin”, e deu Maguito”, contou em documentário sobre sua trajetória, produzido pela jornalista Ana Paula Moreira e lançado em 2017.
+
+Aos 25, formou-se em direito na Faculdade de Direito de Anápolis. Dois anos depois, em 1976, entrou para a política, elegendo-se vereador de Jataí pelo partido Aliança Renovadora Nacional (Arena). Em seu programa eleitoral para prefeito de Goiânia, na atual campanha de 2020, ele lembrava o que o motivou a se candidatar pela primeira vez. “Eu abri meu escritório de advocacia e a população chamou atenção “Olha, você é um bom orador, você podia entrar na política”.
+
+Durante a vida política, Vilela sempre foi filiado ao MDB, no qual ocupou os cargos de vice-presidente nacional de 2000 a 2001 e assumiu a presidência entre maio e setembro de 2001. Começou a carreira política em sua cidade natal, onde se elegeu vereador pelo extinto partido político Arena, e exerceu mandato entre 1977 e 1983.
+
+Também foi presidente da Câmara Municipal da cidade, segundo as informações oficiais do Senado Federal e do Governo de Goiás, onde está descrita a biografia política de Vilela. Em seguida, foi eleito para o cargo de deputado estadual. Atuou na 10ª legislatura, entre 1983 e 1987. Na época, foi líder do governo na Assembleia Legislativa de Goiás.
+
+A carreira política cresceu. Ao encerrar o mandato na Assembleia, conquistou uma vaga na Câmara dos Deputados, onde cumpriu um mandato entre 1987 e 1991, sendo um dos chamados “deputados constituintes”, que trabalharam na elaboração e aprovação da Constituição Federal de 1988.
+
+Ele foi titular da Subcomissão dos Direitos e Garantias Individuais da Comissão da Soberania e dos Direitos e Garantias do Homem e da Mulher.
+
+Em 1991, foi eleito vice-governador de Goiás na chapa encabeçada por Íris Rezende. Em 1994, Maguito tornou-se governador de Goiás. Quatro anos depois, garantiu uma vaga no Senado.
+
+No final do mandato, em 1995, venceu a eleição para governador do estado. Ele se afastou da governadoria em abril de 1998 para se candidatar ao Senado Federal. Foi eleito e exerceu o mandato de senador até 2007.
+
+Maguito Vilela se candidatou a governador em 2001 e 2006, não se elegendo em nenhuma das tentativas. Em 2008, ganhou a eleição para prefeito de Aparecida de Goiânia e foi reeleito para o cargo em 2012.
+
+Já em 2020, ele foi eleito Prefeito de Goiânia. Maguito estava internado quando saíram o resultado das urnas. Ele tomou posse virtualmente de dentro da UTI do Hospital Albert Einstein, em São Paulo.
+
+Importante enfatizar que, Advogado por formação, Maguito encontrou na política uma vocação que norteou a sua trajetória profissional. Iniciou a vida pública em 1976, como vereador por Jataí. Depois, ocupou cargos de deputado estadual, deputado federal, vice-governador, governador e senador da República. Por último, administrou a Prefeitura de Aparecida de Goiânia por dois mandatos.
+
+Deixou relevantes contribuições em todos os cargos que ocupou. Como deputado federal, atuou na aprovação histórica da Constituição de 1988, marco na redemocratização da sociedade brasileira. À frente do Governo de Goiás, foi pioneiro em ações solidárias ao lançar o Programa de Apoio às Famílias Carentes, que consistia, em essência, na distribuição de cestas de alimentos.
+
+Contaminado pelo coronavírus durante a campanha eleitoral de 2020, o então candidato a prefeito de Goiânia, Maguito Vilela, ficou 83 dias internado. Na madrugada de 13 de janeiro de 2021, às 4h10, ele morreu, aos 71 anos, no Hospital Albert Einstein, em São Paulo.
+
+À época, o governador Ronaldo Caiado decretou luto oficial por três dias em Goiás, ao mesmo tempo em que determinou que fossem prestadas a Maguito Vilela todas as honras de Estado, em reconhecimento ao que o emedebista construiu em benefício do povo goiano.
+
+Com essa vasta explanação, essa propositura legislativa vem justamente reconhecer e dar a denominação de Centro Municipal de Educação Infantil **Luiz Alberto Maguito Vilela** em reconhecimento ao grande legado deixado por este homem ímpar, que impôs aos governantes, a responsabilidade de levar cidadania a todos os quadrantes de Goiás.
+
+Desta forma, submetemos a presente mensagem legislativa para apreciação e votação pelo ilustre Presidente e demais pares, contando com a colaboração dos mesmos, sempre presentes, em tudo que diz respeito aos interesses superiores da Municipalidade.
+
+Expostas as razões ensejadoras desta iniciativa que, esperamos poder contar com o apoio e a valiosa colaboração de Vossa Excelência e demais pares na aprovação deste projeto de lei.
+
+Atenciosamente,
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 29 de setembro de 2023.
+
+Gustavo Marques de Oliveira  
+Prefeito Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra  
+.....................................................................................................  
+Iany Macêdo Troncha  
+Superint. Executiva de Documentação e Legislação  
+Decreto nº 3.497, de 11 de julho de 2023
+

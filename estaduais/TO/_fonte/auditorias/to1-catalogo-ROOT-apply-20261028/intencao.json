@@ -1,0 +1,92 @@
+{
+  "preparado_em": "2026-10-28T12:49:44.581545-03:00",
+  "HEAD": "a6ada74d062f34d09334fc0bb7d266aed0eea4aa",
+  "grupo": "todos",
+  "modo": "apply_ROOT",
+  "prontos": 1,
+  "aguardando_promocao": [],
+  "documentos": [
+    {
+      "grupo": "63",
+      "path": "estaduais/TO/leis-ordinarias/2002/l-1354-2002-aleto7599.md",
+      "preimagem": "estaduais/TO/_fonte/auditorias/to1-nota-catalogo-privado-20261028-001/preimagens/estaduais/TO/leis-ordinarias/2002/l-1354-2002-aleto7599.md",
+      "sha256_preimagem": "c663669339ad6a0c29927bfd1882a825190782f9e326c312386214100d651580",
+      "origem_preimagem": "candidato TO63 congelado, preimagem esperada após promoção ROOT; não é HEAD atual",
+      "privado": "estaduais/TO/_fonte/auditorias/to1-nota-catalogo-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2002/l-1354-2002-aleto7599.md",
+      "sha256_proposta": "3a092ef061a07309fa6faa42268ef0827d4e186e8e39d0492a0334e310f98674",
+      "sha256_corpo_H1": "c8915971c3fb07d617ada90901b2647fe2d9b8f5d44a4a513828a8c1f4d15655",
+      "corpo_H1_byte_identico": true,
+      "campos_efetivamente_alterados": [
+        "observacao_edicao"
+      ],
+      "metadados_propostos": {
+        "versao_texto": "PDF digital ALETO, camada textual capturada; edição não certificada",
+        "edicao": "PDF distribuído pelo portal oficial da Assembleia Legislativa do Tocantins, na edição capturada. Camada textual inteira preservada com linhas, números e paginação; nenhum OCR aplicado nesta coleta. Edição de publicação no DOE e vigência global não certificadas.",
+        "observacao_edicao": "O cartão oficial ALETO registra literalmente na ementa: Dispõe sobre os depósitos judiciais e extrajudiciais e adota outras providências. REVOGADA PELA LEI Nº 1.719, DE 13/07/2006. O PDF integral capturado não contém essa nota de revogação. A observação preserva a diferença entre catálogo e arquivo; nenhuma situação jurídica atual foi inferida e os campos situacao/revogada permanecem null."
+      },
+      "captura": {
+        "item": {
+          "id_ALETO": "7599",
+          "fonte": "https://www.al.to.leg.br/arquivo/7599",
+          "titulo_indice": "Lei nº 1354 de 2002 (ordinária)",
+          "numero": "1354",
+          "ano_titulo": "2002",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2002-12-19",
+          "data_literal": "| Data: 19/12/2002",
+          "ementa": "Dispõe sobre os depósitos judiciais e extrajudiciais e adota outras providências. REVOGADA PELA LEI Nº 1.719, DE 13/07/2006.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": true,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2002&pagPaginaAtual=1",
+            "iniciado_em": "2026-10-27T23:13:39.962491-03:00",
+            "capturado_em": "2026-10-27T23:13:41.171291-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2002&pagPaginaAtual=1",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/aabc223f2c32c5d78df670dacabe11a9b63aae83542cf2cce9231f178978683b.html.gz",
+            "sha256_fonte": "aabc223f2c32c5d78df670dacabe11a9b63aae83542cf2cce9231f178978683b",
+            "sha256_cache": "e1d100b13a831346f9a14314736e23903c9ab9c7c31a170ffb73a46ec7db0007",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:33 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2002,
+            "pagina": 1,
+            "total_registros_declarado": 77,
+            "paginas_esperadas": 4
+          },
+          "ano_filtro": 2002,
+          "pagina": 1
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7599",
+        "iniciado_em": "2026-10-28T12:23:15.842123-03:00",
+        "capturado_em": "2026-10-28T12:23:16.657582-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7599.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-contextos-compilados-20261028-028/fontes/5853ba0ca40dc71383e7ace57beb32eeb41de66d5a463b9563539e65d9782c02.bin.gz",
+        "sha256_fonte": "5853ba0ca40dc71383e7ace57beb32eeb41de66d5a463b9563539e65d9782c02",
+        "sha256_cache": "7440f433f4edf7d05fd188edbfbeae45c27675fd4adc1eb765b8d1e33e302c6a",
+        "bytes": 24041,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7599.pdf",
+          "content-length": "24041",
+          "date": "Wed, 28 Oct 2026 15:20:08 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"24041-1560775746418\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:06 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "ementa_literal_catalogo": "Dispõe sobre os depósitos judiciais e extrajudiciais e adota outras providências. REVOGADA PELA LEI Nº 1.719, DE 13/07/2006."
+    }
+  ],
+  "sem_Git_escrita": true
+}

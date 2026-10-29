@@ -1,0 +1,456 @@
+{
+  "preparado_em": "2026-10-28T12:42:55.237929-03:00",
+  "modo": "dry-run",
+  "HEAD": "5e8d8178f7aa24b0ef7c46714fbcabc9448271ac",
+  "total_HEAD": 3443,
+  "total": 63,
+  "manifesto": "scripts/estados/manifestos/to63-proposta-privada-20261028-001.json",
+  "sha256_manifesto": "0dc9f67ee45426774ef3df4b44b741cdeef50db91679dc3b706efd62fbc0e8bf",
+  "mapa_sha": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/final/hashes.json",
+  "sha256_mapa": "f2a9e41942ec6dba9d63f9a36121c590b52cb4307e7383fae0ca62862293a4ef",
+  "dedup": "Blobs integrais do HEAD atual: ID no namespace ALETO/SAPL TO, arquivo por host/path/query, pasta+número literal+ano e paths; também dedup interno.",
+  "documentos": [
+    {
+      "path": "estaduais/TO/leis-ordinarias/2000/l-1178-2000-aleto7424.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2000/l-1178-2000-aleto7424.md",
+      "sha256": "de07a7abaac2a875bafc1779a6c8f6b53d789aa1f31022f18a5512d882da84b9",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2000/l-1178-2000-aleto7424.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2000/l-1177-2000-aleto7423.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2000/l-1177-2000-aleto7423.md",
+      "sha256": "25fb48d703a83af72f76b19d37e39c102deaf29915fd3f957dda84414052451c",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2000/l-1177-2000-aleto7423.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2000/l-1176-2000-aleto7422.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2000/l-1176-2000-aleto7422.md",
+      "sha256": "514e8c80e5df2be64cc4110a75e23057a61475f02952f9e1a6fcd612ac814a3f",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2000/l-1176-2000-aleto7422.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2000/l-1129-2000-aleto7375.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2000/l-1129-2000-aleto7375.md",
+      "sha256": "1fd0c9f4239a69b755799bd9e782a8e417397e3646ebe6ac4469331133d69d21",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2000/l-1129-2000-aleto7375.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2000/l-1123-2000-aleto7370.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2000/l-1123-2000-aleto7370.md",
+      "sha256": "2218440b691dc789449fb6a4b0ca8388ba1064b6b584d73d39c470a395e6ad7a",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2000/l-1123-2000-aleto7370.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2001/l-1265-2001-aleto7510.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2001/l-1265-2001-aleto7510.md",
+      "sha256": "d2a65645366978da3e0b53467e887057abe60dc77304c79757b24016b2ae5d00",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2001/l-1265-2001-aleto7510.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2001/l-1263-2001-aleto7508.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2001/l-1263-2001-aleto7508.md",
+      "sha256": "3f7f31bb059df810a818a604032db4a4da84aefe65da9619716a225cc3bff01c",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2001/l-1263-2001-aleto7508.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2001/l-1259-2001-aleto51229.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2001/l-1259-2001-aleto51229.md",
+      "sha256": "2df924b26c7183dd099dc6a46daad487e9946ef5483fe7e633b517d19a3179fd",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2001/l-1259-2001-aleto51229.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2001/l-1216-2001-aleto7461.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2001/l-1216-2001-aleto7461.md",
+      "sha256": "badce0a221b4f164504298731603bc085ec4963badbd52198d04f4d497a7f0d1",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2001/l-1216-2001-aleto7461.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2001/l-1214-2001-aleto7459.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2001/l-1214-2001-aleto7459.md",
+      "sha256": "5b9ec7702c0bb2419815f8bea3ec831c14a48c2e36179ae60167848827a26f14",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2001/l-1214-2001-aleto7459.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2001/l-1213-2001-aleto7458.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2001/l-1213-2001-aleto7458.md",
+      "sha256": "b9cb86a6d43ad8a50e4e13d5e2bf36f7aafdcc8406f73566cc7fe653d65a67c0",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2001/l-1213-2001-aleto7458.md"
+    },
+    {
+      "path": "estaduais/TO/leis-complementares/2001/lc-28-2001-aleto6267.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-complementares/2001/lc-28-2001-aleto6267.md",
+      "sha256": "954c0ee41593b56739a23a04c9fa496135ef654b6d1f47e66a16ffc8a985aeb8",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-complementares/2001/lc-28-2001-aleto6267.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2002/l-1339-2002-aleto7584.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2002/l-1339-2002-aleto7584.md",
+      "sha256": "26bdb0d0dd16a9546926f9f8ef2af911c6be1e69c1a518da587488ac0666fc7b",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2002/l-1339-2002-aleto7584.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2002/l-1310-2002-aleto7555.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2002/l-1310-2002-aleto7555.md",
+      "sha256": "f69867ac3f3157580ce04ed2167705bde3d796a1e6ab7db59391e226a5aab2c1",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2002/l-1310-2002-aleto7555.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2002/l-1306-2002-aleto7551.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2002/l-1306-2002-aleto7551.md",
+      "sha256": "e8dc860c3268e2afdda8166a5935055fdee7a468eea58c76100670e6552d40db",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2002/l-1306-2002-aleto7551.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2003/l-1411-2003-aleto7656.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2003/l-1411-2003-aleto7656.md",
+      "sha256": "a748705c4302af9f3ebe15ac3c9dd6ff16a8672b5f74413df67b75afe9c12ca3",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2003/l-1411-2003-aleto7656.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2003/l-1398-2003-aleto7643.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2003/l-1398-2003-aleto7643.md",
+      "sha256": "8cc6ad068422b28bc08a998adbcfe614dbf334b27d449d0f1347ce4d1d94e784",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2003/l-1398-2003-aleto7643.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2004/l-1493-2004-aleto7739.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2004/l-1493-2004-aleto7739.md",
+      "sha256": "c2100a0fa33ff59665c22b98cf09259bf46e2eef5e456fd072d10aaefcc260d2",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2004/l-1493-2004-aleto7739.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2004/l-1461-2004-aleto7706.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2004/l-1461-2004-aleto7706.md",
+      "sha256": "cd5cbfe1d05a96670cc3890f3973b682d036884f658f79f28253160aadd4144d",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2004/l-1461-2004-aleto7706.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3192-2017-aleto49629.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3192-2017-aleto49629.md",
+      "sha256": "fc120e6823bd8682bfa0d28bf09338458585b102092c65398ca0d74fd6b9f97a",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3192-2017-aleto49629.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3187-2017-aleto53161.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3187-2017-aleto53161.md",
+      "sha256": "287993d114cf9f74debbd72a506cd2a3a9dd4ca74f3b4d3097cf53963590f96a",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3187-2017-aleto53161.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3125-2016-aleto39944.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3125-2016-aleto39944.md",
+      "sha256": "af9ebd0db137680ffae1dbbe9accbcdf747922542395b25097c48ce3d3a87f48",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3125-2016-aleto39944.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2011/l-2477-2011-aleto28003.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2011/l-2477-2011-aleto28003.md",
+      "sha256": "2cfa0e787623174b07a2c3f4adc80058b074d503e0117792bb2ccf8ed93a86fc",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2011/l-2477-2011-aleto28003.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2228-2009-aleto23539.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2228-2009-aleto23539.md",
+      "sha256": "24cbece719a6dac37dacabeaa643e2a57f33dd3822c94506f160d163d293f548",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2228-2009-aleto23539.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2224-2009-aleto23398.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2224-2009-aleto23398.md",
+      "sha256": "76ff141bb46dd845be8d828848cef6994956a290d6b8026f2263794be17a6804",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2224-2009-aleto23398.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2155-2009-aleto22949.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2155-2009-aleto22949.md",
+      "sha256": "155fb545bc0288449bfa9e077507bb02cdce86b5ac56c8b1be22b1bc04c7a425",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2155-2009-aleto22949.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2124-2009-aleto22247.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2124-2009-aleto22247.md",
+      "sha256": "6b1b437ca9ed633e92a46b8ad3e888f439a488e47a0ad25ab8ed6ce420183d13",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2124-2009-aleto22247.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2122-2009-aleto22245.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2122-2009-aleto22245.md",
+      "sha256": "fa558fe3f89d462204c3b93ff604ed8532fe684becf46aee34e5a2238f085854",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2122-2009-aleto22245.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2121-2009-aleto22244.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2121-2009-aleto22244.md",
+      "sha256": "f75cd235d469afe7f30ad3fe7c932c6a164c82fb993e6a743f3721307c1eedfc",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2121-2009-aleto22244.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2119-2009-aleto22242.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2119-2009-aleto22242.md",
+      "sha256": "dafed3bbff3cc26f758963865596b0d1644a0e887aa24b2db350db221f25ff9f",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2119-2009-aleto22242.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2117-2009-aleto22240.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2117-2009-aleto22240.md",
+      "sha256": "64447ed950fd5c9d87221eb43f14d57ecdf6787897efb29255d754273897e4d1",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2117-2009-aleto22240.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2116-2009-aleto22239.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2116-2009-aleto22239.md",
+      "sha256": "4e936ff7579c28a07cd1a51437bd9b230bc495abb47667121eadd42ed43558d8",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2116-2009-aleto22239.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2114-2009-aleto22236.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2114-2009-aleto22236.md",
+      "sha256": "ccb6a0146ba0bf8c888c72b546d486c79c807865c578c8337bce956fb57945e2",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2114-2009-aleto22236.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2113-2009-aleto22235.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2113-2009-aleto22235.md",
+      "sha256": "ce8ed5bf5ab6019f12c464046dab04a81a1f4e571d846553091837bc354ac3a0",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2113-2009-aleto22235.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2108-2009-aleto21990.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2108-2009-aleto21990.md",
+      "sha256": "059b1c64dcb594a6347bdc37f4db985590f269ab941db1b37620cc405979e602",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2108-2009-aleto21990.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2107-2009-aleto21989.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2107-2009-aleto21989.md",
+      "sha256": "6b5fb4791a39c6c2fda5ed0ebb1eb31803c2baa69fa90c97411451302f374c07",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2107-2009-aleto21989.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2106-2009-aleto21988.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2106-2009-aleto21988.md",
+      "sha256": "b25af37178484a2ba375992b3306d596965b7b81e0e11c245696106bc5f19f1d",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2106-2009-aleto21988.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2105-2009-aleto21987.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2105-2009-aleto21987.md",
+      "sha256": "ff2cdd8ec724572ad7b5da1392c4e57a2ba2e7e65a4a2e6daccf5a927c26b8b6",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2105-2009-aleto21987.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2104-2009-aleto22237.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2104-2009-aleto22237.md",
+      "sha256": "3b672901ec300827c6fe8d2a8b14ef52c258a16be53b9bba0e94ce806711716e",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2104-2009-aleto22237.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2103-2009-aleto21985.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2103-2009-aleto21985.md",
+      "sha256": "1d342188efaa6357de12ab76ba36c1479f43fc3a11034c9c5cb4e9083be910d1",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2103-2009-aleto21985.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2102-2009-aleto21984.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2102-2009-aleto21984.md",
+      "sha256": "36fabb6b5b67e44bb732ad077f0522caf76dc995a8da9c9590e755d306c5a60c",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2102-2009-aleto21984.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2101-2009-aleto21983.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2101-2009-aleto21983.md",
+      "sha256": "fc55cad4a69786399d744b8fc242308d6bff0f17f4fd265fb6c1ac7cf519a9b3",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2101-2009-aleto21983.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2100-2009-aleto21982.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2100-2009-aleto21982.md",
+      "sha256": "498eed53e64ed83b531873a790b6222bd95212ebb2411a82ac1b20407472bb92",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2100-2009-aleto21982.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2099-2009-aleto21981.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2099-2009-aleto21981.md",
+      "sha256": "1f347647a60e1593e5cbe65c433705b7679fac08d8041d425d160f05171b7f8a",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2099-2009-aleto21981.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2052-2009-aleto20625.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2052-2009-aleto20625.md",
+      "sha256": "1bd103d98a12ad23dedfb9af945b163e6d006ca0de844c933d64a2c65346ab41",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2052-2009-aleto20625.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2000/l-1188-2000-aleto7434.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2000/l-1188-2000-aleto7434.md",
+      "sha256": "da90b8869f126fb0d439d5e5830dc660f3489e52f4e5e3243c0755d0c86db48f",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2000/l-1188-2000-aleto7434.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2000/l-1174-2000-aleto7420.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2000/l-1174-2000-aleto7420.md",
+      "sha256": "2c5aad28b074820a7c329992904eaa97946698c1b27684c752db3a06de245f80",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2000/l-1174-2000-aleto7420.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2000/l-1126-2000-aleto7373.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2000/l-1126-2000-aleto7373.md",
+      "sha256": "3d7a2b91c9a9faca35a8bea8791bd446a1fce715a8ae43b0d5ea8b343ae457df",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2000/l-1126-2000-aleto7373.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2001/l-1276-2001-aleto7521.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2001/l-1276-2001-aleto7521.md",
+      "sha256": "650f8865906e89d59d39225a3da91a0860b85883e19da56e0150c98b20de6220",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2001/l-1276-2001-aleto7521.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2001/l-1260-2001-aleto35301.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2001/l-1260-2001-aleto35301.md",
+      "sha256": "77693884b0d553545398bcb9a0de896349fbe0c9b987c90108ec8e8e2fc8b730",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2001/l-1260-2001-aleto35301.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2001/l-1252-2001-aleto7497.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2001/l-1252-2001-aleto7497.md",
+      "sha256": "0945621535506919726fa469b3cf1f39375454ccb1ea1e0d6e669b21449c9587",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2001/l-1252-2001-aleto7497.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2001/l-1243-2001-aleto7488.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2001/l-1243-2001-aleto7488.md",
+      "sha256": "ab5358d0392ae3497d5310ed55d86814b97973011b414e822be155ca75772403",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2001/l-1243-2001-aleto7488.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2001/l-1226-2001-aleto7471.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2001/l-1226-2001-aleto7471.md",
+      "sha256": "af8080e4943d30e5c0a745223c270a13550f351f71f3f6e246f7d395c8b0d3cf",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2001/l-1226-2001-aleto7471.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2001/l-1210-2001-aleto23541.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2001/l-1210-2001-aleto23541.md",
+      "sha256": "ccafeb0ccae003d63679ef1cb8bb7353e6571f83e83e7c6a2a66069d73ae3ec5",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2001/l-1210-2001-aleto23541.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2002/l-1363-2002-aleto25020.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2002/l-1363-2002-aleto25020.md",
+      "sha256": "ed5d1f0df150fbbc4339490d94b6440e17ef07e3973a8021d2ad398859b77fe8",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2002/l-1363-2002-aleto25020.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2002/l-1354-2002-aleto7599.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2002/l-1354-2002-aleto7599.md",
+      "sha256": "c663669339ad6a0c29927bfd1882a825190782f9e326c312386214100d651580",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2002/l-1354-2002-aleto7599.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2002/l-1344-2002-aleto8034.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2002/l-1344-2002-aleto8034.md",
+      "sha256": "dd2e0ea7eff312f8eefcf63cd4b91443b85b9db76d3bd60a7f7f593151670d33",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2002/l-1344-2002-aleto8034.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2002/l-1296-2002-aleto7541.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2002/l-1296-2002-aleto7541.md",
+      "sha256": "baaa57166752d7e77fb400deb0dde1da3e99cb55044baab55c171b1912d5421c",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2002/l-1296-2002-aleto7541.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1640-2005-aleto35442.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1640-2005-aleto35442.md",
+      "sha256": "89ec22446eea9fd55d3c4649ad9d8f6fd2f3b1f53e3471723c3c29aded23c2a5",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2005/l-1640-2005-aleto35442.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1610-2005-aleto7856.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1610-2005-aleto7856.md",
+      "sha256": "3ac84d3fcee65930f74708bf0df6f1f206448049a38f45a2b6ab1c8d9483ddcc",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2005/l-1610-2005-aleto7856.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2006/l-1697-2006-aleto8155.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2006/l-1697-2006-aleto8155.md",
+      "sha256": "843d41dcb2fb298f9e6c4aa1127d1da2efb6cde52f5378d6c311ece202c57a78",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2006/l-1697-2006-aleto8155.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2009/l-2144-2009-aleto23120.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2009/l-2144-2009-aleto23120.md",
+      "sha256": "e670112e51d991ff925c84e2854e3f6e9e258f1314753cd47d7720a9dfca4df2",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2009/l-2144-2009-aleto23120.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2010/l-2321-2010-aleto31650.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to63-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2010/l-2321-2010-aleto31650.md",
+      "sha256": "e3bbbd56b21c3ecba78177f9f578fb0277b9d0ba5ce27dc91eee1335cb6f7b9d",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to63-ROOT-dryrun-20261028/backup/estaduais/TO/leis-ordinarias/2010/l-2321-2010-aleto31650.md"
+    }
+  ],
+  "limite": "Commit/push não executados. Atomicidade por arquivo, não global; journal registra progresso para recuperação ROOT."
+}

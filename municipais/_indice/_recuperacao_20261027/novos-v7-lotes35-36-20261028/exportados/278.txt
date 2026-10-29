@@ -1,0 +1,283 @@
+---
+titulo: "Lei Ordinária nº 2.507, de 20 de outubro de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2507"
+data: "2026-10-20"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2766"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/1106/text"
+sha256_fonte: "e4f5c1e5de32559d3d894cf428c562922b9e096b83b88be82a9572fe0a809c30"
+sha256_texto: "0fbe0bd7c88866b160ed84604a2335b2cbcdf006a78f17ca243d2b473819a26e"
+capturado_em_fonte: "2026-10-28T13:04:55.610375-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.507, de 20 de outubro de 2026
+
+Regulamenta o fornecimento de medicamentos e a administração de medicamentos injetáveis no âmbito da Secretaria Municipal de Saúde de Guaíra, Estado do Paraná, e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Esta Lei regulamenta os critérios, fluxos e requisitos para o fornecimento de medicamentos e a administração de medicamentos injetáveis na rede pública de saúde do Município de Guaíra, Estado do Paraná.
+
+
+Art. 2º.
+
+O atendimento ao usuário do Sistema Único de Saúde (SUS) no âmbito municipal será garantido de forma universal e igualitária, ficando a administração de medicamentos injetáveis e o fornecimento de medicamentos condicionados ao cumprimento dos requisitos estabelecidos nesta Lei.
+
+
+#### CAPÍTULO II — DA ORIGEM E VALIDADE DAS PRESCRIÇÕES
+
+
+Art. 3º.
+
+Fica autorizado o fornecimento de medicamentos e a administração de medicamentos injetáveis no âmbito da Secretaria Municipal de Saúde de Guaíra, mediante receita emitida por profissionais da rede pública ou privada, prescrições emitidas por meio eletrônico e de origem nacional.
+
+
+§ 1º
+
+O fornecimento de medicamentos e a administração de medicamentos injetáveis que trata o caput deste artigo não poderão ser recusados ou dificultados sob o argumento exclusivo do prescritor não ser integrante da rede do SUS.
+
+
+§ 2º
+
+A autorização prevista neste artigo não se aplica aos medicamentos constantes na Relação Nacional de Medicamentos (RENAME) ou Relação Municipal de Medicamentos (REMUME) que sejam objetos de novos protocolos terapêuticos ou projetos-piloto das redes nacional, estadual ou municipal instituídos a partir do ano de 2026, cuja dispensação observará a exclusividade de prescrições originárias do SUS.
+
+
+§ 3º
+
+Os medicamentos de uso exclusivo na Unidade de Pronto Atendimento, serão utilizados de acordo com os protocolos municipais estabelecidos.
+
+
+§ 4º
+
+Não serão entregues medicamentos injetáveis e insumos para sua utilização em domicílio.
+
+
+#### CAPÍTULO III — DOS CRITÉRIOS PARA O FORNECIMENTO E ADMINISTRAÇÃO
+
+
+Art. 4º.
+
+O fornecimento e a administração de medicamentos ficam estritamente limitados àqueles contidos na REMUME e/ou RENAME e à disponibilidade de estoque, respeitados os critérios desta Lei, técnicos, legais e sanitários vigentes.
+
+
+Parágrafo único
+
+Fica excepcionalmente autorizada a administração de medicamento trazido pelo próprio paciente não contido na REMUME e/ou RENAME, desde que acompanhado de prescrição médica vigente vinculada ao Sistema Único de Saúde (SUS) ou ao Consórcio Intermunicipal de Saúde (Ciscopar), bem como contratos administrativos da própria Secretaria Municipal de Saúde.
+
+
+Art. 5º.
+
+Tanto no fornecimento quanto na administração, a prescrição será rigorosamente analisada de acordo com a legislação sanitária, sendo vedado o atendimento caso não cumpra, cumulativamente, os seguintes critérios:
+
+
+I –
+
+Atualização cadastral: o paciente deve estar com o cadastro municipal de saúde atualizado e ativo;
+
+
+II –
+
+Identificação do paciente: nome completo, endereço residencial e data de nascimento;
+
+
+III –
+
+Identificação do prescritor: nome completo, número do registro no respectivo conselho de classe profissional e assinatura (física ou certificada digitalmente);
+
+
+IV –
+
+Identificação do local de atendimento: identificação e endereço do serviço de saúde ou do consultório de origem;
+
+
+V –
+
+Dados do medicamento: nome do fármaco (preferencialmente pela Denominação Comum Brasileira - DCB), concentração, posologia correta, via de administração, velocidade ou tempo de administração (se aplicável), frequência, duração do tratamento e orientações de diluição (se aplicável);
+
+
+VI –
+
+Legibilidade: o texto deve estar inteiramente legível, sem rasuras ou emendas;
+
+
+VII –
+
+Validade temporal: estar dentro do prazo de validade preconizado na REMUME e nas legislações sanitárias federais específicas, em especial a Portaria MS nº 344/1998 e a RDC Anvisa nº 471/2021, ou as que virem a substituí-las.
+
+
+Art. 6º.
+
+Somente serão aceitas prescrições emitidas por profissionais legalmente autorizados pelos seus respectivos Conselhos Profissionais e pela legislação sanitária nacional, observando-se:
+
+
+I –
+
+Habilitados para a prescrição medicamentosa:
+
+
+a)
+
+Médicos, em sua totalidade de competências;
+
+
+b)
+
+Odontólogos, estritamente dentro de suas competências e aplicabilidades clínicas;
+
+
+c)
+
+Enfermeiros, nos termos da Lei Federal nº 7.498/1986 e da Portaria Federal nº 2.436/2017 (PNAB), desde que condicionado à existência de protocolos institucionais ou programas municipais formalizados;
+
+
+d)
+
+Farmacêuticos, nos estritos termos da legislação vigente e resoluções do Conselho Federal de Farmácia;
+
+
+e)
+
+Outros profissionais de saúde, desde que expressamente autorizados pela legislação federal competente e pelos seus respectivos Conselhos Federal e Regional de classe, observados os limites de sua atuação profissional.
+
+
+II –
+
+Não habilitados para a prescrição de medicamentos no âmbito do SUS municipal: nutricionistas, psicólogos, fisioterapeutas e demais profissionais cujas atribuições de classe não incluam a prescrição medicamentosa farmacológica.
+
+
+#### CAPÍTULO IV — DAS REGRAS PARA ADMINISTRAÇÃO DE INJETÁVEIS
+
+
+Art. 7º.
+
+A administração de medicamentos injetáveis deverá observar os princípios da legalidade, da segurança do paciente, da responsabilidade técnica e da adequada estrutura assistencial disponível no local da apresentação da prescrição.
+
+
+§ 1º
+
+A administração de medicamentos injetáveis somente poderá ser realizada quando atendidos, cumulativamente, os seguintes requisitos:
+
+
+I –
+
+Existência de profissional legalmente habilitado e tecnicamente capacitado para o procedimento;
+
+
+II –
+
+Disponibilidade de estrutura física e técnica compatível com a complexidade do medicamento a ser administrado;
+
+
+III –
+
+Presença de recursos mínimos necessários para monitoramento clínico do paciente durante e após a administração;
+
+
+IV –
+
+Disponibilidade de insumos e medicamentos adequados para o manejo imediato de possíveis reações adversas, intercorrências ou eventos anafiláticos;
+
+
+V –
+
+Observância dos protocolos clínicos e operacionais, normas sanitárias vigentes e diretrizes técnicas estabelecidas pela Secretaria Municipal de Saúde.
+
+
+§ 2º
+
+A realização do procedimento deverá considerar a avaliação prévia do risco-benefício, as condições clínicas momentâneas do paciente e a capacidade operacional da unidade de saúde no momento da assistência.
+
+
+Art. 8º.
+
+Na ausência de condições técnicas, estruturais ou de segurança adequadas na unidade de saúde, o procedimento de administração deverá ser recusado pelo profissional responsável.
+
+
+Parágrafo único
+
+A recusa de que trata o caput deste artigo deverá ser formalizada por escrito no prontuário eletrônico do paciente no sistema SIGSS, contendo a justificativa técnica detalhada e uma via impressa será entregue ao paciente.
+
+
+Art. 9º.
+
+A administração de medicamentos de caráter eletivo compete, preferencialmente, ao âmbito da Atenção Primária em Saúde (APS).
+
+
+§ 1º
+
+Para os fins desta Lei, considera-se medicamento de caráter eletivo aquele cuja postergação da administração não acarrete prejuízos imediatos, agravos à saúde ou risco de evolução para quadro de urgência do paciente.
+
+
+§ 2º
+
+A rede de Urgência e Emergência do Município poderá administrar medicamentos antimicrobianos de caráter eletivo de forma excepcional, prioritariamente, nos períodos em que as Unidades Básicas de Saúde (UBS) não estiverem em regular funcionamento, incluídos finais de semana, feriados e pontos facultativos.
+
+
+§ 3º
+
+Na hipótese de impossibilidade temporária de atendimento na unidade básica de referência do paciente, a gestão da APS garantirá o seu redirecionamento e atendimento em outra unidade da rede básica de atenção, assegurando a continuidade da assistência.
+
+
+§ 4º
+
+Na ocorrência de reações adversas imediatas decorrentes da aplicação do medicamento, a unidade de saúde prestará o manejo clínico inicial de socorro e estabilização do paciente compatível com os recursos disponíveis no local, conforme protocolos municipais estabelecidos.
+
+
+§ 5º
+
+Constatada a gravidade da reação adversa e verificada a ausência ou impossibilidade de atuação imediata de profissional médico na Unidade Básica de Saúde (UBS) no momento da intercorrência, a equipe local deverá:
+
+
+I –
+
+Acionar imediatamente o Serviço de Atendimento Móvel de Urgência (SAMU) para suporte do paciente.
+
+
+II –
+
+Prestar os primeiros socorros dentro de suas competências profissionais até a chegada da equipe de suporte móvel.
+
+
+#### CAPÍTULO V — DAS RESPONSABILIDADES E SANÇÕES
+
+
+Art. 10.
+
+O servidor público municipal que, injustificadamente, recusar o fornecimento ou a administração de medicamentos motivado por mera discriminação da origem do receituário (público ou privado), cumpridos todos os requisitos do Art. 5 º e 6º, poderá responder administrativamente pelo descumprimento de disposição legal, nos termos do Estatuto dos Servidores Públicos do Município de Guaíra.
+
+
+#### CAPÍTULO VI — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 11.
+
+As dúvidas e os casos omissos surgidos na aplicação desta Lei serão dirimidos pela Secretaria Municipal de Saúde, que expedirá as instruções normativas, portarias e orientações complementares necessárias para o fiel cumprimento desta norma.
+
+
+Art. 12.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Câmara Municipal de Guaíra, Estado do Paraná, em 20 de outubro de 2026.
+
+***GILEADE GABRIEL OSTI***
+
+Prefeito Municipal
+

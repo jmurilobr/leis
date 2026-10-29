@@ -1,0 +1,129 @@
+---
+titulo: "Lei Ordinária nº 7, de 18 de agosto de 1973"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "7"
+data: "1973-08-18"
+municipio: "Guadalupe"
+uf: "PI"
+codigo_ibge: "2204501"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guadalupe.pi.leg.br/norma/451"
+fonte_texto: "https://sapl.guadalupe.pi.leg.br/ta/91/text"
+sha256_fonte: "9bebb36435911a3e9f7bbf6d47f31d9c27a9f3c5beea3ee448a6ebbed989f7b9"
+sha256_texto: "946a61b8a2c65cf5241f724c7d5c76e84495496c327243440b1ea787d7baac2c"
+capturado_em_fonte: "2026-10-28T13:04:35.281669-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 7, de 18 de agosto de 1973
+
+Suplementa dotações orçamentárias e dá outras providências.
+
+
+Benedito José de Neiva Filho, Prefeito Municipal de Guadalupe. Faço saber que a Câmara Municipal de Guadalupe aprovou e sanciono a seguinte Lei.
+
+
+Art. 1º.
+
+Fica aberto o crédito suplementar no valor de Cr$ 55.500,00 (cinquenta e cinco mil e quinhentos cruzeiros), para suplementação das dotações orçamentárias abaixo codificadas:
+
+
+0 - Governo e Administração Geral  
+0.5 - Atividades - Meio e Assessoramento-Técnico  
+3.0.0.0 - Despesas Correntes  
+3.1.0.0 - Despesas de Custeio  
+3.1.1.0 - Pessoal  
+3.1.1.1 - Pessoal Civil  
+03 - Vencimentos............................... Cr$ 5.000,00  
+06 - Gratificação Adicional................. Cr$ 300,00  
+08 - Sálarios de Contratado............... Cr$ 5.000,00  
+3.1.2.0 - Material de Consumo  
+01 - Material de Expediente............... Cr$ 800,00  
+  
+1 - Administração Financeira  
+1.9 - Diversos  
+3.0.0.0 - Despesas Correntes  
+3.1.0.0 - Despesas de Custeio  
+3.1.2.0 - Material de Consumo  
+01 - Material de Expediente............... Cr$ 1.000,00  
+  
+4 - Viação, Transportes e Comunicações  
+4.2 - Rodoviários  
+4.0.0.0 - Despesas de Capital  
+4.1.0.0 - Investimentos  
+4.1.1.0 - Obras Públicas  
+02 - Início de Obras  
+Obras D'Arte............................... Cr$ 1.000,00  
+  
+6 - Educação e Cultura  
+6.1 - Ensino Primário  
+3.0.0.0 - Despesas Correntes  
+3.1.0.0 - Despesas de Custeio  
+3.1.1.0 - Pessoal  
+3.1.1.1 - Pessoal Civil  
+03 - Vencimentos............................... Cr$ 3.000,00  
+08 - Sálario de Contratado................. Cr$ 5.000,00  
+3.1.2.0 - Material de Consumo  
+01 - Material de Expediente............... Cr$ 500,00  
+02 - Combustíveis e Lubrificantes,  
+Peças e Acessórios.................... Cr$ 4.000,00  
+06 - Materiais Desportivos,  
+Escolares e Didáticos................. Cr$ 2.000,00  
+3.1.3.0 - Serviços de Terceiros  
+09 - Reparo e Conservação  
+de Bens...................................... Cr$ 3.000,00  
+12 - Serviços Diversos...................... Cr$ 300,00  
+3.1.4.0 - Encargos Diversos  
+02 - Recepções e Hospedagens,  
+Festividades............................... Cr$ 3.000,00  
+4.0.0.0 - Despesas de Capital  
+4.1.0.0 - Investimentos  
+4.1.4.0 - Material Permanente  
+04 - Mobiliário em Geral.................... Cr$ 2.000,00  
+  
+7 - Saúde  
+7.1 - Assistência Médico-Hospitalar  
+3.0.0.0 - Despesas Correntes  
+3.1.0.0 - Despesas de Custeio  
+3.1.2.0 - Material de Consumo  
+02 - Combustíveis e Lubrificantes,  
+Peças e Acessórios.................... Cr$ 2.000,00  
+3.1.3.0 - Serviços de Terceiros  
+07 - Locações Diversas..................... Cr$ 600,00  
+  
+9 - Serviços Urbanos  
+9.9 - Diversos  
+3.0.0.0 - Despesas Correntes  
+3.1.0.0 - Despesas de Custeio  
+3.1.1.0 - Pessoal  
+3.1.1.1 - Pessoal Civil  
+08 - Sálario de Contratado................. Cr$ 4.000,00  
+3.1.2.0 - Material de Consumo  
+02 - Combustíveis e Lubrificantes,  
+Peças e Acessórios.................... Cr$ 2.000,00  
+06 - Materiais Desportivos,  
+Escolares e Didáticos................. Cr$ 2.000,00  
+3.1.3.0 - Serviços de Terceiros  
+09 - Reparo e Conservação  
+de Bens...................................... Cr$ 3.000,00
+
+
+Art. 2º.
+
+A suplementação das dotações codificadas no artigo anterior será coberta com excesso de arrecadação.
+
+
+Art. 3º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Guadalupe, 18 de agosto de 1973  
+  
+Benedito José de Neiva Filho  
+Prefeito Municipal
+

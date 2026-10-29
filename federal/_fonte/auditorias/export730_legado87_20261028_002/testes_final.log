@@ -1,0 +1,21 @@
+8 regressões passaram
+test_alias_numero_colide (__main__.Protecoes.test_alias_numero_colide) ... ok
+test_caminho_absoluto_recusado (__main__.Protecoes.test_caminho_absoluto_recusado) ... ok
+test_durable_nao_sobrescreve (__main__.Protecoes.test_durable_nao_sobrescreve) ... ok
+test_hardlink_nao_sobrescreve (__main__.Protecoes.test_hardlink_nao_sobrescreve) ... ok
+test_travessia_recusada (__main__.Protecoes.test_travessia_recusada) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.002s
+
+OK
+test_bibliotecas_python_vendorizadas (__main__.Isolamento.test_bibliotecas_python_vendorizadas) ... ok
+test_codigo_alterado_rejeitado_antes_importacao (__main__.Isolamento.test_codigo_alterado_rejeitado_antes_importacao) ... ok
+test_codigo_sem_mapeamento_nao_cai_no_global (__main__.Isolamento.test_codigo_sem_mapeamento_nao_cai_no_global) ... ok
+test_importacoes_usam_export_sem_globals (__main__.Isolamento.test_importacoes_usam_export_sem_globals) ... ok
+test_symlink_de_insumo_nao_mapeado_rejeitado (__main__.Isolamento.test_symlink_de_insumo_nao_mapeado_rejeitado) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.333s
+
+OK

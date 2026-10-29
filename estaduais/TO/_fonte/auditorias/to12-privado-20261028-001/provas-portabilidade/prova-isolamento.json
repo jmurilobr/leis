@@ -1,0 +1,63 @@
+{
+  "replay": {
+    "total": 12,
+    "aprovados": 12,
+    "falhas": 0,
+    "rede": false,
+    "promovidos": 0
+  },
+  "conjunto_testes": [
+    {
+      "modulo": "test_clipping_pdf_textual_to",
+      "testes": 26
+    },
+    {
+      "modulo": "test_contexto_to_pdf",
+      "testes": 15
+    },
+    {
+      "modulo": "test_edicao_anotada_to",
+      "testes": 6
+    },
+    {
+      "modulo": "test_formulas_to_pdf",
+      "testes": 6
+    },
+    {
+      "modulo": "test_metadados_to_pdf",
+      "testes": 5
+    },
+    {
+      "modulo": "test_observacao_catalogo_to",
+      "testes": 3
+    },
+    {
+      "modulo": "test_ocorrencias_alteracao_to",
+      "testes": 3
+    },
+    {
+      "modulo": "test_referencias_inline_to",
+      "testes": 6
+    },
+    {
+      "modulo": "test_to_pdf_simples",
+      "testes": 7
+    },
+    {
+      "modulo": "test_visibilidade_pdf_to",
+      "testes": 8
+    },
+    {
+      "modulo": "test_promover_to_pdf_privado",
+      "testes": 15
+    }
+  ],
+  "testes": 100,
+  "falhas": 0,
+  "erros": 0,
+  "bloqueios_fora_exportacao": [],
+  "fontTools_do_wheel_do_mapa": true,
+  "exportacao_somente_mapa": true,
+  "QA_externo": "scripts/bin/qa-20261027/python",
+  "Python": "-I -B"
+}

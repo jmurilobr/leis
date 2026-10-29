@@ -1,0 +1,1463 @@
+---
+titulo: "Lei Ordinária nº 374, de 02 de dezembro de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "374"
+data: "2010-12-02"
+municipio: "Guadalupe"
+uf: "PI"
+codigo_ibge: "2204501"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guadalupe.pi.leg.br/norma/94"
+fonte_texto: "https://sapl.guadalupe.pi.leg.br/ta/264/text"
+sha256_fonte: "c72fafca5f4f5f84b957ff38e323b25b30c0c970cac8e96c41977a6b6647d547"
+sha256_texto: "a95f6fd76e58bb8125821bcbb318324e28d3ff7b0803ab9b96e973576ce08f8c"
+capturado_em_fonte: "2026-10-28T12:51:51.456630-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 374, de 02 de dezembro de 2010
+
+Dispõe sobre a criação do Sistema Municipal de Ensino do Município de Guadalupe, estado do Piauí e dá outras providências.
+
+
+O Prefeito Municipal de Guadalupe, estado do Piauí, faço saber quer a Câmara Municipal de Vereadores aprovou e eu, sanciono a seguinte lei:
+
+
+### TÍTULO I — Das Disposições Preliminares
+
+
+Art. 1º.
+
+Fica constituído e organizado o Sistema Municipal de Ensino do Município de Guadalupe, estado do Piauí, em conformidade com o disposto no art. 211 da Constituição Federal e os artigos. 8º, 11 e 18 da Lei Federal n°. 9.394/96 - Lei de Diretrizes e Bases da Educação Nacional - LDB.
+
+
+Art. 2º.
+
+A educação escolar no Sistema Municipal de Ensino deverá vincular-se ao mundo do trabalho e a pratica social e desenvolver-se predominantemente, por meio de ensino, em instituições próprias.
+
+
+### TÍTULO II — Da Educação, Princípios e Fins
+
+
+Art. 3º.
+
+A educação no Sistema Municipal de Ensino reger-se-á com observância no que determina esta lei, nas normas comuns da legislação Federal e Estadual de Educação, no que couber, e compreende os processos de formação desenvolvidos na família, na convivência humana, no trabalho, nas manifestações culturais, nas instituições municipais de ensino, nos movimentos sociais e organização da sociedade civil.
+
+
+Art. 4º.
+
+A educação é um direito de todos e dever da família, e do Município, fundamenta a proposta educativa nos princípios de liberdade e nos ideais de solidariedade humana, e estabelece como finalidades do processo educativo:
+
+
+I –
+
+o pleno desenvolvimento do educando;
+
+
+II –
+
+seu preparo para o exercício da cidadania:
+
+
+III –
+
+sua qualificação para o mundo do trabalho.
+
+
+Art. 5º.
+
+A escola deverá garantir, através de sua proposta pedagógica, o cumprimento dos seguintes princípios da educação escolar:
+
+
+I –
+
+idênticas condições para o acesso e permanência no ambiente escolar;
+
+
+II –
+
+liberdade de aprender, ensinar, pesquisar e divulgar a cultura, o pensamento, a arte o saber;
+
+
+III –
+
+pluralismo de idéias e de concepções pedagógicas;
+
+
+IV –
+
+respeito à liberdade e apreço à tolerância;
+
+
+V –
+
+coexistência de instituições públicas e privadas de ensino;
+
+
+VI –
+
+gratuidade do ensino público em estabelecimentos mantidos pelo Município;
+
+
+VII –
+
+valorização dos profissionais da educação escolar;
+
+
+VIII –
+
+gestão democrática do ensino público na forma da legislação pertinente;
+
+
+IX –
+
+garantia de padrão de qualidade;
+
+
+X –
+
+valorização da experiência extra-escolar;
+
+
+XI –
+
+vinculação entre educação escolar, o trabalho e as práticas sociais.
+
+
+### TÍTULO III
+
+
+Art. 6º.
+
+É dever do Município, estabelecer mecanismos que garantam:
+
+
+I –
+
+ensino fundamental, obrigatório e gratuito, inclusive para os que a ele não tiveram acesso na idade própria;
+
+
+II –
+
+atendimento educacional especializado gratuito ao educando com necessidades especiais, preferencialmente na rede regular de ensino;
+
+
+III –
+
+atendimento gratuito em creches e pré-escolas às crianças de zero a cinco anos de idade;
+
+
+IV –
+
+acesso aos níveis mais elevados do ensino, da pesquisa e criação artística, segundo a sua capacidade;
+
+
+V –
+
+oferta de ensino regular noturno, adequado às condições do educando;
+
+
+VI –
+
+oferta de educação escolar para jovens e adultos, com características e modalidades adequadas às suas necessidades e disponibilidades, garantindo-se aos que forem trabalhadores as condições de acesso e permanência na escola;
+
+
+VII –
+
+atendimento ao educando, no ensino fundamental público, por meio de programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde;
+
+
+VIII –
+
+padrões mínimos de qualidade de ensino definido como a variedade e quantidade mínimas, por aluno, de insumos indispensáveis ao desenvolvimento do processo de ensino-aprendizagem;
+
+
+Art. 7º.
+
+É facultado ao Município oferecer o ensino médio, etapa final da educação básica e o ensino superior.
+
+
+Art. 8º.
+
+O acesso ao ensino fundamental é direito público subjetivo, podendo qualquer cidadão, grupo de cidadãos, associações comunitárias, organização sindical, entidade de classe ou outra legalmente constituída, e, ainda, o Ministério Público, acionar o Poder Público Municipal para exigi-lo.
+
+
+§ 1º
+
+Compete ao Município garantir o acesso de todos ao ensino fundamental;
+
+
+§ 2º
+
+O Município em regime de colaboração com o Estado e a assistência da União estabelecerá os mecanismos necessários para:
+
+
+I –
+
+recensear a população em idade escolar para o ensino fundamental, e os jovens e adultos que a ela não tiveram acesso;
+
+
+II –
+
+fazer-lhes a chamada pública;
+
+
+III –
+
+zelar junto aos pais ou responsáveis, pela freqüência à escola.
+
+
+§ 3º
+
+O Município assegurará em primeiro lugar o acesso ao ensino obrigatório, nos termos deste artigo, contemplando em seguida os demais níveis e modalidades de ensino, conforme as prioridades legais.
+
+
+§ 4º
+
+Para garantir o cumprimento da obrigatoriedade do ensino fundamental, o Poder Público Municipal criará formas alternativas de acesso, independentemente da escolarização anterior.
+
+
+Art. 9º.
+
+Caberá ao Município divulgar aos pais e responsáveis seu dever de matricular as crianças nas escolas, de ensino fundamental, a partir dos seis anos de idade.
+
+
+Art. 10.
+
+O Município fiscalizará junto às escolas da iniciativa privada integradas ao sistema municipal de ensino:
+
+
+I –
+
+o cumprimento das normas gerais de educação nacional e do próprio sistema municipal de ensino;
+
+
+II –
+
+a capacidade de autofmanciamento, ressalvado o previsto no art. 213 da Constituição Federal;
+
+
+Art. 11.
+
+O Município estabelecerá mecanismos para autorizar o funcionamento e para avaliar a qualidade do processo educativo desenvolvido pelas escolas da iniciativa privada.
+
+
+### TÍTULO IV — Da composição dos Níveis Escolares
+
+
+Art. 12.
+
+O Sistema Municipal de Ensino deverá se adequar, a partir da aprovação desta lei, à nova nomenclatura dos níveis da educação escolar.
+
+
+Parágrafo único
+
+Educação básica formada pela educação infantil, ensino fundamental e ensino médio.
+
+
+### TÍTULO V — Da Educação Básica
+
+
+##### Seção I — Das Disposições Gerais
+
+
+Art. 13.
+
+Garantir que a educação básica no Sistema Municipal de Ensino tenha por finalidade desenvolver o educando:
+
+
+I –
+
+assegurando-lhe a fonnação comum indispensável para exercício da cidadania;
+
+
+II –
+
+fornecendo os meios para progredir no trabalho e em estudos posteriores.
+
+
+Art. 14.
+
+Tendo como base o interesse à qualidade do processo de ensino- aprendizagem, o Sistema Municipal de Ensino poderá organizar-se:
+
+
+I –
+
+em anos e séries anuais;
+
+
+II –
+
+períodos semestrais;
+
+
+III –
+
+ciclos;
+
+
+IV –
+
+alternância regular de períodos de estudos;
+
+
+V –
+
+grupos não seriados, com base na idade, na competência e em outros critérios;
+
+
+VI –
+
+com outra forma diversa.
+
+
+§ 1º
+
+Observadas as normas curriculares gerais da educação escolar, as escolas poderão reclassificar os alunos, inclusive quando se tratar de transferências entre estabelecimentos situados no País e no Exterior.
+
+
+§ 2º
+
+O calendário escolar do Sistema Municipal de Ensino deverá ser organizado para adequar-se as peculiaridades locais, inclusive climáticas e econômicas, sem com isso reduzir o número de horas letivas previstos nesta Lei.
+
+
+Art. 15.
+
+A Educação Básica, nos níveis fundamental e médio, deverá obedecer as seguintes regras comuns a todo o país:
+
+
+I –
+
+a carga horária mínima anual será de oitocentas horas aulas;
+
+
+II –
+
+os dias de efetivo trabalho escolar serão no mínimo duzentos dias, excluído o tempo reservado aos exames finais, quando houver;
+
+
+III –
+
+exceto na primeira série ou ano do ensino fundamental, em qualquer série, ano ou etapa a classificação dos alunos pode ser feita:
+
+
+a)
+
+por promoção, para alunos que cursaram, com aproveitamento, a série, ano ou fase anterior, na própria escola;
+
+
+b)
+
+por transferência, para candidatos procedentes de outras escolas;
+
+
+c)
+
+independente de escolarização anterior, mediante avaliação feita pela escola, que defina o grau de desenvolvimento e experiência do candidato a permita sua inscrição na série, ano ou etapa adequada, conforme regulamento;
+
+
+IV –
+
+nos estabelecimentos que adotam a progressão regular por série, ano, o regimento escolar pode admitir formas de progressão parcial, desde que preservada a seqüência do currículo, observada as normas do Sistema Municipal de Ensino;
+
+
+V –
+
+a organização das classes ou tunnas para o ensino de línguas estrangeiras, artes ou outros componentes curricular, poderá ser feito, com aluno de séries ou anos distintos que tenham níveis equivalentes de adiantamento na matéria;
+
+
+VI –
+
+a verificação do rendimento escolar observará os seguintes critérios:
+
+
+a)
+
+avaliação contínua e cumulativa do desempenho do aluno, com prevalência dos aspectos qualitativos sobre os quantitativos e dos resultados ao longo do período sobre os de eventuais provas finais;
+
+
+b)
+
+possibilidade de aceleração de estudos para alunos com atraso escolar;
+
+
+c)
+
+possibilidade de avanço nos cursos, nas séries e anos mediante verificação do aprendizado;
+
+
+d)
+
+aproveitamento de estudos concluídos com êxito;
+
+
+e)
+
+obrigatoriedade de estudos de recuperação, paralelos ao período letivo, para os casos de baixo rendimento escolar, a serem disciplinados pelas instituições de ensino nos seus regimentos;
+
+
+VII –
+
+o controle da freqüência escolar fica a cargo da escola, conforme disposto no seu regimento e normas do Sistema Municipal de Ensino, exigida a freqüência mínima de setenta e cinco por cento do total de horas letivas para aprovação.
+
+
+VIII –
+
+cabe a cada instituição de ensino expedir históricos escolares, declarações de conclusão de série e diplomas ou certificados de conclusão de cursos, com as especificações cabíveis.
+
+
+Art. 16.
+
+Cabe ao Conselho Municipal de Educação, a vista das condições disponíveis e das características locais, estabelecer parâmetros para alcançar relação adequada entre:
+
+
+I –
+
+número de alunos por professor;
+
+
+II –
+
+carga horária;
+
+
+III –
+
+condições materiais da escola;
+
+
+Art. 17.
+
+Os currículos do Ensino Fundamental e Médio deverão ser organizados com duas partes:
+
+
+§ 1º
+
+Uma base comum nacional obrigatória, composta de estudos:
+
+
+I –
+
+da língua portuguesa;
+
+
+II –
+
+da matemática;
+
+
+III –
+
+do mundo físico e natural;
+
+
+IV –
+
+da realidade social e política, especialmente do Brasil e onde o ensino da Historia do Brasil levará em conta as contribuições das diferentes culturas e etnias para a formação do povo brasileiro, especialmente das diretrizes indígena, africana e européia;
+
+
+V –
+
+da arte;
+
+
+VI –
+
+da educação física, facultativa nos cursos noturnos.
+
+
+§ 2º
+
+Uma parte diversificada, a ser complementada, em cada estabelecimento escolar onde os conteúdos devem responder às características locais da sociedade, da cultura, da economia e da clientela.
+
+
+§ 3º
+
+A partir da quinta série do ensino fundamental de oito anos ou do sexto ano do ensino fundamental de nove anos deverá ser incluído, obrigatoriamente, o ensino de pelo menos uma língua estrangeira moderna, cuja escolha ficará a cargo da comunidade escolar, dentro das possibilidades da instituição de ensino.
+
+
+Art. 18.
+
+Serão observadas as seguintes diretrizes para escolha dos conteúdos curriculares da educação básica:
+
+
+I –
+
+difusão dos valores fundamentais relativos:
+
+
+a)
+
+ao interesse social;
+
+
+b)
+
+aos direitos e deveres dos cidadãos;
+
+
+c)
+
+ao respeito ao bem comum;
+
+
+d)
+
+à ordem democrática
+
+
+e)
+
+considerações das condições de escolaridade dos alunos em cada estabelecimento;
+
+
+f)
+
+orientação para o trabalho;
+
+
+g)
+
+promoção do desporto educacional e apoio às práticas desportivas não-formais.
+
+
+Art. 19.
+
+O Sistema Municipal de Ensino promoverá as adaptações necessárias à adequação da Educação Básica, para população rural, às peculiaridades da vida rural, estabelecendo:
+
+
+I –
+
+que os conteúdos curriculares e metodologias estejam compatíveis com as reais necessidades e interesses dos alunos da zona rural;
+
+
+II –
+
+uma organização escolar própria, onde o calendário escolar esteja adequado às fases do ciclo agrícola e às condições climáticas;
+
+
+III –
+
+adequação de todo o currículo à natureza do trabalho na zona rural.
+
+
+##### Seção II — Da Educação Infantil
+
+
+Art. 20.
+
+Estabelecer, no projeto educacional, que a educação infantil tem por finalidade o desenvolvimento integral da criança até cinco anos de idade, em seus aspectos:
+
+
+I –
+
+físico;
+
+
+II –
+
+psicológico;
+
+
+III –
+
+intelectual e social.
+
+
+Art. 21.
+
+Organizar as escolas de educação infantil, de acordo com seu atendimento, em:
+
+
+I –
+
+creches, ou entidades equivalentes, para crianças de até três anos de idade;
+
+
+II –
+
+pré-escolas, para as crianças de quatro e cinco anos de idade.
+
+
+Art. 22.
+
+Na organização do currículo da educação infantil a avaliação far-se-á mediante acompanhamento e registro do desenvolvimento do educando, sem o objetivo de promoção nas etapas deste nível, nem mesmo ao nível subseqüente, para o acesso ao ensino fundamental.
+
+
+##### Seção III — Do Ensino Fundamental
+
+
+Art. 23.
+
+Na organização do ensino fundamental serão consideradas as seguintes especificidades:
+
+
+I –
+
+duração mínima de nove anos, iniciando-se aos seis anos de idade e, admitir-se-á, de oito anos apenas para alunos que se encontrem matriculados no ensino fundamental de oito anos;
+
+
+II –
+
+obrigatório e gratuito na escola pública;
+
+
+III –
+
+tenha por objetivo a formação básica do cidadão mediante:
+
+
+a)
+
+o desenvolvimento da capacidade de aprender, tendo como meios básicos o pleno domínio da leitura, da escrita e do cálculo;
+
+
+b)
+
+a compreensão do ambiente natural e social, do sistema político, da tecnologia, das artes e dos valores em que fundamenta a sociedade;
+
+
+c)
+
+o desenvolvimento da capacidade de aprendizagem, tendo em vista a aquisição de conhecimentos e habilidades e a formação de atitudes e valores;
+
+
+d)
+
+o fortalecimento dos vínculos de família, dos laços de solidariedade humana e de tolerância recíproca em que se assenta a vida social.
+
+
+§ 1º
+
+E facultado ao Sistema Municipal de Ensino desdobrar o ensino fundamental em ciclos.
+
+
+§ 2º
+
+Observadas as normas do Sistema Municipal de Ensino os estabelecimentos de ensino que utilizam progressão regular por série e por ano podem adotar no ensino fundamental o regime de progressão continuada, sem prejuízo da avaliação do processo de ensino-aprendizagem.
+
+
+§ 3º
+
+O ensino fundamental regular será ministrado em língua portuguesa.
+
+
+§ 4º
+
+O ensino fundamental será presencial, podendo ser usado o ensino à distância apenas como complementação da aprendizagem ou em situações emergenciais.
+
+
+§ 5º
+
+Na organização do ensino fundamental, será oferecido como parte integrante da formação básica do cidadão o ensino religioso observado:
+
+
+I –
+
+disciplina dos horários normais das escolas, de matricula facultativa;
+
+
+II –
+
+assegurado o respeito à diversidade cultural religiosa do Brasil, vedadas quaisquer formas de proselitismo.
+
+
+§ 6º
+
+Os procedimentos para definição de conteúdos do ensino religioso serão regulamentados em ato do Conselho Municipal de Educação, ouvindo entidade civil, constituída pelas diferentes denominações religiosas.
+
+
+§ 7º
+
+O Conselho Municipal de Educação estabelecerá normas para habilitação e admissão dos professores para a disciplina do ensino religioso.
+
+
+Art. 24.
+
+A jornada escolar no ensino fundamental será de no mínimo quatro horas de trabalho efetivo em sala de aula.
+
+
+Parágrafo único
+
+Ressalvados os casos do ensino noturno e, alternativas de organização respeitadas as normas educacionais comuns e as do Sistema Municipal de Ensino.
+
+
+Art. 25.
+
+A partir da vigência desta lei, conforme regulamento do Conselho Municipal de Educação, o Município adotará estratégias para progressiva ampliação da jornada escolar objetivando atingir a oferta do ensino fundamental em tempo integral.
+
+
+##### Seção IV — Do Ensino Médio
+
+
+Art. 26.
+
+O ensino médio com duração mínima de três anos quando oferecido pelo Município, ficará sujeito no que couber, as normas do Conselho Estadual de Educação.
+
+
+##### Seção V — Da Educação de Jovens e Adultos
+
+
+Art. 27.
+
+Aos jovens e adultos, que não puderam efetuar os estudos na idade regular, será assegurado gratuitamente, oportunidades educacionais apropriadas, mediante cursos e, exames, observadas:
+
+
+I –
+
+as características dos alunos;
+
+
+II –
+
+seus interesses condições de vida e de trabalho.
+
+
+Parágrafo único
+
+O Poder Executivo Municipal viabilizará e estimulará o acesso e a permanência do trabalhador na escola, mediante ações integradas e complementares entre si.
+
+
+Art. 28.
+
+Os cursos e exames, supletivos, oferecidos pelo Sistema Municipal de Ensino, compreenderão a base nacional comum do currículo, habilitando o aluno a prosseguir seus estudos em caráter regular.
+
+
+§ 1º
+
+Os exames a que se refere este artigo realizar-se-ão no nível de conclusão do ensino fundamental, para os maiores de quinze anos.
+
+
+§ 2º
+
+Os conhecimentos e habilidades adquiridos pelos educandos por meio informais serão aferidos e reconhecidos mediante exames.
+
+
+##### Seção VI — Da Educação Profissional
+
+
+Art. 29.
+
+Garantir possibilidades de acesso do jovem ou adulto, trabalhador ou aluno à educação profissional, integrada às diferentes formas de educação, ao trabalho, à ciência e as tecnologia, conduzindo ao permanente desenvolvimento de aptidões para a vida produtiva.
+
+
+Art. 30.
+
+A organização da educação profissional será regulamentada em ato do Conselho Municipal de Educação, de forma a garantir sua articulação com o ensino regular ou por diferentes estratégias de educação continuada;
+
+
+##### Seção VII — Da Educação Especial
+
+
+Art. 31.
+
+Educação especial, para os efeitos do cumprimento desta lei, é a modalidade de educação escolar, oferecida preferencialmente na rede regular de ensino, para educandos portadores de necessidades especiais.
+
+
+Art. 32.
+
+Como dever constitucional do Município, o atendimento do educando com necessidades educacionais especiais tem início durante a educação infantil, na faixa etária de zero a cinco anos de idade.
+
+
+§ 1º
+
+Haverá, quando necessário, serviços de apoio especializados, na escola regular para atender as peculiaridades de aluno portador de necessidades especiais.
+
+
+§ 2º
+
+O atendimento poderá ser feito em classes, escolas ou serviços especializados, quando em função das condições específicas dos alunos, não for possível a sua integração nas classes comuns de ensino regular.
+
+
+Art. 33.
+
+Para atender às necessidades especiais do aluno de ensino especial será assegurado na forma de regulamento do Conselho Municipal de Educação:
+
+
+I –
+
+currículo, métodos, técnicas, recursos educativos e organizações específicas;
+
+
+II –
+
+terminalidade específica para aqueles que não puderem atingir o nível exigido para a conclusão do ensino fundamental;
+
+
+III –
+
+aceleração para concluir em menor tempo o programa escolar para superdotados;
+
+
+IV –
+
+professor com especialização adequada em nível médio ou superior, para atendimento especializado;
+
+
+V –
+
+professor do ensino regular capacitados para a integração desses educandos nas classes comuns;
+
+
+VI –
+
+educação especial para o trabalho, visando à sua efetiva integração na vida em sociedade, inclusive condições adequadas para os que não revelarem capacidade de inserção no trabalho competitivo, mediante articulação com os órgãos oficiais afins, bem como para aqueles que apresentarem uma habilidade superior nas áreas artísticas, intelectual ou psicomotora.
+
+
+VII –
+
+acesso igualitário aos benefícios dos programas sociais suplementares disponíveis para o respectivo nível do ensino regular.
+
+
+Art. 34.
+
+O Conselho Municipal de Educação estabelecerá através de normas específicas critérios de caracterização das instituições privadas sem fins lucrativos, especializadas e com atuação exclusiva em educação especial, para fins de apoio técnico e financeiro pelo Município.
+
+
+Parágrafo único
+
+Os alunos com necessidades especiais devem ser atendidos, preferencialmente, na rede pública regular de ensino, independente do apoio às instituições previstas no caput do artigo.
+
+
+### TÍTULO VI — Do Regime de Colaboração com a União e o Estado
+
+
+Art. 35.
+
+Caberá ao Município colaborar com a União:
+
+
+I –
+
+na elaboração do Plano Nacional de Educação;
+
+
+II –
+
+recebendo assistência técnica e financeira para o desenvolvimento do sistema de ensino e o atendimento prioritário à escolaridade obrigatória;
+
+
+III –
+
+no estabelecimento de competências e diretrizes para a educação infantil, o ensino fundamental e o ensino médio, que nortearão os currículos e seus conteúdos mínimos, de modo a assegurar formação básica comum;
+
+
+IV –
+
+na construção de um processo nacional de avaliação do rendimento escolar no ensino fundamental, objetivando a definição de prioridades e a melhoria da qualidade do ensino;
+
+
+V –
+
+oferecendo as informações e dados necessários à União, sobre os estabelecimentos de ensino e órgãos educacionais do sistema municipal de ensino.
+
+
+Art. 36.
+
+Compete ao Município colaborar com o Estado na definição de formas de colaboração na oferta do ensino fundamental, as quais devem assegurar a distribuição proporcional das responsabilidades, de acordo com a população a ser atendida e os recursos financeiros disponíveis em cada uma dessas esferas do poder público;
+
+
+### TÍTULO VII — Da Organização do Sistema Municipal de Ensino
+
+
+##### Seção I — Do Sistema Municipal de Ensino
+
+
+Art. 37.
+
+O Sistema de Ensino do Município de Guadalupe compreende:
+
+
+I –
+
+a rede municipal de ensino composta pelas instituições públicas do Ensino Fundamental e de Educação Infantil criadas, mantidas e administradas pelo Poder Público Municipal;
+
+
+II –
+
+a rede Privada, integrada pelas instituições de Educação Infantil, criadas e mantidas pela iniciativa privada, tanto as de caráter particulares, comunitárias, confessionais e filantrópicas;
+
+
+a)
+
+particulares em sentido restrito, assim entendidas as que são instituídas e mantidas por uma ou mais pessoas físicas ou jurídicas de direito privado que não apresentem as características descritas abaixo:
+
+
+b)
+
+comunitárias assim entendidas as que são instituídas por grupos de pessoas físicas ou por uma ou mais pessoas jurídicas, inclusive cooperativas de professores e alunos que incluam na sua entidade mantenedora representantes da comunidade;
+
+
+c)
+
+confessionais assim entendidas as que são instituídas por grupos de pessoas físicas ou por umas ou mais pessoas jurídicas que atendem a orientação confessional e ideologia especificas e ao disposto na alínea anterior;
+
+
+d)
+
+filantrópicas, na forma da lei.
+
+
+III –
+
+a Secretaria Municipal de Educação, como órgão administrativo;
+
+
+IV –
+
+o Conselho Municipal de Educação, como órgão colegiado, na forma da Lei;
+
+
+V –
+
+o Conselho Municipal de Acompanhamento e Controle Social de Fundo Vinculado a Educação;
+
+
+VI –
+
+o Conselho Municipal de Alimentação Escolar.
+
+
+VII –
+
+outros órgãos e instituições necessárias ao cumprimento das incumbências do Município com a educação, na forma da lei.
+
+
+###### Subseção I — Da Secretaria Municipal de Educação
+
+
+Art. 38.
+
+A Secretaria Municipal de Educação é o Orgão da Administração Municipal que, além das atribuições conferidas em legislação própria, possui as seguintes atribuições:
+
+
+I –
+
+organizar, manter e desenvolver os órgãos e instituições oficiais do Sistema Municipal de Ensino, integrando-os às políticas e planos educacionais da União e do Estado;
+
+
+II –
+
+exercer a ação re-distributiva em relação às escolas públicas municipais, considerando suas propostas pedagógicas, seus planos de atividades e seus regimentos;
+
+
+III –
+
+supervisionar os estabelecimentos escolares do seu Sistema Municipal de Ensino;
+
+
+IV –
+
+oferecer a Educação Infantil em creche e pré-escolas, e, com prioridade o Ensino Fundamental permitido a atuação em outros níveis de ensino somente quando estiverem atendidas plenamente as necessidades de sua área de competência e com recursos acima dos percentuais vinculados pela Constituição Federal à manutenção e Desenvolvimento do Ensino;
+
+
+V –
+
+velar pela observância da legislação educacional vigente e pelo cumprimento das normas expedidas pelo Conselho Nacional de Educação, e pelo Conselho Municipal de Ensino;
+
+
+VI –
+
+orientar e supervisionar as instituições privadas integrantes do Sistema Municipal de Ensino;
+
+
+VII –
+
+participar da elaboração, acompanhar a execução e avaliar o Plano Municipal de Educação, Lei de Diretrizes Orçamentárias e o Orçamento Municipal da Educação;
+
+
+VIII –
+
+alcançar relação adequada entre o numero de alunos e o professor, a carga horária e as condições materiais do estabelecimento de ensino.
+
+
+IX –
+
+exercer outras funções que lhe forem conferidas
+
+
+###### Subseção II — Dos Estabelecimentos de Ensino
+
+
+Art. 39.
+
+Os estabelecimentos de ensino, respeitadas as normas educacionais comuns e as do Sistema Municipal de Ensino, terão as seguintes competências na organização da educação escolar:
+
+
+I –
+
+garantir a elaboração e execução de suas propostas pedagógicas;
+
+
+II –
+
+administrar seu pessoal e seus recursos materiais e financeiros;
+
+
+III –
+
+assegurar o cumprimento dos dias letivos e horas-aula estabelecidas;
+
+
+IV –
+
+promover meios para recuperação dos alunos de menor rendimento;
+
+
+V –
+
+a escola, com base em normas curriculares gerais, poderá reclassificar os alunos, inclusive quando se tratar de transferências entre estabelecimentos situados no país e no exterior;
+
+
+VI –
+
+velar pelo cumprimento do plano de trabalho de cada docente;
+
+
+VII –
+
+articular-se com as famílias e a comunidade, criando processos de integração da sociedade com a escola;
+
+
+VIII –
+
+
+IX –
+
+o controle da freqüência escolar fica a cargo da escola conforme disposto no seu regimento e nas normas do Conselho Municipal de Educação, exigida a freqüência mínima de setenta e cinco por cento do total de horas letivas para aprovação.
+
+
+Art. 40.
+
+As escolas da rede municipal com os conselhos escolares devidamente constituídos, tanto as de Educação Infantil e as de Ensino Fundamental, constituirão periodicamente seu projeto político-pedagógico, com observância nos parâmetros da política educacional do Município e de progressivos graus de autonomia pedagógica, administrativa e de gestão financeira, e elaborarão regimento escolar com orientação e assessoramento da Secretaria Municipal de Educação.
+
+
+###### Subseção III — Dos Docentes
+
+
+Art. 41.
+
+É dever dos Docentes na organização da Educação Municipal:
+
+
+I –
+
+participar da elaboração dã proposta pedagógica do estabelecimento de ensino;
+
+
+II –
+
+elaborar e cumprir plano de trabalho, segundo a proposta pedagógica do estabelecimento de ensino;
+
+
+III –
+
+zelar pela aprendizagem dos alunos;
+
+
+IV –
+
+estabelecer estratégias de recuperação para alunos de menor rendimento;
+
+
+V –
+
+ministrar os dias letivos e horas - aula estabelecidas, além de participar integralmente dos períodos dedicados ao planejamento, à avaliação e ao desenvolvimento profissional;
+
+
+VI –
+
+colaborar com as atividades de articulação da escola com as famílias e a comunidade.
+
+
+### TÍTULO VIII — Da Gestão Democrática das Escolas
+
+
+Art. 42.
+
+As normas gerais da gestão democrática das escolas do Sistema Municipal de Ensino deverão garantir o cumprimento dos seguintes princípios:
+
+
+I –
+
+participação dos profissionais da educação na elaboração do projeto pedagógico da escola;
+
+
+II –
+
+participação da comunidade escolar e local em conselhos escolares ou equivalentes;
+
+
+III –
+
+observado as normas gerais de direito financeiro público, assegurar as unidades escolares públicas de educação básica, progressivos graus de autonomia, nos aspectos de gestão:
+
+
+a)
+
+pedagógica;
+
+
+b)
+
+administrativa;
+
+
+c)
+
+financeira.
+
+
+### TÍTULO IX — Dos Profissionais da Educação
+
+
+Art. 43.
+
+O nível de formação docente exigido para atuação dos professores na educação básica é em nível superior, em cursos de licenciatura, de graduação plena, em universidades e instituições superiores de educação, admitir, como formação mínima para o exercício do magistério na educação infantil e nas quatro primeiras séries do ensino fundamental, a em nível médio, na modalidade normal.
+
+
+§ 1º
+
+A partir do quinto ano da aprovação desta lei, para os profissionais de educação que atuam nas funções de magistério de administração, supervisão, planejamento, inspeção e orientação educacional exigir-se-á a graduação em pedagogia ou em nível de pós-graduação.
+
+
+§ 2º
+
+A partir do terceiro ano da aprovação desta lei, admitir no Sistema Municipal de Ensino, somente professores habilitados em nível superior.
+
+
+Art. 44.
+
+O Sistema Municipal de Ensino promoverá a valorização dos profissionais da educação, assegurando-lhe, inclusive nos termos do plano de carreira do magistério:
+
+
+I –
+
+que o ingresso no magistério será exclusivamente por concurso público de prova e títulos;
+
+
+II –
+
+aperfeiçoamento profissional continuado, inclusive com licenciamento periódico remunerado para esse fim, com base em regulamento;
+
+
+III –
+
+piso salarial profissional na forma da lei;
+
+
+IV –
+
+progressão funcional baseada na titulação ou habilitação e na avaliação do desempenho;
+
+
+V –
+
+condições adequadas de trabalho, que compreende padrões mínimos de funcionamento das escolas, estabelecidas em regulamento próprio.
+
+
+§ 1º
+
+A experiência docente é pré-requisito para o exercício profissional de quaisquer outras funções de magistério, nos termos do regulamento do Conselho Municipal de Educação observada a legislação educacional federal.
+
+
+§ 2º
+
+Denominam-se como funções de magistérios as exercidas por professor e especialista em educação no desempenho de atividades educativas, quando exercidas no âmbito da educação básica em seus diversos níveis e modalidades incluídas, além do exercício da docência, as de administração, planejamento, inspeção, supervisão e orientação educacional.
+
+
+### TÍTULO X — Dos Recursos Financeiros
+
+
+Art. 45.
+
+Serão recursos públicos destinados à educação os definidos em dispositivos legais pertinentes.
+
+
+Art. 46.
+
+A quantidade de recursos anuais a serem aplicados, pelo Município, na educação municipal será nunca menos de vinte e cinco por cento, da receita resultante de impostos e provenientes de transferências.
+
+
+§ 1º
+
+A aplicação destes recursos será feita na manutenção e desenvolvimento do ensino público.
+
+
+§ 2º
+
+A parcela da arrecadação de impostos transferida pela União e o Estado ao Município, não será considerada, para efeito do calculo previsto neste artigo, receita do governo que a transferir.
+
+
+§ 3º
+
+Serão consideradas excluídas das receitas de impostos mencionadas neste artigo as operações de crédito por antecipação de receita orçamentária de impostos.
+
+
+§ 4º
+
+Para fixação inicial dos valores correspondentes aos mínimos estatuídos neste artigo, será considerada, quando for o caso, por lei que autorizar a abertura de créditos adicional, com base no eventual excesso de arrecadação;
+
+
+§ 5º
+
+As diferenças entre a receita e a despesa prevista e as efetivamente realizadas, que resultam no não atendimento dos percentuais mínimos obrigatórios, serão apuradas e corrigidas a cada trimestre do exercício financeiro;
+
+
+Art. 47.
+
+Considerar-se-ão como de manutenção e desenvolvimento do ensino as despesas realizadas com vistas à consecução dos objetivos básicos das instituições educacionais dos níveis e modalidades de ensino de Educação Infantil e Ensino Fundamental, compreendendo as que se destinam a:
+
+
+I –
+
+remuneração e aperfeiçoamento do pessoal docente e demais profissional da educação;
+
+
+II –
+
+aquisição, manutenção, construção e conservação de instalações e equipamentos necessários ao ensino;
+
+
+III –
+
+uso e manutenção de bens e serviços vinculados ao ensino;
+
+
+IV –
+
+levantamentos estatísticos, estudos e pesquisas visando precipuamente ao aprimoramento da qualidade e à expansão do ensino;
+
+
+V –
+
+realização de atividades-meios necessárias ao funcionamento do sistema de ensino;
+
+
+VI –
+
+concessão de bolsas de estudos a alunos de escola pública municipal conforme proposto em regulamento do Conselho Municipal de Educação;
+
+
+VII –
+
+amortização e custeio de operação de credito destinada a atender ao disposto nos incisos deste artigo;
+
+
+VIII –
+
+aquisição de material didático-escolar;
+
+
+IX –
+
+manutenção de programa de transporte escolar.
+
+
+Art. 48.
+
+Não constituirão despesas de manutenção e desenvolvimento do ensino aquelas realizadas com:
+
+
+I –
+
+pesquisa, quando não vinculada às instituições de ensino, ou, quando efetivada fora do sistema de ensino, que não vise precipuamente, ao aprimoramento de sua qualidade ou à sua expansão;
+
+
+II –
+
+subvenção a instituições públicas ou privadas de caráter assistencial, desportiva ou cultural;
+
+
+III –
+
+formação de quadros especiais para a administração pública seja militar ou civil;
+
+
+IV –
+
+programas suplementares de alimentação, assistência médico- odontológica, farmacêutica e psicológica, e outras fonnas de assistência social;
+
+
+V –
+
+obras de infra-estrutura, ainda que realizadas para beneficiar direta ou indiretamente a rede escolar;
+
+
+VI –
+
+pessoal docente e demais trabalhador da educação, quando em desvio de função ou atividade alheia à manutenção e desenvolvimento do ensino.
+
+
+Art. 49.
+
+O Município colaborará com a União no estabelecimento do padrão mínimo de oportunidades educacionais para o ensino fundamental, nos termos de regulamento do Conselho Municipal de Educação, baseado no cálculo do custo mínimo por aluno, capaz de assegurar ensino de qualidade.
+
+
+Parágrafo único
+
+O custo mínimo, aluno ano, de que trata este artigo será calculado pela União ao final de cada ano, com validade para o ano subseqüente.
+
+
+Art. 50.
+
+Para os efeitos desta lei é considerada como capacidade de atendimento do Município, a razão entre os recursos de uso constitucionalmente obrigatório na manutenção e desenvolvimento do ensino e o custo anual do aluno, relativo ao padrão mínimo de qualidade.
+
+
+Art. 51.
+
+Os estabelecimentos de ensino do Município poderão receber transferência direta de recursos da União, conforme regulamento.
+
+
+Art. 52.
+
+Os recursos públicos do Município só poderão ser aplicados em escolas não públicas, comunitárias, confessionais ou filantrópicas que:
+
+
+I –
+
+comprove finalidade não-lucrativa;
+
+
+II –
+
+não distribua resultados, dividendos, bonificações, participação ou parcela de seu patrimônio sob nenhuma fonna ou pretexto;
+
+
+III –
+
+apliquem seus excedentes financeiros em educação;
+
+
+IV –
+
+assegurem a destinação de seu patrimônio à outra escola comunitária, filantrópica ou confessional, ou ao Poder Público, no caso de encerramento de suas atividades;
+
+
+V –
+
+prestem contas ao Poder Público dos recursos recebidos;
+
+
+§ 1º
+
+Os recursos públicos, conforme regulamento do Conselho Municipal de Educação, poderão ser destinados a bolsas de estudo somente quando houver falta de vagas e cursos regulares da rede pública de domicilio do educando e estes demonstrem insuficiência de recursos.
+
+
+§ 2º
+
+O Município fica obrigado a investir prioritariamente na expansão da sua rede local.
+
+
+### TÍTULO XI
+
+
+Art. 53.
+
+O Sistema Municipal de Ensino se submete as demais Diretrizes e Normas Comuns Nacionais da Educação e emanadas do Conselho Nacional de Educação no que couber no âmbito das incumbências do Município com educação.
+
+
+Art. 54.
+
+O Município incentivará, conforme normas estabelecidas pelo Conselho municipal de Educação, o desenvolvimento e a veiculação de programas de ensino a distância, em todos os níveis e modalidades de ensino, e de educação continuada.
+
+
+Art. 55.
+
+O Sistema Municipal de Ensino poderá desenvolver cursos ou organizar instituições de ensino experimentais desde que obedecidas as disposições educacionais legais.
+
+
+Art. 56.
+
+O Plano Municipal de Educação, elaborado com a participação dos segmentos da educação e da sociedade, parte integrante do Sistema Municipal de Ensino, deverá estar em sintonia com os Planos Nacional e Estadual de Educação, observará as diretrizes e bases da educação nacional e será submetido à aprovação do Legislativo Municipal.
+
+
+Art. 57.
+
+O Conselho Municipal de Educação participará das discussões e elaboração do Plano Municipal de Educação, cabendo-lhe juntamente com a Secretaria Municipal de Educação, a supervisão e avaliação do processo de execução, especialmente zelando pela observância das normas legais e participação da comunidade escolar.
+
+
+Art. 58.
+
+O Poder Público Municipal deverá recensear os educandos no ensino fundamental, com especial atenção para os grupos de seis a quatorze e de quinze a dezesseis anos de idade.
+
+
+Art. 59.
+
+O Município, a partir da aprovação desta Lei, deverá:
+
+
+I –
+
+matricular todos educandos a partir dos seis anos, no ensino fundamental;
+
+
+II –
+
+prover cursos presenciais ou à distância aos jovens e adultos insuficientes escolarizados;
+
+
+III –
+
+realizar programas de capacitação para todos os professores em exercício, utilizando também, para isso os recursos da educação à distância;
+
+
+IV –
+
+integrar todos os estabelecimentos de ensino fundamental ao sistema nacional de avaliação do rendimento escolar.
+
+
+Art. 60.
+
+O Poder Executivo Municipal no prazo de seis meses, contados da publicação desta lei, estruturará a Secretaria Municipal de Educação com vistas à institucionalização do previsto nesta lei.
+
+
+Art. 61.
+
+As escolas integrantes do Sistema Municipal de Ensino se adaptarão aos dispositivos desta lei no prazo de um ano, a partir da data de sua publicação.
+
+
+Art. 62.
+
+O projeto político pedagógico e o regimento escolar, além das disposições legais sobre a educação escolar, constituir-se-ão no referencial para a autorização de funcionamento e avaliação de qualidade de ensino, e para fiscalização das atividades dos estabelecimentos de ensino, de competência do Conselho Municipal de Educação e da Secretaria Municipal de Educação.
+
+
+§ 1º
+
+As escolas, mantidas pela iniciativa privada, que oferecerem Educação Infantil, deverão no prazo de um ano, proceder ao seu credenciamento e terão seus cursos autorizados segundo diretrizes do Conselho Municipal de Educação, sem o que não estarão aptas a obter alvará de funcionamento.
+
+
+§ 2º
+
+Todos os estabelecimentos escolares de Educação Infantil e Ensino Fundamental integrados ao Sistema Municipal de Ensino serão fiscalizados por órgão especifico da Secretaria Municipal de Educação, tendo como referencia a legislação educacional federal, normas do Conselho Nacional e Municipal de Educação e as propostas no projeto político-pedagógico e regimento de cada escola.
+
+
+Art. 63.
+
+O Conselho Municipal de Alimentação Escolar e o Conselho Municipal de Acompanhamento e Controle Social de fundo vinculado à educação têm o seu funcionamento e regulamento em legislação especifica.
+
+
+Art. 64.
+
+As questões suscitadas na transição entre o regime anterior e o que se institui nesta lei serão resolvidas em normas do Conselho Municipal de Educação, observado a legislação educacional no que couber.
+
+
+Art. 65.
+
+Esta lei entra em vigor no data de sua publicação, revogadas as disposições em contrário.
+
+
+Art. 66.
+
+Revogam-se as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Guadalupe, Estado do Piauí, em dois de dezembro de dois mil e dez.  
+  
+Wallem Rodrigues Mousinho  
+Prefeito Municipal
+

@@ -1,0 +1,55 @@
+{
+  "combinacoes": [
+    {
+      "motor": "CommonMark",
+      "parser_HTML": "lxml",
+      "caracteres_tachados": 71055,
+      "sha256_pares_posicao_caractere": "0c3b030525ebe1608059da84c97f8c1b4870c6ad1af17f7562d2996cb7d1bac6",
+      "texto_completo_e_espacos_identicos": true,
+      "ancestralidade_negrito_links_listas_identica": true,
+      "escopo_tachado_por_caractere_e_posicao_identico": true,
+      "sha256_visivel_sem_espacos": "5adb346b7d9ae16109423660bcb160fc2769b1b379425e36795a429ae1e6b7f0"
+    },
+    {
+      "motor": "CommonMark",
+      "parser_HTML": "HTML5lib",
+      "caracteres_tachados": 71055,
+      "sha256_pares_posicao_caractere": "0c3b030525ebe1608059da84c97f8c1b4870c6ad1af17f7562d2996cb7d1bac6",
+      "texto_completo_e_espacos_identicos": true,
+      "ancestralidade_negrito_links_listas_identica": true,
+      "escopo_tachado_por_caractere_e_posicao_identico": true,
+      "sha256_visivel_sem_espacos": "5adb346b7d9ae16109423660bcb160fc2769b1b379425e36795a429ae1e6b7f0"
+    },
+    {
+      "motor": "GFM",
+      "parser_HTML": "lxml",
+      "caracteres_tachados": 71055,
+      "sha256_pares_posicao_caractere": "0c3b030525ebe1608059da84c97f8c1b4870c6ad1af17f7562d2996cb7d1bac6",
+      "texto_completo_e_espacos_identicos": true,
+      "ancestralidade_negrito_links_listas_identica": true,
+      "escopo_tachado_por_caractere_e_posicao_identico": true,
+      "sha256_visivel_sem_espacos": "5adb346b7d9ae16109423660bcb160fc2769b1b379425e36795a429ae1e6b7f0"
+    },
+    {
+      "motor": "GFM",
+      "parser_HTML": "HTML5lib",
+      "caracteres_tachados": 71055,
+      "sha256_pares_posicao_caractere": "0c3b030525ebe1608059da84c97f8c1b4870c6ad1af17f7562d2996cb7d1bac6",
+      "texto_completo_e_espacos_identicos": true,
+      "ancestralidade_negrito_links_listas_identica": true,
+      "escopo_tachado_por_caractere_e_posicao_identico": true,
+      "sha256_visivel_sem_espacos": "5adb346b7d9ae16109423660bcb160fc2769b1b379425e36795a429ae1e6b7f0"
+    }
+  ],
+  "GFM": {
+    "modulo": "/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/marked/lib/marked.esm.js",
+    "sha256": "0b4487359ce6b85108708e7a532e1242a27f4718241e7b2de109ac6cd307d2dc",
+    "versao": "17.0.5",
+    "Node": "/opt/homebrew/bin/node",
+    "Node_versao": "v26.12.0"
+  },
+  "HTML5lib_versao": "1.1",
+  "CommonMark_versao": "4.0.0",
+  "rede": false,
+  "comparacao": "Todos os caracteres/espaços e ancestralidades antigos/novos comparados; cada caractere tachado compara posição não branca e código Unicode esperado. Nenhuma equivalência decimal, de sinal ou pontuação foi aplicada."
+}

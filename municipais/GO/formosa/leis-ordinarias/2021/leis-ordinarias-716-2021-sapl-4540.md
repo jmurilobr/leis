@@ -1,0 +1,136 @@
+---
+titulo: "Lei Ordinária nº 716, de 07 de dezembro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "716"
+data: "2021-12-07"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/4540"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1422/text"
+sha256_fonte: "fb6aa29c1b74105a77e58e211bcd6e36cc10cedf5dc8040da3ea36952c7508ae"
+sha256_texto: "4b87c2ff34f2165dd458a7cf937121b8d364a67f210a1459d161144805949c30"
+capturado_em_fonte: "2026-10-28T11:20:51.299650-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 716, de 07 de dezembro de 2021
+
+Institui a “Semana Municipal da Puericultura de Formosa.
+
+
+Projeto de Lei Ordinária n.º 153/21, de autoria do Vereador João Batista Cordeiro Mororo Junior, aprovado em 5 de novembro de 2021.
+
+O PREFEITO MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais, conferidas pela Constituição da República e Lei Municipal nº. 01/90, de 05 de abril de 1.990 – Lei Orgânica Municipal - LOM, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Esta Lei institui no âmbito do Município de Formosa a “Semana Municipal da Puericultura”, a ser comemorada na primeira semana do mês de outubro. Com a finalidade de valorizar e debater os cuidados nos primeiros dois anos de vida da criança.
+
+
+Parágrafo único.
+
+Considera-se puericultura, o acompanhamento periódico e sistemático das crianças no intuito de avaliar o seu crescimento e desenvolvimento, vacinação, bem como, orientar aos pais e/ou cuidadores como prevenir acidentes, orientações sobre aleitamento materno e orientação alimentar por ocasião do desmame, higiene individual e ambiental, tal como identificar de maneira precoce os agravos, objetivando à intervenção concreta e oportuna.
+
+
+Art. 2º.
+
+Os eventos comemorativos da “Semana Municipal da Puericultura” poderão constituir-se de atividades educativas, palestras e discussões sobre temas referentes ao contexto.
+
+
+§ 1º
+
+Os assuntos a serem abordados serão:
+
+
+I –
+
+vacinação;
+
+
+II –
+
+marcos do desenvolvimento;
+
+
+III –
+
+a importância do teste do pezinho;
+
+
+IV –
+
+aleitamento materno;
+
+
+V –
+
+formação de vínculo;
+
+
+VI –
+
+estimulação do bebê.
+
+
+§ 2º
+
+A execução das atividades elencadas no § 1º serão realizadas através de:
+
+
+I –
+
+organização de oficinas;
+
+
+II –
+
+atividades lúdicas e culturais;
+
+
+III –
+
+com a interação de médicos pediatras; coordenadores da Unidade de Pronto Atendimento e das Unidades Básicas de Saúde, APAE, APPAF, ADFFOR, CMAI e da comunidade.
+
+
+§ 3º
+
+Constitui objetivo da execução das atividades a promoção da reflexão sobre a importância e responsabilidade dos pais ou responsáveis pelo infante.
+
+
+Art. 3º.
+
+A “Semana Municipal da Puericultura” poderá integrar o calendário de eventos do Município de Formosa.
+
+
+Art. 4º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 7 de dezembro de 2021.
+
+Gustavo Marques de Oliveira
+
+Prefeito Municipal
+
+Afixado no "placard" de publicidade.
+
+E encadernado em livro próprio.
+
+Data supra
+
+......................................................................................................
+
+Iany Macêdo Troncha
+
+Superint. Executiva de Documentação e Legislação
+
+Decreto nº. 21, de 04 de janeiro de 2021.
+

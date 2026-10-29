@@ -1,0 +1,73 @@
+---
+titulo: "Lei Ordinária nº 484, de 27 de junho de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "484"
+data: "2018-06-27"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/3463"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/374/text"
+sha256_fonte: "f755ce91f515c02be40343ada04ebe2413e7f79a2c7700e507e574e12c593453"
+sha256_texto: "b7b9386123145694693bfad241ae15f4432e8cd6ce8728a3d215284487478ee8"
+capturado_em_fonte: "2026-10-28T11:29:56.499765-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 484, de 27 de junho de 2018
+
+Autoriza desafetação de áreas de terreno de uso comum do povo, e posterior alienação dos bens imóveis, por licitação, na forma que especifica, e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE FORMOSA – GOIÁS, no uso da atribuição legal, que lhe confere o art. 69, inciso III, da Lei Municipal nº. 01/90, de 05 de abril de 1.990 – Lei Orgânica Municipal - LOM, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Ficam desafetadas as áreas abaixo discriminadas passando a integrar o patrimônio disponível do Município de Formosa, bem como, fica o Chefe do Poder Executivo autorizado a alienar, através de licitação, mediante avaliação prévia, nos termos do artigo 17, inciso I, da Lei n.º 8.666/93 de 21/06/1993, e suas posteriores alterações os seguintes bens imóveis localizados no loteamento denominado Parque Laguna II, sendo respectivamente lote 07, da Quadra 20 e o lote 11 da Quadra 21, nesta Cidade:
+
+
+I –
+
+uma área de terreno identificada como lote 07, Quadra 20, do Loteamento denominado Parque Laguna II, localizado nesta Cidade, com os seguintes limites e confrontações: Frente para o Sul: confrontando com a Rua Antônio Jonas de Castro, medindo 120,00 m (cento e vinte metros); Fundo para o Norte: confrontando com os lotes 01, 02, 03, 04, 05 e 06, medindo 120,00 m (cento e vinte metros); Lado Direito para o Oeste: confrontando com a Rua João Abadio de Oliveira, medindo 10,00 m (dez metros); Lado Esquerdo para o Leste: confrontando com a Rua Tasso Dutra, medindo 10,00 m (dez metros), perfazendo uma área total de 1.200,00 m² (mil e duzentos metros quadrados);
+
+
+II –
+
+uma área de terreno identificada como lote 11, Quadra 21, do Loteamento denominado Parque Laguna II, localizado nesta Cidade, com os seguintes limites e confrontações: Frente para o Sul: confrontando com a Rua Antônio Jonas de Castro, medindo 150,00 m (cento e cinquenta metros); Fundo para o Norte: confrontando com os lotes 01, 02, 03, 04, 05, 06, 07, 08, 09 e 10 medindo 150,00 m (cento e cinquenta metros); Lado Direito para o Oeste: confrontando com a Rua Tasso Dutra, medindo 10,00 m (dez metros); Lado Esquerdo para o Leste: confrontando com a Rua Rosário Tavares dos Santos, medindo 10,00 m (dez metros), perfazendo uma área total de 1.500,00 m² (um mil e quinhentos metros quadrados).
+
+
+Art. 2º.
+
+Nos termos do disposto na citada Lei nº 8.666/93, o valor da alienação será fixado previamente em LAUDO elaborado pela Comissão de Avaliação de Imóveis, nomeada nos termos do Decreto n.º 1.680, de 3 de abril de 2018, por metro quadrado, sendo que o referido valor poderá ser parcelado até dezembro de 2020.
+
+
+Parágrafo único.
+
+O licitante que desejar efetuar o pagamento à vista, terá o desconto de 10% (dez por cento) sobre o valor dos imóveis.
+
+
+Art. 3º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 27 de junho de 2018.
+
+Ernesto Roller
+
+Prefeito Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra  
+....................................................................  
+Iany Macêdo Troncha  
+Assessora Jurídica  
+Decreto nº. 054/17, de 06 de janeiro de 2017
+

@@ -1,0 +1,246 @@
+---
+titulo: "Lei Ordinária nº 2.235, de 23 de junho de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2235"
+data: "2022-06-23"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/493"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/29/text"
+sha256_fonte: "239d09cc58f71338c9caf59e9ed3b5cc8861923cad7d29fecba17fe584a1df90"
+sha256_texto: "2081c4cc9177367047be63752ceaa9ff37d9c6caaa0ce179b1f8e6aad8c4f988"
+capturado_em_fonte: "2026-10-28T13:12:54.535840-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.235, de 23 de junho de 2022
+
+Autoriza o Poder Executivo a instituir o Programa Municipal do Primeiro Emprego - PROMPEG.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a instituir o Programa Municipal do Primeiro Emprego - PROMPEG.
+
+
+Art. 2º.
+
+O Programa tem por principal finalidade inserir os jovens no mercado de trabalho, promovendo a inclusão social e a geração de renda, além de:
+
+
+I –
+
+Fomentar a geração de emprego e renda no Município;
+
+
+II –
+
+Diminuir o impacto de refluxos na atividade econômica para a juventude;
+
+
+III –
+
+Incrementar a participação da sociedade no processo de formulação de políticas e ações de geração de trabalho e renda no Município.
+
+
+Art. 3º.
+
+Enquadram-se nesta Lei os jovens residentes no Município de Guaíra com idade entre 16 a 24 anos completos, sem experiência no campo de trabalho, salvo registro como menor aprendiz, e que tenham cumprindo suas obrigações civis, militares e eleitorais, sendo que, no ato da inscrição o jovem deverá apresentar os seguintes documentos:
+
+
+I –
+
+Carteira de identidade - RG (rg ocultado) CPF;
+
+
+II –
+
+Título de Eleitor;
+
+
+III –
+
+Carteira de Trabalho e Previdência Social;
+
+
+IV –
+
+Comprovante de Residência;
+
+
+V –
+
+Declaração de que não teve relação formal de emprego;
+
+
+VI –
+
+Caso esteja cursando ensino médio, ensino superior ou educação técnica, apresentar declaração de matrícula atualizada, ou, caso já tenha concluído o curso, apresentar certificado de conclusão.
+
+
+Parágrafo único
+
+Para a faixa etária regida pelas estipulações do Estatuto da Criança e do Adolescente - ECA, serão garantidos direitos e dispositivos desta legislação e demais legislações dos outros entes federativos para alcance dos benefícios desta lei, cuja aplicação será aplicada por regulamento próprio.
+
+
+Art. 4º.
+
+O Programa Municipal do Primeiro Emprego poderá atender no máximo até 300 (trezentos) jovens, simultaneamente, podendo ser ampliado conforme a necessidade e interesse do Município, sendo:
+
+
+I –
+
+no exercício de 2022, até 100 (cem) jovens;
+
+
+II –
+
+no exercício de 2023, até 100 (cem) jovens;
+
+
+III –
+
+no exercício de 2024, até 100 (cem) jovens.
+
+
+Parágrafo único
+
+Fica o Poder Executivo autorizado a redefinir a quantidade de vagas caso haja necessidade, de forma comprovada.
+
+
+Art. 5º.
+
+A gestão do Programa caberá à Secretaria Municipal de Desenvolvimento Econômico e Emprego - SEDE.
+
+
+Parágrafo único
+
+Somente após o deferimento de inclusão da empresa junto ao PROMPEG pela Secretaria de Desenvolvimento Econômico e Emprego e Diretoria Especial do Trabalho, é que a empresa poderá selecionar, dentre os jovens inscritos no Programa, aquele cujo perfil e habilidades melhor se enquadram em suas necessidades.
+
+
+Art. 6º.
+
+Poderão participar do Programa quaisquer empresas instaladas no território do Município de Guaíra que:
+
+
+I –
+
+na data de adesão ao Programa estejam regulares perante o Cadastro da Dívida Ativa Municipal;
+
+
+II –
+
+durante o período de adesão ao Programa cumpram regularmente todas as suas obrigações fiscais e sociais perante o Município.
+
+
+Art. 7º.
+
+Para as empresas cadastradas no PROMPEG serão concedidos créditos exclusivamente para abatimento nos seguintes tributos municipais:
+
+
+I –
+
+IPTU, incidente sobre imóveis próprios ou locados pela empresa;
+
+
+II –
+
+ITBI, para aquisição de imóveis para a empresa;
+
+
+III –
+
+ISSQN, Imposto sobre serviço de qualquer natureza;
+
+
+IV –
+
+Taxa de Fiscalização de Funcionamento do Estabelecimento;
+
+
+V –
+
+Taxa de Coleta de Lixo.
+
+
+Art. 8º.
+
+Os créditos tributários no âmbito do PROMPEG serão concedidos mediante:
+
+
+I –
+
+contratação por tempo integral: crédito equivalente a 20% do salário mínimo nacional vigente, mensalmente, durante os primeiros 12 (doze) meses de contratação;
+
+
+II –
+
+contratação por meio período: crédito equivalente a 10% do salário mínimo nacional vigente, mensalmente, durante os primeiros 12 (doze) meses de contratação;
+
+
+III –
+
+contratação por tempo integral pessoa com deficiência: crédito equivalente a 25% do salário mínimo nacional vigente, mensalmente, durante os primeiros 12 (doze) meses de contratação;
+
+
+IV –
+
+contratação por meio período pessoa com deficiência: crédito equivalente a 15% do salário mínimo nacional vigente, mensalmente, durante os primeiros 12 (doze) meses de contratação.
+
+
+Art. 9º.
+
+Após completados os 12 (doze) meses de contratação, a empresa poderá utilizar o crédito para pagamento dos tributos municipais referidos no artigo 7º dentro do prazo de 01 (um) ano, findo o qual os créditos incidem em caducidade.
+
+
+§ 1º
+
+No caso de desligamento do jovem trabalhador, a pedido, ou demitido por justa causa, antes de completados 12 (doze) meses, a empresa disporá de 60 (sessenta) dias para substituí-lo, sem perder o direito à contagem de tempo de trabalho do jovem desligado para fins de crédito.
+
+
+§ 2º
+
+Não será incluído na contagem para efeito de crédito, o tempo de trabalho do jovem desligado da empresa em qualquer modalidade de dispensa, sob a regência do Contrato de Experiência.
+
+
+Art. 10.
+
+As empresas participantes do Programa Municipal do Primeiro Emprego poderão contratar pelo programa, simultaneamente até 05 (cinco) jovens, e na hipótese da existência de filiais o limite se estenderá a cada uma delas individualmente.
+
+
+§ 1º
+
+No âmbito do PROMPEG, é vedada a contratação de cônjuges ou parentes consanguíneos ou afins, em linha reta ou colateral, até o terceiro grau ou por adoção, dos sócios, acionistas ou proprietários da empresa participante contratante.
+
+
+§ 2º
+
+Os créditos adquiridos não poderão ultrapassar o total dos tributos devidos ao Município, pela empresa beneficiada.
+
+
+Art. 11.
+
+O PROMPEG não abrange o trabalhador doméstico.
+
+
+Art. 12.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 23 de junho de 2022.  
+  
+HERALDO TRENTO  
+Prefeito Municipal
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

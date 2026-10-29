@@ -1,0 +1,37 @@
+CommonMark/CSS/identidade 250
+CommonMark/CSS/identidade 500
+CommonMark/CSS/identidade 750
+CommonMark/CSS/identidade 1000
+CommonMark/CSS/identidade 1250
+CommonMark/CSS/identidade 1500
+CommonMark/CSS/identidade 1750
+CommonMark/CSS/identidade 2000
+CommonMark/CSS/identidade 2250
+CommonMark/CSS/identidade 2500
+CommonMark/CSS/identidade 2750
+CommonMark/CSS/identidade 3000
+Traceback (most recent call last):
+  File "/Volumes/ExternalSSD/GitHub/constituicao/reguladores/_fonte/auditorias/publicacao_dou3059_publico_20261028_002/replay_sem_privados.py", line 15, in <module>
+    runpy.run_path(str(R/'reguladores/_fonte/auditorias/dou2017_selecao3059_20261028_001/replay3059.py'),run_name='__main__')
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Volumes/ExternalSSD/GitHub/constituicao/reguladores/_fonte/auditorias/dou2017_selecao3059_20261028_001/replay3059.py", line 62, in <module>
+    gfm={x['path']:x['html']for x in json.loads(subprocess.check_output(['node','--input-type=module','-e',js,(C/'marked.esm.mjs').as_uri()],input=json.dumps(intermediate).encode()))}
+                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 466, in check_output
+    return run(*popenargs, stdout=PIPE, timeout=timeout, check=True,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/subprocess.py", line 1010, in __init__
+    self.stdin = io.open(p2cwrite, 'wb', bufsize)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Volumes/ExternalSSD/GitHub/constituicao/reguladores/_fonte/auditorias/publicacao_dou3059_publico_20261028_002/replay_sem_privados.py", line 13, in ichecked
+    def ichecked(path,mode='r',*args,**kwargs):check(path,mode);return ioriginal(path,mode,*args,**kwargs)
+                                               ^^^^^^^^^^^^^^^^
+  File "/Volumes/ExternalSSD/GitHub/constituicao/reguladores/_fonte/auditorias/publicacao_dou3059_publico_20261028_002/replay_sem_privados.py", line 11, in check
+    if isinstance(mode,str):assert not any(x in mode for x in 'wax+'),('Escrita proibida',str(path))
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: ('Escrita proibida', '4')

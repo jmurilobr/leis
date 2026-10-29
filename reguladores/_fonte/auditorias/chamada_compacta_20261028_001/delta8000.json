@@ -1,0 +1,57 @@
+{
+  "entrada": 8000,
+  "faixas_disjuntas": [
+    [
+      10000,
+      14000
+    ],
+    [
+      14000,
+      18000
+    ]
+  ],
+  "alertas": 2,
+  "registros": [
+    {
+      "indice_fila_2017": 10163,
+      "path": "reguladores/mapa/portarias/2017/portaria-n-804-de-10-de-abril-de-2017-20162170.md",
+      "sha256_MD": "94c96902b151d6230b5cbd7e5b1c4c51c5f33c04d9803d331365fa41ec539a7e",
+      "sha256_HTML": "fd2f580296896ec39969abd17f9810fa93a73935f46d69021eade1cd502cca00",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-n-804-de-10-de-abril-de-2017-20162170",
+      "cache": "reguladores/_fonte/mapa/2017/portaria-n-804-de-10-de-abril-de-2017-20162170-fd2f580296896ec39969abd17f9810fa93a73935f46d69021eade1cd502cca00.html.gz",
+      "selecionado3060": true,
+      "selecionado_preliminar1599": false,
+      "chamadas": [
+        {
+          "classe": "chamada_deitica_compacta_para_revisao",
+          "chamada_normalizada": "anexodesta portaria",
+          "contexto_normalizado": "rio da agricultura, pecuaria eabastecimento - mapa (www.agricultura.gov.br) e sera afixada nasede da superintendencia federal de agricultura no estado do ceara.\n\n**art.3º** os proprietarios das embarcacoes constantes do anexodesta portaria devem agendar vistoria juntamente a coordenacaode aquicultura e pesca da superintendencia federal de agricultura noestado do ceara - cpa/ce durante o prazo de vigencia da suspensao.\n\n**art.4º** as embarcacoes que nao forem vistoriadas durante operiodo da suspensao estabelecida por esta portaria terao os certificadosde registro e autorizacao de embarcacao pesqueira cancelados.\n\n**art.5º** a cpa/ce",
+          "estado": "revisao_contextual_necessaria",
+          "ausencia_propria_demonstrada": false,
+          "limites": "Literal concatenado específico exige confrontar objeto, citação e representação. Não prova ausência por si só; publicação prospectiva sem essa chamada não é equiparada a anexo próprio atual."
+        }
+      ]
+    },
+    {
+      "indice_fila_2017": 12389,
+      "path": "reguladores/mds/portarias/2017/portaria-n-187-de-16-de-maio-de-2017-20218630.md",
+      "sha256_MD": "177ed8a324f98b01d89e42ce00415605854f41a9755b5d09a4eb2b1587c57a57",
+      "sha256_HTML": "13af064acfd447a687f22beb91a3a4f00db35a54767eaa55dbb5e6a6748955f5",
+      "fonte": "https://www.in.gov.br/web/dou/-/portaria-n-187-de-16-de-maio-de-2017-20218630",
+      "cache": "reguladores/_fonte/mds/2017/portaria-n-187-de-16-de-maio-de-2017-20218630-13af064acfd447a687f22beb91a3a4f00db35a54767eaa55dbb5e6a6748955f5.html.gz",
+      "selecionado3060": true,
+      "selecionado_preliminar1599": false,
+      "chamadas": [
+        {
+          "classe": "chamada_deitica_compacta_para_revisao",
+          "chamada_normalizada": "anexodesta portaria",
+          "contexto_normalizado": "planejamento, orcamento e gestao e da controladoriageralda uniao, de 10 de maio de 2016, resolve:\n\n**art. 1º** fica instituida a politica de gestao de riscos doministerio do desenvolvimento social e agrario, na forma do anexodesta portaria.\n\n**art. 2º** esta portaria entra em vigor na data de sua publicacao.\n\nosmar gasparini terra\n\n## anexo\n\npolitica de gestao de riscos do ministerio do desenvolvimentosocial e agrariocapitulo idisposicoes preliminares\n\n**art. 1º** a politica de gestao de riscos do ministerio dodesenvolvimento social e agrario tem por finalidade estabelecerprincipios, diretrizes, competencias e responsabilidades par",
+          "estado": "revisao_contextual_necessaria",
+          "ausencia_propria_demonstrada": false,
+          "limites": "Literal concatenado específico exige confrontar objeto, citação e representação. Não prova ausência por si só; publicação prospectiva sem essa chamada não é equiparada a anexo próprio atual."
+        }
+      ]
+    }
+  ],
+  "limites": "Somente alertas de chamadas compactas, sem inferir lacuna universal, revisão humana universal ou alterar seleção/registro. Qualquer presença de anexo também exige leitura contextual, não dispensa por contagem."
+}

@@ -1,0 +1,75 @@
+---
+titulo: "Lei Ordinária nº 599, de 16 de agosto de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "599"
+data: "2023-08-16"
+municipio: "Guadalupe"
+uf: "PI"
+codigo_ibge: "2204501"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guadalupe.pi.leg.br/norma/609"
+fonte_texto: "https://sapl.guadalupe.pi.leg.br/ta/606/text"
+sha256_fonte: "cb83ca688897da68387feeb4135d343eef0afd407732728168f3afad50d5dfe2"
+sha256_texto: "4a00ed655cfe3920882d4ada085649aa72bef2b96cf6b50b1de85a1e1fc1c83f"
+capturado_em_fonte: "2026-10-28T12:44:08.971382-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 599, de 16 de agosto de 2023
+
+Abre no orçamento vigente crédito adicional especial e da outras providências
+
+
+O(A) PREFEITO(A) DO MUNICÍPIO DE GUADALUPE, Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica aberto no orçamento vigente, um crédito adicional especial na importância de R$1.395.000,00 distribuídos as seguintes dotações:
+
+
+<table><tbody><tr><td colspan="5"><strong>Suplementação (+)</strong></td><td><strong>1.395.000,00</strong></td></tr><tr><td>02</td><td>06</td><td>02</td><td colspan="2">FUNDO MANUTENÇÃO E DESENV. EDUCAÇÃO BÁSICA - FUNDEB</td><td> </td></tr><tr><td> </td><td colspan="2">848</td><td>12.361.0004.2042.0000</td><td>EDUCAÇÃO CIDADÃ</td><td>5.000,00</td></tr><tr><td> </td><td> </td><td> </td><td>3.3.90.91.00</td><td>SENTENÇAS JUDICIAIS</td><td>F.R.:     154000</td></tr><tr><td> </td><td> </td><td> </td><td>540</td><td>Transferências do FUNDEB - Impostos e Transferências de Impostos</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>999 000</td><td>Não se aplica</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td colspan="2">849</td><td>12.361.0004.2042.0000</td><td>EDUCAÇÃO CIDADÃ</td><td>290.000,00</td></tr><tr><td> </td><td> </td><td> </td><td>3.3.90.91.00</td><td>SENTENÇAS JUDICIAIS</td><td>F.R.:     154200</td></tr><tr><td> </td><td> </td><td> </td><td>542</td><td>Transferências do FUNDEB - Complementação da União - VAAT</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>999 000</td><td>Não se aplica</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td colspan="2">850</td><td>12.361.0004.2042.0000</td><td>EDUCAÇÃO CIDADÃ</td><td>1.100.000,00</td></tr><tr><td> </td><td> </td><td> </td><td>3.3.90.91.00</td><td>SENTENÇAS JUDICIAIS</td><td>F.R.:     154100</td></tr><tr><td> </td><td> </td><td> </td><td>541</td><td>Transferências do FUNDEB - Complementação da União - VAAF</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>999 000</td><td>Não se aplica</td><td> </td></tr></tbody></table>
+
+
+Art. 2º.
+
+O crédito aberto na forma do artigo anterior será coberto com recursos provenientes de:
+
+
+<table><tbody><tr><td colspan="5"><strong>Anulação (+)</strong></td><td> </td></tr><tr><td> </td><td> </td><td> </td><td colspan="2"> </td><td> </td></tr><tr><td>02</td><td>06</td><td>02</td><td colspan="2">FUNDO MANUTENÇÃO E DESENV. EDUCAÇÃO BÁSICA - FUNDEB</td><td> </td></tr><tr><td> </td><td colspan="2">276</td><td>12.361.0004.1022.0000</td><td>EDUCAÇÃO CIDADÃ</td><td>-10.000,00</td></tr><tr><td> </td><td> </td><td> </td><td>4.4.90.51.00</td><td>OBRAS E INSTALAÇÕES</td><td>F.R. Grupo:     154000</td></tr><tr><td> </td><td> </td><td> </td><td>541</td><td>Transferências do FUNDEB - Complementação da União - VAAF</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>999 000</td><td>Não se aplica</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td colspan="2">280</td><td>12.361.0004.1071.0000</td><td>EDUCAÇÃO CIDADÃ</td><td>-47.000,00</td></tr><tr><td> </td><td> </td><td> </td><td>4.4.90.52.00</td><td>EQUIPAMENTOS E MATERIAL PERMANENTE</td><td>F.R. Grupo:     154200</td></tr><tr><td> </td><td> </td><td> </td><td>542</td><td>Transferências do FUNDEB - Complementação da União - VAAT</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>999 000</td><td>Não se aplica</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td colspan="2">292</td><td>12.361.0004.2042.0000</td><td>EDUCAÇÃO CIDADÃ</td><td>-100.000,00</td></tr><tr><td> </td><td> </td><td> </td><td>3.1.90.11.00</td><td>VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL</td><td>F.R. Grupo:     154100</td></tr><tr><td> </td><td> </td><td> </td><td>541</td><td>Transferências do FUNDEB - Complementação da União - VAAF</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>999 000</td><td>Não se aplica</td><td> </td></tr></tbody></table>
+
+<table><tbody><tr><td> </td><td> </td><td> </td><td colspan="2"> </td><td> </td></tr><tr><td>02</td><td>06</td><td>02</td><td colspan="2">FUNDO MANUTENÇÃO E DESENV. EDUCAÇÃO BÁSICA - FUNDEB</td><td> </td></tr><tr><td> </td><td colspan="2">295</td><td>12.361.0004.2042.0000</td><td>EDUCAÇÃO CIDADÃ</td><td>-120.000,00</td></tr><tr><td> </td><td> </td><td> </td><td>3.1.90.11.00</td><td>VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL</td><td>F.R. Grupo:     154100</td></tr><tr><td> </td><td> </td><td> </td><td>541</td><td>Transferências do FUNDEB - Complementação da União - VAAF</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>999 000</td><td>Não se aplica</td><td> </td></tr></tbody></table>
+
+<table><tbody><tr><td> </td><td colspan="2"> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td colspan="2">298</td><td>12.361.0004.1022.0000</td><td>EDUCAÇÃO CIDADÃ</td><td>-5.000,00</td></tr><tr><td> </td><td> </td><td> </td><td>3.1.90.91.00</td><td>SENTENÇAS JUDICIAIS</td><td>F.R. Grupo:     154000</td></tr><tr><td> </td><td> </td><td> </td><td>540</td><td>Transferências do FUNDEB - Impostos e Transferências de Impostos</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>999 000</td><td>Não se aplica</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td colspan="2">305</td><td>12.361.0004.2042.0000</td><td>EDUCAÇÃO CIDADÃ</td><td>-100.000,00</td></tr><tr><td> </td><td> </td><td> </td><td>3.3.90.30.00</td><td>MATERIAL DE CONSUMO</td><td>F.R. Grupo:     154200</td></tr><tr><td> </td><td> </td><td> </td><td>541</td><td>Transferências do FUNDEB - Complementação da União - VAAF</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>999 000</td><td>Não se aplica</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td colspan="2">306</td><td>12.361.0004.2042.0000</td><td>EDUCAÇÃO CIDADÃ</td><td>-68.000,00</td></tr><tr><td> </td><td> </td><td> </td><td>3.1.90.11.00</td><td>MATERIAL DE CONSUMO</td><td>F.R. Grupo:     154200</td></tr><tr><td> </td><td> </td><td> </td><td>542</td><td>Transferências do FUNDEB - Complementação da União - VAAT</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>999 000</td><td>Não se aplica</td><td> </td></tr></tbody></table>
+
+<table><tbody><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td colspan="2">314</td><td>12.361.0004.2042.0000</td><td>EDUCAÇÃO CIDADÃ</td><td>-100.000,00</td></tr><tr><td> </td><td> </td><td> </td><td>3.3.90.39.00</td><td>OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA</td><td>F.R. Grupo:     154100</td></tr><tr><td> </td><td> </td><td> </td><td>541</td><td>Transferências do FUNDEB - Complementação da União - VAAF</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>999 000</td><td>Não se aplica</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td colspan="2">315</td><td>12.361.0004.2042.0000</td><td>EDUCAÇÃO CIDADÃ</td><td>-100.000,00</td></tr><tr><td> </td><td> </td><td> </td><td>3.3.90.39.00</td><td>OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA</td><td>F.R. Grupo:     154200</td></tr><tr><td> </td><td> </td><td> </td><td>542</td><td>Transferências do FUNDEB - Complementação da União - VAAT</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>999 000</td><td>Não se aplica</td><td> </td></tr></tbody></table>
+
+<table><tbody><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td colspan="2">324</td><td>12.361.0004.1071.0000</td><td>EDUCAÇÃO CIDADÃ</td><td>-100.000,00</td></tr><tr><td> </td><td> </td><td> </td><td>4.4.90.52.00</td><td>EQUIPAMENTOS E MATERIAL PERMANENTE</td><td>F.R. Grupo:     154100</td></tr><tr><td> </td><td> </td><td> </td><td>541</td><td>Transferências do FUNDEB - Complementação da União - VAAF</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>999 000</td><td>Não se aplica</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td colspan="2">330</td><td>12.365.0004.2036.0000</td><td>EDUCAÇÃO CIDADÃ</td><td>-300.000,00</td></tr><tr><td> </td><td> </td><td> </td><td>3.1.90.11.00</td><td>VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL</td><td>F.R. Grupo:     154100</td></tr><tr><td> </td><td> </td><td> </td><td>541</td><td>Transferências do FUNDEB - Complementação da União - VAAF</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>230 000</td><td>FUNDEB - Profissionais da Educação Básic</td><td> </td></tr></tbody></table>
+
+<table><tbody><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td colspan="2">337</td><td>12.365.0004.2037.0000</td><td>EDUCAÇÃO CIDADÃ</td><td>-50.000,00</td></tr><tr><td> </td><td> </td><td> </td><td>3.1.90.11.00</td><td>VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL</td><td>F.R. Grupo:     154200</td></tr><tr><td> </td><td> </td><td> </td><td>541</td><td>Transferências do FUNDEB - Complementação da União - VAAF</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>999 000</td><td>Não se aplica</td><td> </td></tr></tbody></table>
+
+<table><tbody><tr><td> </td><td> </td><td> </td><td colspan="2"> </td><td> </td></tr><tr><td>02</td><td>06</td><td>02</td><td colspan="2">FUNDO MANUTENÇÃO E DESENV. EDUCAÇÃO BÁSICA - FUNDEB</td><td> </td></tr><tr><td> </td><td colspan="2">353</td><td>12.365.0004.2044.0000</td><td>EDUCAÇÃO CIDADÃ</td><td>-50.000,00</td></tr><tr><td> </td><td> </td><td> </td><td>3.1.90.11.00</td><td>VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL</td><td>F.R. Grupo:     154100</td></tr><tr><td> </td><td> </td><td> </td><td>541</td><td>Transferências do FUNDEB - Complementação da União - VAAF</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>999 000</td><td>Não se aplica</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td colspan="2">354</td><td>12.365.0004.2044.0000</td><td>EDUCAÇÃO CIDADÃ</td><td>-55.000,00</td></tr><tr><td> </td><td> </td><td> </td><td>3.1.90.11.00</td><td>VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL</td><td>F.R. Grupo:     154200</td></tr><tr><td> </td><td> </td><td> </td><td>542</td><td>Transferências do FUNDEB - Complementação da União - VAAT</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>999 000</td><td>Não se aplica</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td colspan="2">365</td><td>12.361.0004.2044.0000</td><td>EDUCAÇÃO CIDADÃ</td><td>-100.000,00</td></tr><tr><td> </td><td> </td><td> </td><td>3.3.90.30.00</td><td>MATERIAL DE CONSUMO</td><td>F.R. Grupo:     154100</td></tr><tr><td> </td><td> </td><td> </td><td>541</td><td>Transferências do FUNDEB - Complementação da União - VAAF</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>999 000</td><td>Não se aplica</td><td> </td></tr></tbody></table>
+
+<table><tbody><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td colspan="2">375</td><td>12.361.0004.2044.0000</td><td>EDUCAÇÃO CIDADÃ</td><td>-20.000,00</td></tr><tr><td> </td><td> </td><td> </td><td>3.3.90.39.00</td><td>OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA</td><td>F.R. Grupo:     154200</td></tr><tr><td> </td><td> </td><td> </td><td>542</td><td>Transferências do FUNDEB - Complementação da União - VAAT</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>999 000</td><td>Não se aplica</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td colspan="3"><strong>Anulação ( - )</strong></td><td> </td><td> </td><td><strong>-1.395.000,00</strong></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Fica ainda, o Poder Executivo Municipal autorizado a efetuar suplementações por meio de decreto caso a dotação se torne insuficiente.
+
+
+Art. 4º.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Gabinete da Prefeita Municipal de Guadalupe aos dezesseis dias do mês de agosto de dois mil e vinte e três.
+
+Maria Jozeneide Fernandes Lima
+
+Prefeita Municipal
+

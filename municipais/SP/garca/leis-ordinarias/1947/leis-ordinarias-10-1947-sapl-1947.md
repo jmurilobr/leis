@@ -1,0 +1,83 @@
+---
+titulo: "Lei nº 10, de 01 de dezembro de 1947"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "10"
+data: "1947-12-01"
+municipio: "Garça"
+uf: "SP"
+codigo_ibge: "3516705"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.garca.sp.leg.br/norma/1947"
+fonte_texto: "https://sapl.garca.sp.leg.br/ta/1869/text"
+sha256_fonte: "d7d9e8023e0025305af8e54cab2d72c7f844bf95459a7d32e24fc2879fe6635a"
+sha256_texto: "7c0fa6c544e1b4b7d36b797ee6ee637b59e3240e6270103dbb334204387da6c1"
+capturado_em_fonte: "2026-10-28T13:26:08.804161-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 10, de 01 de dezembro de 1947
+
+**LEI N° 10**
+
+
+DISPÕE SOBRE MAJORAÇÃO DE VENCIMENTOS E DÁ OUTRA PROVIDENCIAS.
+
+
+O PREFEITO MUNICIPAL DE GARÇA, NOS TERMOS DO INCISO II, DO ART. 3°, DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS, DA CONSTITUIÇÃO ESTADUAL, PROMULGA A SEGUINTE LEI:
+
+
+Art. 1º.
+
+A escala de padrões de vencimentos dos funcionários públicos municipais, de que trata o decréto-leo n. 234, de 6 de dezembro de 1 946, passa a ser a seguinte, a partir de 1°. de agosto de 1 947:
+
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p>Padrão</p></td><td><p>Vencimentos Anuais</p><p>Cr$</p></td></tr><tr><td>A</td><td>4 800,00</td></tr><tr><td>B</td><td>6 300,00</td></tr><tr><td>C</td><td>6 600,00</td></tr><tr><td>D</td><td>7 500,00</td></tr><tr><td>E</td><td>8 400,00</td></tr><tr><td>F</td><td>9 000,00</td></tr><tr><td>G</td><td>10 800,00</td></tr><tr><td>H</td><td>13 500,00</td></tr><tr><td>I</td><td>14 400,00</td></tr><tr><td>J</td><td>25 200,00</td></tr><tr><td>L</td><td>27 000,00</td></tr><tr><td>M</td><td>30 000,00</td></tr><tr><td>V</td><td>33 000,00</td></tr><tr><td>O</td><td>36 000,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+Os cargos de professor, padrão B, almonários a que se refere o decréto-lei n. 234, de 6 de dezembro de 1 946, ficam classificados, respectivamente, nos padrões D, G e 0 da escala de que trata o artigo anterior
+
+
+Art. 3º.
+
+Ficam extintos, no quadro de funcionários do Municipio, os seguintes cargos:
+
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td> </td><td> </td><td>Padrão</td></tr><tr><td>1</td><td>Auxiliar de Servente</td><td>A</td></tr><tr><td>2</td><td>Escriturário</td><td>C</td></tr><tr><td>1</td><td>Datilógrafo</td><td>C</td></tr><tr><td>1</td><td>Continuo</td><td>C</td></tr><tr><td>1</td><td>Mecanico-Chefe</td><td>E</td></tr><tr><td>1</td><td>Jardineiro-Chefe</td><td>E</td></tr><tr><td>1</td><td>Fiscal Rural</td><td>F</td></tr><tr><td>1</td><td>Agente de Estatistica Municipal</td><td>I</td></tr><tr><td>1</td><td>Diretor de Administração</td><td>L</td></tr></tbody></table>
+
+
+Art. 4º.
+
+Fica aberto, na Contadoria Municipal, um crédito de Cr$ 66 250,00 (sessemta e seis mil, duzentos e cincoenta cruzeiros), suplementar as seguintes verbas do orçamento:
+
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td> </td><td> </td><td>Cr$</td></tr><tr><td>121/8.07.0 -</td><td>Pessoal Fixo</td><td>5 625,00</td></tr><tr><td>121/8.09.0 - </td><td>Pessoal Fixo</td><td>17 125,00</td></tr><tr><td>121/8.13.0 -</td><td>Pessoal Fixo</td><td>8 000,00</td></tr><tr><td>122/8.09.0 -</td><td>Pessoal Fixo</td><td>750,00</td></tr><tr><td>123/8.09.0 -</td><td>Pessoal Fixo</td><td>750,00</td></tr><tr><td>211/8.89.0 -</td><td>Pessoal Fixo</td><td>1 000,00</td></tr><tr><td>231/8.89.0 -</td><td>Pessoal Fixo</td><td>1 000,00</td></tr><tr><td>301/8.80.0 -</td><td>Pessoal Fixo</td><td>1 000,00</td></tr><tr><td>431/8.33.0 -</td><td>Pessoal Fixo</td><td>20 875,00</td></tr><tr><td>432/8.33.0 -</td><td>Pessoal Fixo</td><td>6 875,00</td></tr><tr><td>433/8.33.0 -</td><td>Pessoal Fixo</td><td>1 375,00</td></tr><tr><td>811/8.13.0 -</td><td>Pessoal Fixo</td><td>1 875,00</td></tr></tbody></table>
+
+
+Parágrafo único
+
+O valor do presente crédito será coberto com os recursos provenientes do saldo financeiro transferido para êste exercicio.
+
+
+Art. 5º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Garça, 1 de Dezembro de 1947
+
+**Joaquim Ribeiro do Val**
+
+**Prefeito Municipal**
+
+Registrada e Publicada nesta Secretaria na data supra.
+
+**Francisco Pereira de Mello Jr.**
+
+**Secretario da Prefeitura**
+

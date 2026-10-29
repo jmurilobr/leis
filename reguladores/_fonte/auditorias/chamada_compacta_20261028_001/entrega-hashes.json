@@ -1,0 +1,45 @@
+{
+  "sha256_lista": "836ab0f9bc7ebc12e9b241064a4878d9722a05a3d6586521b8826f2231e6a8ee",
+  "arquivos": [
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/LEIA.md",
+      "sha256": "e916d71ee90a4cc3d448bdb86806c69f20cd187553929621061bd0c6726ae0b7"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/controle_MDS43.json.gz",
+      "sha256": "577ca598e842c45be52a46f9f68d54c8eaa173488b791988fd49864c7768654a"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/decisoes_contextuais.json",
+      "sha256": "f7a0c49ba3e39b80d5547b08a2144cdac83f316e4fdbe84a1317c5992cdc6025"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/delta.log",
+      "sha256": "98f5aa59cf31fc0448887d74b3f4ee01c3eb9cf9c203e8658111d8bf917dda9b"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/delta8000.json",
+      "sha256": "0bb206b77c3e0cec61a18aa7af9434e69830b44f91825e8ed7972dfe98558813"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/gate_chamada_compacta.py",
+      "sha256": "dab2cf45c4b2b9263be4fd6a8a0c29235c2b99d6bfab0c9a95be1ecc745a8937"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/inventariar_delta8000.py",
+      "sha256": "14299718bc959c0e033f969aa643510533d9116d56e5fbc8bfb87a27ec884b6e"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/provas_delta8000.jsonl.gz",
+      "sha256": "5e053efd0542871a69a329f074569a24b84f1e824c6af0d3b85f34662be4f1d5"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/test_chamada_compacta.py",
+      "sha256": "d4cc7ebe0575ce33804e5178664943e9a53ff2624492990e37dc3d0e97fdf89b"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/chamada_compacta_20261028_001/testes.log",
+      "sha256": "57b032bf208ea6ef60d9cbb1a8059c9b356d286c46a0c0c2ad1b5968e01f2da9"
+    }
+  ]
+}

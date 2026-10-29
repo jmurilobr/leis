@@ -1,0 +1,60 @@
+---
+titulo: "Lei Ordinária nº 121, de 11 de maio de 1985"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "121"
+data: "1985-05-11"
+municipio: "Guadalupe"
+uf: "PI"
+codigo_ibge: "2204501"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guadalupe.pi.leg.br/norma/326"
+fonte_texto: "https://sapl.guadalupe.pi.leg.br/ta/70/text"
+sha256_fonte: "99cbdb5d07bddfde560317100234f45ca429ae6a777c4a469a5e92b72ad775a5"
+sha256_texto: "b9bc9bf0a47716b109d3b068860e62b91c6f9987df215414d04ba4f0348d0416"
+capturado_em_fonte: "2026-10-28T13:00:45.450179-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 121, de 11 de maio de 1985
+
+Abre crédito Especial para atender projeto não previsto da Lei Orçamentária e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE GUADALUPE, ESTADO DO PIAUÍ, no uso de suas atribuições que lhe são conferidas por Lei. Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei.
+
+
+Art. 1º.
+
+Fica criado o "Crédito Especial” no valor de CR$ 45.000.000 (Quarenta e cinco milhões de cruzeiros), para atender as despesas com aquisição e montagem de uma Antena Parabólica a fim de atender anseio da comunidade guadalupense, na recepção de sinal da TV Bandeirantes em nossa cidade.
+
+
+Art. 2º.
+
+A execução administrativa do projeto, ficará a cargo da Administração Direta do Poder Executivo, vinculado a Unidade Orçamentária Departamento de Educação e Cultura, como se segue:
+
+
+4000.00 - Despesas de Capital  
+4100.00 - Investimentos  
+4110.00 - Obras e Instalações CR$ 5.000.000  
+4120.00 - Equipamento e Mat. Permanente CR$ 40.000.000
+
+
+Art. 3º.
+
+Os recursos correrão por conta de receitas de vendas das casas da Vila Pamaíba.
+
+
+Art. 4º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE GUADALUPE, 11 de maio de 1985.  
+  
+Júlio César de Carvalho Lima  
+Prefeito Municipal
+

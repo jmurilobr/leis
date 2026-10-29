@@ -1,0 +1,858 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Garça - SP</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Garça - SP",
+      "url" : "http://sapl.garca.sp.leg.br"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          28/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/logo_casa.png"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Garça - SP
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/3817?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/853/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Lei nº 2.000, de 27 de agosto de 1984
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Lei</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>2000</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>1984</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>27 de Agosto de 1984</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>Autoriza o Município a firmar convênio de assistência judiciária gratuita com a Secretaria de Estado dos Negócios da Justiça.</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/853/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt32695" ><div class="dtxt" id="d32695" pks="" pk="32695"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt32696" ><a class="dpt-link" name="32696" title="32696"></a><div class="dtxt" id="d32696" pks="" pk="32696">Autoriza o Município a firmar convênio de assistência judiciária gratuita com a Secretaria de Estado dos Negócios da Justiça.</div></div><div class="dn" id="dn32696" pk="32696"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt32697" ><div class="dtxt" id="d32697" pks="" pk="32697"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt32698" ><a class="dpt-link" name="32698">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d32698" pks="" pk="32698">O poder executivo municipal fica autorizado a firmar convênio de assistência judiciária gratuita com a Secretaria de Estado dos Negócios da Justiça.</div></div><div class="dn" id="dn32698" pk="32698"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt32699" ><div class="dtxt" id="d32699" pks="" pk="32699"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt32700" ><a class="dpt-link" name="32700">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d32700" pks="" pk="32700">No termo de convênio constará, obrigatoriamente:</div></div><div class="dn" id="dn32700" pk="32700"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt32701" ><a class="dpt-link" name="32701" title="32701">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d32701" pks="" pk="32701">Ceder instalação para localizar os serviços de assistência judiciária gratuita, na área criminal.</div></div><div class="dn" id="dn32701" pk="32701"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt32702" ><a class="dpt-link" name="32702" title="32702">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d32702" pks="" pk="32702">Fornecer material de consumo e permanente, necessários a tal realização.</div></div><div class="dn" id="dn32702" pk="32702"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt32703" ><a class="dpt-link" name="32703" title="32703">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d32703" pks="" pk="32703">Responsabilizar-se pelo pessoal técnico e administrativo que utilizar.</div></div><div class="dn" id="dn32703" pk="32703"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt32704" ><a class="dpt-link" name="32704" title="32704">IV</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d32704" pks="" pk="32704">Credenciar a seu juízo, e sob sua responsabilidade, advogados especializados na área criminal.</div></div><div class="dn" id="dn32704" pk="32704"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt32705" ><a class="dpt-link" name="32705" title="32705">V</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d32705" pks="" pk="32705">Pagar honorários na execução dos serviços pelos profissionais credenciados, nas bases definidas em tabela da Secretaria da Justiça.</div></div><div class="dn" id="dn32705" pk="32705"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt32706" ><a class="dpt-link" name="32706" title="32706">VI</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d32706" pks="" pk="32706">Receber mensalmente repasse da Secretaria da Justiça, nesse exercício estimada em Cr$ 1.000.000,00 (um milhão de cruzeiros).</div></div><div class="dn" id="dn32706" pk="32706"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt32707" ><a class="dpt-link" name="32707" title="32707">VII</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d32707" pks="" pk="32707">Abrir crédito especial suficiente ao atendimento dos encargos decorrentes do convênio.</div></div><div class="dn" id="dn32707" pk="32707"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt32708" ><a class="dpt-link" name="32708" title="32708">VIII</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d32708" pks="" pk="32708">Indicar um representante para integrar o Conselho de Direção dos Trabalhos.</div></div><div class="dn" id="dn32708" pk="32708"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt32709" ><a class="dpt-link" name="32709" title="32709">IX</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d32709" pks="" pk="32709">Aceitar o prazo de duração até o final do exercício fluente, que poderá ser prorrogado até por mais 5 (cinco) anos.</div></div><div class="dn" id="dn32709" pk="32709"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt32710" ><div class="dtxt" id="d32710" pks="" pk="32710"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt32711" ><a class="dpt-link" name="32711">Art. 3º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d32711" pks="" pk="32711">Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.</div></div><div class="dn" id="dn32711" pk="32711"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt32712" ><a class="dpt-link" name="32712" title="32712"></a><div class="dtxt" id="d32712" pks="" pk="32712"><div style="text-align: center;"><br><br>Garça, 27 de agosto de 1984.<br><br><br></div><div style="text-align: center;">Júlio Marcondes de Moura</div><div style="text-align: center;">Prefeito<br><br><br></div></div></div><div class="dn" id="dn32712" pk="32712"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+
+
+  </div></div></div></div>
+
+
+</div>
+
+  <div class="dont-break-out"><div style="text-align: center;">Rua Bar&atilde;o do Rio Branco, 127/131, Centro, Gar&ccedil;a/SP, CEP 17.400-082<br />Telefone/Fax: (14) 3471-0950 / (14) 3471-1308 / (14) 3471-0033 / (14) 3471-3479 &ndash; CNPJ 49.887.532/0001-81<br />Site: www.garca.sp.leg.br / e-mail: camara@cmgarca.sp.gov.br</div></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Garça - SP</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Rua Barão do Rio Branco, nº 127/131 - Centro</span>
+                  <br>
+                  CEP: <span class="postal-code">17400-082</span>
+                  |
+                  Telefone: <span>(14) 3471-0033</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="http://www.garca.sp.leg.br" class="url">Site</a> |
+                  <a href="mailto:camara@cmgarca.sp.gov.br" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+    
+
+    
+  </body>
+</html>

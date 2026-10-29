@@ -1,0 +1,75 @@
+---
+titulo: "Emenda a Lei Orgânica Municipal nº 1, de 06 de julho de 2000"
+tipo: "Emenda à Lei Orgânica"
+tipo_na_fonte: "Emenda a Lei Orgânica Municipal"
+numero: "1"
+data: "2000-07-06"
+municipio: "Guariba"
+uf: "SP"
+codigo_ibge: "3518602"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guariba.sp.leg.br/norma/4310"
+fonte_texto: "https://sapl.guariba.sp.leg.br/ta/25/text"
+sha256_fonte: "6e414e19713c61f4e487c606d8086862f56fe86e65341a67a051d70150e70000"
+sha256_texto: "ee8907004e5d82bf153b2f81c879065d56d8d8987156765e07a3c19fc5979dd3"
+capturado_em_fonte: "2026-10-28T13:28:14.993868-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Emenda a Lei Orgânica Municipal nº 1, de 06 de julho de 2000
+
+**LEI ORGÂNICA DO MUNICÍPIO DE GUARIBA**
+
+**EMENDA Nº 001/2000**
+
+**“ALTERA DISPOSITIVOS DA LEI ORGÂNICA DO MUNICÍPIO DE GUARIBA.”**
+
+Os Vereadores da Câmara Municipal de Guariba que esta subscrevem, propõem à deliberação do E. Plenário, nos termos do Artigo 34, inciso II, da Lei Orgânica do Município, a seguinte...
+
+**EMENDA**
+
+
+Art. 1º.
+
+Fica suprimido na integra o parágrafo 3º, do artigo 9º, da Lei Orgânica do município de Guariba.
+
+
+Art. 2º.
+
+Fica criado o artigo 118 – A e incisos, no Capitulo V, Dos Servidores Municipais, do título III, da Lei Orgânica do Município de Guariba, com a seguinte redação:
+
+
+“Artigo 118-A – Os cargos em comissão e as funções de confiança destinam-se à transmissão das diretrizes políticas para a execução administrativa e ao assessoramento, devendo ser exercidos, preferencialmente, pôr ocupantes de cargo de carreira técnica ou profissional, nos casos e condições previstos em lei, sendo vedada a nomeação de cônjuge, companheira ou companheiro, parentes consaguineos ou afins, até o segundo grau ou pôr adoção, nos poderes Executivos e Legislativo Municipal a saber:
+
+I – Do Prefeito, Vice-Prefeito, Procurador Geral do Município, Secretários Municipais e Assessores da Administração direta ou indireta;
+
+II – Dos Vereadores no âmbito da Câmara Municipal;
+
+III – Dos Presidentes, Diretores Gerais, ou Titulares de Cargos equivalentes, e do vice-presidente, ou equivalente, no âmbito da respectiva autarquia, fundação instituída ou mantida pelo Poder Público, Empresa Pública ou Sociedade de Economia Mista”.
+
+
+Art. 3º.
+
+O inciso I do artigo 39, da Lei Orgânica do Município de Guariba, passa a vigorar com a seguinte redação.
+
+
+I – criação, extinção ou transformação de cargos, funções ou empregos públicos na administração direta ou autárquica.
+
+
+Art. 4º.
+
+A modificação aprovada pôr esta Emenda passa a integrar a Lei Orgânica do Município de Guariba, providenciando a Mesa Diretora a publicação da nova redação consolidada.
+
+
+Art. 5º.
+
+Esta Emenda à Lei Orgânica do Município de Guariba entrará em vigor na data de sua publicação.
+
+
+Guariba, 06 de Julho de 2000.
+
+<table><tbody><tr><td>Valdevino Alves de Almeida</td><td>Marcos Henrique Osti </td></tr><tr><td>PRESIDENTE</td><td>VICE-PRESIDENTE</td></tr><tr><td> </td><td> </td></tr><tr><td>Márcio Contarim</td><td>Edson de Oliveira Pires</td></tr><tr><td>1º SECRETÁRIO</td><td>2º SECRETÁRIO</td></tr></tbody></table>
+

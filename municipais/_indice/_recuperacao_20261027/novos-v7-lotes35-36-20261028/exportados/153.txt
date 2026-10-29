@@ -1,0 +1,216 @@
+---
+titulo: "Lei Complementar nº 1, de 30 de dezembro de 2014"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "1"
+data: "2014-12-30"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/1968"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/501/text"
+sha256_fonte: "8b7508970080377bb2570df281039f3ea9880766c2e634e6c93698998642415e"
+sha256_texto: "dc96c5296af97c4f8e8ca474379e036031b5843c942bfc0c5ca8c6c9eecba710"
+capturado_em_fonte: "2026-10-28T13:16:50.833602-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Complementar nº 1, de 30 de dezembro de 2014
+
+Institui o Programa de Recuperação Fiscal de Guaíra - REFIG, que trata do parcelamento, reparcelamento e pagamento à vista de créditos decorrentes de débitos dos contribuintes e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná aprovou, e eu, Prefeito Municipal, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica instituído o Programa de Recuperação Fiscal de Guaíra - REFIG, com a finalidade de promover a regularização de créditos, decorrentes de débitos de pessoas físicas e jurídicas, relativos a tributos e demais créditos não tributários municipais, inclusive restituições e créditos com origem em condenações judiciais de ressarcimento ao erário público municipal, com vencimento até 31 de dezembro de 2014, inscritos ou não em dívida ativa, parcelados ou não, ajuizados ou não, com a exigibilidade suspensa ou não.
+
+
+Art. 2º.
+
+O Programa previsto no artigo permitirá aos contribuintes o pagamento a vista, parcelamento, reparcelamento, nas seguintes condições:
+
+
+I –
+
+Para o pagamento a vista, desconto de 100% (cem por cento) do valor relativo a multa e 90% (noventa por cento) sobre os juros incidentes até a data do pagamento, desde que o desconto não incida sobre o valor principal;
+
+
+II –
+
+Para o pagamento em até 06 (seis) parcelas mensais, desconto de 80% (oitenta e cinco por cento) do valor relativo a multa e juros incidentes até a data do parcelamento, desde que o desconto não incida sobre o valor principal;
+
+
+III –
+
+Para o pagamento em até 12 (doze) parcelas mensais, desconto de 50% (cinquenta por cento) do valor relativo a multa e juros incidentes até a data do parcelamento, desde que o desconto não incida sobre o valor principal;
+
+
+IV –
+
+Para o pagamento em até 24 (vinte e quatro) parcelas mensais, desconto de 30% (trinta por cento) do valor relativo a multa e juros incidentes até a data do parcelamento, desde que o desconto não incida sobre o valor principal;
+
+
+Art. 3º.
+
+Tratando-se de débito, ajuizado para a cobrança executiva, o pedido de parcelamento, reparcelamento ou pagamento deverá, ainda, ser instruído com o comprovante de pagamento das custas judiciais e honorários advocatícios suspendendo-se a execução, por solicitação do Advogado municipal, até a quitação do parcelamento, reparcelamento ou pagamento.
+
+
+Art. 4º.
+
+A adesão ao REFIG dar-se-á mediante a assinatura do Termo de Confissão de Dívida e Compromisso de Pagamento, pelos seguintes requerentes:
+
+
+I –
+
+pelo contribuinte titular do débito;
+
+
+II –
+
+no caso de pessoa jurídica, por seu Presidente ou Sócio com poderes de representação;
+
+
+III –
+
+por procurador, mediante apresentação de instrumento de procuração com firma reconhecida;
+
+
+IV –
+
+pela viúvo(a), no caso de falecimento de um dos cônjuges;
+
+
+V –
+
+por herdeiro(a) ou sucessor(a) nomeado(a) em inventário.
+
+
+§ 1º
+
+Quando o requerente não se enquadrar em nenhum dos incisos acimas, o pedido deverá ser analisado pelo Secretário Municipal de Fazenda, que autorizará ou não o parcelamento, reparcelamento ou pagamento a vista.
+
+
+§ 2º
+
+A adesão ao REFIG será aceita até 31/05/2015, podendo ser prorrogada através de Decreto Municipal, sendo a data limite para a prorrogação 31/12/2015.
+
+
+Art. 5º.
+
+O valor mínimo da parcela mensal será:
+
+
+I –
+
+Para pessoa jurídica: correspondente a 03 (três) Unidades Fiscais de Guaíra - UFG;
+
+
+II –
+
+Para pessoa física: correspondente a 01 (uma) Unidade Fiscal de Guaíra - UFG.
+
+
+Art. 6º.
+
+O pedido de parcelamento ou reparcelamento implica em confissão irretratável de dívida, aceitação plena de todas as condições estabelecidas, além da expressa renúncia e desistência de qualquer procedimento, ação ou recurso administrativo ou judicial, referente a mesma, bem como na desistência dos já interpostos.
+
+
+Art. 7º.
+
+Após a assinatura do Termo de Confissão de Dívida e Compromisso de Pagamento, o contribuinte receberá carnê de Documento de Arrecadação Municipal - DAM, contendo todas as parcelas e vencimento mensal, a serem pagos na Rede Bancária Conveniada.
+
+
+Art. 8º.
+
+O parcelamento será revogado automaticamente, nos casos de falta de pagamento de 03 (três) parcelas consecutivas ou não, ou falta de pagamento de qualquer parcela superior a 90 (noventa) dias, independente de notificação, no qual ocorrerá a incidência de juros e multas moratórias, além da devida atualização monetária do débito, na forma prevista no Código Tributário Municipal.
+
+
+Parágrafo único
+
+No caso da revogação nos termos do caput do artigo, a mesma será efetuada independente de notificação, e implicará na exigência do saldo do débito tributário mediante inscrição em dívida, quando for o caso, e consequente cobrança judicial, ou sua retomada, reestabelecendo-se, em relação ao montante não pago, os acréscimos legais na forma da legislação aplicável.
+
+
+Art. 9º.
+
+Fica admitida a hipótese de pagamento dos créditos objetos do REFIG, parcial ou integralmente, mediante dação em pagamento de bens móveis e imóveis, situados no Município de Guaíra, mediante aceitação expressa do Chefe do Executivo Municipal, mediante avaliação administrativa, lavratura de escritura pública e observados o interesse público, a conveniência administrativa e os benefícios dispostos nesta lei.
+
+
+§ 1º
+
+Quando o crédito for objeto de execução fiscal, a proposta de dação em pagamento será formalizada em qualquer fase processual, desde que antes da designação da praça dos bens penhorados, ressalvado o interesse da Administração de apreciar o requerimento após essa fase, bem como, observada as condições estabelecidas no artigo 3º.
+
+
+§ 2º
+
+Quando o pagamento se der nos termos do caput deste artigo, fica autorizado o desconto de 50% (cinquenta por cento) do valor relativo a multa e juros incidentes até a data de pagamento, desde que o desconto não incida sobre o valor principal.
+
+
+§ 3º
+
+Os bens objeto do caput deste artigo, somente serão admitidos comprovadamente livres e desembaraçados de quaisquer ônus e dívidas, e cujo valor, apurado em regular avaliação, seja compatível com o montante do crédito fiscal que se pretenda extinguir.
+
+
+Art. 10.
+
+O parcelamento de créditos tributários obedecerá às seguintes condições:
+
+
+I –
+
+Para os parcelamentos efetuados com prazo superior a 12 (doze) meses, serão aplicados juros a razão de 1% (um por cento) ao mês e o saldo devedor será atualizado monetariamente conforme variação da Unidade Fiscal de Guaíra - U.F.G., ou, na falta deste, outro índice que preserve adequadamente o valor real do crédito;
+
+
+II –
+
+Serão aplicados sobre as parcelas não pagas até a data do vencimento, correção monetária, multa e os juros de mora previstos no Código Tributário Municipal;
+
+
+III –
+
+Será facultado ao contribuinte antecipar o pagamento das parcelas pactuadas, com desconto dos juros correspondentes, mediante requerimento.
+
+
+Art. 11.
+
+Efetuada a adesão ao REFIG, o contribuinte fica impedido de celebrar novo parcelamento administrativo em relação aos mesmos débitos até a total quitação das parcelas assumidas.
+
+
+Art. 12.
+
+Os benefícios instituídos pelo REFIG 2015, e não conferem direito a restituição ou compensação de importâncias já pagas, seja a que título for, sendo que não retroagirão para esse efeito.
+
+
+Art. 13.
+
+A Secretaria Municipal de Fazenda enviará ao Poder Legislativo relação dos contribuintes beneficiados pelo REFIG, no término da sua vigência.
+
+
+Art. 14.
+
+O Chefe do Executivo Municipal poderá instituir premiação aos contribuintes que aderirem ao REFIG e regulamentar a presente Lei, no prazo de 30 (trinta) dias, contado da publicação.
+
+
+Art. 15.
+
+Esta Lei Complementar entra em vigor na data de sua publicação.
+
+
+Art. 16.
+
+Ficam revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 30 de dezembro de 2014.  
+  
+FABIAN PERSI VENDRUSCOLO  
+Prefeito Municipal
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

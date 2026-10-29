@@ -1,0 +1,149 @@
+---
+titulo: "Lei Ordinária nº 1.712, de 29 de dezembro de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1712"
+data: "2010-12-29"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2638"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/973/text"
+sha256_fonte: "afc72b8e193c8513db1cb3bf7605ebaa17e7ab8b1b2134c2b643eb582a7eadd1"
+sha256_texto: "717ec5815b3f2eb65256767bc0af21d51291736dca021d8d9c4db0918780e497"
+capturado_em_fonte: "2026-10-28T13:20:57.549503-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.712, de 29 de dezembro de 2010
+
+Institui o regulamento de avaliação de estágio probatório e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou e eu Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+A Comissão de Avaliação de Desenvolvimento, formada por três membros da Câmara Municipal de Guaíra/PR será nomeada, anualmente, para proceder ao acompanhamento e avaliação dos servidores nomeados para o cargo de provimento efetivo sujeitos ao estágio probatório pelo período de 03 (três) anos, durante o qual sua assiduidade, produtividade/eficiência, disciplina, idoneidade moral, pontualidade e conduta ética serão objeto de avaliação para aquisição de estabilidade, obedecidas as normas desta lei.
+
+
+§ 1º
+
+Dos membros referidos neste artigo, pelos menos 01 (um) deverá ser servidor do Poder Legislativo e os demais Vereadores em exercício.
+
+
+§ 2º
+
+Caracterizam impedimento ou suspeição aos componentes da Comissão, as hipóteses previstas nos artigo 134, V e 135, I, do Código de Processo Civil Brasileiro, ou seja, quando o avaliador for cônjuge, parente, consangüíneo ou afim do avaliado, em linha reta ou colateral, até o terceiro grau e quando for amigo íntimo ou inimigo capital do mesmo.
+
+
+Art. 2º.
+
+A cada doze meses, a comissão se reunirá para o preenchimento dos quesitos de avaliação, cuja avaliação deverá ser emitida em até 10 (dez) dias, contados a partir do término de cada avaliação (de doze em doze meses), salvo a última avaliação que deverá ocorrer em até 60 (sessenta) dias antes do vencimento do prazo final do estágio probatório.
+
+
+§ 1º
+
+A data base para contagem dos doze meses é a data da efetiva entrada do servidor em exercício no cargo.
+
+
+§ 2º
+
+A avaliação do Estágio Probatório deverá respeitar também as disposições constantes nos artigos 32 a 34 da Seção VI do Título II da Lei Municipal nº 1.246, de 03 de dezembro de 2003.
+
+
+§ 3º
+
+De posse do Boletim de Desempenho do Servidor (Anexo II), caberá à comissão aferir a pontuação obtida na avaliação parcial, de acordo com a tabela do Anexo I e proceder aos registros cadastrais do servidor.
+
+
+§ 4º
+
+A credibilidade desse processo depende de sua objetividade. As partes envolvidas devem minimizar os aspectos subjetivos, a emotividade, a parcialidade na observância e na análise dos fatos e práticas diárias de trabalho.
+
+
+Art. 3º.
+
+A avaliação, por boletins, do estágio probatório, terá a duração de 03 (três) anos, totalizando 03 (três) boletins.
+
+
+§ 1º
+
+A avaliação será realizada anualmente e para cada uma corresponderá um competente boletim.
+
+
+§ 2º
+
+A Mesa Diretiva da Câmara deverá oportunizar treinamento e adaptação ao servidor.
+
+
+Art. 4º.
+
+A avaliação do servidor ocorrerá no efetivo exercício do cargo para o qual foi nomeado.
+
+
+§ 1º
+
+Os afastamentos legais até trinta dias não prejudicam a avaliação.
+
+
+§ 2º
+
+Quando os afastamentos, no período considerado, forem superiores a trinta dias, a avaliação ficará suspensa (no que se refere aos dias excedentes aos trinta dias) até o retorno do servidor às suas atribuições, retomando-se então a contagem do tempo para efeito do período.
+
+
+§ 3º
+
+Não haverá prejuízo no período de tempo de avaliação nos casos específicos de afastamentos motivados por acidente em serviço, agressão não provocada em serviço ou moléstias profissionais, quando a pontuação será integral.
+
+
+Art. 5º.
+
+Sessenta dias antes de findar o período de estágio probatório, o procedimento de avaliação do desempenho do servidor, com relatório circunstanciado e conclusivo sobre o estágio, será submetido à homologação do Presidente da Câmara de Vereadores.
+
+
+Art. 6º.
+
+Em todo o processo de avaliação, o servidor deverá ter vista a cada boletim de avaliação, podendo recorrer por escrito da decisão da comissão, no prazo de 05 (cinco) dias úteis a contar da ciência.
+
+
+Art. 7º.
+
+A avaliação do servidor será realizada mediante a verificação dos quesitos assiduidade, produtividade/eficiência, disciplina, idoneidade moral, pontualidade e conduta ética, considerando-se aprovado o servidor que obtiver no mínimo 140 (cento e quarenta) e, máximo, 240 (duzentos e quarenta) pontos, em cada avaliação, devendo a Comissão justificar a nota atribuída abaixo do valor mínimo.
+
+
+Parágrafo único
+
+O servidor que, em qualquer fase da avaliação do estágio probatório obtiver menos de 20 (vinte) pontos em qualquer dos quesitos mencionados neste artigo, deverá ser acompanhado e orientado por servidor qualificado, a fim de que possa recuperar o item insatisfatório.
+
+
+Art. 8º.
+
+Será considerado estável no serviço público do Município, o servidor que obtiver, na aferição final, pontuação igual ou superior a 420 (quatrocentos e vinte) pontos, considerada suficiente.
+
+
+Art. 9º.
+
+Será exonerado o servidor que não obtiver a pontuação prevista no artigo anterior, bem como aquele que, em qualquer fase do estágio probatório, apresentar resultado insatisfatório, caracterizado por pontuação inferior a 140 pontos em cada boletim.
+
+
+Art. 10.
+
+O Presidente da Câmara Municipal poderá baixar atos necessários à complementação e execução das disposições desta Resolução.
+
+
+Art. 11.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra - Pr., em 29 de dezembro de 2010.  
+  
+DR. MANOEL KUBA,  
+Prefeito Municipal.
+

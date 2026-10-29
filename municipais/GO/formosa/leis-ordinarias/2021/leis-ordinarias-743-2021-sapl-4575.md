@@ -1,0 +1,121 @@
+---
+titulo: "Lei Ordinária nº 743, de 23 de dezembro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "743"
+data: "2021-12-23"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/4575"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1456/text"
+sha256_fonte: "33c3b1a42dcdbb7d3fc3097cba088c5b07570d390a00fec91f7a025eb9ad0d9b"
+sha256_texto: "803cc99f87725a6876de3d54ac25efc2b550c549067731d013352291edd868b4"
+capturado_em_fonte: "2026-10-28T11:19:48.140236-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 743, de 23 de dezembro de 2021
+
+Dispõe sobre a criação do “Programa Amigos da Escola” com o objetivo de incentivar parcerias de pessoas físicas e jurídicas com escolas públicas municipais no âmbito do Município de Formosa.
+
+
+Projeto de Lei Ordinária n.º 162/21, de autoria do Vereador Valdson José da Silva, aprovado em 6 de dezembro de 2021.
+
+O PREFEITO MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais, conferidas pela Constituição da República e Lei Municipal nº. 01/90, de 05 de abril de 1.990 – Lei Orgânica Municipal - LOM, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído o “Programa Amigos da Escola”, visando o incentivo à realização de parcerias de pessoas físicas e jurídicas com escolas públicas municipais.
+
+
+Parágrafo único.
+
+O programa previsto no caput deste artigo também se destina à adoção de Centros Municipais de Educação Infantil e demais estabelecimentos de ensino público municipal.
+
+
+Art. 2º.
+
+A participação de pessoas físicas e jurídicas no “Programa Amigos da Escola” tem por objetivo alcançar contribuições para a melhoria da qualidade do ensino da rede pública municipal e dar-se-á mediante as seguintes ações:
+
+
+I –
+
+doação de recursos materiais às escolas municipais, tais como equipamentos e livros;
+
+
+II –
+
+patrocínio à construção, à manutenção, à conservação, à reforma e à ampliação da estrutura física das escolas municipais;
+
+
+III –
+
+disponibilização de sistemas de internet por banda larga, equipamentos de rede "wi-fi" e de informática, tais como computadores, notebooks, tablets, roteadores, antenas de "wi-fi", entre outros;
+
+
+IV –
+
+outras ações indicadas pela direção da escola, levando em consideração as orientações da Secretaria Municipal de Educação.
+
+
+Parágrafo único.
+
+As obras de construção, reforma, ampliação e melhoria de que trata o inciso II deste artigo seguirão estritamente as necessidades e orientações dispostas pela Secretaria Municipal de Educação.
+
+
+Art. 3º.
+
+As pessoas físicas e jurídicas que aderirem ao Programa poderão divulgar, para fins promocionais e publicitários, as ações praticadas no programa.
+
+
+Parágrafo único.
+
+A divulgação prevista no caput deste artigo não poderá ser efetuada sob nenhum meio no espaço físico da escola ou dos entes adotados.
+
+
+Art. 4º.
+
+A participação de pessoas físicas e jurídicas no “Programa Amigos da Escola” não implicará ônus de qualquer natureza ao Poder Público Municipal.
+
+
+Art. 5º.
+
+Será conferido certificado, emitido pela Prefeitura Municipal de Formosa, às pessoas físicas e jurídicas que participarem do “Programa Amigos da Escola”, destacando os relevantes serviços prestados à educação pública formosense.
+
+
+Art. 6º.
+
+O Poder Executivo regulamentará a presente Lei, especialmente quanto à forma e aos meios do estabelecimento da parceria e da publicidade.
+
+
+Art. 7º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 23 de dezembro de 2021.
+
+Gustavo Marques de Oliveira
+
+Prefeito Municipal
+
+Afixado no "placard" de publicidade.
+
+E encadernado em livro próprio.
+
+Data supra
+
+......................................................................................................
+
+Iany Macêdo Troncha
+
+Superint. Executiva de Documentação e Legislação
+
+Decreto nº. 21, de 04 de janeiro de 2021.
+

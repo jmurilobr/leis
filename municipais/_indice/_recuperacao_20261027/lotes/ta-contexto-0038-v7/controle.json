@@ -1,0 +1,1161 @@
+{
+  "criterio": "Detecta texto e mídia normativa fora dos dispositivos contabilizados do TA.\n\nControle adicional somente leitura. Qualquer conteúdo não contabilizado é\nretido, sem presumir que se trata de navegação ou decidir vigência por aparência.\n",
+  "aprovados": 17,
+  "retidos": 22,
+  "script_sha256": "f44151983d56fd8ff3380b5ad14ad8557215b895048d6405e7563b21b6a3b066",
+  "resultados": [
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2009/leis-ordinarias-1658-2009-sapl-2586.md",
+      "sha256": "a3aaa319b8bc83cb6e6f0f64d4b5c4e8ce6caa3a799f5ed4e26d41aa8c5babdd",
+      "sha256_fonte": "1719c1d55822208e49ac972f339988d54fd6e9c3b6d63511e587e440ebd28e2a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/904ebb8091591bf7ec8a94d8bf73fdbd62f981c879530fd7d37fa02274d76e20.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            459,
+            40
+          ]
+        },
+        {
+          "texto": "22 de Dezembro de 2010",
+          "posicao": [
+            463,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            463,
+            66
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            469,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 1.710, de 22 de dezembro de 2010",
+          "posicao": [
+            469,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-complementares/2009/leis-complementares-1-2009-sapl-1967.md",
+      "sha256": "d1f686b5e0673b972474ca8cc16559ac45ac7ebfe993a88f99c536be46aff7b6",
+      "sha256_fonte": "0b4a73fa8a66a0fed7c3f0488fdf0ec28c94026ff2148a5c48d44fa9b5fd7589",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/cfcef21947da671fb8f16f0cd511c06479196d0cbb31ed5c212cd9e376988b73.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/garca/resolucoes/1998/resolucoes-295-1998-sapl-12.md",
+      "sha256": "8071757c87c84452c735a34fc3e8d71a3ee71fe20e36c041989fafd2fa93c537",
+      "sha256_fonte": "543d7ff8b05fd414fd6c691822a15fab2529ca162785390c398a99a0aa5edea3",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/cc3bb4e68f23d270748d601778c2a90e42b0c3a31302e7a518f4ba75753ebc63.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            421,
+            40
+          ]
+        },
+        {
+          "texto": "22 de Julho de 2004",
+          "posicao": [
+            425,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            425,
+            63
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            431,
+            25
+          ]
+        },
+        {
+          "texto": "Resolução nº 307, de 22 de julho de 2004",
+          "posicao": [
+            431,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2009/leis-ordinarias-1649-2009-sapl-2386.md",
+      "sha256": "10fc9cbd05ede420a387d9e1deb3afb1c51f2c8423121a219bd75b7b2a5c64a3",
+      "sha256_fonte": "6adbc598c76615285a0431af36db4fa7167a7295a3251ccd3b9f62c7246aca9b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/4f3ba93c4ea8cd0bc044c8443b70554b2928c428a4a59a9d3c45c24bd09b40da.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "I",
+          "posicao": [
+            567,
+            134
+          ]
+        },
+        {
+          "texto": "– I - dois (2) representantes do Poder Executivo Municipal, dos quais pelo menos um (1) da Secretaria Municipal de Educação e Cultura\".",
+          "posicao": [
+            567,
+            139
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2009/leis-ordinarias-1628-2009-sapl-1685.md",
+      "sha256": "134c9c89ad5ebd66416c79c19bff65fbbc92b817c9a35ab1a35046bc76a57e76",
+      "sha256_fonte": "3e07bd9b14d8e23e81c1205160bf9009b5a5b16effb4de4b4f2c82edc8e09f62",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/d762a03e2724f1673b5fe3aa5addd1beefd673f55b6fe32c015f62ca8316aad8.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2009/leis-ordinarias-1627-2009-sapl-2547.md",
+      "sha256": "cac1e52ff92f31cbb23304b32fa5ef61bf30a5140c016018f67125fe2e9f7aa9",
+      "sha256_fonte": "6f5cfb4ccd50c5955b56f03b4ac3abf01f5dc20900d2a3ca88f5d07d6aa85b5f",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/582d98e1dc5e3c00f7ecc6c19f48ca14aa838c3146d416ab6463b32cf1ea5072.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            446,
+            40
+          ]
+        },
+        {
+          "texto": "1 de Abril de 2011",
+          "posicao": [
+            450,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            450,
+            62
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            456,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 1.716, de 01 de abril de 2011",
+          "posicao": [
+            456,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2008/leis-ordinarias-1613-2008-sapl-2533.md",
+      "sha256": "a09fadd72f42847c3dba6b5f94b00150cee3078a319bffa45fb91f02fa59bfc8",
+      "sha256_fonte": "515dee06ecbfdcef48fe1ccdcee53c74ef87d2285460d8f1d8a3b6b82e63135d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/1aceb6481e014c8e16f247c4143304b7a77ae7d7d8be558f0fdb39d095dab5ea.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            446,
+            40
+          ]
+        },
+        {
+          "texto": "5 de Maio de 2011",
+          "posicao": [
+            450,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            450,
+            61
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            456,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 1.720, de 05 de maio de 2011",
+          "posicao": [
+            456,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2008/leis-ordinarias-1610-2008-sapl-1859.md",
+      "sha256": "311defc9becf3ceffd9fed1c2e1705b3ea5f281ff217efdf475298ade9a1c719",
+      "sha256_fonte": "5d9a3c9a47fa4cf69985255d475135f8fd2b68da20ae24d9c2aa11acdd8c4390",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/9a4ed52c34e13c536005a1b17ef771d4a3f3f231e8a537b795a70a7ef38387c7.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            523,
+            126
+          ]
+        },
+        {
+          "texto": "Fica o Executivo Municipal autorizado a ceder em comodato - nos termos dos arts- 1.248 a 1.255 do Código Civil - à MITRA DIOCESANA DE TOLEDO, pelo prazo de 20 (vinte) anos, renováveis, para práticas religiosas, bens imóveis localizados na Vila Eletrosul, a seguir descritos: identificado por Mini-Mercado: área construída mista, madeira modelo Madezati com 254,60 m² e alvenaria com 123,40 m², totalizando uma área de 378,10 m², implantada numa área, onde confronta-se com ruas pavimentadas e ao fundo com área de Centro Ecumênico; identificado por Centro Ecumênico: área construída em madeira modelo Madezati com 248,43 m²; implantada numa área onde confronta-se com ruas pavimentadas e ao fundo com área do mini-mercado; totalizando uma área construída de 626,53 m².",
+          "posicao": [
+            523,
+            138
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2008/leis-ordinarias-1599-2008-sapl-2235.md",
+      "sha256": "77e073217737c76064d0498c67ef679d6c659700033bd55f6035224fc615ca35",
+      "sha256_fonte": "b94701f1788da4ec2c1bde0bbf5d52291df6d429203b5c51d7e326946d9035d8",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/5237a1a8e78bdf2cf28a977c38853032049f217704a8868000cd896576d11ca1.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2008/leis-ordinarias-1593-2008-sapl-1512.md",
+      "sha256": "5c207a8c36a8cbdc966a23e6c16fce9efb1b784863db5842225ca11b374828d9",
+      "sha256_fonte": "399312b6c62780586a55f918b69c8275e902138445ca5eee71be828834566616",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/be49784bf118ed072a41ae0bf92dd4513785ca6b2548ddf10623c08955259205.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            509,
+            40
+          ]
+        },
+        {
+          "texto": "23 de Maio de 2025",
+          "posicao": [
+            513,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            513,
+            62
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            519,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 2.406, de 23 de maio de 2025",
+          "posicao": [
+            519,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2008/leis-ordinarias-1589-2008-sapl-1728.md",
+      "sha256": "6d856f482035fab38c64a2e2b9165f75c17b89cec3032a07de5b3134124f7ad5",
+      "sha256_fonte": "9cc2d4ac5c3407a2d8a3e075bdef4a54b48c711b7e2e85cf4d98f99225b8c54a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/b100d3c34905ab5fda7bab7a7641890a3670ff61ecfd0e10f4e49c9e4a3d28a6.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 6º.",
+          "posicao": [
+            642,
+            126
+          ]
+        },
+        {
+          "texto": "O prazo para início do projeto empresarial é de 2 meses a contar da data da anuência do município, quanto à mudança da titularidade dominial do terreno, e de 6 meses para o início da atividade, sob pena de nulidade do ato jurídico e retrocessão do imóvel ao patrimônio municipal.",
+          "posicao": [
+            642,
+            138
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            656,
+            137
+          ]
+        },
+        {
+          "texto": "Mantida a finalidade de geração de emprego e renda, na forma dessa lei, é assegurado o direito de transferência da propriedade, mediante prévia anuência do município.",
+          "posicao": [
+            656,
+            145
+          ]
+        },
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            665,
+            137
+          ]
+        },
+        {
+          "texto": "Mantida a finalidade de geração de emprego e renda, na forma dessa lei, é permitido a alteração do ramo de atividade, que deve ocorrer no prazo estabelecido no caput, sob a mesma pena de nulidade do ato jurídico e retrocessão do imóvel ao patrimônio público.",
+          "posicao": [
+            665,
+            145
+          ]
+        },
+        {
+          "texto": "§ 3º",
+          "posicao": [
+            674,
+            137
+          ]
+        },
+        {
+          "texto": "Fica vedado o uso da propriedade para outros fins que não aquele estabelecido por esta Lei.",
+          "posicao": [
+            674,
+            145
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            683,
+            137
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            683,
+            156
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2008/leis-ordinarias-1578-2008-sapl-2502.md",
+      "sha256": "c08f4b0e7c70350e09a122e6ba617df184adb7648fa76dcb84a74851c30189b4",
+      "sha256_fonte": "27defcf6aa7a81ff3ad04eeb4548b65680c5bc025da29f6e213ee6a336621893",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/9df4c6b6747c633972e97f6534ad1a2e087ce2c795ad3a679045218ea47c6bfc.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2008/leis-ordinarias-1556-2008-sapl-2479.md",
+      "sha256": "9bf9e813e508cd6004bcff96bd98fd2a7f29fb9d62d7351161ef7c2c3ad5d655",
+      "sha256_fonte": "434bcd7847fe466c9c45ba4983291e3475b4dfeb5c0923dd9d61bdcbb89f3bae",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/a68d6391c8a03761a254b684b94e03679a955283ff7aa19cfbb05d3917907d11.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            459,
+            40
+          ]
+        },
+        {
+          "texto": "20 de Junho de 2012",
+          "posicao": [
+            463,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            463,
+            63
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            469,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 1.777, de 20 de junho de 2012",
+          "posicao": [
+            469,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2008/leis-ordinarias-1555-2008-sapl-1953.md",
+      "sha256": "746136ce0048f8ee0437af8585b35982cab7df710b233e919aeeda61189aa1e7",
+      "sha256_fonte": "c0132163590a2bb98085894a14e08556cbd6081912d3c67a920753f52220cc83",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/4491e70d18e1eb9160b3b97dc1678a9603dba2e30dac557e093fe1299dede59f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/SP/garca/resolucoes/1996/resolucoes-288-1996-sapl-4803.md",
+      "sha256": "2494366605477255dbd18359a38570d2885fc957fe9b8876e302a6a032e86683",
+      "sha256_fonte": "8f109288b135e9ed203e3b3dd0d0033ce60f521228ad165a8c5e815835519af6",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/805e4e34eebbfa6874373e26052aa955f862a8d07f6426bb0c21a65a61110711.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            432,
+            40
+          ]
+        },
+        {
+          "texto": "30 de Maio de 2017",
+          "posicao": [
+            436,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            436,
+            62
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            442,
+            25
+          ]
+        },
+        {
+          "texto": "Resolução nº 365, de 30 de maio de 2017",
+          "posicao": [
+            442,
+            56
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-complementares/2007/leis-complementares-3-2007-sapl-1868.md",
+      "sha256": "2e9a0a7e4191cd3833667321f2ea1a3845d7b0a871825284df88711ee366e7ff",
+      "sha256_fonte": "2230f441d42db6dc246283132474e2fb1897260b41c479bafebf6b979f8779f0",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/c9a27cddab7ee467cb650dd0751a05c85287e40a68d1924396825d9e4f9e7f3a.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            448,
+            40
+          ]
+        },
+        {
+          "texto": "27 de Abril de 2015",
+          "posicao": [
+            452,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            452,
+            63
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            458,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Complementar nº 1, de 27 de abril de 2015",
+          "posicao": [
+            458,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/SP/garca/resolucoes/1996/resolucoes-286-1996-sapl-87.md",
+      "sha256": "e78f4d70c1ae406e30ce02e603a707c5fcdcabb274cc9ec6f68753c1a730ffc5",
+      "sha256_fonte": "c7c7dea3c38d9ae3facd776612e91c6e1402d3da2c567dfd9f4605323b0fabfa",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/8d71dc687f2cb877855d65d556907f75153a837b6df3eccdced10245c9c69850.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            421,
+            40
+          ]
+        },
+        {
+          "texto": "15 de Agosto de 2000",
+          "posicao": [
+            425,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            425,
+            64
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            431,
+            25
+          ]
+        },
+        {
+          "texto": "Resolução nº 300, de 15 de agosto de 2000",
+          "posicao": [
+            431,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1536-2007-sapl-2461.md",
+      "sha256": "768095f708d8124aa394e7795ff20d054063fab5186154100409e9129b142e6e",
+      "sha256_fonte": "7bb37950eb30b17af0545eded413e337a3c6d42829353ea6e07984835546afa0",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/478cdcb7b19139380ac6ccc05c110b91e504fdc1bb30ad008899042946577b00.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            465,
+            40
+          ]
+        },
+        {
+          "texto": "27 de Maio de 2019",
+          "posicao": [
+            469,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            469,
+            62
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            475,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 2.095, de 27 de maio de 2019",
+          "posicao": [
+            475,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-complementares/2007/leis-complementares-1-2007-sapl-1959.md",
+      "sha256": "3a3033b3cf2fccf96ab2604322992bfd5b174e0f24a7b70258d1894f90ddfb62",
+      "sha256_fonte": "3077ddc92c867d95bb016a505c4aedab3eaa95a7000149c8c5dbf40ddf244457",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/8ca09d88680a1c89820e515630a72b267b9aa374f9ae07330f4cc7bdea2a880e.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "§ 7º",
+          "posicao": [
+            554,
+            137
+          ]
+        },
+        {
+          "texto": "Fica o poder Executivo autorizado a desistir da execução fiscal de débitos de até 40 unidades fiscais, sem prejuízo da cobrança administrativa.",
+          "posicao": [
+            554,
+            145
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1519-2007-sapl-2330.md",
+      "sha256": "1193dbe3c362d2be45223601f50da4fb5395fb39e3c2133760d9f834e8d3927a",
+      "sha256_fonte": "12143f4436be266c893bcef947bd8c88c6d5df6d4e4380749bd43ce6088919d9",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/ba94136968e2234fc32ba80573b3ed6731050738fb7128afc7f1153c9fca3109.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "IV",
+          "posicao": [
+            554,
+            134
+          ]
+        },
+        {
+          "texto": "– ZIP- G04 - Área de Expansão, que localiza-se segundo a descrição contida no Anexo IV, com área de 9.457.997,97 m², e será destinada exploração mineral, indústria e serviço naval, serviço e comércio exterior, de administração, translado internacional, carga, descarga, depósito e armazenamento, transmodal ferroviário, área turística, lazer, sócio desportiva, manejo ambiental e operações em geral.",
+          "posicao": [
+            554,
+            140
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1518-2007-sapl-2444.md",
+      "sha256": "f7248b19280b49892891e6e613c330efa87923982383c93d11b3da61f30379ac",
+      "sha256_fonte": "3044c5c74a3574eb2de8d1dd227a5dd6110f5c84f1d131b9009f438e005302bb",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/d4165ff3ab6a5654659c5d7ad581de2fbcb0160bc1aa4a0c3fc5833539dcde99.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1512-2007-sapl-2437.md",
+      "sha256": "7d72e2726960a7f2eee2609ea76cbc309e978c218cc36e64bff73d4e6059af3e",
+      "sha256_fonte": "d02131a91d7b42e5f55992885e91349830581afa47205770c49058d8a95964c3",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/60a52dfd2718884ea70bbc781e5e1d13c6159f4c63400ef9fafdad7b90c38479.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            476,
+            40
+          ]
+        },
+        {
+          "texto": "26 de Junho de 2019",
+          "posicao": [
+            480,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            480,
+            63
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            486,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Ordinária nº 2.098, de 26 de junho de 2019",
+          "posicao": [
+            486,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1511-2007-sapl-2436.md",
+      "sha256": "9fb225ae16d2bfcba22ce7eaa137f4a6ea2d761357225262647e14b1fddacc41",
+      "sha256_fonte": "9fd25bab968f718ee96ec729e2d18b6b014ce65ca6cc74f276260e42fd061899",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/88a537ab64228042e968cb556ac5c62cb0d293318e074a01a488357d807aa4de.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1509-2007-sapl-2329.md",
+      "sha256": "996974e0981b1fce0e9719f3fe826c94bd113a7ade539369e87bec72d8849dfa",
+      "sha256_fonte": "333714003597672866f8a4fbda94a27f4d60bf05d4be76e5681fedd5857c0d82",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/acbbf3ba204e1ea215e615a8e129341b2f35842062f67b687006c4b01d232dc1.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "II",
+          "posicao": [
+            554,
+            134
+          ]
+        },
+        {
+          "texto": "– ZIP - G02 - Área de Turismo, Lazer e Preservação Ambiental, que localiza-se segundo a descrição contida no Anexo II, com área de 1.192.986,28 m², e será destinada às atividades turísticas, de lazer, sócio desportivas, de administração e manejo ambiental.",
+          "posicao": [
+            554,
+            140
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1501-2007-sapl-2428.md",
+      "sha256": "2f683b9f029e1332fb0c60373efe74ec8732b28d9403796e8de6133f2a36acca",
+      "sha256_fonte": "1ecce3f33728d9b169d810d48eac9bc0230e2cce31e7d54a3a20ece64f81b4b0",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/75c355fad5e252fb65d0d6710eb9c9295f6dba35d815d48f0e1f5f2ec7ace4cf.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1500-2007-sapl-2369.md",
+      "sha256": "846eba57e18b2e1bd77254c951258aed6ff18f4d8e76a232de1b26f90658fc47",
+      "sha256_fonte": "9579c1e67107dac17ddea8cc5e7757be7ae6652947f85ee51427a98366558a1c",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/3b12951333aa4c81421a4a845c29cbdd0b76963719eb156a261b9f818685913c.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            554,
+            126
+          ]
+        },
+        {
+          "texto": "\"Art. 1º Fica o Poder Executivo Municipal autorizado a transferir por doação à União para uso do Departamento de Polícia Federal, destinado a instalação do Núcleo Especial de Polícia Marítima - NEPOM, o bem imóvel de propriedade do município, com edificação, identificado por: Lote denominado \"K1\", (subdivisão do Lote \"K\") situado nesta cidade de Guaíra - Estado do Paraná, Área 16.764,92 m² tendo as seguintes medidas, limites e confrontações: NORTE: Confronta-se com o Rio Paraná, numa extensão de 247,42 metros e AZ 47º16`00\". LESTE: Confronta-se com o lote \"O\" - Remanescente, numa extensão de 81,88 metros e AZ 155º23`37,5\". SUL: Confronta-se com o lote \"K\"-2, numa extensão de 140,56 metros e AZ 247º31`46,3\" e 114,76 metros e AZ 276º16`43,9\". OESTE: Confronta-se com o lote \"K\"-2, numa extensão de 26,66 metros e AZ 317º15`48,6\". Contendo CONSTRUÇÃO: Comercial em alvenaria com área de 537,50 m², construído pela Companhia Mate Laranjeira, inicialmente utilizada como depósito, data de 1ª década de 1900 e possui as seguintes características: 1º) Edificação em alvenaria de tijolos, estrutura com 02 (dois) pavimentos: Área do pavimento térreo: 268,75 m²; área do Pavimento superior: 268,75 m², totalizando 537,50 m². 2º) Aberturas: As portas são em madeira almofada, com 02 (duas) folhas: Existem aberturas especiais para ventilação em ambos os pavimentos, vedadas com telas; 3º) Piso: No pavimento térreo o piso é de tijolos cerâmicos, rejuntados com argamassa; No pavimento superior o piso é de laje; 4º) Forro: O segundo piso não é forrado, sendo a estrutura coberta de (aparente); O forro do pavimento térreo é de laje com vigamento de ferro (trilhos e trem) e concretado com tijolos misturados a massa; 5º) A cobertura é com telhas de zinco fixadas em estrutura de madeira de Ipê (aparente): O telhado de (duas) águas foi construído com sistema de lantemim para ventilação; 6º) Revestimento: em alvenaria de tijolos aparente, interna e externa. (Considerada de relevante interesse histórico e cultural). Conforme memorial arquivado na Serventia de Registro de Imóveis de Guaíra, imóvel matriculado na Serventia de Registro de Imóveis da Comarca de Guaíra - PR, sob a matrícula nº 13.009\".",
+          "posicao": [
+            554,
+            138
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            619,
+            126
+          ]
+        },
+        {
+          "texto": "\"Art. 3º O imóvel ora doado não poderá ser vendido, doado ou transferido, a qualquer título, devendo o mesmo reverter ao patrimônio do Município de Guaíra, caso a União não venha a dar destinação a órgão ou entidade da administração federal.\"",
+          "posicao": [
+            619,
+            138
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1499-2007-sapl-2427.md",
+      "sha256": "825000b20fa68e7e12e6fbf8828239836a264bf15bf6c4985f37327bde7bab11",
+      "sha256_fonte": "c7a0825ddfbe1f5ac2f15db4bb8b3c50d166361e1a63220f46867522f31d0da3",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/34b5d1a3eb825880ad1be8793db5e6e5056206b019d376933cf5ca53130ca5ca.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1497-2007-sapl-2425.md",
+      "sha256": "ddeec2f6fdd326d9419dca6f20b756e270d342a5f291a6f6f4eb1351023854fe",
+      "sha256_fonte": "004d53224b24667a548be059802139446f4ecadd82edbfe4f287a84f36948a55",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/f9df81df4b2cead24fadc1238d8ee2e9c1093d039446f5a8cf27112f9d326921.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1496-2007-sapl-2424.md",
+      "sha256": "76726e2e97c5b36947913dc4c216ce18e5c5af29848d5af7e8b58328afbdcb3d",
+      "sha256_fonte": "d827f9e577f96f6da78c424361f16d3b39feb3a538e74beb4bfbacf808862c6e",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/563badb112b1949281996917d57f41905991e1ca7978bb8721a76fdf535aa129.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1494-2007-sapl-2422.md",
+      "sha256": "ee95008645ece875e2489ee599f8654949d6025afd554f8febe3c358abbb2ae9",
+      "sha256_fonte": "fb942b7a6fc926e2cffc66934882800f7098b3c8d97cc0dc83af475ee5386d9a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/3cbec66df5debee24efa435db17625146ad1a67874a3e0c26d4b79bc2a4d04a3.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1492-2007-sapl-2289.md",
+      "sha256": "dc79cb33fbfea80a2b45b23d356dfd4e0af5e5f146a30c5213ddf884341d65db",
+      "sha256_fonte": "db3c7e9bb58d4ee2f8a43d6f64809a5600e75f2993209c615ca88230bcc33ef2",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/2b686c656915d9aca36aeebc24f017eebe8b753192fd1bed4224d9296f69788b.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            554,
+            126
+          ]
+        },
+        {
+          "texto": "Fica o Poder Executivo Municipal autorizado a firmar convênio de cooperação técnico-financeira com a Central de Associações da Agropecuária Familiar do Oeste do Paraná - CAOPA, entidade sem fins lucrativos, inscrita no CNPJ sob o nº 01.296.242/0001-37, até 31 de dezembro de 2008, no valor anual limitado até R$ 20.000,00 (vinte mil reais), com o objetivo de criar uma Rede de Assistência Técnica e Extensão Rural - Rede de ATR, para o Projeto de Agricultura Orgânica da Bacia Hidrográfica do Rio Paraná III, aos Produtores Orgânicos de Guaíra, com ações de promoção da agricultura orgânica segundo os princípios, diretrizes e objetivos do Comitê Gestor do Projeto de Agricultura Orgânica da Bacia Hidrográfica do Rio Paraná III e da Política Nacional de Assistência Técnica de Extensão Rural do Ministério do Desenvolvimento Agrário e Secretaria da Agricultura Familiar, em parceria com a Itaipu Binacional, Ministério do Desenvolvimento Agrário, e com as Prefeituras Municipais de São Miguel do Iguaçu, Medianeira, Missal, Santa Helena, Entre Rios do Oeste, Pato Bragado, Marechal Cândido Rondon, Nova Santa Rosa, Quatro Pontes, Mercedes, Terra Roxa e Vera Cruz do Oeste.",
+          "posicao": [
+            554,
+            138
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1489-2007-sapl-2418.md",
+      "sha256": "d237ab287879a2958237646fbfc8b9f6d20786b575f52efe94c1cde876a834ea",
+      "sha256_fonte": "21e908c550914bb4ddfa455f6e3f859c8ce1f82d69cf8d8d1e5701e6232f238c",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/0f0fa3f573a081abd00b0c694bc218edffe15bbf8f54e3d2bad29ebfb49c9329.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1487-2007-sapl-2392.md",
+      "sha256": "2c9721c581b35ec5100dc084c878de0202797177e993fa3e8ed160ee47f0f944",
+      "sha256_fonte": "f0055b37a40bc85ad9434e86dae95a973b3346a03a1e51cc201ce25686d7d1bb",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/0e7ef74791e441a785863e9bd4b123b649178c04a3e0413e7cdfb51aaba82f7b.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            554,
+            126
+          ]
+        },
+        {
+          "texto": "O valor da alienação de cada imóvel será, no mínimo, o da avaliação com a devida atualização monetária até a data de sua venda, por ocasião da concorrência pública.",
+          "posicao": [
+            554,
+            138
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1483-2007-sapl-1982.md",
+      "sha256": "e2ae303507376711f9507e32cd75713a045e909fccd8f130ccf891eb5b5d02f0",
+      "sha256_fonte": "1e6a56c548f1688d11ef3353672b57ad5456669ec6755c9f4cbbf63ee6c38717",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/d2c2e0b28d02e5df88c82c841de449373f6d96381b15a37f3bf4fed29c8a2308.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            547,
+            126
+          ]
+        },
+        {
+          "texto": "Fica o Poder Executivo Municipal autorizado a efetuar edificação em alvenaria com área construída de até 110,00 m² no valor de até R$ 95.000,00 (noventa e cinco mil reais) e posteriormente efetuar doação em prol do Instituto Paranaense de Assistência Técnica e Extensão Rural - EMATER, da referida edificação juntamente com o imóvel localizado neste município, identificado por lote 16 (dezesseis) da quadra 66 (sessenta e seis), novo loteamento da Prefeitura Municipal de Guaíra, cidade de Guaíra, Estado do Paraná, com área de 546,45 m², com as seguintes confrontações: FRENTE: 13 metros em linha reta para a Rua Alvorada; LADO DIREITO: em linha reta de 44,8 metros com os lotes 17 e 18; LADO ESQUERDO: em linha reta de 39,27 metros com o lote 15; e aos FUNDOS: em linha reta 14,12 metros com o lote nº 6, registrado no Cartório de Registro de Imóveis de Guaíra sob a matrícula nº 1709 com as devidas averbações, para fins de implantação da sede própria da EMATER em Guaíra - PR.",
+          "posicao": [
+            547,
+            138
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            561,
+            137
+          ]
+        },
+        {
+          "texto": "Como contrapartida a EMATER obriga-se a realizar, pelo prazo de 19 (dezenove) meses, em regime de mútua cooperação, ações de planejamento, promoção, coordenação e execução de programas governamentais e institucionais de assistência técnica e extensão rural e outras orientadas ao incremento da produção e produtividade agrícolas para o fortalecimento do setor agrícola no município de Guaíra - PR, nos termos do Termo de Cooperação Técnico-Financeira 2006 firmado entre a EMATER e o Município de Guaíra - PR.",
+          "posicao": [
+            561,
+            157
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1479-2007-sapl-2410.md",
+      "sha256": "3cb830deb012a211bd5159e6f909e5bd90d5d8100a120176d2f4be374265e201",
+      "sha256_fonte": "a398a02c54f2a2eefbf85fe37b0e05836c485a1146ca6700f1e051e95dead3a3",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/0eac764f72763960e0953506b82bd378d07a0da5c01e945edf385af28a1bdf29.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1474-2007-sapl-2306.md",
+      "sha256": "541f349ba426a76eada1884ba8d78eaa16b26218952a1f656c103cef4b801830",
+      "sha256_fonte": "c11dcd8563399565e9054b5a26268e66410601681240986f9b3a0f4883cdc3af",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/7fa2d51761826ad0c5aed6ee3f5a0edf7a572c2f3635671d71929f0f02ceb185.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            561,
+            126
+          ]
+        },
+        {
+          "texto": "Fica o Poder Executivo autorizado a firmar concessão de uso do imóvel identificado por lote denominado \"Área de reserva Igreja - \"A\", da quadra nº 07, do loteamento \"Maracajú dos Gaúchos\", Zona Urbana, município e comarca de Guaíra, área de 9.747,24 m², tendo as seguintes confrontações: NORTE: Confronta-se com a Rua 03, mede em linha reta 120,00 metros; ESTE: Confronta-se com a Av. \"A\", mede em linha reta 38,00 metros, deflexão à esquerda, confrontando-se com a área de reserva Igreja Remanescente, mede em linha reta 47,30 metros, deflexão à direita, confrontando com a área reserva Igreja Remanescente, em linha reta 21,20 metros, deflexão à direita, confrontando com a área Reserva de Igreja Remanescente; mede em linha reta 47,30 metros, deflexão à esquerda confronta-se com a Av. \"A\", mede em linha reta 30,80 metros. SUL: Confronta-se com a Rua \"2\", mede em linha reta 115,00 metros; OESTE: Confronta-se com a rodovia PR-163 mede em linha reta 20,62 metros, confronta-se com a Rua 07, mede em linha reta 70,00 metros, registrado no Cartório de Registro de Imóveis de Guaíra sob a matrícula nº 11.398, com dispensa de concorrência pública, para a Associação dos Moradores e Pequenos Agricultores do Maracajú dos Gaúchos, CNPJ 05.757.145/0001-55, sem qualquer ônus para o Município e pelo prazo de 20 (vinte) anos.",
+          "posicao": [
+            561,
+            138
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1472-2007-sapl-2404.md",
+      "sha256": "d9139e9e32a94de74a420c68362da5952798a864ba05d54887f3f0211f67eb5c",
+      "sha256_fonte": "01c0ffe3cb686275bacbda867754d96a03a75f587c5427253f59a33c28f006b4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/4d91f65981e38eeea3828b632d32bad1f06269b5d9986dcafe5b3c8859eead6f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1458-2007-sapl-2388.md",
+      "sha256": "07b256fa4263d480fa6ec9071e2f180f267620a603f65cdb4f23d376a4058780",
+      "sha256_fonte": "6cc8a38d1baf93aa31c52413abf3314c5dca22075bdbbb690d10ab10989b7a44",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/23e77fda818fc72a0d5b53acd5424577b57663cf07d08188bfae340ab3632f19.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/guaira/leis-ordinarias/2007/leis-ordinarias-1457-2007-sapl-2389.md",
+      "sha256": "f10c5b6700ae4d2c0345024bdbf6456692e90e1cdbb84cc30c29025fbf106e51",
+      "sha256_fonte": "b29fcff11785c9e037371bc6aa738fe2973acb8c13be64d5f0950ca38fed0d1d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/0c3a48e1b8878a82581ae50333c506f386f5a21473f7a936288c52f0eacc477e.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    }
+  ],
+  "limite": "Texto fora do bloco pode ser histórico, alterado ou duplicado; retenção é preventiva, sem afirmar omissão antes de revisão. Os controles de seleção de vigência e de tokens por dispositivo continuam necessários."
+}

@@ -1,0 +1,439 @@
+---
+titulo: "Lei Ordinária nº 268, de 08 de dezembro de 2000"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "268"
+data: "2000-12-08"
+municipio: "Guadalupe"
+uf: "PI"
+codigo_ibge: "2204501"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guadalupe.pi.leg.br/norma/544"
+fonte_texto: "https://sapl.guadalupe.pi.leg.br/ta/540/text"
+sha256_fonte: "718793b1d68608b23c9ef4682a318a4f3ba46935650d8f1cc68c56e783eb248c"
+sha256_texto: "dcbe6ed3ce1d8a636b89bfc6e26d2c9f91afe0e867fb4ee0ef860c33c94777b4"
+capturado_em_fonte: "2026-10-28T12:55:32.922010-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 268, de 08 de dezembro de 2000
+
+Dispõe sobre as Diretrizes para elaboação da Lei Orçamentária para o exercício financeiro de 2001 e dá outras providências.
+
+
+O Prefeito Municipal de Guadalupe, Estado do Piauí. Faço saber que o Povo da Cidade de Guadalupe, por seus representantes, decreta, e eu em seu nome, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Ficam estabelecidos as diretrizes orçamentárias para o exercício financeiro de 2001, além de outras prioridades decorrentes da contratação de convênios que vizem a realização de investimentos, em particular na área social.
+
+
+Art. 2º.
+
+Constituem prioridades do Governo Municipal, a serem detalhadas como projetos, atividades e/ou ações na programação orçamentária do próximo exercício:
+
+
+I –
+
+Educação, cultura, esporte, lazer e turismo;
+
+
+II –
+
+Saúde pública, saneamento e meio ambiente;
+
+
+III –
+
+Ampliação e melhoria do sistema viário;
+
+
+IV –
+
+Melhoria habitacional rural e urbana;
+
+
+V –
+
+Promoção de programas de geração de emprego e renda;
+
+
+VI –
+
+Assistência ao idoso e ao adolescente, ao deficiente e a quem dela necessitar;
+
+
+VII –
+
+Melhoria da infra-estrutura da cidade e limpeza urbana;
+
+
+VIII –
+
+Investimentos no setor primário do município;
+
+
+IX –
+
+Política agrária e agricola;
+
+
+Art. 3º.
+
+Os objetivos básicos da presente Lei, estão de acordo com as prioridades do Plano Plurianual investimentos 1997/2001, aprovado pela Lei nº 241/97.
+
+
+Art. 4º.
+
+O orçamento para o exercício financeiro de 2001 obedecerá as diretrizes gerais fixadas nesta Lei, ao Art. 165, parágrafo 5º, 6º, 7º e 8º da Constituição Federal e será apresentando com a forma e o detalhamento estabelecido na Lei Federal nº 4.320 de 17 de março de 1964 e suas alterações, adotando na sua estrutura a Classificação de Despesas Quanto a sua Natureza e a Classificação Funcionaal-programátca da Despesa Orçamentária, atualizadas, sem prejuízo das normas financeiras da legislação em vigor.
+
+
+Art. 5º.
+
+No Projeto de Lei Orçamentária Anual, as Receitas e Despesas serão orçadas a preços de Agosto de 2000.
+
+
+§ 1º
+
+O montante das despesaas não poderá ser superior ao das receitas.
+
+
+§ 2º
+
+As Unidades Orçamentárias projetarão suas despesas correspondentes ao limite fixado para o exercício.
+
+
+§ 3º
+
+Os projetos em fase de execução terão prioridade sobre novos projetos.
+
+
+Art. 6º.
+
+O Projeto de Lei Orçamentária Anual que o Poder Executivo encaminhará à Câmara Municpal e a respectiva Lei serão constituídas de:
+
+
+I –
+
+Mensagem;
+
+
+II –
+
+Texto da Lei;
+
+
+III –
+
+Consolidação dos quadros orçamentários;
+
+
+IV –
+
+Demosntrativos da Receita e da Despesa sugundo a categoria econômica;
+
+
+V –
+
+Demonstrativo da despesa por Unidade Orçamentária, segundo a categoria econômica;
+
+
+VI –
+
+Sumário geral das Receitas por fonte e Despesas por Função de Goerno;
+
+
+VII –
+
+Consolidação Geral da Despesa;
+
+
+VIII –
+
+Programa de trabalho;
+
+
+IX –
+
+Demonstrativo de funções, programas e sub-programas por projetos e atividades;
+
+
+X –
+
+Demonstrativo de funções, programas e sub-programas, conforme o vínculo com os recursos;
+
+
+XI –
+
+Demonstrativo da despesa por órgão e função;
+
+
+XII –
+
+Tabela explicativa da Receita e da Despesa;
+
+
+XIII –
+
+Tabela explicativa geral da Despesa;
+
+
+XIV –
+
+Quadro discriminativo da reeceita por fontes e respectiva legislação;
+
+
+XV –
+
+Quadro de detalhamento da despesa;
+
+
+Art. 7º.
+
+O disposto no Inciso IV do § 1º do Art. 2º da Lei 4.320, de 17 de março de 1964, discrimina a despesa do Orçamento Fiscal por poder, órgão e Unidade Orçamentária em dois quadros específicos. O primeiro será apresentado de acordo com a nova classificação funcional - programática, nos níveis de atividade e projetos, e o segundo por categoria econômica, detalhada a nível de grupos de despesa na forma de esquemaestabelecido na classificação pela natureza da despesa de que trata o Artigo 4º da Presente Lei, a saber:
+
+
+Grupo 1 - Pessoal e encargos sociais;  
+Grupo 2 - Juros e encargos da dívida interna;  
+Grupo 3 - Juros e encargos da dívida externa;  
+Grupo 4 - Outras despesas correntes;  
+Grupo 5 - Investimentos;  
+Grupo 6 - Inversões financeiras;  
+Grupo 7 - Amortização e refinamento da dívida interna;  
+Grupo 8 - Amortização e refinamento da dívida externa;
+
+
+§ 1º
+
+Na sua classificação funcional-programática, os projetos e atividades serão enquadradas nas funções, programas e sub-programas que melhor atendam a seus objetivos, independetemente da natureza da unidae executora.
+
+
+§ 2º
+
+Cada projeto ou atividade somente constará em uma única esfera orçamentária.
+
+
+Art. 8º.
+
+Na Lei Orçamentária só será considerada como crédito especial a inclusão de novos projetos e atividades, enquanto que a inclusão de novos projetos de despesas nas unidades orçamentárias e o remanejamento de dotações que não altere o valor total do projeto ou da atividade, proceder-se-á através de decreto do Executivo, e o valor não será computado no limite legalmente autorizado pelo Poder Legislativo Municipal para abertura de créditos suplementares.
+
+
+Art. 9º.
+
+De conformidade com o Artigo 7º da 4.320, de 17 de março de 1967, o projeto da Lei Orçamentária Anual, poderá conter autorizações destinadas a:
+
+
+I –
+
+Realização de Operações de crédito, por antecipação de receita;
+
+
+II –
+
+Abertura de créditos suplementares nos termos dos Artigos 42 e 43 da referida Lei.
+
+
+Art. 10.
+
+O emprego do elemento de despesa 4590.99 - Investimento em Regime de execução Especial - somente será permitido para projetos ou atividades novos.
+
+
+Art. 11.
+
+Acompanharão os projetos relativos a créditos adicionais, exposições de motivos circunstaciados que os justifiquem e que indiquem as consequências dos cancelamentos de dotações propostos sobre a execução dos projetos e atividades atingidos e das correspondentes metas.
+
+
+Art. 12.
+
+Na programação da despesa não poderão ser fixadas despesas sem que estejam definidas as respectivas fontes de recursos e legalmente instituídas as unidades executoras.
+
+
+Art. 13.
+
+As ações de expansão serão programadas na Lei Orçamentária, observados os seguintes princípios
+
+
+I –
+
+Os investimentos em fase de execução, terão preferencia sobre os novos projetos, desde que observem em qualquer hipótese o interesse social de maior abrangência;
+
+
+II –
+
+Os investimentos a serem executados em regime de parceria terão prioridade sobre os demais;
+
+
+III –
+
+Não poderão ser programados novos projetos sem prévia comparação de sua viabilidade técnica, econômica e financeira;
+
+
+Art. 14.
+
+A realização da dívida de serviço de pessoal e de encargos sociais, terá prioridade sobre a ação de expansão.
+
+
+Art. 15.
+
+O Município aplicará na Educação o que preceitua a legislação em vigor, sendo 15% (quinze por cento) do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e Valorização do Magistério - FUNDEF e outros 15% (quinze por cento) de sua Receita, resultante de impostos e transferência, prioritamente na manutenção e no desenvolvimento de ensino, conforme Art. 112 da Constituição Federal, Art. 223 da Constituição Estadual, Lei Orgânica do Município e Art. 11º da Lei federal nº 9.424/96.
+
+
+Art. 16.
+
+O Município aplicará o título de transferência a Câmara Municipal de Guadalupe 7% (sete por cento) de sua receita corrente, sendo que 6% (seis por cento) será alocado como subsídios dos Vereadores e custeio do pessoal e encargos sociais e os outros 1% (um por cento) para as demais despesas de custeios da Casa Legislativa.
+
+
+Art. 17.
+
+As despesas com pessoal ativos e inativos no exercício de 2001, dos poderes Executivo e Legislativo, não poderão exceder a 54% (cinquenta e quatro por cento) e 6% (seis por cento) respectivamente, conforme estabelece a Lei Complementar 101 de 05 de 05 de 2000.
+
+
+I –
+
+Salários;
+
+
+II –
+
+Encargos sociais;
+
+
+III –
+
+Proventos de aposentados e pensões;
+
+
+IV –
+
+Remuneração do Prefeito e Vice Prefeito, Secretáriios e Vereadores;
+
+
+§ 1º
+
+A concessão de qualquer vantagem ou aumento de remuneração além dos índices inflacionários oficiais, a criação de cargos ou alterações na estrutura da carreira, bem como admissão de pessoal, a qualquer título, pelo órgao ou entidade da Administração direta, só poderá ser feita se houver prévia dotação orçamentária, suficiente para atender as projeções de despesas até o final do exercicio financeiro, obedecido o limite caput deste artigo.
+
+
+Art. 18.
+
+O orçamento da Ação Social compreenderá as dotações destinadas as ações das áreas de saúde, saneamento e assistência social e contará, dentre outras, com recursos provenientes:
+
+
+I –
+
+Dotações consigndas para as entidades que integram o orçamento;
+
+
+II –
+
+De recurso do Tesouro Nacional;
+
+
+III –
+
+De recursos repassados por convênios fixados com os Governos Estadual e Federal.
+
+
+Art. 19.
+
+Fica autorizada a concessão de subvenção ou ajuda financera, somente a entidade sem fins lucrativos, de natureza continuada, reconhecidas de Utilidades Públicas nas áreas de Educação, Artes Cultura, esporte, saúde e Assitência Social, e só poderá ser efetuada através de requerimento da beneficiária, instruídos com os seguintes documentos, devidamente autenticados:
+
+
+I –
+
+Cópia da ata da última eleição da Diretoria;
+
+
+II –
+
+Plano de trabalho proposto pela instituição interessada e cumprir as exigências contidas nos Incisos de I a IV do Artigo 116 da Lei Federal nº 8.666 de 21 de junho de 1993, ou paridade com o preço de mercado;
+
+
+§ 1º
+
+Os pagamentos serão efetuados após aprovação pelo Poder Executivo, dos planos de aplicação apresentados pelas entidades beneficiárias.
+
+
+§ 2º
+
+Os prazos para a prestação de contas serão fixados pelo Poder Executivo, dependendo do plano de aplicaçção, não podendo ultrapassar 30 dias do encerramento do exercício.
+
+
+§ 3º
+
+Fica vedada a concessão de ajuda financeira as entidades que não prestarem contas dos recursos anteriores recebidos, assim com as que não tiveram suas contas aprovadas pelo Poder Executivo Muncipal.
+
+
+Art. 20.
+
+O Projeto de Lei Orçamentária Anual será apreciado pela Câmara Municipal na forma do seu Regimento Interno.
+
+
+Parágrafo único
+
+As emendas ao Projeto de Lei Orçamentária Anualou aos Projetos que o modifiquem somente poderão ser aprovado caso:
+
+
+I –
+
+Sejam compatíveis com o Plano Plurianual e com a Lei de Diretrizes Orçamentárias;
+
+
+II –
+
+Indiquem os recursos necessários, admitidos apeas os provenientes de anulação de despesas, excluídas as que indiquem sobre:
+
+
+a)
+
+Dotação para Pessoal e seus encargos;
+
+
+b)
+
+FUNDEF - VM
+
+
+III –
+
+Sejam relacionados com:
+
+
+a)
+
+A correção de erros e omissões;
+
+
+b)
+
+Os dispositivos do texto ddo Projeto de Lei.
+
+
+Art. 21.
+
+O orçamento da Câmara Municipal de Guadalupe fará parte do Orçamento Geral do Município para o exercício de 2001, a título de transferência, sendo que o Quadro de Detalhamento de Despesa ficará a cargo da Câmara Municipal.
+
+
+Art. 22.
+
+As operações de créditos por antecipação de receitas, contratada pelo Município, deverão ser integralmente liquidadas até o final do Exercício Financeiro, sendo que não poderá ultrapassar a 30% (trinta por cento) do previsto para investimento.
+
+
+Art. 23.
+
+O Prefeito Municipal enviará no prazo estabelecido pela Lei Orgânica do Município o Projeto de Lei Orçamentária a Câmara Municipal, que o apreciará até o final da Sessão Legislativa, desenvolvendo-o para sanção
+
+
+Art. 24.
+
+Esta Lei entra em vigor na data de sua publicação, revogado as disposições em contrário.
+
+
+Gabinete do Prefeito Muniipal de Guadalupe - Piauí, aos oito dias do mês de dezembro de dois mil.  
+  
+Georgiano Fernandes Lima Filho  
+Prefeito Municipal
+

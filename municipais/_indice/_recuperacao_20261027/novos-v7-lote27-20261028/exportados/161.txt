@@ -1,0 +1,164 @@
+---
+titulo: "Lei Ordinária nº 1.211, de 20 de agosto de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1211"
+data: "2026-08-20"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/6134"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/2618/text"
+sha256_fonte: "69964c298a96b0287ada5919e090452423f21787315f9252701f582f115f3e2f"
+sha256_texto: "0f62162221e64f5e5e7178172fefba36b6aadf5294d2838c09619734a1789715"
+capturado_em_fonte: "2026-10-28T11:00:02.630529-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.211, de 20 de agosto de 2026
+
+Institui o Programa Municipal Criança Segura e Ativa, dispõe sobre as regras de abertura, uso e limpeza de quadras esportivas escolares nos fins de semana, cria o Selo "Instituição Segura para a Infância" no âmbito do Município de Formosa - GO.
+
+
+Projeto de Lei Ordinária nº 96/26, de autoria do Vereador Flávio Rodrigues Pacheco, aprovado em 11 de agosto de 2026.
+
+A PREFEITA MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais conferidas pela Constituição Federal e nos termos do Inciso III do art. 69 da Lei Orgânica Municipal, de 5 de abril de 1990, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído o Programa Municipal Criança Segura e Ativa no Município de Formosa - GO, com o objetivo de promover o desenvolvimento físico, cultural e social de crianças e adolescentes, além de fortalecer a rede comunitária de proteção contra abusos e violência.
+
+
+Art. 2º.
+
+São diretrizes do programa:
+
+
+I –
+
+a ocupação ordenada de espaços públicos e escolares com atividades de esporte e lazer nos períodos de contraturno, finais de semana e recessos;
+
+
+II –
+
+a prevenção ativa à violência doméstica, sexual, psicológica e ao bullying infantojuvenil;
+
+
+III –
+
+o fortalecimento dos canais de comunicação entre a comunidade, as direções escolares e o Conselho Tutelar de Formosa.
+
+
+#### CAPÍTULO I — DO USO ORDENADO E DA LIMPEZA DAS QUADRAS ESPORTIVAS
+
+
+Art. 3º.
+
+Fica autorizada a abertura e o uso das quadras poliesportivas das escolas da rede municipal de ensino de Formosa aos sábados, e feriados, observadas as seguintes regras de segurança e funcionamento:
+
+
+I –
+
+horário de funcionamento: o uso das dependências esportivas ficará restrito ao período de 4 horas, sendo expressamente proibida a permanência de usuários no período noturno;
+
+
+II –
+
+cadastro e agendamento prévio: o acesso à quadra dependerá de agendamento semanal junto à direção da escola ou ao responsável voluntário designado, mediante apresentação de documento de identidade do organizador responsável pelo grupo;
+
+
+III –
+
+termo de responsabilidade: o grupo usuário assinará um Termo de Responsabilidade Coletiva, assumindo o compromisso de zelar pela conservação do espaço e devolução dos materiais utilizados;
+
+
+IV –
+
+obrigatoriedade da limpeza: o grupo responsável pelo horário deverá, obrigatoriamente, recolher todo o lixo gerado durante a atividade e recolocá-lo nas lixeiras indicadas, deixando a quadra e os banheiros limpos para o próximo grupo ou para o início das aulas regulares na segunda-feira;
+
+
+V –
+
+proibição de bebidas e entorpecentes: fica terminantemente proibida a entrada, a comercialização e o consumo de bebidas alcoólicas, cigarros, derivados do tabaco ou qualquer substância ilícita nas dependências internas e no entorno imediato da unidade escolar;
+
+
+VI –
+
+restrição de acesso: o acesso dos usuários cadastrados ficará restrito única e exclusivamente à área da quadra poliesportiva e aos banheiros adjacentes, permanecendo trancadas as demais salas de aula e blocos administrativos.
+
+
+Art. 4º.
+
+O descumprimento das regras de conservação, limpeza ou conduta sujeitará o grupo responsável às seguintes penalidades administrativas, a serem registradas e aplicadas pela direção da unidade escolar:
+
+
+I –
+
+advertência por escrito na primeira ocorrência de falta de limpeza ou descuidos leves;
+
+
+II –
+
+suspensão do direito de agendamento por 30 (trinta) dias em caso de reincidência na falta de limpeza;
+
+
+III –
+
+suspensão do direito de agendamento por até 1 (um) ano e obrigação de ressarcimento financeiro integral em caso de depredação, vandalismo ou danos físicos ao patrimônio público.
+
+
+#### CAPÍTULO II — DA PROTEÇÃO E ENFRENTAMENTO À VIOLÊNCIA
+
+
+Art. 5º.
+
+Fica criado o Selo "Instituição Segura para a Infância", a ser concedido a organizações esportivas, culturais e religiosas privadas ou filantrópicas que comprovem:
+
+
+I –
+
+a capacitação periódica de seus funcionários, professores e voluntários para a identificação de sinais de abuso, negligência e violência contra menores;
+
+
+II –
+
+a adoção de protocolos rígidos de segurança interna e canais de denúncia direta aos órgãos competentes.
+
+
+Art. 6º.
+
+Fica determinada a obrigatoriedade de afixação de cartazes ou alertas digitais com fotos e informações de crianças e adolescentes desaparecidos nos canais digitais de comunicação oficial da Câmara Municipal e em telas informativas do transporte público coletivo de Formosa.
+
+
+#### CAPÍTULO III — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 7º.
+
+O Poder Executivo poderá regulamentar a presente Lei, no que couber, para garantir a sua fiel execução.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete da Prefeita, 20 de agosto de 2026.
+
+SIMONE DIAS RIBEIRO DE MELO  
+Prefeita Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra
+
+Iany Macedo Troncha  
+Assessora I – Assessoria em Atos Oficiais  
+na Subprocuradoria Geral Consultiva  
+Decreto nº 1.711, de 28 de abril de 2025
+

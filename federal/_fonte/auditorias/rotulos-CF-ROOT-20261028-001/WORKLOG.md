@@ -1,0 +1,1 @@
+Os rótulos da Constituição Federal no plano e na tabela de fontes passam a identificar o texto como compilado, com a edição no cabeçalho. A descrição não certifica vigência jurídica na data atual. Metas e caminhos preservados; comparação da AST comprova que somente a string do rótulo mudou no plano. O corpo constitucional não foi editado.

@@ -1,0 +1,91 @@
+---
+titulo: "Lei Ordinária nº 1.093, de 27 de dezembro de 1996"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1093"
+data: "1996-12-27"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/1931"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/455/text"
+sha256_fonte: "8c727ca578575801ad119210c1f1ddb7983caac2359c393d376aa857103793fe"
+sha256_texto: "2424cc1d717976aaf83be85667732b5604631c281844179289d920dd10169d68"
+capturado_em_fonte: "2026-10-28T13:34:34.551072-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.093, de 27 de dezembro de 1996
+
+Transfere para a categoria dominical bem de uso comum do povo para fim de desafetação a área de 960,00 m² e doa à APEC a área total de 4.400 m².
+
+
+A Câmara Municipal de Guaíra, estado do Paraná, aprovou, e eu, Prefeita Municipal, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica transferida de categoria de bem de uso comum do povo para categoria de bem dominical a área de 960,00 m² subdivisão da rua Dr. Miani, do novo loteamento da Prefeitura Municipal de Guaíra, cidade de Guaíra, Estado do Paraná, delimitando-se: FRENTE: para a Rua Carlos Gomês, em linha reta 12,00 metros; LADO DIREITO: para a Rua Dr. Miani, em linha reta 80,00 metros; LADO ESQUERDO: para a rua Dr. Miani, em linha reta 80,00 metros e FUNDO: para a Avenida Barão do Rio Branco, em linha reta 12,00 metros (observador colocado no interior do lote em referência olhando para a Rua Carlos Gomes).
+
+
+Art. 2º.
+
+Fica o Prefeito Municipal autorizado a alienar, por doação, à APEC - Associação Paranaense de Ensino e Cultura, com sede em Umuarama, áreas integrantes do novo loteamento da Prefeitura Municipal de Guaíra, cidade de Guaíra, Estado do Paraná, compreendendo:
+
+
+a)
+
+960,00 m² subdivisão da rua Dr. Miani, do novo loteamento da Prefeitura Municipal de Guaíra, cidade de Guaíra, Estado do Paraná, delimitando-se: FRENTE: para a Rua Carlos Gomes, em linha reta 12,00 metros; LADO DIREITO: para a rua Dr. Miani, em linha reta 80,00 metros; LADO ESQUERDO: para a rua Dr. Miani, em linha reta 80,00 metros e FUNDO: para a Avenida Barão do Rio Branco, em linha reta 12,00 metros (observador colocado no interior do lote em referência olhando para a Rua Carlos Gomes);
+
+
+b)
+
+3.440,00 m² da quadra 80-A, subdivisão da quadra 80, do novo loteamento da Prefeitura Municipal de Guaíra, cidade de Guaíra, Estado do Paraná, delimitando, FRENTE: para a rua Carlos Gomes, em linha reta 43,00 metros; LADO DIREITO: com a quadra nº 80-Remanescente, em linha reta 80,00 metros; LADO ESQUERDO: para a rua Dr. Miani, em linha reta 80,00 metros e FUNDO: para a Avenida Barão do Rio Branco, em linha reta 43,00 metros (observador colocado no interior da quadra em referência olhando para a rua Carlos Gomes).
+
+
+Art. 3º.
+
+A presente doação terá por encargo a implantação de obras complementares do Centro de Ensino Superior de Guaíra - CEUG/UNIPAR nas áreas descritas no caput do art. 2º, com prazo de 24 meses para a conclusão, a partir da publicação desta lei.
+
+
+Parágrafo único
+
+Na hipótese de não se implantarem esses encargos ou de mudança da finalidade do imóvel doado, a doação se revogará automaticamente revertendo os imóveis à posse e domínio do Município.
+
+
+Art. 4º.
+
+Fica a Prefeitura Municipal obrigada a construir nova unidade escolar, destinada à relocação da Escola Irmã Leônia, devendo:
+
+
+1
+
+o novo terreno situar-se menos de 500,00 (quinhentos) metros do atual;
+
+
+2
+
+a área do novo terreno bem como a área construída de nova unidade escolar não ser inferior a atual, com área de esporte e hortaliça, conforme matrícula nº 10.313, do Cartório de Registro de Imóveis de Guaíra.
+
+
+Art. 5º.
+
+A posse e o domínio real do imóvel pela APEC - Associação Paranaense de Ensino e Cultura efetivará após o cumprimento do previsto no artigo anterior.
+
+
+Art. 6º.
+
+Esta lei entrará em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura Municipal de Guaíra 25 de novembro de 1996.  
+  
+ADA MAFALDA BENASSI DA SILVEIRA  
+Prefeita Municipal
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

@@ -1,0 +1,246 @@
+---
+titulo: "Lei Ordinária nº 365, de 19 de abril de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "365"
+data: "2010-04-19"
+municipio: "Guadalupe"
+uf: "PI"
+codigo_ibge: "2204501"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guadalupe.pi.leg.br/norma/85"
+fonte_texto: "https://sapl.guadalupe.pi.leg.br/ta/272/text"
+sha256_fonte: "98be37cd1bbeea5b42c11c07b3c28847f50c3a279865809e023485218597d6d2"
+sha256_texto: "c6e448e42e6fef94eb2aa400834472ffc88775869ae508b619de1d595fab4011"
+capturado_em_fonte: "2026-10-28T12:52:08.745252-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 365, de 19 de abril de 2010
+
+Dispõe sobre a instituição do Conselho Municipal de Desenvolvimento Rural Sustentável - CMDRS.
+
+
+O PREFEITO DO MUNICÍPIO DE GUADALUPE, ESTADO DO PIAUÍ, no uso das prerrogativas que lhe são atribuídas pela Lei Orgânica do Município, FAZ saber que o Poder Legislativo Municipal aprovou e ele, em nome do povo guadalupense, sanciona, a seguinte Lei:
+
+
+#### CAPÍTULO I — Do Conselho Municipal de Desenvolvimento Rural Sustentável
+
+
+Art. 1º.
+
+Fica instituído o Conselho Municipal de Desenvolvimento Rural sustentável - CMDRS do município de Guadalupe, órgão deliberativo, opinativo e gestor do desenvolvimento rural do município.
+
+
+Art. 2º.
+
+Compete ao Conselho Municipal de Desenvolvimento Rural Sustentável:
+
+
+I –
+
+a elaboração do plano de desenvolvimento rural sustentável do município, bem como assegurar a participação das comunidades rurais e agricultores familiares na elaboração do referido plano;
+
+
+II –
+
+acompanhar e avaliar, de forma efetiva e permanente, a execução das ações previstas no plano municipal de desenvolvimento rural sustentável;
+
+
+III –
+
+propor ao Executivo e ao Legislativo municipais, bem como aos órgãos e as entidades públicas e privadas que atuam no município, políticas públicas e ações que contribuam para o aumento da produção agropecuária e para a geração de ocupações produtivas de renda no meio rural;
+
+
+IV –
+
+formular e sugerir políticas públicas e diretrizes juntos aos poderes Executivos e Legislativos municipais para fundamentar ações de apoio a produção; ao fomento agropecuário; à regularidade da produção, distribuição e consumo de alimentos no município; à preservação/recuperação do meio ambiente e a organização dos agricultores familiares, buscando sua promoção social;
+
+
+V –
+
+articular com outros conselhos, órgãos e instituições que realizem ações que tenham como objetivo a consolidação da família no meio rural;
+
+
+VI –
+
+articular com entidades públicos estaduais e federais a compatibilização entre políticas municipais e regionais e as políticas estaduais e federais voltadas para o desenvolvimento rural sustentável;
+
+
+VII –
+
+buscar a inclusão no Plano Plurianual (PPA) e na Lei de Diretrizes Orçamentária (LDO), os objetivos a ações do Plano Municipal de Desenvolvimento Rural Sustentável;
+
+
+VIII –
+
+identificar e quantificar as necessidades do crédito junto às instituições financeiras que atuem com crédito rural para financiar os projetos de Agricultura Familiar: os agricultores das áreas irrigadas; em especial atenção o pequeno produtor de sequeiro, tendo em vista suas dificuldades para produzir, viabilizando assim meios de garantir sua produção e comercialização;
+
+
+IX –
+
+buscar a qualificação dos profissionais que atuam no meio rural na área do município, através da promoção de cursos de capacitação, através de instituições como: SENAR; SEBRAE; SENAI; SENAC;
+
+
+X –
+
+exercer todas as competências e atribuições que lhe forem cometidas.
+
+
+XI –
+
+firmar parcerias com o Instituto de Assistência Técnica e Extensão Rural do Piauí - EMATER, Sindicato dos Trabalhadores Rurais, associações e cooperativas do município, bem como instituições não governamentais que tenham por finalidade a produção agrícola e pecuária;
+
+
+XII –
+
+realizar a cada dois anos a Conferência Municipal de Agricultura e Desenvolvimento Sustentável.
+
+
+#### CAPÍTULO II — Da Composição e da Forma de Atuação
+
+
+Art. 3º.
+
+O CMDRS será formado por titulares e suplentes, indicados pelo poder público municipal, sociedade civil organizada e representantes dos trabalhadores rurais, sendo que deverá ser observado o mínimo de 50% (cinqüenta por cento) de representantes das entidades representativas dos agricultores familiares.
+
+
+§ 1º
+
+Os conselheiros e titularás devem ser indicados formalmente, pelas organizações e entidades que representam:
+
+
+a)
+
+para conselheiros titulares e suplentes indicados por órgãos e entidades públicas, a indicação deverá ser feita em papel timbrado e assinado pelo responsável pelo órgão;
+
+
+b)
+
+para conselheiros titulares e suplentes indicados por comunidades ou bairros rurais onde haja associação constituída, a escolha deverá ser feita em reunião especifica para este fim e deverá ser assinada pelo presidente;
+
+
+c)
+
+para conselheiros titulares e suplentes indicados por comunidades ou bairros rurais onde não haja associação constituída, a indicação deverá ser feita em reunião específica para este fim e deverá ser lavrada a respectiva ata, assinada pelos presentes;
+
+
+d)
+
+as indicações serão encaminhadas ao Prefeito Municipal para publicação através de decreto municipal.
+
+
+§ 2º
+
+Os membros titulares terão direto a voz e voto, cabendo aos suplentes iguais direitos somente na ausência dos titulares.
+
+
+Art. 4º.
+
+O mandato dos membros do CMDRS será de 2 (dois) anos, podendo ser prorrogado por igual período.
+
+
+Art. 5º.
+
+As reuniões do CMDRS serão abertas ao público que terá direto a voz.
+
+
+Art. 6º.
+
+As reuniões serão o único instrumento de deliberação do CMDRS, realizadas ordinariamente a cada mês e extraordinariamente, quando convocada pelo seu presidente ou por 1/3 dos seus membros titulares.
+
+
+Art. 7º.
+
+As reuniões e decisões somente poderão ser tomadas com a presença de no mínimo 50% (cinqüenta por cento) dos conselheiros, devendo ser entregue instrumento de convocação a cada conselheiro com antecedência mínima de 24 (vinte e quatro) horas.
+
+
+Art. 8º.
+
+O CMDRS poderá para o bom desempenho de suas funções, convidar entidades da esfera municipal, estadual e federal, bem como entidades privadas, sindicais e correlatas a fim de lhe prestar serviço.
+
+
+#### CAPÍTULO III — Do Fundo Municipal de Desenvolvimento Rural Sustentável
+
+
+Art. 9º.
+
+Fica criado o Fundo Municipal de Desenvolvimento Rural Sustentável - FMDRS, que será gerido e administrado segundo o Plano de Aplicação e elaborado pelo CMDRS.
+
+
+Art. 10.
+
+O Fundo Municipal de Desenvolvimento Rural Sustentável - FMDRS tem por objetivo a captação, o repasse e aplicação de recursos destinados ao desenvolvimento rural sustentável do município.
+
+
+Art. 11.
+
+São receitas FMDRS:
+
+
+I –
+
+dotação consignada anualmente no Orçamento Municipal e as verbas adicionais que a lei estabelecer no decurso de cada ano;
+
+
+II –
+
+oações de pessoas físicas e jurídicas, auxílios, contribuições, transferências de entidades nacionais, internacionais, governamentais e não governamentais;
+
+
+III –
+
+Produto de aplicações financeiras dos recursos disponíveis, respeitada a legislação em vigor e de materiais, publicações e eventos;
+
+
+IV –
+
+recursos oriundos da prestação de serviços, conforme previsto no Plano Municipal de Desenvolvimento Rural Sustentável.
+
+
+V –
+
+recursos advindos de convênios, acordos e contratos firmados entre o município e instituições privadas ou públicas, nacionais ou internacionais, federais, estaduais ou municipais, para repasse a entidades executoras de programas integrados do PMDRS.
+
+
+Parágrafo único
+
+As receita descritas neste artigo serão recolhidas obrigatoriamente em conta específica a ser aberta e mantida em agência bancária do Município.
+
+
+Art. 12.
+
+O Fundo Municipal de Desenvolvimento Rural Sustentável - FMDRS, será regulamento por decreto municipal.
+
+
+#### CAPÍTULO IV — Das Disposições Finais e Transitórias
+
+
+Art. 13.
+
+Para os efeitos desta lei considera-se agricultor familiar aquele reconhecido pela lei 11.326, de 24 julho de 2006, art. 3º, I, II, III, IV e § 1º e 2º, III, III, IV.
+
+
+Art. 14.
+
+O CMDRS elaborará seu regimento interno para o seu regular funcionamento, obedecendo-lhes os princípios fundamentais quanto aos objetivos, composição, atribuições e funcionamento.
+
+
+Art. 15.
+
+A presente lei não gerará ônus para a municipalidade, onde a participação dos membros será considerada como serviço de relevante interesse público.
+
+
+Art. 16.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Guadalupe, Estado do Piauí, em dezenove de abril de dois mil e dez.  
+  
+Wallem Rodrigues Mousinho  
+Prefeito Municipal
+

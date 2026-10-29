@@ -1,0 +1,77 @@
+---
+titulo: "Lei Ordinária-GPREF nº 2.762, de 26 de agosto de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2.762"
+data: "2022-08-26"
+municipio: "Guarujá do Sul"
+uf: "SC"
+codigo_ibge: "4206603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guarujadosul.sc.leg.br/norma/3005"
+fonte_texto: "https://sapl.guarujadosul.sc.leg.br/ta/1621/text"
+sha256_fonte: "29ec1d1919cd6354c7f2196478a571b754c0879fb5b27a9eaa3f1167f3f4dab1"
+sha256_texto: "f75e48d4a0c0dcd8de28fa71e03d30b273e253b3c329c9193806f171977d524e"
+capturado_em_fonte: "2026-10-28T13:38:15.430324-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-GPREF nº 2.762, de 26 de agosto de 2022
+
+O Prefeito Municipal de Guarujá do Sul, Estado de Santa Catarina, usando da competência que lhe confere a Legislação em Vigor, e, em especial a Lei Municipal nº 753/87 de 07 de agosto de 1987, em seu capítulo I, Artigo 2º, Parágrafo 2º e a alterada pela Lei Complementar 27/2015 de 15 de março de 2016, e o Artigo 9º, alterado pela Lei 1.811/2006, de 24 de abril de 2006, e Art. 20 da Lei 768/87 de 30 de setembro de 1987, alterado pela Lei Complementar nº 10/2012 de 09 de novembro de 2012.
+
+
+Art. 1º.
+
+Fica aprovado em toda sua integra, forma e teor, o DESMEMBRAMENTO DO LOTE URBANO nº 01-D (um “D”), sem acessões, com a área de 1.085,42m² (Hum mil e oitenta e cinco metros e quarenta e dois decímetros quadrados), de propriedade de SALÉSIO BACKES e sua esposa VANIA MARIA BACKES, situado na Rua Octávio Reinoldo Diehl, matriculado no Ofício do Registro de Imóveis da Comarca de São José do Cedro, Estado de Santa Catarina, sob nº. 14.936. Com o desmembramento do solo as áreas passam a constituir dois lotes com a respectiva área de 1.074,44m² e 10,98m², conforme memorial, ART e mapa assinado pelo Engenheiro Agrônomo Maicol Kirchner Schenkel, CREA/SC 099579-4;
+
+
+IMÓVEL PRIMITIVO 01 – matrícula 14.936: LOTE URBANO NÚMERO 1-D (um “D”), da quadra 59 (cinquenta e nove), com área de 1.085,42m² (um mil, oitenta e cinco metros e quarenta e dois decímetros quadrados), sem acessões, situado na Rua Antônio Duarte da Rosa, na cidade de Guarujá do Sul, Estado de Santa Catarina, com as seguintes medidas e confrontações:  
+ao NOROESTE, com a Rua Octávio Reinoldo Diehl, medindo 17,72 metros, com parte do mesmo lote suburbano número 01, parte da chácara número 06, por linha seca, medindo 8,72 metros, e com parte do lote urbano número 01.C, DA QUADRA 59, medindo 7,45 metros; ao NORDESTE, com parte do mesmo lote suburbano número 01, parte da chácara número 06, por linha seca, medindo 26,94 metros, com a Rua Antônio Duarte da Rosa, medindo 29,35 metros, com parte do lote urbano número 01.C, da quadra número 59, medindo 15,69 metros; ao LESTE, com parte do lote urbano número 01, da matrícula número 11.876, medindo 16,20 metros, e parte do lote urbano número 01, da matrícula número 11.874, medindo 13,26 metros; ao SUDESTE, com parte do lote urbano número 01.C, da quadra número 59, medindo 25,30 metros; ao SUDOESTE, com parte da chácara número 06, matrícula número 464, medindo 90,10 metros; e ao OESTE, com parte do mesmo lote suburbano número 1, parte da chácara número 06, medindo 9,40 metros.
+
+IMÓVEL DESMEMBRADO 01: PARTE DO LOTE URBANO NÚMERO 1-D (um “D”), da quadra 59 (cinquenta e nove), com área de 10,98m² (dez metros e noventa e oito decímetros quadrados), sem acessões, situado na Rua Antônio Duarte da Rosa, na cidade de Guarujá do Sul, Estado de Santa Catarina, com as seguintes medidas e confrontações: ao SUDESTE, com o lote urbano número 01.D, de propriedade de Salesio Backes e Cônjuge, sob matrícula número 14.936, medindo 2,94 metros, por linha seca; ao OESTE, com parte do lote suburbano número 1, parte da chácara número 06, de propriedade de Clair Malagutti Kafer e Cônjuge, sob matrícula número 12.672, medindo 8,04 metros, por linha seca; e ao NORDESTE, com a Rua Antônio Duarte da Rosa, medindo 7,48 metros.
+
+IMÓVEL REMANESCENTE 01: PARTE DO LOTE URBANO NÚMERO 1-D (um “D”), da quadra 59 (cinquenta e nove), com área de 1.074,44m² (um mil, setenta e quatro metros e quarenta e quatro decímetros quadrados), sem acessões, situado na Rua Antônio Duarte da Rosa, na cidade de Guarujá do Sul, Estado de Santa Catarina, com as seguintes medidas e confrontações: ao NOROESTE, com a Rua Octávio Reinoldo Diehl, medindo 17,72 metros; ao NORDESTE, com parte do lote suburbano número 01, parte da chácara número 06, de propriedade de Clair Malagutti Kafer e Cônjuge, sob matrícula número 12.672, medindo 26,94 metros, por linha seca; ao NOROESTE, com parte do lote suburbano número 01, parte da chácara número 06, de propriedade de Clair Malagutti Kafer e Cônjuge, sob matrícula número 12.672, medindo 8,72 metros, por linha seca; ao OESTE, com parte do lote suburbano número 1, parte da chácara número 06, de propriedade de Clair Malagutti Kafer e Cônjuge, medindo 1,36 metros, sob matrícula número 12.672, por linha seca; novamente ao NOROESTE, com parte do lote urbano número 01.D, de propriedade de Salesio Backes e Cônjuge, sob matrícula número 14.936, medindo 2,94 metros, por linha seca; ao NORDESTE, com a Rua Antônio Duarte da Rosa, medindo 21,87 metros; ao SUDESTE, com parte do lote urbano número 01.C, de propriedade de Nerí Luiz Welter e Cônjuge, sob matrícula 14.937, medindo 25,30 metros, por linha seca; novamente ao NORDESTE, com parte do lote urbano número 01.C, de propriedade de Nerí Luiz Welter e Cônjuge, sob matrícula 14.937, medindo 15,69 metros, por linha seca; novamente ao NOROESTE, com parte do lote urbano número 01.C, de propriedade de Nerí Luiz Welter e Cônjuge, sob matrícula 14.937, medindo 7,45 metros, por linha seca; ao LESTE, com parte do lote urbano número 01, de propriedade de Romeu Thessing e Outros, sob matrícula número 11.876, medindo 16,20 metros, e parte do lote urbano número 01, de propriedade de Deonir Luiz Caramori e Cônjuge, sob matrícula número 11.874, medindo 13,26 metros, ambos por linha seca; e ao SUDOESTE, com parte da chácara número 06, de propriedade de Evaldo José Caramori e Outros, sob matrícula número 464, medindo 90,10 metros, por linha seca.
+
+
+Art. 2º.
+
+Fica aprovado em toda sua integra, forma e teor, o DESMEMBRAMENTO de PARTE DO LOTE SUBURBANO NÚMERO 1 (um), PARTE DA CHÁCARA NÚMERO 6 (seis), com área de 315,00m² (trezentos e quinze metros quadrados), sem acessões, situado na Rua Octávio Reinoldo Diehl, esquina com a Rua Antônio Duarte da Rosa, de propriedade de CLAIR MALAGUTTI KÄFER e seu esposo VILSON KÄFER, matriculado no Ofício do Registro de Imóveis da Comarca de São José do Cedro, Estado de Santa Catarina, sob nº.12.672. Com o desmembramento do solo as áreas passam a constituir dois lotes com a respectiva área de 10,98m² e 304,02m², conforme memorial, ART e mapa assinado pelo Engenheiro Agrônomo Maicol Kirchner Schenkel, CREA/SC 099579-4;
+
+
+IMÓVEL PRIMITIVO 02 – matrícula 12.672: PARTE DO LOTE SUBURBANO NÚMERO 1 (um), PARTE DA CHÁCARA NÚMERO 6 (seis), com área de 315,00m² (trezentos e quinze metros quadrados), sem acessões, situado na Rua Octávio Reinoldo Diehl, esquina com a Rua Antônio Duarte da Rosa, na cidade de Guarujá do Sul, Estado de Santa Catarina, com as seguintes confrontações e medidas: ao LESTE, com o lote urbano número 01, atualmente Lote Urbano número 1-D, de propriedade de Salesio Backes e Cônjuge, sob matrícula número 14.936, por linha seca, medindo 9,40 metros; ao NORDESTE, com a Rua Antônio Duarte da Rosa, medindo 18,15 metros; ao NOROESTE, com a Rua Octávio Reinoldo Diehl, medindo 12,34 metros; ao SUDOESTE, com parte do mesmo lote suburbano número 01, parte da chácara número 06, atualmente Lote Urbano número 1-D, de propriedade de Salesio Backes e Cônjuge, sob matrícula número 14.936, por linha seca, medindo 26,94 metros; e ao SUDESTE, com a parte do mesmo lote suburbano número 01, parte da chácara número 06, atualmente Lote Urbano número 1-D, de propriedade de Salesio Backes e Cônjuge, sob matrícula número 14.936, por linha seca, medindo 8,72 metros.
+
+IMÓVEL DESMEMBRADO 02: PARTE DO LOTE SUBURBANO NÚMERO 1 (um), PARTE DA CHÁCARA NÚMERO 6 (seis), com área de 10,98m² (dez metros e noventa e oito decímetros quadrados), sem acessões, situado na Rua Antônio Duarte da Rosa, na cidade de Guarujá do Sul, Estado de Santa Catarina, com as seguintes confrontações e medidas: ao SUDESTE, com o Lote Urbano número 1-D, de propriedade de Salesio Backes e Cônjuge, sob matrícula número 14.936, medindo 8,72 metros, por linha seca; ao SUDOESTE, com o Lote Urbano número 1-D, de propriedade de Salesio Backes e Cônjuge, sob matrícula número 14.936, medindo 1,18 metros, por linha seca; ao NOROESTE, com Parte do lote suburbano número 01 - parte da chácara número 06, de propriedade de Clair Malagutti Kafer, sob matrícula número 12.672, medindo 9,23 metros, por linha seca; e ao NORDESTE, com o Lote Urbano número 1-D, de propriedade de Salesio Backes e Cônjuge, sob matrícula número 14.936, medindo 1,36 metros, por linha seca.
+
+IMÓVEL REMANESCENTE 02: PARTE DO LOTE SUBURBANO NÚMERO 1 (um), PARTE DA CHÁCARA NÚMERO 6 (seis), com área de 304,02m² (trezentos e quatro mil metros e dois decímetros quadrados), sem acessões, situado na Rua Octávio Reinoldo Diehl, esquina com a Rua Antônio Duarte da Rosa, na cidade de Guarujá do Sul, Estado de Santa Catarina, com as seguintes confrontações e medidas: ao SUDESTE, com Parte do lote suburbano número 01, com parte da chácara número 06, de propriedade de Clair Malagutti Kafer e Cônjuge, sob matrícula número 12.672, medindo 9,23 metros, por linha seca; ao SUDOESTE, com o Lote Urbano número 1-D, de propriedade de Salesio Backes e Cônjuge, sob matrícula número 14.936, medindo 25,76 metros, por linha seca; ao NOROESTE, com a Rua Octávio Reinoldo Diehl, medindo 12,34 metros; ao NORDESTE, com a Rua Antonio Duarte da Rosa, medindo 18,15 metros; e ao LESTE, com o Lote Urbano número 1-D, de propriedade de Salesio Backes e Cônjuge, sob matrícula número 14.936, medindo 8,04 metros, por linha seca.
+
+
+Art. 3º.
+
+Fica autorizado REMEMBRAMENTO da PARTE DO LOTE URBANO NÚMERO 1-D (um “D”), com área de 1.074,44m² (um mil, setenta e quatro metros e quarenta e quatro decímetros quadrados), e PARTE DO LOTE SUBURBANO NÚMERO 1 (um), PARTE DA CHÁCARA NÚMERO 6 (seis), com área de 10,98m² (dez metros e noventa e oito decímetros quadrados), que de ora em diante passa a denominar-se LOTE URBANO NÚMERO 1-D (um “D”), com uma área total de 1.085,42m² (um mil, oitenta e cinco metros e quarenta e dois decímetros quadrados), sem acessões, situado na Rua Octávio Reinoldo Diehl e Rua Antonio Duarte da Rosa, na cidade de Guarujá do Sul, Estado de Santa Catarina, com as seguintes medidas e confrontações, conforme memorial, ART e mapa assinado pelo Engenheiro Agrônomo Maicol Kirchner Schenkel, CREA/SC 099579-4; ao NOROESTE, com a Rua Octávio Reinoldo Diehl, medindo 17,72 metros; ao NORDESTE, com a antiga parte do lote suburbano número 01, parte da chácara número 06, atual Lote Urbano nº 1-E (um “E”), de propriedade de Clair Malagutti Kafer e Cônjuge, medindo 25,76 metros, sob matrícula número 12.672, por linha seca; novamente ao NOROESTE, com antiga parte do lote suburbano número 01, parte da chácara número 06, atual Lote Urbano nº 1-E (um “E”), de propriedade de Clair Malagutti Kafer e Cônjuge, sob matrícula número 12.672, medindo 12,17 metros, por linha seca; novamente ao NORDESTE, com a Rua Antonio Duarte da Rosa, medindo 21,87 metros; ao SUDESTE, com parte do lote urbano número 01-C (um ”C”), de propriedade de Nerí Luiz Welter e Cônjuge, sob matrícula 14.937, medindo 25,30 metros, por linha seca; novamente ao NORDESTE, com parte do lote urbano número 01-C (um ”C”), de propriedade de Nerí Luiz Welter e Cônjuge, sob matrícula 14.937, medindo 15,69 metros, por linha seca; novamente ao NOROESTE, com parte do lote urbano número 01-C (um ”C”), de propriedade de Nerí Luiz Welter e Cônjuge, sob matrícula 14.937, medindo 7,45 metros, por linha seca; ao LESTE, com parte do lote urbano número 01, de propriedade de Romeu Thessing e Outros, sob matrícula número 11.876, medindo 16,20 metros, e parte do lote urbano número 01, de propriedade de Deonir Luiz Caramori e Cônjuge, sob matrícula número 11.874, medindo 13,26 metros, ambos por linha seca; e ao SUDOESTE, com parte da chácara número 06, de propriedade de Evaldo José Caramori e Outros, sob matrícula número 464, medindo 90,10 metros, por linha seca.
+
+
+Art. 4º.
+
+Fica autorizado REMEMBRAMENTO da PARTE DO LOTE SUBURBANO NÚMERO 1 (um), PARTE DA CHÁCARA NÚMERO 6 (seis), com área de 304,02m² (trezentos e quatro mil metros e dois decímetros quadrados), e PARTE DO LOTE URBANO 1-D (um “D”), com área de 10,98m² (dez metros e noventa e oito decímetros quadrados), que de ora em diante passa a denominar-se LOTE URBANO NÚMERO 1-E (um”E”), com uma área total de 315,00m² (trezentos e quinze metros quadrados), sem acessões, situado na Rua Octávio Reinoldo Diehl, esquina com a Rua Antônio Duarte da Rosa, na cidade de Guarujá do Sul, Estado de Santa Catarina, com as seguintes confrontações, conforme memorial, ART e mapa assinado pelo Engenheiro Agrônomo Maicol Kirchner Schenkel, CREA/SC 099579-4: ao SUDOESTE, com o lote urbano número 01, de propriedade de Salesio Backes e Cônjuge, sob matrícula número 14.936, medindo 25,76 metros, por linha seca; ao SUDESTE, com o lote urbano número 01, de propriedade de Salesio Backes e Cônjuge, sob matrícula número 14.936, medindo 12,17 metros, por linha seca; ao NORDESTE, com a Rua Antônio Duarte da Rosa, medindo 25,63 metros; ao NOROESTE, com a Rua Octávio Reinoldo Diehl, medindo 12,34 metros.,
+
+
+Art. 5º.
+
+Revogam-se as disposições em contrário, entrando em vigor a presente Lei na data de sua publicação.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE GUARUJÁ DO SUL – SC  
+26 de agosto de 2022  
+71º ano da Fundação e 60º ano da Instalação.
+
+
+Claudio Júnior Weschenfelder  
+Prefeito Municipal.  
+Certifico que a Presente Lei foi publicada e registrada nesta Secretaria em data supra.  
+Julio Cesar Della Flora  
+Secretário da Administração e Fazenda
+

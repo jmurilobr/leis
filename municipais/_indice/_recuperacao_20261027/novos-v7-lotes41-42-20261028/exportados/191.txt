@@ -1,0 +1,555 @@
+---
+titulo: "Lei Ordinária-GPREF nº 2.893, de 15 de maio de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2.893"
+data: "2025-05-15"
+municipio: "Guarujá do Sul"
+uf: "SC"
+codigo_ibge: "4206603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guarujadosul.sc.leg.br/norma/3164"
+fonte_texto: "https://sapl.guarujadosul.sc.leg.br/ta/1779/text"
+sha256_fonte: "d8420f7d0e3c54cac31a2cd9e8b08aa29708da863cbea7cd12e1d0c35e562e26"
+sha256_texto: "91c1259f5c484f2f1275c30c2f870af10720793178919dab8a84d135b4235b98"
+capturado_em_fonte: "2026-10-28T13:32:27.475903-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-GPREF nº 2.893, de 15 de maio de 2025
+
+A Prefeita Municipal de Guarujá do Sul, Estado de Santa Catarina, faz saber a todos os habitantes deste município que a Câmara Municipal de Vereadores votou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Ficam instituídos os componentes municipais do Sistema Nacional de Segurança Alimentar e Nutricional - SISAN:
+
+
+I –
+
+a Conferência Municipal de Segurança Alimentar e Nutricional, instância responsável pela indicação ao Conselho Municipal de Segurança Alimentar e Nutricional (Consea Municipal) das diretrizes e prioridades da Política e do Plano Municipal de Segurança Alimentar e Nutricional (Plansan Municipal), bem como pela avaliação do SISAN no âmbito do município;
+
+
+II –
+
+O Consea Municipal, no âmbito do SISAN, com a finalidade de prestar assessoramento ao/à Chefe do Poder do Executivo municipal, tendo como objetivos propor as diretrizes gerais da Política de Segurança Alimentar e Nutricional;
+
+
+III –
+
+A Câmara Intersetorial Municipal de Segurança Alimentar e Nutricional (Caisan Municipal), no âmbito do SISAN, com a finalidade de promover a articulação e a integração dos órgãos, entidades e ações da administração pública municipais afetos à área de Segurança Alimentar e Nutricional.
+
+
+#### CAPÍTULO I — Das Disposições Gerais
+
+
+Art. 2º.
+
+A alimentação adequada é direito básico do ser humano, indispensável à realização dos seus direitos consagrados na Constituição Federal e Estadual, cabendo ao poder público adotar as políticas e ações que se façam necessárias para respeitar, proteger, promover e prover o Direito Humano à Alimentação Adequada e Segurança Alimentar e Nutricional de toda a população.
+
+
+Art. 3º.
+
+A consecução do Direito Humano à Alimentação Adequada e da Segurança Alimentar e Nutricional da população far-se-á por meio do Sisan, integrado, no Município de Guarujá do Sul, por um conjunto de órgãos e entidades afetas à Segurança Alimentar e Nutricional.
+
+
+Art. 4º.
+
+A Política Municipal de Segurança Alimentar e Nutricional será implementada por meio do Plansan Municipal, a ser construído intersetorialmente pela Caisan Municipal, com base nas prioridades estabelecidas pelo Consea Municipal, a partir das deliberações das Conferências Nacional, Estadual e Municipal de Segurança Alimentar e Nutricional.
+
+
+#### CAPÍTULO II — Do Conselho Municipal de Segurança Alimentar e Nutricional – CONSEA Municipal
+
+
+##### Seção I — Das Competências
+
+
+Art. 5º.
+
+Compete ao Consea Municipal:
+
+
+I –
+
+Organizar e coordenar, em articulação com a Caisan municipal, a Conferência municipal de Segurança Alimentar e Nutricional, convocadas pelo Chefe do Poder Executivo, com periodicidade de quatro anos;
+
+
+II –
+
+Definir os parâmetros de composição, organização e funcionamento da Conferência;
+
+
+III –
+
+Propor ao Poder Executivo, considerando as deliberações da Conferência Municipal de Segurança Alimentar e Nutricional, as diretrizes e as prioridades do Plansan municipal, incluindo-se os requisitos orçamentários para sua consecução;
+
+
+IV –
+
+Articular, acompanhar e monitorar, em regime de colaboração com a Caisan municipal, a implementação e a convergência de ações inerentes ao Plansan Municipal;
+
+
+V –
+
+Mobilizar e apoiar entidades da sociedade civil na discussão e na implementação de ações públicas de Segurança Alimentar e Nutricional;
+
+
+VI –
+
+Estimular a ampliação e o aperfeiçoamento dos mecanismos de participação e controle social nas ações integrantes do Plansan Municipal;
+
+
+VII –
+
+Zelar pela realização do Direito Humano à Alimentação Adequada e pela sua efetividade;
+
+
+VIII –
+
+Manter articulação permanente com outros Conselhos municipais e com o Conselho Estadual de Segurança Alimentar e Nutricional (Consea Estadual), relativos às ações associadas ao Plansan municipal;
+
+
+IX –
+
+Articular e mobilizar a sociedade civil organizada no âmbito da Política Municipal de Segurança Alimentar e Nutricional, em consonância com a Política Nacional, estabelecendo informações de prioridade, bem como implementar com racionalidade o uso de recursos disponíveis;
+
+
+X –
+
+Incentivar e propor realização de estudos que fundamentem as propostas ligadas à Segurança Alimentar e Nutricional;
+
+
+Art. 6º.
+
+A Conferência Municipal de Segurança Alimentar e Nutricional, instância integrante do Sisan tem como atribuições:
+
+
+I –
+
+Indicar ao Consea Municipal as diretrizes e prioridades da Política e do Plansan Municipal,
+
+
+II –
+
+Avaliar o Sisan no âmbito do município;
+
+
+Parágrafo único
+
+Na ausência de convocação por parte do Chefe do Poder Executivo no prazo regulamentar, a Conferência Municipal de Segurança Alimentar e Nutricional será convocada pelo Consea Municipal.
+
+
+Art. 7º.
+
+O Consea Municipal manterá diálogo permanente com a Caisan Municipal, para proposição das diretrizes e prioridades da Política e do Plansan Municipal, inclusive quanto aos requisitos orçamentários para sua consecução.
+
+
+##### Seção II — Da Composição
+
+
+Art. 8º.
+
+O Consea Municipal será composto por 9 membros titulares e seus respectivos suplentes, dos quais dois terços de representantes da sociedade civil, cabendo ao representante deste segmento exercer a Presidência do Conselho, e um terço de representantes governamentais, conforme define os parâmetros presentes no Decreto 7.272 de 25 de agosto de 2010.
+
+
+Parágrafo único
+
+A representação governamental do CONSEA Municipal será exercida pelos seguintes membros das Secretarias Municipais indicados pelo Chefe do Poder Executivo, sendo:
+
+
+I –
+
+Um representante da Secretaria Municipal de Assistência Social
+
+
+II –
+
+Um representante da Secretaria Municipal de Saúde
+
+
+III –
+
+Um representante da Secretaria Municipal de Educação
+
+
+Art. 9º.
+
+Os representantes da sociedade civil serão designados, conforme critérios de indicação e requisitos estabelecidos pelas Conferências Estadual e Municipal de Segurança Alimentar e Nutricional.
+
+
+§ 1º
+
+Os representantes da sociedade civil e governamentais do Consea, titulares e suplentes, serão designados em Ato específico, pelo representante legal do Município.
+
+
+§ 2º
+
+Os membros do CONSEA Municipal terão mandato de dois anos, permitida uma recondução por igual período.
+
+
+Art. 10.
+
+O CONSEA Municipal, no prazo de 30 (trinta) dias a anteceder o término do mandato dos conselheiros representantes da sociedade civil, constituirá comissão por meio de Portaria, composta por, pelo menos, 03 membros, dos quais 1/3 será representante da sociedade civil, incluído o Presidente do Conselho, e os demais serão representantes do Governo, incluído o Secretário Geral.
+
+
+§ 1º
+
+Cabe à comissão elaborar lista com proposta de critérios de representação da sociedade civil que comporá o CONSEA Municipal, a ser submetida ao Prefeito, conforme deliberação da Conferência Estadual e Municipal de Segurança Alimentar e Nutricional.
+
+
+§ 2º
+
+A comissão terá prazo de quarenta e cinco dias após a realização da Conferência Municipal de Segurança Alimentar e Nutricional ou em período anterior próximo ao término do mandato dos conselheiros, para apresentar proposta de Edital de Chamamento de Entidades da Sociedade Civil, com convocação para Fórum de Eleição de Entidades da Sociedade Civil, ao Chefe do Poder Executivo Municipal.
+
+
+§ 3º
+
+A participação no Conselho Municipal de Segurança Alimentar e Nutricional - COMUSAN é considerada serviço público relevante não remunerado.
+
+
+##### Seção III — Da Organização
+
+
+Art. 11.
+
+O CONSEA Municipal terá a seguinte organização:
+
+
+I –
+
+Plenário;
+
+
+II –
+
+Secretário Geral;
+
+
+III –
+
+Secretaria Executiva;
+
+
+IV –
+
+Comissões Temáticas Permanentes; e
+
+
+V –
+
+Grupos de Trabalhos Temporários.
+
+
+###### Subseção I — Da Presidência e da Secretaria-Geral
+
+
+Art. 12.
+
+O CONSEA Municipal será presidido por um representante da sociedade civil, indicado pelo Conselho, entre seus membros, e designado pelo Prefeito.
+
+
+Parágrafo único
+
+No prazo de trinta dias, após a designação dos conselheiros, o SecretárioGeral convocará reunião, durante a qual será indicado o novo Presidente do CONSEA Municipal.
+
+
+Art. 13.
+
+Ao Presidente incumbe:
+
+
+I –
+
+zelar pelo cumprimento das deliberações do CONSEA Municipal;
+
+
+II –
+
+representar externamente o CONSEA Municipal;
+
+
+III –
+
+convocar, presidir e coordenar as reuniões do CONSEA Municipal;
+
+
+IV –
+
+manter interlocução permanente com a Câmara Intersetorial de Segurança Alimentar e Nutricional;
+
+
+V –
+
+convocar reuniões extraordinárias, juntamente com o Secretário-Geral; e
+
+
+VI –
+
+propor e instalar comissões temáticas e grupos de trabalho, designando o coordenador os demais membros, bem como estabelecendo prazo para apresentação de resultados, conforme deliberado pelo CONSEA Municipal.
+
+
+Art. 14.
+
+Compete à Secretaria-Geral assessorar o CONSEA Municipal.
+
+
+Parágrafo único
+
+O Secretário Municipal de Assistencia Social será o Secretário-Geral do CONSEA Municipal.
+
+
+Art. 15.
+
+Ao Secretário-Geral incumbe:
+
+
+I –
+
+submeter à análise da Câmara Intersetorial de Segurança Alimentar e Nutricional as propostas do CONSEA Municipal de diretrizes e prioridades da Política e do Plano Estadual de Segurança Alimentar e Nutricional, incluindo-se os requisitos orçamentários para sua consecução;
+
+
+II –
+
+manter o CONSEA Municipal informado sobre a apreciação, pela Câmara Intersetorial de Segurança Alimentar e Nutricional, das propostas encaminhadas por aquele Conselho;
+
+
+III –
+
+acompanhar a análise e o encaminhamento das propostas e recomendações aprovadas pelo CONSEA Municipal nas instâncias responsáveis, apresentando relatório ao Conselho;
+
+
+IV –
+
+promover a integração das ações municipais com as ações previstas nos Planos Nacional e Estadual de Segurança Alimentar e Nutricional;
+
+
+V –
+
+instituir grupos de trabalho intersecretariais para estudar e propor ações governamentais integradas relacionadas ao Plano Municipal de Segurança Alimentar e Nutricional;
+
+
+VI –
+
+substituir o Presidente em seus impedimentos;
+
+
+VII –
+
+presidir a Câmara Intersetorial de Segurança Alimentar e Nutricional.
+
+
+###### Subseção II — Da Secretaria-Executiva
+
+
+Art. 16.
+
+Para o cumprimento de suas funções, o CONSEA Municipal contará, em sua estrutura organizacional, com uma Secretaria-Executiva, que dará suporte técnico e administrativo ao seu funcionamento.
+
+
+Parágrafo único
+
+Os recursos orçamentários e financeiros necessários à estruturação e funcionamento da Secretaria-Executiva serão consignados diretamente no orçamento do Governo Municipal.
+
+
+Art. 17.
+
+Compete à Secretaria-Executiva:
+
+
+I –
+
+assistir o Presidente e o Secretário-Geral do CONSEA Municipal, no âmbito de suas atribuições;
+
+
+II –
+
+estabelecer comunicação permanente com os conselhos municipais de Segurança Alimentar e Nutricional e com o CONSEA Nacional, mantendo-os informados e orientados acerca das atividades e propostas do CONSEA Municipal;
+
+
+III –
+
+assessorar e assistir o Presidente do CONSEA Municipal em seu relacionamento com a Câmara Intersetorial de Segurança Alimentar e Nutricional, órgãos da administração pública, organizações da sociedade civil; e
+
+
+IV –
+
+subsidiar as comissões temáticas, grupos de trabalho e conselheiros com informações e estudos, visando auxiliar a formulação e análise das propostas apreciadas pelo CONSEA Municipal.
+
+
+Art. 18.
+
+Incumbe ao Secretário-Executivo do CONSEA Municipal dirigir, coordenar e orientar o planejamento, a execução e avaliação das atividades da Secretaria-Executiva, sem prejuízo de outras atribuições que lhes forem cometidas pelo Presidente e pelo SecretárioGeral do Conselho.
+
+
+Art. 19.
+
+Para o desempenho de suas atribuições, a Secretaria-Executiva contará com estrutura específica, nos termos estabelecidos em decreto, que disporá sobre os quantitativos de cargos em comissão e funções de confiança para essa finalidade.
+
+
+##### Seção IV — Do Funcionamento
+
+
+Art. 20.
+
+Poderão participar das reuniões do CONSEA Municipal, a convite de seu presidente, representantes de outros órgãos ou entidades públicas, municipais, estaduais, nacionais e internacionais, bem como pessoas que representem a sociedade civil, cuja participação, de acordo com a pauta da reunião, seja justificável.
+
+
+Art. 21.
+
+O CONSEA Municipal contará com comissões temáticas de caráter permanente, que prepararão as propostas a serem por ele apreciadas, e grupos de trabalho, de caráter temporário, para estudar e propor medidas específicas no seu âmbito de atuação.
+
+
+Art. 22.
+
+As requisições de pessoal para ter exercício na Secretaria-Executiva do CONSEA Municipal serão feitas por intermédio da Prefeitura.
+
+
+Art. 23.
+
+A organização e funcionamento do Consea Municipal serão definidos em seu Regimento Interno.
+
+
+#### CAPÍTULO III — Da Câmara Intersetorial Municipal de Segurança Alimentar e Nutricional - CAISAN Municipal
+
+
+##### Seção I — Das Competências
+
+
+Art. 24.
+
+Compete à Caisan Municipal:
+
+
+I –
+
+Elaborar, a partir das diretrizes emanadas pela Consea Municipal, a Política e o Plansan Municipal, indicando diretrizes, metas e fontes de recursos, bem como instrumentos de acompanhamento, monitoramento e avaliação de sua implementação;
+
+
+II –
+
+Coordenar a execução da Política e do Plano Municipal de Segurança Alimentar e Nutricional, mediante acompanhamento das propostas do Plano Plurianual e da Lei de Diretrizes Orçamentárias Anual, em interlocução permanente com o Consea Municipal e com os órgãos executores de ações e programas de SAN;
+
+
+III –
+
+Monitorar e avaliar, de forma integrada, a destinação e aplicação de recursos em ações e programas de interesse da segurança alimentar e nutricional no plano plurianual e nas leis orçamentárias anuais;
+
+
+IV –
+
+Solicitar informações de quaisquer órgãos da administração direta ou indireta do Poder Executivo Municipal para o bom desempenho de suas atribuições;
+
+
+V –
+
+Apresentar relatórios e informações ao Consea Municipal, necessários ao acompanhamento e monitoramento do Plansan Municipal;
+
+
+VI –
+
+Monitorar e avaliar os resultados e impactos da Política e do Plansan Municipal;
+
+
+VII –
+
+Elaborar e aprovar o seu regimento interno.
+
+
+Parágrafo único
+
+O Plansan Municipal deverá:
+
+
+I –
+
+Conter diagnóstico da situação de Segurança e Insegurança Alimentar e Nutricional;
+
+
+II –
+
+Ser quadrienal e ter vigência correspondente ao plano plurianual;
+
+
+III –
+
+Dispor sobre os temas previstos no parágrafo único do art. 22 do Decreto nº 7.272/2010, entre outros temas apontados pelo Conselho e Conferência Municipal de SAN;
+
+
+IV –
+
+Explicitar as responsabilidades dos órgãos e entidades afetas à Segurança Alimentar e Nutricional;
+
+
+V –
+
+Incorporar estratégias territoriais e intersetoriais articuladas às demandas das populações, com atenção para as especificidades dos diversos grupos populacionais em situação de vulnerabilidade e de Insegurança Alimentar e Nutricional, respeitando a diversidade social, cultural, ambiental, étnico-racial e a equidade de género;
+
+
+VI –
+
+Definir seus mecanismos de monitoramento e avaliação;
+
+
+VII –
+
+Ser revisado a cada dois anos, com base nas orientações da Caisan Municipal, nas propostas do Conselho Municipal de segurança Alimentar e Nutricional e no monitoramento da sua execução.
+
+
+Art. 25.
+
+A programação e a execução orçamentária e financeira dos programas e ações que integram a Política e o Plansan Municipal é de responsabilidade dos órgãos e entidades competentes conforme a natureza temática a que se referem, observadas as respectivas competências exclusivas e as demais disposições da legislação aplicável.
+
+
+##### Seção II — Da Composição e da Secretaria-Executiva
+
+
+Art. 26.
+
+A CAISAN Municipal deverá ser integrada pelos mesmos representantes governamentais titulares e suplentes no CONSEA Municipal.
+
+
+Art. 27.
+
+A Caisan Municipal será composta por agentes do Poder Executivo do município.
+
+
+Art. 28.
+
+A Caisan Municipal será presidida pelo/a titular da Secretaria Municipal de com atribuições de articulação e integração.
+
+
+Art. 29.
+
+A Secretaria-Executiva da câmara ou instância governamental de gestão intersetorial de Segurança Alimentar e Nutricional deve ser exercida pelo órgão governamental que a preside, sendo seu Secretário-Executivo indicado pelo titular da pasta, e designado por ato do chefe do executivo.
+
+
+Parágrafo único
+
+Os representantes governamentais da Caisan, titulares e suplentes, serão designados em Ato específico, pelo representante legal do Município
+
+
+Art. 30.
+
+A organização e funcionamento da Caisan Municipal serão definidos em seu Regimento Interno.
+
+
+Art. 31.
+
+Esta Lei Ordinária entra em vigor na data da sua publicação.
+
+
+Art. 32.
+
+Revoga-se a Lei Ordinária 1.748 de 02 de maio de 2005.
+
+
+GABINETE DA PREFEITA MUNICIPAL DE GUARUJÁ DO SUL, SC, em 15 de maio de 2025.
+
+**ELIANE APARECIDA DE SOUZA FANTON**
+
+**Prefeita Municipal.**
+

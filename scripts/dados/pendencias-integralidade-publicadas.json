@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-27",
+  "data": "2026-10-28",
   "criterio": "Textos preservados; integralidade não validada. Pendências não contam para progresso até revisão com fonte complementar. Estado conservador não afirma ausência definitiva.",
   "pendentes": [
     {
@@ -163682,6 +163682,227 @@
           }
         ],
         "parecer": "O dispositivo de aprovação vincula o projeto/estudos e orçamento atuais ao próprio decreto, com autenticação/rubrica. O restante do corpo conserva custeio, prazo ou fecho, conforme aplicável, sem reproduzir o projeto/estudos. Valor e localização da obra identificam o objeto, mas não substituem sua representação técnica."
+      }
+    },
+    {
+      "path": "federal/decretos/1957/dec-42214-1957-09-02.md",
+      "sha256_md": "51b9e92e4bbe30eb97a873d7a6f333528d5cd111133797d82db214ff5555a7b6",
+      "estado": "suplemento_tecnico_em_revisao_contextual",
+      "motivo": "Art. 1 aprova projetos e orçamentos que baixam com o ato. A tabela discrimina custos e arredondamento, mas não representa o projeto da variante/estação. Não confundir quadro de custos com desenho de engenharia. Integralidade não certificada até fonte complementar; nenhuma afirmação de inexistência universal ou causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "9e8ac7eab1661a4fe346ebf0c7fdfbb4622c686c",
+        "OID_HEAD": "e250b08a57c81434b89fb65ab60d477148acfff7",
+        "categoria": "projeto_proprio_nao_representado",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1957-09-02;42214",
+        "sha256_HTML": "ef70d96dc4714eb638b79af1c1346cce8b44f7b527044c7e2885c00dee8479f5",
+        "sha256_metadados_declarado_no_MD": "716abb50fc1a095d9f6a63b1c95b440633fec721e4b0731df796414bfb85dca7",
+        "parecer_independente": "federal/_fonte/auditorias/inventario7-ROOT-20261028-001/decisoes7.json",
+        "vinculos": [
+          {
+            "bloco_indice": 5,
+            "literal_integral": "Art. 1º Ficam aprovados, conforme o dispôsto no art. 8º do Decreto-lei nº 4.176, de 13 de março de 1942, os projetos e orçamentos, na importância de Cr$66.953.398,70 (sessenta e seis milhões novecentos e cinqüenta e três mil trezentos e noventa e oito cruzeiros e setenta centavos), que com êste baixam, rubricados pelo Diretor Geral do Departamento de Administração do Ministério da Viação e Obras Públicas, referentes à construção da variante entre os Km 889 + 95,00 e 901 + 886,00, que inclui a transferência da estação o esplanada de Campo Grande, no estado de Mato Grosso, para local mais amplo, condizente com as necessidade da Estrada de Ferro Noroeste do Brasil, assim discriminados:",
+            "comando_atual_match": "COM ESTE BAIXAM",
+            "objetos_match": [
+              "PROJETOS",
+              "ORCAMENTOS"
+            ],
+            "reforma_pontual_no_bloco": false,
+            "citacao_aparente": false
+          }
+        ],
+        "parecer": "Art. 1 aprova projetos e orçamentos que baixam com o ato. A tabela discrimina custos e arredondamento, mas não representa o projeto da variante/estação. Não confundir quadro de custos com desenho de engenharia.",
+        "limite": "Leitura ROOT integral de MD e conteúdo visível do HTML preservado; fonte cache por caminho, cotejo literal contextual, sem certificar edição idêntica universal ou ausência em todas as fontes. Textos/retificações/valores e eventuais erros literais permanecem byte idênticos. Nenhuma situação jurídica alterada.",
+        "sha256_parecer": "afee758737cc6f211a52e9faf198a958e65e223ba7546c1fbc93e68ec6eb8b98"
+      }
+    },
+    {
+      "path": "federal/decretos/1959/dec-45663-1959-03-30.md",
+      "sha256_md": "98e6eca9691825574fd749635388d2f0a63316f0f6c4e87bac8ccae93e3264dd",
+      "estado": "suplemento_tecnico_em_revisao_contextual",
+      "motivo": "Renova decreto antigo, mas Art. 1 remete expressamente a planta que com este baixa. Área numérica e açude existente não representam a planta atual. Integralidade não certificada até fonte complementar; nenhuma afirmação de inexistência universal ou causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "9e8ac7eab1661a4fe346ebf0c7fdfbb4622c686c",
+        "OID_HEAD": "98ceda06344b41e4a25a2cc4d4719a6f90b9006a",
+        "categoria": "planta_propria_nao_representada",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1959-03-30;45663",
+        "sha256_HTML": "f5524a114397bd3348e486f6c1c5eb7fc9550ade945cf6fb603c14cecc0a58f7",
+        "sha256_metadados_declarado_no_MD": "77034f373447f1578db42592ebace12b9b81dfeb1099d33c753642902e0a65f8",
+        "parecer_independente": "federal/_fonte/auditorias/inventario7-ROOT-20261028-001/decisoes7.json",
+        "vinculos": [
+          {
+            "bloco_indice": 5,
+            "literal_integral": "Art. 1º Fica renovado, para fins de desapropriação e pagamento de indenização, o Decreto nº 30.232, de 3 de dezembro de 1951, que declarou de utilidade publica a área de terreno com 5.913.75m2 (cinco milhões novecentos e treze mil setecentos e cinqüenta metros quadrados), situada no Município de Senhor do Bonfim, Estado da Bahia, representada na planta que com êste baixa, devidamente rubricada pelo Diretor da Divisão de Orçamento do Departamento de Administração do Ministério da Viação e Obras Públicas, onde foi construído, pelo Departamento Nacional de Obras Contra as Sêcas, o açude público “Sohen”.",
+            "comando_atual_match": "COM ESTE BAIXA",
+            "objetos_match": [
+              "PLANTA",
+              "ORCAMENTO"
+            ],
+            "reforma_pontual_no_bloco": false,
+            "citacao_aparente": false
+          }
+        ],
+        "parecer": "Renova decreto antigo, mas Art. 1 remete expressamente a planta que com este baixa. Área numérica e açude existente não representam a planta atual.",
+        "limite": "Leitura ROOT integral de MD e conteúdo visível do HTML preservado; fonte cache por caminho, cotejo literal contextual, sem certificar edição idêntica universal ou ausência em todas as fontes. Textos/retificações/valores e eventuais erros literais permanecem byte idênticos. Nenhuma situação jurídica alterada.",
+        "sha256_parecer": "afee758737cc6f211a52e9faf198a958e65e223ba7546c1fbc93e68ec6eb8b98"
+      }
+    },
+    {
+      "path": "federal/decretos/1959/dec-47069-1959-10-22.md",
+      "sha256_md": "352a6cd9fdf3282a131f656456b0eb8ac2e458df0aea2ad2bc1f744b0482b696",
+      "estado": "orcamento_proprio_em_revisao_contextual",
+      "motivo": "Art. 1 aprova orçamento que com este baixa; tabela de Art. 3 só soma Fundos de Melhoramentos e Renovação. Não representa automaticamente orçamento de aquisição e montagem das 38 locomotivas. O literal do Art. 1 também contém a sequência truncada aparente “locomotivas ao deCr$”; preservada sem correção ou diagnóstico de causa. Integralidade não certificada até fonte complementar; nenhuma afirmação de inexistência universal ou causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "9e8ac7eab1661a4fe346ebf0c7fdfbb4622c686c",
+        "OID_HEAD": "2adfb8427a9c9f9defe61d3fc19dd82be7d07f69",
+        "categoria": "duvida_orcamento_proprio",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1959-10-22;47069",
+        "sha256_HTML": "d4abf4ed58bf2b8b24fa2fdfcf124a5689bca1b2d6a38973e2d1c53c662ffea3",
+        "sha256_metadados_declarado_no_MD": "0dd6419139df7a674d7c537fc66a3cd79cdbbba063bc86de5140852555212df0",
+        "parecer_independente": "federal/_fonte/auditorias/inventario7-ROOT-20261028-001/decisoes7.json",
+        "vinculos": [
+          {
+            "bloco_indice": 5,
+            "literal_integral": "Art. 1º Fica aprovado o orçamento de Cr$694.483.216,60 (seiscentos e noventa e quatro milhões quatrocentos e oitenta e três mil duzentos e dezesseis cruzeiros e sessenta centavos), que com êste baixa, rubrificado pelo Diretor-Geral do Departamento de Administração do Ministério da Viação e Obras Públicas, para aquisição e montagem de 38 (trinta e oito) locomotivas ao deCr$177.460.230,00 (cento e setenta e sete milhões quatrocentos e sessenta mil duzentos e trinta cruzeiros), que constou do Plano Geral de Obras e Aquisições da Companhia Paulista de Estradas de Ferro, do período de 1º de janeiro de 1954 a 12 de junho de 1965, de 29 de janeiro de 1956, para a aquisição de 37 locomotivas do mesmo tipo.",
+            "comando_atual_match": "COM ESTE BAIXA",
+            "objetos_match": [
+              "ORCAMENTO",
+              "PLANO"
+            ],
+            "reforma_pontual_no_bloco": false,
+            "citacao_aparente": false
+          }
+        ],
+        "parecer": "Art. 1 aprova orçamento que com este baixa; tabela de Art. 3 só soma Fundos de Melhoramentos e Renovação. Não representa automaticamente orçamento de aquisição e montagem das 38 locomotivas. O literal do Art. 1 também contém a sequência truncada aparente “locomotivas ao deCr$”; preservada sem correção ou diagnóstico de causa.",
+        "limite": "Leitura ROOT integral de MD e conteúdo visível do HTML preservado; fonte cache por caminho, cotejo literal contextual, sem certificar edição idêntica universal ou ausência em todas as fontes. Textos/retificações/valores e eventuais erros literais permanecem byte idênticos. Nenhuma situação jurídica alterada.",
+        "sha256_parecer": "afee758737cc6f211a52e9faf198a958e65e223ba7546c1fbc93e68ec6eb8b98"
+      }
+    },
+    {
+      "path": "federal/decretos/1960/dec-47891-1960-03-09.md",
+      "sha256_md": "ea72fa8b2b0a372cdc20b656cfbe8010f2a4f516a976882511f5723ab5a97311",
+      "estado": "suplemento_tecnico_em_revisao_contextual",
+      "motivo": "Planta que com este baixa é objeto atual; projetos aprovados por Portaria 512/1953 são referências históricas. Retificação da ementa preservada, com suas datas literais concorrentes; não supre planta. Integralidade não certificada até fonte complementar; nenhuma afirmação de inexistência universal ou causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "9e8ac7eab1661a4fe346ebf0c7fdfbb4622c686c",
+        "OID_HEAD": "d4d98c54f898c7bd5e37ef788892576648380cc1",
+        "categoria": "planta_propria_nao_representada",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1960-03-09;47891",
+        "sha256_HTML": "048e049104924bb0929da2cd958ba8ef4596e1cd77ace681e434dd77144cded2",
+        "sha256_metadados_declarado_no_MD": "d1d0c50ba3f1dfa4b6f621fe19a75c2be8f2a5f860bb8dd0435afe5214d7c516",
+        "parecer_independente": "federal/_fonte/auditorias/inventario7-ROOT-20261028-001/decisoes7.json",
+        "vinculos": [
+          {
+            "bloco_indice": 5,
+            "literal_integral": "Art. 1º Fica renovada a declaração de utilidade pública a que se refere o Decreto nº 34.433, de 31 de outubro de 1953, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno com 169.168.000m2 (cento e sessenta e nove milhões, cento e sessenta e oito mil metros quadrados), situada no Município de Santa Cruz do Norte, Estado do Ceará, representada na planta que com êste baixa, devidamente rubrificada pelo Diretor da Divisão de Orçamento do Departamento de Administração do Ministério da Viação e Obras Públicas, necessárias à construção do açude público “Araras”, cujos projeto e orçamento foram aprovados pela Portaria nº 512, de 10 de junho de 1953, do referido Ministério.",
+            "comando_atual_match": "COM ESTE BAIXA",
+            "objetos_match": [
+              "PLANTA",
+              "ORCAMENTO",
+              "PROJETO",
+              "ORCAMENTO"
+            ],
+            "reforma_pontual_no_bloco": false,
+            "citacao_aparente": false
+          }
+        ],
+        "parecer": "Planta que com este baixa é objeto atual; projetos aprovados por Portaria 512/1953 são referências históricas. Retificação da ementa preservada, com suas datas literais concorrentes; não supre planta.",
+        "limite": "Leitura ROOT integral de MD e conteúdo visível do HTML preservado; fonte cache por caminho, cotejo literal contextual, sem certificar edição idêntica universal ou ausência em todas as fontes. Textos/retificações/valores e eventuais erros literais permanecem byte idênticos. Nenhuma situação jurídica alterada.",
+        "sha256_parecer": "afee758737cc6f211a52e9faf198a958e65e223ba7546c1fbc93e68ec6eb8b98"
+      }
+    },
+    {
+      "path": "federal/decretos/1960/dec-47962-1960-03-30.md",
+      "sha256_md": "9874e8b98af44d4031e60bfd43a6292793d1ecf66002a052104afdda72194fef",
+      "estado": "suplemento_tecnico_em_revisao_contextual",
+      "motivo": "Art. 1 exige desenhos e especificações que acompanham o decreto; Art. 4 exige diploma conforme modelo anexo. Fonte termina no fecho e assinaturas. Divergência literal: epígrafe 30 de março de 1960, fecho 9 de abril de 1960, preservada sem inferir data corrigida. Integralidade não certificada até fonte complementar; nenhuma afirmação de inexistência universal ou causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "9e8ac7eab1661a4fe346ebf0c7fdfbb4622c686c",
+        "OID_HEAD": "190796f9cc524b41bb3d7304bebe213686526e79",
+        "categoria": "desenhos_especificacoes_modelo_nao_representados",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1960-03-30;47962",
+        "sha256_HTML": "fc13b81bebd00a6beb559e5b3f0dd890756183fedf6c750a980da4ae7f209836",
+        "sha256_metadados_declarado_no_MD": "ad5840649027e2a3b70802d887e6d10e1de0b7b605e155907b6575c3700a857a",
+        "parecer_independente": "federal/_fonte/auditorias/inventario7-ROOT-20261028-001/decisoes7.json",
+        "vinculos": [
+          {
+            "bloco_indice": 10,
+            "literal_integral": "Art. 1º É criada a Medalha Comemorativa da Primeira Caravana de Integração Nacional, cujos desenhos e especificações acompanham êste decreto.",
+            "comando_atual_match": "ACOMPANHAM ESTE DECRETO",
+            "objetos_match": [
+              "DESENHOS",
+              "ESPECIFICACOES"
+            ],
+            "reforma_pontual_no_bloco": false,
+            "citacao_aparente": false
+          }
+        ],
+        "parecer": "Art. 1 exige desenhos e especificações que acompanham o decreto; Art. 4 exige diploma conforme modelo anexo. Fonte termina no fecho e assinaturas. Divergência literal: epígrafe 30 de março de 1960, fecho 9 de abril de 1960, preservada sem inferir data corrigida.",
+        "limite": "Leitura ROOT integral de MD e conteúdo visível do HTML preservado; fonte cache por caminho, cotejo literal contextual, sem certificar edição idêntica universal ou ausência em todas as fontes. Textos/retificações/valores e eventuais erros literais permanecem byte idênticos. Nenhuma situação jurídica alterada.",
+        "sha256_parecer": "afee758737cc6f211a52e9faf198a958e65e223ba7546c1fbc93e68ec6eb8b98"
+      }
+    },
+    {
+      "path": "federal/decretos/1960/dec-48951-1960-09-16.md",
+      "sha256_md": "b0144a25007ec6b918e9511f1d6322df678dc1201b2093453e4ec6f1fb0313a3",
+      "estado": "suplemento_tecnico_em_revisao_contextual",
+      "motivo": "Art. 1 exige planta que com este baixa. Projeto/orçamento de Portaria 911/1953 são referência histórica. Retificação só inclui Antônio Carlos Barcellos na referenda, não representa a planta. Integralidade não certificada até fonte complementar; nenhuma afirmação de inexistência universal ou causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "9e8ac7eab1661a4fe346ebf0c7fdfbb4622c686c",
+        "OID_HEAD": "de1b2da2d0dc227e13dc71e260f0423f7f6e49a2",
+        "categoria": "planta_propria_nao_representada",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1960-09-16;48951",
+        "sha256_HTML": "124f08d0a42909ef6f0e82d50dd01cd4995239319924d54bd2fb3b3e8c95978f",
+        "sha256_metadados_declarado_no_MD": "7519cccb609ff07a755a79703e5cd2a6da0cfb3244c2c7fd51fe416e359574a1",
+        "parecer_independente": "federal/_fonte/auditorias/inventario7-ROOT-20261028-001/decisoes7.json",
+        "vinculos": [
+          {
+            "bloco_indice": 5,
+            "literal_integral": "Art. 1º Fica renovada a declaração de utilidade pública a que se refere o Decreto nº 35.735, de 28-6-1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno com 2.435.200m² (dois milhões, quatrocentos e trinta e cinco mil e duzentos metros quadrados), representada na planta que com êste baixa devidamente rubricada pelo Diretor da Divisão do Material do Departamento de Administração do Ministério da Viação e Obras Públicas, necessária à construção do açude público “Delfino”, no Município de Campo Formoso, Estado da Bahia, cujo projeto e orçamento foram aprovados pela Portaria nº 911, de 28 de junho de 1953, do referido Ministério.",
+            "comando_atual_match": "COM ESTE BAIXA",
+            "objetos_match": [
+              "PLANTA",
+              "PROJETO",
+              "ORCAMENTO"
+            ],
+            "reforma_pontual_no_bloco": false,
+            "citacao_aparente": false
+          }
+        ],
+        "parecer": "Art. 1 exige planta que com este baixa. Projeto/orçamento de Portaria 911/1953 são referência histórica. Retificação só inclui Antônio Carlos Barcellos na referenda, não representa a planta.",
+        "limite": "Leitura ROOT integral de MD e conteúdo visível do HTML preservado; fonte cache por caminho, cotejo literal contextual, sem certificar edição idêntica universal ou ausência em todas as fontes. Textos/retificações/valores e eventuais erros literais permanecem byte idênticos. Nenhuma situação jurídica alterada.",
+        "sha256_parecer": "afee758737cc6f211a52e9faf198a958e65e223ba7546c1fbc93e68ec6eb8b98"
+      }
+    },
+    {
+      "path": "federal/decretos/1960/dec-48954-1960-09-16.md",
+      "sha256_md": "2a1a444682826433e733fafdc14bebc9f69ac0150ec6557dc6301ed79aad2ad3",
+      "estado": "suplemento_tecnico_em_revisao_contextual",
+      "motivo": "Art. 1 exige planta que com este baixa; projeto/orçamento de Portaria 1.023/1953 são referência histórica. Retificação só inclui assinatura; literal da sua epígrafe 498.954 preservado sem criar alias ou nova norma. Integralidade não certificada até fonte complementar; nenhuma afirmação de inexistência universal ou causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "9e8ac7eab1661a4fe346ebf0c7fdfbb4622c686c",
+        "OID_HEAD": "a252d0c0010578f19c2f1cd7f29de181041698b7",
+        "categoria": "planta_propria_nao_representada",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1960-09-16;48954",
+        "sha256_HTML": "993e3a76440c73b3418a2933c64727faaf330bb82edf10a9f51029e710ae303d",
+        "sha256_metadados_declarado_no_MD": "86a8287d2d52158f17e3b0857f9b3239417c980719d425d89d80c2953bd845f3",
+        "parecer_independente": "federal/_fonte/auditorias/inventario7-ROOT-20261028-001/decisoes7.json",
+        "vinculos": [
+          {
+            "bloco_indice": 5,
+            "literal_integral": "Art. 1º Fica renovada a declaração de utilidade pública a que se refere o Decreto nº 35.736, de 28 de junho de 1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno com 12.314.000 m² (doze milhões, trezentos e quatorze mil metros quadrados), representada na planta que com êste baixa, devidamente rubricada pelo Diretor da Divisão do Material do Departamento de Administração do Ministério da Viação e Obras Públicas, necessária à construção do açude público Barreiras, no Município de Fronteiras, Estado do Piauí, cujos projeto e orçamento foram aprovados pela Portaria nº 1.023, de 14 de dezembro de 1953, do referido Ministério.",
+            "comando_atual_match": "COM ESTE BAIXA",
+            "objetos_match": [
+              "PLANTA",
+              "PROJETO",
+              "ORCAMENTO"
+            ],
+            "reforma_pontual_no_bloco": false,
+            "citacao_aparente": false
+          }
+        ],
+        "parecer": "Art. 1 exige planta que com este baixa; projeto/orçamento de Portaria 1.023/1953 são referência histórica. Retificação só inclui assinatura; literal da sua epígrafe 498.954 preservado sem criar alias ou nova norma.",
+        "limite": "Leitura ROOT integral de MD e conteúdo visível do HTML preservado; fonte cache por caminho, cotejo literal contextual, sem certificar edição idêntica universal ou ausência em todas as fontes. Textos/retificações/valores e eventuais erros literais permanecem byte idênticos. Nenhuma situação jurídica alterada.",
+        "sha256_parecer": "afee758737cc6f211a52e9faf198a958e65e223ba7546c1fbc93e68ec6eb8b98"
       }
     }
   ]

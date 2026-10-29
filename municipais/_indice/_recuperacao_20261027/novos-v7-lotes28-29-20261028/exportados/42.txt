@@ -1,0 +1,118 @@
+---
+titulo: "Lei Ordinária nº 535, de 01 de julho de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "535"
+data: "2019-07-01"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/3770"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/462/text"
+sha256_fonte: "c277baa9d579ceeacec0c87655648ab7c2ce971d4a26d2af68eb975935984729"
+sha256_texto: "92e39644b4a95c71527f885df44eec31a73e643b00572e7eae4a2c4440a8256b"
+capturado_em_fonte: "2026-10-28T11:27:47.655726-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 535, de 01 de julho de 2019
+
+Autoriza o Chefe do Poder Executivo a instituir servidão em área particular para disponibilizar ao Município de Formosa e outras providências.
+
+
+O PREFEITO MUNICIPAL DE FORMOSA – GOIÁS, no uso da atribuição legal, que lhe confere o art. 69, inciso III, da Lei Municipal nº. 01/90, de 05 de abril de 1.990 – Lei Orgânica Municipal - LOM, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo autorizado a instituir servidão em área particular com 50.6000 ha. (cinquenta hectares e seis mil ares), parte de um todo maior registrado na matrícula sob o n.º 27.153, fl. 3, Livro 2 do 1º Tabelionato de Notas e Registro de Imóveis de Formosa.
+
+
+§ 1º
+
+A área maior, de onde se destacará a área menor com 3.953,14 m² (três mil novecentos e cinquenta e três metros e quatorze centímetros quadrados), possui os seguintes limites e confrontações: "P-01 (N 8.286.520,61; E 273.127,80), limitando-se com a Fazenda Bahia ou Bezerra de propriedade do Sr. Luiz Alberto Thimóteo da Silva, daí segue com azimute e distância de 148°50’41” – 22,44m, até o vértice P-02 (N 8.286.501,40; E 273.139,41), azimute e distância de 238°50’41” – 3,67m, até o vértice P-03 (N 8.286.499,51; E 273.136,27), azimute e distância de 124°42’30” – 223,78m, até o vértice P-04 (N 8.286.372,08; E 273.320,24), situado no limite da FAZENDA BAHIA OU BEZERRA, com a RUA 09, LOTEAMENTO DENOMINADO JARDIM NOVO HORIZONTE, deste segue com a RUA 09, LOTEAMENTO DENOMINADO JARDIM NOVO HORIZONTE, com o azimute e distância de 198°02’03” – 15,66m, até o vértice P-05 (N 8.286.357,19; E 273.315,39) situada na RUA 09, LOTEAMENTO DENOMINADO JARDIM NOVO HORIZONTE, com a FAZENDA BAHIA OU BEZERRA de propriedade do SR. LUIZ ALBERTO THIMÓTEO DA SILVA, deste segue confrontando com a FAZENDA BAHIA OU BEZERRA com o azimute e distância de 304°42’30” – 231,13m, até o vértice P-06 ( N 8.286.488,80; E 273.125,38) azimute e distância de 315°11’42” – 3,63m, até o vértice P-07 (N 8.286.491,38; E 273.122,83) azimute e distância de 238°50’41” – 3,79m, até o vértice P-08 (N 8.286.489,41; E 273.119,58), azimute e distância de 331º17’00” – 22,84m, até o vértice P-09 (N 8.286.509,45; E 273.108,60) azimute e distância de 59º49’10” – 22,20m, até o inicio desta descrição, no vértice P-01”.
+
+
+§ 2º
+
+A área que a municipalidade poderá instituir servidão possui os seguintes limites e confrontações: "P-01 (N 8.286.520,61; E 273.127,80), limitando-se com a Fazenda Bahia ou Bezerra de propriedade do Sr. Luiz Alberto Thimóteo da Silva, daí segue com azimute e distância de 148°50’41” – 22,44m, até o vértice P-02 (N 8.286.501,40; E 273.139,41), azimute e distância de 238°50’41” – 3,67m, até o vértice P-03 (N 8.286.499,51; E 273.136,27), azimute e distância de 124°42’30” – 223,78m, até o vértice P-04 (N 8.286.372,08; E 273.320,24), situado no limite da FAZENDA BAHIA OU BEZERRA, com a RUA 09, LOTEAMENTO DENOMINADO JARDIM NOVO HORIZONTE, deste segue com a RUA 09, LOTEAMENTO DENOMINADO JARDIM NOVO HORIZONTE, com o azimute e distância de 198°02’03” – 15,66m, até o vértice P-05 (N 8.286.357,19; E 273.315,39) situada na RUA 09, LOTEAMENTO DENOMINADO JARDIM NOVO HORIZONTE, com a FAZENDA BAHIA OU BEZERRA de propriedade do SR. LUIZ ALBERTO THIMÓTEO DA SILVA, deste segue confrontando com a FAZENDA BAHIA OU BEZERRA com o azimute e distância de 304°42’30” – 231,13m, até o vértice P-06 ( N 8.286.488,80; E 273.125,38) azimute e distância de 315°11’42” – 3,63m, até o vértice P-07 (N 8.286.491,38; E 273.122,83) azimute e distância de 238°50’41” – 3,79m, até o vértice P-08 (N 8.286.489,41; E 273.119,58), azimute e distância de 331º17’00” – 22,84m, até o vértice P-09 (N 8.286.509,45; E 273.108,60) azimute e distância de 59º49’10” – 22,20m, até o inicio desta descrição, no vértice P-01” .
+
+
+Art. 2º.
+
+A área a que se refere o parágrafo segundo do artigo anterior, destina-se a regularização da caixa d’água e faixa de encanamento instalada na área descrita no caput do art. 1º desta lei, localizada no Distrito do Bezerra, no Município de Formosa.
+
+
+Art. 3º.
+
+Fica reconhecida a servidão administrativa em favor do Município de Formosa, para os fins indicados, ficando-lhe assegurado o direito de acesso à área compreendida no artigo primeiro, parágrafo segundo, desta lei.
+
+
+Art. 4º.
+
+A área descrita no parágrafo segundo do artigo primeiro desta lei, possui uma área total de 3.953,14 m² (três mil novecentos e cinquenta e três metros e quatorze centímetros quadrados), que será instituída servidão, sendo indenizada na importância de R$ 659.333,33 (seiscentos e cinquenta e nove mil trezentos e trinta e três reais e trinta e três centavos), quantia fixa e irreajustável.
+
+
+§ 1º
+
+O valor para indenização da área descrita no caput deste artigo, leva em consideração os laudos de avaliação apresentados.
+
+
+§ 2º
+
+O valor mencionado no caput deste artigo não sofrerá qualquer tipo de correção ou reajuste.
+
+
+Art. 5º.
+
+Fica autorizado o Chefe do Poder Executivo reverter a indenização financeira de que se trata o art. 4º desta Lei em compensação financeira de débitos de IPTU dos imóveis de propriedade do Sr. Luiz Alberto Thimóteo da Silva.
+
+
+§ 1º
+
+Caso advenha valor residual da indenização, o mesmo será revestido em crédito fiscal em favor do Sr. Luiz Alberto Thimóteo da Silva, proprietário da área, que será instruída a servidão.
+
+
+§ 2º
+
+A indenização e compensação financeira deverá ser realizado por meio de instrumento celebrado entre o Município de Formosa e o proprietário da área, o Sr. Luiz Alberto Thimóteo da Silva.
+
+
+§ 3º
+
+A indenização e compensação financeira fica limitada as condições estabelecidas na presente lei.
+
+
+Art. 6º.
+
+Para cobertura das despesas assumidas pela municipalidade, poderá ser aberto crédito adicional especial ou suplementar, nos valores e classificações necessários, nos moldes da Lei Federal n.º 4.320/64, no orçamento de 2019 sob a Dotação Orçamentária n.º 01.46.04.121.0104.2.309-3.3.90.93.
+
+
+Art. 7º.
+
+Fica o Poder Executivo autorizado a proceder às adequações contábeis para compatibilização entre a Lei Orçamentária Anual, o Plano Plurianual e a Lei de Diretrizes Orçamentárias.
+
+
+Art. 8º.
+
+Esta lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 1º de julho de 2019.
+
+Gustavo Marques de Oliveira
+
+Prefeito Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra  
+....................................................................  
+Iany Macêdo Troncha  
+Assessora Jurídica  
+Decreto nº. 2.042/18, de 1º de novembro de 2018.
+

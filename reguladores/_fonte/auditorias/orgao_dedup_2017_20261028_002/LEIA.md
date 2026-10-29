@@ -1,0 +1,9 @@
+Seleção sucessora privada: 1.591 + 2.034 + 2.144 = 5.769 MD preexistentes. As seleções antigas de 1.604, 2.135 e 2.181 ficam invalidadas para publicação; fontes e snapshots continuam intactos. Excluem-se 71 alertas de órgão/corpo e 80 identidades já no corpus federal, sem sobreposição. Não se corrige órgão por inferência.
+
+replay5769_portavel.py é somente leitura, sem rede ou /tmp/cache normativo: fontes primárias completas dos três arquivos listados no manifesto, código congelado, CommonMark + marked GFM incluído, HTML5, texto/pontuação/números, listas/células/spans, metadados, dispositivo próprio, CSS/glifos e novo gate de órgão. Verifica também fontes completas dos 151 excluídos e o OID Git dos 80 canônicos federais pelas preimagens integrais.
+
+validar5769_HEAD.py é somente leitura e reconcilia deltas atuais dos dois corpora por OID, exige ausência dos 5.769 no HEAD e SHA exato do MD preexistente no disco. Não há --apply; promoção e Git são exclusivos ROOT. Reruns devem gravar logs em novos caminhos, nunca sobrescrever estes snapshots.
+
+Cobertura transversal: 189.008 MD canônicos, 174.393 registros com chave e 14.615 reservas explícitas. Todos os 16.915 fora do padrão de filename foram lidos por OID. Não é dedup universal: tipo/série, número literal/sufixo e data só são comparados quando inequívocos; resoluções regulatórias não são fundidas em RSF/RCN/RRC. URN/URL cotejadas quando disponíveis nos metadados lidos por OID. As reservas não são descartadas nem somadas como chaves provadas.
+
+Os 21 testes passaram. O scan complementar dos 5.769 não achou novos alertas após decodificar entidades HTML, caracteres PUA ou CSS de conteúdo gerado nos snapshots. Não se certificam aparência visual, CSS externo, vigência ou ano 2017 completo (encerrou com quatro erros). MD, corpo, datas e baixado_em preservados byte a byte; autoria dos preexistentes não atribuída a esta qualificação.

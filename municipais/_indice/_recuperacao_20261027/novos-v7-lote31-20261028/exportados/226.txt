@@ -1,0 +1,102 @@
+---
+titulo: "Lei Ordinária nº 613, de 24 de setembro de 2012"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "613"
+data: "2012-09-24"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/148"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1863/text"
+sha256_fonte: "20d166396fd84ef3b9ee4eaf96778833d7ccd4b10be5cf33e48c6231f850fce0"
+sha256_texto: "ea422170fdbfbd7ca79acd37ee16038d4e553fbac0a2b5e2b977a817e6d26d31"
+capturado_em_fonte: "2026-10-28T11:50:29.609578-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 613, de 24 de setembro de 2012
+
+Dispõe sobre o afastamento de funcionários e servidores do município para exercer mandato como dirigente de entidades de classe, nas condições que especifica e dá providências correlatas.
+
+
+O PREFEITO MUNICIPAL DE FORMOSA,  
+Faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Poderão afastar-se para exercer seus mandatos nas entidades de classe representativas de funcionários e servidores do município de Formosa, que congreguem, no mínimo, 500 (quinhentos) associados, os Presidentes, e outros dois dirigentes sindicais que sejam funcionários ou servidores públicos.
+
+
+§ 1º
+
+Os dois dirigentes sindicais serão escolhidos pelo presidente da entidade que deverá comunicar a administração por meio de ofício ao Prefeito Municipal e Secretaria de Administração os nomes dos representantes e seus respectivos cargos com o tempo de mandato sindical.
+
+
+§ 2º
+
+Além da hipótese prevista no "caput" deste artigo, será facultado o afastamento de mais um dirigente para cada 1.500 (mil e quinhentos) associados, até o limite máximo de 3 (três).
+
+
+Art. 2º.
+
+O afastamento de que trata o artigo anterior dar-se-á sem prejuízo dos vencimentos, da remuneração, ou do salário, bem como das demais vantagens do cargo ou função-atividade.
+
+
+§ 1º
+
+Enquanto afastados, os funcionários e servidores não poderão ser exonerados, dispensados ou despedidos, salvo a pedido ou por justa causa tendo garantido os seus respectivos cargos após o cumprimento do mandato sindical.
+
+
+§ 2º
+
+Nos casos em que o servidor que componha a lista de dispensa seja o único de um determinado setor e não sejam encontrados suplentes capacitados para ocupação do cargo, o mesmo deverá realizar um dia de trabalho semanal.
+
+
+Art. 3º.
+
+Será considerado de efetivo exercício para todos os efeitos legais, o período de afastamento de que trata o artigo 1º.
+
+
+Art. 4º.
+
+Para fins de evolução funcional, os funcionários e servidores afastados nos termos desta lei não integrarão os respectivos grupos sob avaliação, atribuindo-se-lhes os pontos correspondentes ao conceito "muito bom" das classes a que pertencerem.
+
+
+Art. 5º.
+
+O disposto nesta lei complementar aplica-se também aos funcionários e servidores públicos eleitos dirigentes de entidades de classe do tipo Federativo ou Central de Entidades que congreguem, no mínimo, 10 (dez) entidades de classes representativas de funcionários e servidores do Estado, com mais de 500 (quinhentos) associados.
+
+
+Art. 6º.
+
+Nos casos em que o servidor que componha a lista de dispensa seja o único de um determinado setor e não sejam encontrados suplentes capacitados para ocupação do cargo, o mesmo deverá realizar um dia de trabalho semanal de modo a executar as atividades pertinentes sem prejuízo à administração e à representação sindical.
+
+
+Art. 7º.
+
+O Poder Executivo regulamentará a presente lei.
+
+
+Art. 8º.
+
+Esta lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 24 de setembro de 2012.
+
+PEDRO IVO DE CAMPOS FARIA  
+Prefeito Municipal
+
+Afixado no “placard” de publicidade.  
+E encadernado em livro próprio.  
+Data supra.  
+..................................................................................................  
+IANY MACÊDO TRONCHA  
+Superintendente de Legislação e Documentação
+
